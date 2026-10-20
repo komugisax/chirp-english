@@ -1770,6 +1770,1706 @@
           "translation": "じゃあもうひとつ。ゆっくり進んでいいんだよ。"
         }
       ]
+    },
+    {
+      "id": "p101",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I cleaned my desk to feel productive. Now I can't find my favorite pen.",
+      "translation": "生産的な気分になりたくて机を片づけた。お気に入りのペンが見つからない。",
+      "replies": [
+        {
+          "id": "p101-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Organizing is just hiding things from yourself.",
+          "translation": "整理整頓って、自分から物を隠すことだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p102",
+      "category": "life",
+      "author": "Lost in My 20s",
+      "avatar": "🙂",
+      "text": "Is it weird to start a new hobby when you're already bad at so many things?",
+      "translation": "苦手なことが山ほどあるのに、新しい趣味を始めるのって変かな？",
+      "replies": [
+        {
+          "id": "p102-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Being bad at something new is part of being alive.",
+          "translation": "新しいことが下手なのも、生きている証拠だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p103",
+      "category": "life",
+      "author": "Monday Survivor",
+      "avatar": "📅",
+      "text": "My calendar says it's Tuesday, but emotionally it's still Monday.",
+      "translation": "カレンダーは火曜日と言ってるけど、気持ちはまだ月曜日。",
+      "replies": [
+        {
+          "id": "p103-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Some Mondays last three business days.",
+          "translation": "月曜日って営業日で3日続くことあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p104",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "🦊",
+      "text": "I read the same page four times. My brain is somewhere else today.",
+      "translation": "同じページを4回読んだ。今日は頭がどこか別の場所にいる。",
+      "replies": [
+        {
+          "id": "p104-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Maybe your brain went on a little trip without you.",
+          "translation": "頭だけ先に小旅行に出かけたのかもね。"
+        }
+      ]
+    },
+    {
+      "id": "p105",
+      "category": "life",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "Someone booked a meeting to discuss whether we need fewer meetings.",
+      "translation": "会議を減らすべきか話し合う会議が設定された。",
+      "replies": [
+        {
+          "id": "p105-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "Please tell me there will be a follow-up meeting.",
+          "translation": "ぜひ、その後の会議もあると言って。"
+        }
+      ]
+    },
+    {
+      "id": "p106",
+      "category": "life",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I wanted to say no, but I said maybe. How do people do this?",
+      "translation": "断りたかったのに、たぶんって言っちゃった。みんなどうやって断ってるの？",
+      "replies": [
+        {
+          "id": "p106-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "You can start with, \"I can't this time.\" That's enough.",
+          "translation": "「今回はできません」で始めていいんだよ。それで十分。"
+        }
+      ]
+    },
+    {
+      "id": "p107",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I made a perfect bedtime plan. Then I watched one more video.",
+      "translation": "完璧な就寝計画を立てた。そのあと動画をもう一本見た。",
+      "replies": [
+        {
+          "id": "p107-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "The last video is never the last video.",
+          "translation": "最後の一本が最後だったことなんてない。"
+        }
+      ]
+    },
+    {
+      "id": "p108",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "A stranger held the door for me today. Such a tiny thing, such a nice feeling.",
+      "translation": "今日は知らない人がドアを押さえてくれた。小さなことだけど、いい気分。",
+      "replies": [
+        {
+          "id": "p108-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Little kindnesses make a big difference.",
+          "translation": "小さな親切って大きな違いを生むよね。"
+        }
+      ]
+    },
+    {
+      "id": "p109",
+      "category": "life",
+      "author": "Lost in My 20s",
+      "avatar": "🙂",
+      "text": "My friend got a promotion. I'm happy for her, but I feel left behind.",
+      "translation": "友達が昇進した。うれしいけど、自分だけ取り残された気がする。",
+      "replies": [
+        {
+          "id": "p109-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "You can celebrate her and still feel uncertain about your own path.",
+          "translation": "友達を祝福しつつ、自分の道に不安を感じてもいいんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p110",
+      "category": "life",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "I sent an email without the attachment. Again. The attachment is apparently shy.",
+      "translation": "添付ファイルなしでメールを送った。まただ。添付ファイルは恥ずかしがり屋らしい。",
+      "replies": [
+        {
+          "id": "p110-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "My attachments only appear after I apologize.",
+          "translation": "私の添付ファイルも謝罪メールを送ったあとにしか現れない。"
+        }
+      ]
+    },
+    {
+      "id": "p111",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "🦊",
+      "text": "I finally finished a book I started last winter. That counts as a victory.",
+      "translation": "去年の冬に読み始めた本をようやく読み終えた。これは勝利だよね。",
+      "replies": [
+        {
+          "id": "p111-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "A slow victory is still a victory.",
+          "translation": "ゆっくりでも勝利は勝利だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p112",
+      "category": "life",
+      "author": "Monday Survivor",
+      "avatar": "📅",
+      "text": "I tried taking a short walk during lunch. Honestly, it helped more than I expected.",
+      "translation": "昼休みに少し歩いてみた。正直、思った以上に効果があった。",
+      "replies": [
+        {
+          "id": "p112-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Fresh air is surprisingly persuasive.",
+          "translation": "外の空気って意外と説得力あるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p113",
+      "category": "life",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I want to be good at something immediately. Being a beginner is uncomfortable.",
+      "translation": "何かをすぐ上手にできるようになりたい。初心者でいるのは落ち着かない。",
+      "replies": [
+        {
+          "id": "p113-r1",
+          "author": "Jazz Cat",
+          "avatar": "🎷",
+          "text": "Every good solo started with a wrong note somewhere.",
+          "translation": "いいソロにも、どこかで間違えた音から始まった時期があるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p114",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "A coworker said \"quick question.\" It was not quick, and it wasn't one question.",
+      "translation": "同僚が「ちょっと質問」と言った。ちょっとでもないし、質問は一つでもなかった。",
+      "replies": [
+        {
+          "id": "p114-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "That phrase should come with a warning label.",
+          "translation": "その言葉には警告ラベルが必要だね。"
+        }
+      ]
+    },
+    {
+      "id": "p115",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "🦊",
+      "text": "Does anyone else practice conversations in their head before making a phone call?",
+      "translation": "電話する前に頭の中で会話を練習する人、ほかにもいる？",
+      "replies": [
+        {
+          "id": "p115-r1",
+          "author": "Lost in My 20s",
+          "avatar": "🙂",
+          "text": "Yes. Then the person answers differently and my script disappears.",
+          "translation": "いるよ。相手の返事が予想と違うと台本が消える。"
+        }
+      ]
+    },
+    {
+      "id": "p116",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I found an old photo and remembered a day I'd completely forgotten.",
+      "translation": "古い写真を見つけて、すっかり忘れていた一日を思い出した。",
+      "replies": [
+        {
+          "id": "p116-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "Photos are little time machines.",
+          "translation": "写真は小さなタイムマシンだね。"
+        }
+      ]
+    },
+    {
+      "id": "p117",
+      "category": "life",
+      "author": "Lost in My 20s",
+      "avatar": "🙂",
+      "text": "I said yes to too many plans this weekend. How can relaxing be so stressful?",
+      "translation": "週末の予定を入れすぎた。休むことがどうしてこんなにストレスになるの？",
+      "replies": [
+        {
+          "id": "p117-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Rest doesn't have to be another task on your list.",
+          "translation": "休息までやることリストに入れなくていいんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p118",
+      "category": "life",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "My computer restarted right before I saved my work. We are no longer friends.",
+      "translation": "保存する直前にパソコンが再起動した。もう友達じゃない。",
+      "replies": [
+        {
+          "id": "p118-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "I recommend a long, serious talk with the save button.",
+          "translation": "保存ボタンと長く真剣に話し合うことをおすすめする。"
+        }
+      ]
+    },
+    {
+      "id": "p119",
+      "category": "life",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I asked for help today instead of pretending I understood everything.",
+      "translation": "今日は全部わかったふりをせず、助けを求めてみた。",
+      "replies": [
+        {
+          "id": "p119-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "That sounds like confidence, not weakness.",
+          "translation": "それは弱さじゃなくて、自信に聞こえるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p120",
+      "category": "life",
+      "author": "Monday Survivor",
+      "avatar": "📅",
+      "text": "I made it through a hard week. No big achievement, just made it through.",
+      "translation": "大変な一週間を乗り切った。大きな成果はないけど、乗り切った。",
+      "replies": [
+        {
+          "id": "p120-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Sometimes getting through is the achievement.",
+          "translation": "乗り切ること自体が成果のときもあるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p121",
+      "category": "animals",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "My human bought me a fancy bed. I choose the cardboard box.",
+      "translation": "人間が高級ベッドを買ってくれた。私は段ボール箱を選ぶ。",
+      "replies": [
+        {
+          "id": "p121-r1",
+          "author": "Dog Detective",
+          "avatar": "🐕",
+          "text": "I would like to investigate this box.",
+          "translation": "その箱を捜査したい。"
+        }
+      ]
+    },
+    {
+      "id": "p122",
+      "category": "animals",
+      "author": "Dog Detective",
+      "avatar": "🐕",
+      "text": "I heard a suspicious sound in the kitchen. It was my own stomach.",
+      "translation": "台所で怪しい音がした。自分のお腹だった。",
+      "replies": [
+        {
+          "id": "p122-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Case closed. Feed the detective.",
+          "translation": "事件解決。探偵にごはんをあげて。"
+        }
+      ]
+    },
+    {
+      "id": "p123",
+      "category": "animals",
+      "author": "Penguin Intern",
+      "avatar": "🐧",
+      "text": "I attended my first meeting. Nobody mentioned the fish budget.",
+      "translation": "初めての会議に出た。誰も魚の予算に触れなかった。",
+      "replies": [
+        {
+          "id": "p123-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Sounds exactly like our meetings.",
+          "translation": "まさにうちの会議みたい。"
+        }
+      ]
+    },
+    {
+      "id": "p124",
+      "category": "animals",
+      "author": "Garden Snail",
+      "avatar": "🐌",
+      "text": "Everyone is rushing somewhere. I arrived at my leaf right on time.",
+      "translation": "みんな急いでどこかへ行く。私は葉っぱにぴったり時間通り到着した。",
+      "replies": [
+        {
+          "id": "p124-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Your schedule sounds peaceful.",
+          "translation": "君の予定は穏やかそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p125",
+      "category": "animals",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I sat on the keyboard and improved my human's writing. You're welcome.",
+      "translation": "キーボードに座って人間の文章を改善した。どういたしまして。",
+      "replies": [
+        {
+          "id": "p125-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "Please stop submitting bug reports with your paws.",
+          "translation": "肉球でバグ報告を送るのはやめて。"
+        }
+      ]
+    },
+    {
+      "id": "p126",
+      "category": "animals",
+      "author": "Dog Detective",
+      "avatar": "🐕",
+      "text": "There is a mysterious person behind the mirror. They copy everything I do.",
+      "translation": "鏡の向こうに謎の人物がいる。私の動きを全部まねしてくる。",
+      "replies": [
+        {
+          "id": "p126-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Have you tried ignoring the suspect?",
+          "translation": "容疑者を無視してみた？"
+        }
+      ]
+    },
+    {
+      "id": "p127",
+      "category": "animals",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I bought a tiny umbrella for my imaginary rabbit friend. This is my life now.",
+      "translation": "架空のウサギ友達に小さな傘を買った。今の私の人生はこうだ。",
+      "replies": [
+        {
+          "id": "p127-r1",
+          "author": "Garden Snail",
+          "avatar": "🐌",
+          "text": "Does your friend need a tiny raincoat too?",
+          "translation": "その友達には小さなレインコートも必要かな？"
+        }
+      ]
+    },
+    {
+      "id": "p128",
+      "category": "animals",
+      "author": "Penguin Intern",
+      "avatar": "🐧",
+      "text": "I wore a tie today. Nobody noticed because I'm already wearing a tuxedo.",
+      "translation": "今日はネクタイをした。もともとタキシード姿だから誰にも気づかれなかった。",
+      "replies": [
+        {
+          "id": "p128-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Your office dress code is impossible.",
+          "translation": "君の職場の服装規定、難しすぎるね。"
+        }
+      ]
+    },
+    {
+      "id": "p129",
+      "category": "animals",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "The sun moved across the floor. I had to move my entire nap.",
+      "translation": "床の日なたが移動した。昼寝の場所を全部移さなきゃいけなかった。",
+      "replies": [
+        {
+          "id": "p129-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Such a demanding schedule.",
+          "translation": "なんて忙しい予定なんだ。"
+        }
+      ]
+    },
+    {
+      "id": "p130",
+      "category": "animals",
+      "author": "Dog Detective",
+      "avatar": "🐕",
+      "text": "The mail carrier returned today. Clearly my warnings are not working.",
+      "translation": "今日も郵便配達の人が来た。どうやら警告が効いていない。",
+      "replies": [
+        {
+          "id": "p130-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Have you considered writing a formal complaint?",
+          "translation": "正式な苦情を書いてみたら？"
+        }
+      ]
+    },
+    {
+      "id": "p131",
+      "category": "animals",
+      "author": "Garden Snail",
+      "avatar": "🐌",
+      "text": "I crossed the whole path today. Please don't ask how long it took.",
+      "translation": "今日は小道を全部渡りきった。何時間かかったかは聞かないで。",
+      "replies": [
+        {
+          "id": "p131-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "I respect your commitment to slow travel.",
+          "translation": "ゆっくり旅をする君の姿勢を尊敬するよ。"
+        }
+      ]
+    },
+    {
+      "id": "p132",
+      "category": "animals",
+      "author": "Penguin Intern",
+      "avatar": "🐧",
+      "text": "Someone called me cool. Finally, my natural temperature is appreciated.",
+      "translation": "誰かが私をクールと言った。やっと私の体温が評価された。",
+      "replies": [
+        {
+          "id": "p132-r1",
+          "author": "Tiny Dragon",
+          "avatar": "🐉",
+          "text": "I have the opposite problem.",
+          "translation": "私は逆の悩みを抱えてるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p133",
+      "category": "animals",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I knocked over a glass. My human calls it chaos. I call it science.",
+      "translation": "コップを倒した。人間は大惨事と言うけど、私は科学と呼ぶ。",
+      "replies": [
+        {
+          "id": "p133-r1",
+          "author": "Dog Detective",
+          "avatar": "🐕",
+          "text": "Did you collect any useful evidence?",
+          "translation": "何か有益な証拠は集まった？"
+        }
+      ]
+    },
+    {
+      "id": "p134",
+      "category": "animals",
+      "author": "Dog Detective",
+      "avatar": "🐕",
+      "text": "I found the missing sock. It was inside my bed. No further questions.",
+      "translation": "行方不明の靴下を発見。私のベッドの中にあった。質問は受け付けない。",
+      "replies": [
+        {
+          "id": "p134-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "The detective is also the main suspect.",
+          "translation": "探偵が第一容疑者でもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p135",
+      "category": "animals",
+      "author": "Garden Snail",
+      "avatar": "🐌",
+      "text": "My plant grew a new leaf. I feel like a proud neighbor.",
+      "translation": "私の植物に新しい葉が生えた。誇らしい隣人になった気分。",
+      "replies": [
+        {
+          "id": "p135-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Tell the leaf we said hello!",
+          "translation": "葉っぱによろしく伝えて！"
+        }
+      ]
+    },
+    {
+      "id": "p136",
+      "category": "animals",
+      "author": "Penguin Intern",
+      "avatar": "🐧",
+      "text": "My boss asked me to break the ice. I thought that was my whole job.",
+      "translation": "上司に場を和ませてと言われた。それが自分の仕事の全部だと思ってた。",
+      "replies": [
+        {
+          "id": "p136-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "You're naturally qualified.",
+          "translation": "君は生まれつき適任だね。"
+        }
+      ]
+    },
+    {
+      "id": "p137",
+      "category": "animals",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I heard the treat bag open from three rooms away. My hearing is perfect.",
+      "translation": "三部屋先でおやつの袋が開く音が聞こえた。聴力は完璧。",
+      "replies": [
+        {
+          "id": "p137-r1",
+          "author": "Dog Detective",
+          "avatar": "🐕",
+          "text": "We should work together on this investigation.",
+          "translation": "この捜査は一緒にやるべきだね。"
+        }
+      ]
+    },
+    {
+      "id": "p138",
+      "category": "animals",
+      "author": "Dog Detective",
+      "avatar": "🐕",
+      "text": "My person said \"walk\" during a phone call. I am ready. They are not.",
+      "translation": "人間が電話中に「散歩」と言った。私は準備完了。人間は違うらしい。",
+      "replies": [
+        {
+          "id": "p138-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Context is overrated.",
+          "translation": "文脈なんて過大評価されてるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p139",
+      "category": "animals",
+      "author": "Garden Snail",
+      "avatar": "🐌",
+      "text": "Sometimes the best view is from the smallest leaf.",
+      "translation": "時には一番小さな葉っぱからの眺めが最高なんだ。",
+      "replies": [
+        {
+          "id": "p139-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "That sounds like the opening line of a lovely book.",
+          "translation": "素敵な本の書き出しみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p140",
+      "category": "animals",
+      "author": "Penguin Intern",
+      "avatar": "🐧",
+      "text": "I tried working from home, but my roommates kept sliding across the floor.",
+      "translation": "在宅勤務してみたけど、ルームメイトがずっと床を滑っていた。",
+      "replies": [
+        {
+          "id": "p140-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Still less distracting than my office.",
+          "translation": "それでもうちのオフィスより気が散らなそう。"
+        }
+      ]
+    },
+    {
+      "id": "p141",
+      "category": "music",
+      "author": "Jazz Cat",
+      "avatar": "🎷",
+      "text": "I played one beautiful note today. The other hundred were a learning experience.",
+      "translation": "今日は美しい音を一つ出せた。残りの百音は学習体験だった。",
+      "replies": [
+        {
+          "id": "p141-r1",
+          "author": "Sax Problems",
+          "avatar": "🎵",
+          "text": "One beautiful note is still a win.",
+          "translation": "美しい一音が出たなら、それは勝ちだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p142",
+      "category": "music",
+      "author": "Sax Problems",
+      "avatar": "🎵",
+      "text": "Why does my reed sound amazing at home and terrible in rehearsal?",
+      "translation": "家では最高の音が出るリードが、リハーサルではひどいのはなぜ？",
+      "replies": [
+        {
+          "id": "p142-r1",
+          "author": "Alto Fox",
+          "avatar": "🦊",
+          "text": "Reeds have stage fright too.",
+          "translation": "リードも舞台恐怖症なんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p143",
+      "category": "music",
+      "author": "Alto Fox",
+      "avatar": "🦊",
+      "text": "I tried a new mouthpiece. Now every note sounds like a question.",
+      "translation": "新しいマウスピースを試した。今はどの音も疑問文みたいに聞こえる。",
+      "replies": [
+        {
+          "id": "p143-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Give it time. It hasn't learned your accent yet.",
+          "translation": "少し時間をあげて。まだ君の訛りを覚えていないんだ。"
+        }
+      ]
+    },
+    {
+      "id": "p144",
+      "category": "music",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I love the warm sound of my tenor, but carrying the case is another story.",
+      "translation": "テナーの温かい音が大好き。でもケースを運ぶのは別の話。",
+      "replies": [
+        {
+          "id": "p144-r1",
+          "author": "Baritone Bear",
+          "avatar": "🐻",
+          "text": "Let me introduce you to my case.",
+          "translation": "私のケースを紹介しようか。"
+        }
+      ]
+    },
+    {
+      "id": "p145",
+      "category": "music",
+      "author": "Baritone Bear",
+      "avatar": "🐻",
+      "text": "Someone asked if my baritone sax was a small tuba. I needed a moment.",
+      "translation": "バリトンサックスを小さなチューバかと聞かれた。少し心を落ち着ける時間が必要だった。",
+      "replies": [
+        {
+          "id": "p145-r1",
+          "author": "Soprano Star",
+          "avatar": "⭐",
+          "text": "At least nobody called it a clarinet.",
+          "translation": "少なくともクラリネットとは呼ばれなかったでしょ。"
+        }
+      ]
+    },
+    {
+      "id": "p146",
+      "category": "music",
+      "author": "Soprano Star",
+      "avatar": "⭐",
+      "text": "Playing softly is harder than playing loudly. Nobody warned me.",
+      "translation": "小さな音で吹くほうが大きな音より難しい。誰も教えてくれなかった。",
+      "replies": [
+        {
+          "id": "p146-r1",
+          "author": "Jazz Cat",
+          "avatar": "🎷",
+          "text": "The quiet notes have nowhere to hide.",
+          "translation": "静かな音には隠れ場所がないからね。"
+        }
+      ]
+    },
+    {
+      "id": "p147",
+      "category": "music",
+      "author": "Jazz Cat",
+      "avatar": "🎷",
+      "text": "I listened to an old Charlie Parker recording and forgot what I was supposed to be doing.",
+      "translation": "チャーリー・パーカーの昔の録音を聴いて、何をするはずだったか忘れた。",
+      "replies": [
+        {
+          "id": "p147-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "That sounds like time well spent.",
+          "translation": "それは有意義な時間だったと思う。"
+        }
+      ]
+    },
+    {
+      "id": "p148",
+      "category": "music",
+      "author": "Sax Problems",
+      "avatar": "🎵",
+      "text": "I dropped a reed on the floor. Now I'm staring at it like a broken friendship.",
+      "translation": "リードを床に落とした。壊れた友情を見るような目で見つめてる。",
+      "replies": [
+        {
+          "id": "p148-r1",
+          "author": "Alto Fox",
+          "avatar": "🦊",
+          "text": "Check the tip before you say goodbye.",
+          "translation": "お別れする前に先端を確認して。"
+        }
+      ]
+    },
+    {
+      "id": "p149",
+      "category": "music",
+      "author": "Alto Fox",
+      "avatar": "🦊",
+      "text": "I recorded my practice session. The recording was much more honest than my memory.",
+      "translation": "練習を録音した。録音は私の記憶よりずっと正直だった。",
+      "replies": [
+        {
+          "id": "p149-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Honest feedback can be uncomfortable and useful.",
+          "translation": "正直なフィードバックはつらいけど役に立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p150",
+      "category": "music",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I practiced the same four bars for an hour. At least we're getting to know each other.",
+      "translation": "同じ4小節を1時間練習した。少なくとも互いをよく知れたよ。",
+      "replies": [
+        {
+          "id": "p150-r1",
+          "author": "Jazz Cat",
+          "avatar": "🎷",
+          "text": "Those four bars are basically family now.",
+          "translation": "その4小節はもう家族同然だね。"
+        }
+      ]
+    },
+    {
+      "id": "p151",
+      "category": "music",
+      "author": "Baritone Bear",
+      "avatar": "🐻",
+      "text": "The bass line sounded great until I realized I was on the wrong page.",
+      "translation": "間違ったページを吹いていたと気づくまでは、ベースラインが最高だった。",
+      "replies": [
+        {
+          "id": "p151-r1",
+          "author": "Sax Problems",
+          "avatar": "🎵",
+          "text": "An unexpected arrangement!",
+          "translation": "予想外のアレンジだね！"
+        }
+      ]
+    },
+    {
+      "id": "p152",
+      "category": "music",
+      "author": "Soprano Star",
+      "avatar": "⭐",
+      "text": "I thought the high note was impossible. Then I relaxed and it finally spoke.",
+      "translation": "高い音は無理だと思ってた。でも力を抜いたらようやく鳴った。",
+      "replies": [
+        {
+          "id": "p152-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Sometimes less effort gives you more sound.",
+          "translation": "力を抜くと、かえっていい音が出ることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p153",
+      "category": "music",
+      "author": "Jazz Cat",
+      "avatar": "🎷",
+      "text": "My neighbor said my sax sounded better this week. I might frame that sentence.",
+      "translation": "隣人が今週はサックスの音がよくなったと言った。その言葉を額に飾りたい。",
+      "replies": [
+        {
+          "id": "p153-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Print it in giant letters.",
+          "translation": "巨大な文字で印刷しよう。"
+        }
+      ]
+    },
+    {
+      "id": "p154",
+      "category": "music",
+      "author": "Sax Problems",
+      "avatar": "🎵",
+      "text": "Does anyone else spend more time choosing reeds than actually playing?",
+      "translation": "演奏するよりリードを選ぶ時間のほうが長い人、ほかにもいる？",
+      "replies": [
+        {
+          "id": "p154-r1",
+          "author": "Baritone Bear",
+          "avatar": "🐻",
+          "text": "My reed budget would like a word.",
+          "translation": "私のリード予算が一言あるそうだ。"
+        }
+      ]
+    },
+    {
+      "id": "p155",
+      "category": "music",
+      "author": "Alto Fox",
+      "avatar": "🦊",
+      "text": "I finally played that fast passage cleanly. Then I got excited and missed the ending.",
+      "translation": "速いフレーズをようやくきれいに吹けた。興奮して最後を外した。",
+      "replies": [
+        {
+          "id": "p155-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Progress with a dramatic ending.",
+          "translation": "ドラマチックな結末つきの進歩だね。"
+        }
+      ]
+    },
+    {
+      "id": "p156",
+      "category": "music",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "Our rehearsal started late, but the first chord made the whole day better.",
+      "translation": "リハーサルは遅れて始まったけど、最初の和音で一日がよくなった。",
+      "replies": [
+        {
+          "id": "p156-r1",
+          "author": "Jazz Cat",
+          "avatar": "🎷",
+          "text": "That first chord is magic.",
+          "translation": "最初の和音って魔法だよね。"
+        }
+      ]
+    },
+    {
+      "id": "p157",
+      "category": "music",
+      "author": "Baritone Bear",
+      "avatar": "🐻",
+      "text": "I tried playing a delicate melody on baritone today. It felt like a gentle giant singing.",
+      "translation": "今日はバリトンで繊細な旋律を吹いてみた。優しい巨人が歌ってるみたいだった。",
+      "replies": [
+        {
+          "id": "p157-r1",
+          "author": "Soprano Star",
+          "avatar": "⭐",
+          "text": "I want to hear that!",
+          "translation": "それ聴きたい！"
+        }
+      ]
+    },
+    {
+      "id": "p158",
+      "category": "music",
+      "author": "Soprano Star",
+      "avatar": "⭐",
+      "text": "I listened to a solo three times and heard something new each time.",
+      "translation": "ソロを3回聴いて、毎回新しい発見があった。",
+      "replies": [
+        {
+          "id": "p158-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "Good music is like rereading a favorite book.",
+          "translation": "いい音楽ってお気に入りの本を読み返すみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p159",
+      "category": "music",
+      "author": "Jazz Cat",
+      "avatar": "🎷",
+      "text": "I forgot to breathe in the middle of my solo. A small but important detail.",
+      "translation": "ソロの途中で息をするのを忘れた。小さいけど大事なことだね。",
+      "replies": [
+        {
+          "id": "p159-r1",
+          "author": "Sax Problems",
+          "avatar": "🎵",
+          "text": "Breathing is an underrated technique.",
+          "translation": "呼吸は過小評価されてる技術だね。"
+        }
+      ]
+    },
+    {
+      "id": "p160",
+      "category": "music",
+      "author": "Sax Problems",
+      "avatar": "🎵",
+      "text": "I spent twenty minutes fixing my setup. The problem was my posture.",
+      "translation": "セッティングを20分調整した。原因は姿勢だった。",
+      "replies": [
+        {
+          "id": "p160-r1",
+          "author": "Alto Fox",
+          "avatar": "🦊",
+          "text": "The cheapest repair is sometimes standing differently.",
+          "translation": "一番安い修理は立ち方を変えることだったりするね。"
+        }
+      ]
+    },
+    {
+      "id": "p161",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "If pizza is round, why does it come in a square box? Please discuss respectfully.",
+      "translation": "ピザは丸いのに、なぜ四角い箱に入ってるの？礼儀正しく議論してください。",
+      "replies": [
+        {
+          "id": "p161-r1",
+          "author": "Toast Captain",
+          "avatar": "🍞",
+          "text": "Because triangles need a home too.",
+          "translation": "三角形にも家が必要だからね。"
+        }
+      ]
+    },
+    {
+      "id": "p162",
+      "category": "food",
+      "author": "Noodle Wizard",
+      "avatar": "🍜",
+      "text": "I made soup from leftovers, and somehow it tastes better than yesterday's dinner.",
+      "translation": "残り物でスープを作ったら、なぜか昨日の夕食よりおいしい。",
+      "replies": [
+        {
+          "id": "p162-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Leftovers have secret powers.",
+          "translation": "残り物には秘密の力がある。"
+        }
+      ]
+    },
+    {
+      "id": "p163",
+      "category": "food",
+      "author": "Toast Captain",
+      "avatar": "🍞",
+      "text": "I burned one side of my toast and called it \"experimental cooking.\"",
+      "translation": "トーストの片面を焦がして「実験料理」と名づけた。",
+      "replies": [
+        {
+          "id": "p163-r1",
+          "author": "Tiny Dragon",
+          "avatar": "🐉",
+          "text": "Finally, someone appreciates my methods.",
+          "translation": "ようやく私のやり方を評価してくれる人が。"
+        }
+      ]
+    },
+    {
+      "id": "p164",
+      "category": "food",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I bought decaf by mistake. This is a plot twist I did not ask for.",
+      "translation": "間違えてカフェインレスを買った。望んでいない急展開だ。",
+      "replies": [
+        {
+          "id": "p164-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Stay strong during this difficult chapter.",
+          "translation": "このつらい章を強く生き抜いて。"
+        }
+      ]
+    },
+    {
+      "id": "p165",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "My friend says pineapple belongs on pizza. I say friendship requires difficult conversations.",
+      "translation": "友達はパイナップルはピザに合うと言う。友情には難しい話し合いが必要だと思う。",
+      "replies": [
+        {
+          "id": "p165-r1",
+          "author": "Noodle Wizard",
+          "avatar": "🍜",
+          "text": "I support peaceful toppings.",
+          "translation": "トッピングの平和を支持します。"
+        }
+      ]
+    },
+    {
+      "id": "p166",
+      "category": "food",
+      "author": "Noodle Wizard",
+      "avatar": "🍜",
+      "text": "The recipe said \"a little salt.\" I would like a more precise definition.",
+      "translation": "レシピには「塩少々」と書いてある。もっと正確な定義が欲しい。",
+      "replies": [
+        {
+          "id": "p166-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "Please provide a spreadsheet.",
+          "translation": "表計算シートを提出してください。"
+        }
+      ]
+    },
+    {
+      "id": "p167",
+      "category": "food",
+      "author": "Toast Captain",
+      "avatar": "🍞",
+      "text": "Breakfast for dinner is not a mistake. It's a lifestyle.",
+      "translation": "夕食に朝ごはんを食べるのは間違いじゃない。生き方だ。",
+      "replies": [
+        {
+          "id": "p167-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Pancakes at night are excellent.",
+          "translation": "夜のパンケーキは最高。"
+        }
+      ]
+    },
+    {
+      "id": "p168",
+      "category": "food",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I ordered a small coffee and got a cup that looks like it belongs to a doll.",
+      "translation": "小さいコーヒーを注文したら、人形用みたいなカップが来た。",
+      "replies": [
+        {
+          "id": "p168-r1",
+          "author": "Penguin Intern",
+          "avatar": "🐧",
+          "text": "Perfect size for a penguin intern.",
+          "translation": "ペンギンのインターンにはぴったりのサイズ。"
+        }
+      ]
+    },
+    {
+      "id": "p169",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "I shared my fries. I want everyone to know how generous I was.",
+      "translation": "フライドポテトを分けた。私がどれだけ寛大だったか皆に知ってほしい。",
+      "replies": [
+        {
+          "id": "p169-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "How many fries did you keep?",
+          "translation": "自分用には何本残したの？"
+        }
+      ]
+    },
+    {
+      "id": "p170",
+      "category": "food",
+      "author": "Noodle Wizard",
+      "avatar": "🍜",
+      "text": "I cooked enough pasta for one person. Somehow I now have enough for six.",
+      "translation": "一人分のパスタを作った。なぜか6人分できた。",
+      "replies": [
+        {
+          "id": "p170-r1",
+          "author": "Toast Captain",
+          "avatar": "🍞",
+          "text": "Pasta follows its own mathematics.",
+          "translation": "パスタには独自の数学がある。"
+        }
+      ]
+    },
+    {
+      "id": "p171",
+      "category": "food",
+      "author": "Toast Captain",
+      "avatar": "🍞",
+      "text": "Someone told me to eat more vegetables, so I put lettuce next to my pizza.",
+      "translation": "野菜をもっと食べてと言われたから、ピザの横にレタスを置いた。",
+      "replies": [
+        {
+          "id": "p171-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Next to it is a beginning.",
+          "translation": "横に置くのも第一歩だね。"
+        }
+      ]
+    },
+    {
+      "id": "p172",
+      "category": "food",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I tried tea instead of coffee today. It was nice. Don't tell anyone.",
+      "translation": "今日はコーヒーの代わりに紅茶を飲んだ。おいしかった。誰にも言わないで。",
+      "replies": [
+        {
+          "id": "p172-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "Your secret is safe with me.",
+          "translation": "秘密は守るよ。"
+        }
+      ]
+    },
+    {
+      "id": "p173",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "The first slice tastes like happiness. The fourth tastes like a personal decision.",
+      "translation": "最初の一切れは幸せの味。4切れ目は個人的な決断の味。",
+      "replies": [
+        {
+          "id": "p173-r1",
+          "author": "Noodle Wizard",
+          "avatar": "🍜",
+          "text": "A delicious decision, I hope.",
+          "translation": "おいしい決断でありますように。"
+        }
+      ]
+    },
+    {
+      "id": "p174",
+      "category": "food",
+      "author": "Noodle Wizard",
+      "avatar": "🍜",
+      "text": "I forgot to buy onions, so I'm calling this recipe \"minimalist soup.\"",
+      "translation": "玉ねぎを買い忘れたので、このレシピは「ミニマリストスープ」と呼ぶ。",
+      "replies": [
+        {
+          "id": "p174-r1",
+          "author": "Toast Captain",
+          "avatar": "🍞",
+          "text": "Very modern. Very brave.",
+          "translation": "とても現代的。とても勇敢。"
+        }
+      ]
+    },
+    {
+      "id": "p175",
+      "category": "food",
+      "author": "Toast Captain",
+      "avatar": "🍞",
+      "text": "I made breakfast without checking the clock. Apparently it's already lunch.",
+      "translation": "時計を見ずに朝ごはんを作った。どうやらもう昼らしい。",
+      "replies": [
+        {
+          "id": "p175-r1",
+          "author": "Night Owl",
+          "avatar": "🦇",
+          "text": "Time is just a suggestion on weekends.",
+          "translation": "週末の時間は目安にすぎない。"
+        }
+      ]
+    },
+    {
+      "id": "p176",
+      "category": "food",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "The café wrote my name wrong, but honestly their version sounds cooler.",
+      "translation": "カフェで名前を間違えられたけど、正直そっちのほうがかっこいい。",
+      "replies": [
+        {
+          "id": "p176-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Congratulations on your new identity.",
+          "translation": "新しい名前、おめでとう。"
+        }
+      ]
+    },
+    {
+      "id": "p177",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "I tried making pizza at home. The shape was strange, but the taste was perfect.",
+      "translation": "家でピザを作ってみた。形は変だったけど味は完璧。",
+      "replies": [
+        {
+          "id": "p177-r1",
+          "author": "Garden Snail",
+          "avatar": "🐌",
+          "text": "Beautiful things don't have to be round.",
+          "translation": "美しいものが丸い必要はないよ。"
+        }
+      ]
+    },
+    {
+      "id": "p178",
+      "category": "food",
+      "author": "Noodle Wizard",
+      "avatar": "🍜",
+      "text": "My favorite recipe begins with \"call your grandmother.\"",
+      "translation": "お気に入りのレシピは「おばあちゃんに電話する」から始まる。",
+      "replies": [
+        {
+          "id": "p178-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "That's the best instruction I've heard.",
+          "translation": "今まで聞いた中で一番いい作り方だね。"
+        }
+      ]
+    },
+    {
+      "id": "p179",
+      "category": "food",
+      "author": "Toast Captain",
+      "avatar": "🍞",
+      "text": "I bought fancy jam. Now every piece of toast feels important.",
+      "translation": "高級ジャムを買った。どのトーストも重要な存在に感じる。",
+      "replies": [
+        {
+          "id": "p179-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Please schedule a formal breakfast ceremony.",
+          "translation": "正式な朝食の式典を予定してください。"
+        }
+      ]
+    },
+    {
+      "id": "p180",
+      "category": "food",
+      "author": "Pizza Philosopher",
+      "avatar": "🍕",
+      "text": "I said I wasn't hungry, then ate half of my friend's dessert.",
+      "translation": "お腹が空いてないと言ったのに、友達のデザートを半分食べた。",
+      "replies": [
+        {
+          "id": "p180-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "An ancient and powerful technique.",
+          "translation": "古くから伝わる強力な技だ。"
+        }
+      ]
+    },
+    {
+      "id": "p181",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "I wonder if aliens also lose their keys right before leaving home.",
+      "translation": "宇宙人も家を出る直前に鍵をなくすのかな。",
+      "replies": [
+        {
+          "id": "p181-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "Maybe that's why they never visit on time.",
+          "translation": "だから宇宙人は時間通りに来ないのかも。"
+        }
+      ]
+    },
+    {
+      "id": "p182",
+      "category": "random",
+      "author": "Tech Gremlin",
+      "avatar": "💻",
+      "text": "My phone corrected \"duck\" to \"duck.\" Finally, a peaceful day.",
+      "translation": "スマホが「duck」を「duck」に直した。ようやく平和な一日。",
+      "replies": [
+        {
+          "id": "p182-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "A rare victory for technology.",
+          "translation": "テクノロジーの珍しい勝利だね。"
+        }
+      ]
+    },
+    {
+      "id": "p183",
+      "category": "random",
+      "author": "Tiny Dragon",
+      "avatar": "🐉",
+      "text": "I tried blowing out birthday candles. Apparently that's not a useful dragon skill.",
+      "translation": "誕生日のろうそくを吹き消そうとした。どうやらドラゴンには向いてない技能だ。",
+      "replies": [
+        {
+          "id": "p183-r1",
+          "author": "Penguin Intern",
+          "avatar": "🐧",
+          "text": "Could you warm my office instead?",
+          "translation": "代わりに私のオフィスを暖めてくれる？"
+        }
+      ]
+    },
+    {
+      "id": "p184",
+      "category": "random",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "At 2 a.m., every idea feels brilliant. At 9 a.m., I can't read my notes.",
+      "translation": "午前2時にはどのアイデアも天才的に感じる。午前9時にはメモが読めない。",
+      "replies": [
+        {
+          "id": "p184-r1",
+          "author": "Bookish Fox",
+          "avatar": "🦊",
+          "text": "Your night brain speaks a secret language.",
+          "translation": "夜の脳は秘密の言語を話してるんだね。"
+        }
+      ]
+    },
+    {
+      "id": "p185",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "Do you think the moon gets lonely when nobody looks up?",
+      "translation": "誰も空を見上げないとき、月は寂しくなると思う？",
+      "replies": [
+        {
+          "id": "p185-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "I look up sometimes. Tell the moon I said hi.",
+          "translation": "私はときどき見上げるよ。月によろしく伝えて。"
+        }
+      ]
+    },
+    {
+      "id": "p186",
+      "category": "random",
+      "author": "Tech Gremlin",
+      "avatar": "💻",
+      "text": "I fixed one bug and created three new ones. This software is reproducing.",
+      "translation": "バグを1個直して3個増やした。このソフトは繁殖してる。",
+      "replies": [
+        {
+          "id": "p186-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Please do not feed the bugs after midnight.",
+          "translation": "真夜中以降はバグに餌を与えないで。"
+        }
+      ]
+    },
+    {
+      "id": "p187",
+      "category": "random",
+      "author": "Tiny Dragon",
+      "avatar": "🐉",
+      "text": "My smoke alarm and I are having a disagreement about dinner.",
+      "translation": "夕食について火災報知器と意見が食い違っている。",
+      "replies": [
+        {
+          "id": "p187-r1",
+          "author": "Toast Captain",
+          "avatar": "🍞",
+          "text": "I think the alarm has a point.",
+          "translation": "警報器の言い分にも一理あると思う。"
+        }
+      ]
+    },
+    {
+      "id": "p188",
+      "category": "random",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "The stars were so bright tonight that I forgot to check my phone.",
+      "translation": "今夜は星がとても明るくて、スマホを見るのを忘れた。",
+      "replies": [
+        {
+          "id": "p188-r1",
+          "author": "Space Potato",
+          "avatar": "🥔",
+          "text": "That's an excellent use of the sky.",
+          "translation": "空のすばらしい使い方だね。"
+        }
+      ]
+    },
+    {
+      "id": "p189",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "I named my houseplant Captain Leaf. It now has more followers than I do.",
+      "translation": "観葉植物をキャプテン・リーフと名づけた。今や私よりフォロワーが多い。",
+      "replies": [
+        {
+          "id": "p189-r1",
+          "author": "Garden Snail",
+          "avatar": "🐌",
+          "text": "Captain Leaf is a natural leader.",
+          "translation": "キャプテン・リーフは生まれながらのリーダーだ。"
+        }
+      ]
+    },
+    {
+      "id": "p190",
+      "category": "random",
+      "author": "Tech Gremlin",
+      "avatar": "💻",
+      "text": "The printer works perfectly until someone says, \"We need this urgently.\"",
+      "translation": "プリンターは「これ急ぎで必要」と誰かが言うまでは完璧に動く。",
+      "replies": [
+        {
+          "id": "p190-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Printers can smell fear.",
+          "translation": "プリンターは恐怖を嗅ぎつけるからね。"
+        }
+      ]
+    },
+    {
+      "id": "p191",
+      "category": "random",
+      "author": "Tiny Dragon",
+      "avatar": "🐉",
+      "text": "I learned that snow melts when I hug it. This is heartbreaking.",
+      "translation": "雪は抱きしめると溶けると知った。悲しすぎる。",
+      "replies": [
+        {
+          "id": "p191-r1",
+          "author": "Penguin Intern",
+          "avatar": "🐧",
+          "text": "We need to discuss your temperature.",
+          "translation": "君の体温について話し合う必要がある。"
+        }
+      ]
+    },
+    {
+      "id": "p192",
+      "category": "random",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I wanted a quiet evening. Then I remembered I own a very loud kettle.",
+      "translation": "静かな夜を過ごしたかった。うちにはすごくうるさいケトルがあるのを思い出した。",
+      "replies": [
+        {
+          "id": "p192-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "The kettle has announcements to make.",
+          "translation": "ケトルには発表事項があるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p193",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "If I wave at a satellite, is that technically long-distance communication?",
+      "translation": "人工衛星に手を振ったら、厳密には遠距離通信になる？",
+      "replies": [
+        {
+          "id": "p193-r1",
+          "author": "Tech Gremlin",
+          "avatar": "💻",
+          "text": "Only if the satellite waves back.",
+          "translation": "衛星が振り返してくれたらね。"
+        }
+      ]
+    },
+    {
+      "id": "p194",
+      "category": "random",
+      "author": "Tech Gremlin",
+      "avatar": "💻",
+      "text": "I changed my password to something unforgettable. I've forgotten it.",
+      "translation": "絶対忘れないパスワードに変えた。忘れた。",
+      "replies": [
+        {
+          "id": "p194-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Please use a password manager.",
+          "translation": "パスワードマネージャーを使ってね。"
+        }
+      ]
+    },
+    {
+      "id": "p195",
+      "category": "random",
+      "author": "Tiny Dragon",
+      "avatar": "🐉",
+      "text": "I wanted to learn to whistle. I accidentally toasted a marshmallow.",
+      "translation": "口笛を覚えたかった。うっかりマシュマロを焼いてしまった。",
+      "replies": [
+        {
+          "id": "p195-r1",
+          "author": "Toast Captain",
+          "avatar": "🍞",
+          "text": "That's still a useful talent.",
+          "translation": "それも役立つ才能だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p196",
+      "category": "random",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "My best idea today was to take a break from having ideas.",
+      "translation": "今日一番のアイデアは、アイデアを考えるのを休むことだった。",
+      "replies": [
+        {
+          "id": "p196-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "I'd bookmark that idea.",
+          "translation": "そのアイデア、ブックマークしたい。"
+        }
+      ]
+    },
+    {
+      "id": "p197",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "I wrote a letter to my future self. I hope they have better snacks.",
+      "translation": "未来の自分に手紙を書いた。もっといいおやつを持ってるといいな。",
+      "replies": [
+        {
+          "id": "p197-r1",
+          "author": "Pizza Philosopher",
+          "avatar": "🍕",
+          "text": "Include a pizza recommendation.",
+          "translation": "ピザのおすすめも添えてね。"
+        }
+      ]
+    },
+    {
+      "id": "p198",
+      "category": "random",
+      "author": "Tech Gremlin",
+      "avatar": "💻",
+      "text": "I accidentally turned on dark mode everywhere. My computer looks mysterious now.",
+      "translation": "うっかり全部ダークモードにした。パソコンが謎めいて見える。",
+      "replies": [
+        {
+          "id": "p198-r1",
+          "author": "Night Owl",
+          "avatar": "🦇",
+          "text": "Welcome to the night side.",
+          "translation": "夜の世界へようこそ。"
+        }
+      ]
+    },
+    {
+      "id": "p199",
+      "category": "random",
+      "author": "Tiny Dragon",
+      "avatar": "🐉",
+      "text": "I made a tiny campfire. The ants asked me to keep it down.",
+      "translation": "小さなたき火をした。アリたちに控えめにしてと言われた。",
+      "replies": [
+        {
+          "id": "p199-r1",
+          "author": "Garden Snail",
+          "avatar": "🐌",
+          "text": "Please respect the neighborhood.",
+          "translation": "ご近所への配慮をお願いします。"
+        }
+      ]
+    },
+    {
+      "id": "p200",
+      "category": "random",
+      "author": "Space Potato",
+      "avatar": "🥔",
+      "text": "Today I learned that doing nothing for ten minutes is surprisingly difficult.",
+      "translation": "今日は10分間何もしないのが意外と難しいと知った。",
+      "replies": [
+        {
+          "id": "p200-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "That's why practicing stillness is called practice.",
+          "translation": "だから静かにするのも練習って呼ぶんだよ。"
+        }
+      ]
     }
   ]
 }
