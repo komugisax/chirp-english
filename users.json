@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "users": [
     {
       "id": "mellow_moon",
@@ -243,6 +243,69 @@
       "color": "#D6F0B8",
       "location": "Unknown",
       "bio": "A self-proclaimed alien studying Earth customs. Curious, logical, and very sincere."
+    },
+    {
+      "id": "chirp_times",
+      "name": "The Chirp Times",
+      "handle": "@chirptimes",
+      "avatar": "📰",
+      "color": "#24466B",
+      "location": "Bellport",
+      "bio": "Fictional news from Bellport and nearby cities. All reports are made up."
+    },
+    {
+      "id": "chirp_weather",
+      "name": "Chirp Weather",
+      "handle": "@chirpweather",
+      "avatar": "🌤️",
+      "color": "#A9DDF2",
+      "location": "Bellport",
+      "bio": "Imaginary forecasts for imaginary places. Not real weather."
+    },
+    {
+      "id": "bellport_transit",
+      "name": "Bellport Transit",
+      "handle": "@bellporttransit",
+      "avatar": "🚃",
+      "color": "#F8D6A5",
+      "location": "Bellport",
+      "bio": "Fictional tram and train updates around town."
+    },
+    {
+      "id": "bellport_events",
+      "name": "What’s On Bellport",
+      "handle": "@bellportevents",
+      "avatar": "🎭",
+      "color": "#D5C8F1",
+      "location": "Bellport",
+      "bio": "Fictional local events, concerts, and markets."
+    },
+    {
+      "id": "happy_paws",
+      "name": "Happy Paws Shelter",
+      "handle": "@happypaws",
+      "avatar": "🐾",
+      "color": "#BCE7C4",
+      "location": "Bellport",
+      "bio": "Imaginary rescue animals and real-feeling little stories."
+    },
+    {
+      "id": "rosie_pan",
+      "name": "Rosie Pan",
+      "handle": "@rosie_cooks",
+      "avatar": "👩‍🍳",
+      "color": "#C6E7B8",
+      "location": "Bellport",
+      "bio": "New restaurant owner. Cooking, learning, and making a little chaos."
+    },
+    {
+      "id": "rosies_kitchen",
+      "name": "Rosie's Kitchen",
+      "handle": "@rosieskitchen",
+      "avatar": "🍲",
+      "color": "#F7C98A",
+      "location": "Bellport",
+      "bio": "A brand-new fictional family restaurant. Homemade meals and warm smiles."
     }
   ]
 }

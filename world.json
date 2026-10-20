@@ -1,0 +1,24 @@
+{
+  "version": 4,
+  "notice": "ALL towns, accounts, news, forecasts and events are fictional. No live news or weather.",
+  "cities": [
+    {
+      "name": "Bellport",
+      "timezone": "Europe/London",
+      "climate": "temperate",
+      "description": "Harbor city with a lively food and music scene."
+    },
+    {
+      "name": "Sunvale",
+      "timezone": "Europe/Madrid",
+      "climate": "warm",
+      "description": "Sunny inland city."
+    },
+    {
+      "name": "Frosthill",
+      "timezone": "Europe/Oslo",
+      "climate": "cold",
+      "description": "Mountain town with long winters."
+    }
+  ]
+}

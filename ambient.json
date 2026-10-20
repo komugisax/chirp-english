@@ -1,0 +1,203 @@
+{
+  "version": 4,
+  "posts": [
+    {
+      "id": "a4-weather-morning",
+      "author": "Chirp Weather",
+      "text": "Good morning, Bellport! A cool start today. Take a jacket.",
+      "translation": "おはようBellport！今朝は肌寒いので上着を持ってね。",
+      "easyText": "Good morning! Take a jacket.",
+      "daypart": "morning",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-weather-evening",
+      "author": "Chirp Weather",
+      "text": "The sun is going down. It will get colder tonight.",
+      "translation": "日が沈んでいます。今夜はさらに寒くなりそう。",
+      "easyText": "It will be cold tonight.",
+      "daypart": "evening",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-lunch",
+      "author": "Rosie's Kitchen",
+      "text": "Lunch starts at noon! Hot soup and fresh bread are waiting for you.",
+      "translation": "ランチは正午から！温かいスープと焼きたてパンを用意しています。",
+      "easyText": "Lunch starts at noon!",
+      "daypart": "lunch",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Coffee Goblin",
+          "text": "And coffee?",
+          "translation": "コーヒーは？",
+          "delay": 5000,
+          "easyText": "And coffee?"
+        },
+        {
+          "author": "Rosie Pan",
+          "text": "Of course!",
+          "translation": "もちろん！",
+          "delay": 14000,
+          "easyText": "Of course!"
+        }
+      ]
+    },
+    {
+      "id": "a4-dinner",
+      "author": "Rosie's Kitchen",
+      "text": "Dinner is ready! Come in from the cold and have something warm.",
+      "translation": "夕食の準備ができました！寒い外から入って、温かいものをどうぞ。",
+      "easyText": "Dinner is ready!",
+      "daypart": "evening",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-spring",
+      "author": "What's On Bellport",
+      "text": "The spring flower market opens this weekend.",
+      "translation": "春の花のマーケットが今週末に開かれます。",
+      "easyText": "The flower market is open!",
+      "daypart": "any",
+      "season": "spring",
+      "replies": []
+    },
+    {
+      "id": "a4-summer",
+      "author": "Chirp Weather",
+      "text": "A hot afternoon in Sunvale! Remember to drink water.",
+      "translation": "Sunvaleは暑い午後！水分補給を忘れずに。",
+      "easyText": "It's hot. Drink water!",
+      "daypart": "afternoon",
+      "season": "summer",
+      "replies": []
+    },
+    {
+      "id": "a4-fall",
+      "author": "Rosie's Kitchen",
+      "text": "Our pumpkin soup is back! Perfect for a chilly autumn day.",
+      "translation": "かぼちゃスープが復活！肌寒い秋の日にぴったり。",
+      "easyText": "Pumpkin soup is back!",
+      "daypart": "any",
+      "season": "autumn",
+      "replies": []
+    },
+    {
+      "id": "a4-winter",
+      "author": "Bellport Transit",
+      "text": "Snow may slow down the Harbor Line today. Please take care.",
+      "translation": "今日は雪でハーバー線が遅れるかもしれません。お気をつけて。",
+      "easyText": "Trains may be late today.",
+      "daypart": "any",
+      "season": "winter",
+      "replies": []
+    },
+    {
+      "id": "a4-animals",
+      "author": "Happy Paws Shelter",
+      "text": "Meet Biscuit! He stole three blankets and fell asleep.",
+      "translation": "ビスケットを紹介！毛布を3枚盗んで眠っちゃいました。",
+      "easyText": "Biscuit loves blankets!",
+      "daypart": "any",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Nova Orbit",
+          "text": "A skilled thief.",
+          "translation": "腕のいい泥棒ですね。",
+          "delay": 6000,
+          "easyText": "A skilled thief."
+        }
+      ]
+    },
+    {
+      "id": "a4-event",
+      "author": "What's On Bellport",
+      "text": "A small music market is coming to the harbor this weekend.",
+      "translation": "今週末、港で小さな音楽マーケットが開催されます。",
+      "easyText": "Music at the harbor!",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-train",
+      "author": "Bellport Transit",
+      "text": "The Harbor Line is running on time this morning.",
+      "translation": "今朝のハーバー線は定刻どおり運行しています。",
+      "easyText": "Trains are on time!",
+      "daypart": "morning",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-news",
+      "author": "The Chirp Times",
+      "text": "LOCAL NEWS: A giant rubber duck was spotted in Bellport Harbor. Nobody knows why.",
+      "translation": "地元ニュース：Bellport港で巨大なゴム製アヒルが目撃されました。理由は謎です。",
+      "easyText": "A giant duck is in the harbor!",
+      "daypart": "any",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Nova Orbit",
+          "text": "Is this your leader?",
+          "translation": "これはあなたたちのリーダーですか？",
+          "delay": 5000,
+          "easyText": "Is this your leader?"
+        },
+        {
+          "author": "Jazz Cat",
+          "text": "Finally, good news!",
+          "translation": "やっといいニュース！",
+          "delay": 14000,
+          "easyText": "Finally, good news!"
+        }
+      ]
+    },
+    {
+      "id": "a4-mika",
+      "author": "Mika Reed",
+      "text": "It's chilly today. I might try Rosie's soup at lunch.",
+      "translation": "今日は肌寒いな。ランチはRosieのスープにしようかな。",
+      "easyText": "Let's get some soup!",
+      "daypart": "lunch",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-rosie",
+      "author": "Rosie Pan",
+      "text": "New menu test today! I hope everyone likes my pasta.",
+      "translation": "今日は新メニューの試作！みんながパスタを気に入ってくれますように。",
+      "easyText": "I made new pasta!",
+      "daypart": "afternoon",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-gus",
+      "author": "The Chirp Times",
+      "text": "COMMUNITY: Volunteers planted new trees near the old library.",
+      "translation": "地域ニュース：ボランティアが古い図書館の近くに新しい木を植えました。",
+      "easyText": "New trees near the library!",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a4-night",
+      "author": "Nova Orbit",
+      "text": "Why do humans say “sleep like a baby”? Babies wake up so often.",
+      "translation": "なぜ人間は「赤ちゃんのように眠る」と言うのでしょう？赤ちゃんはよく起きるのに。",
+      "easyText": "Why do babies wake up?",
+      "daypart": "night",
+      "season": "all",
+      "replies": []
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+{
+  "version": 4,
+  "arcs": [
+    {
+      "id": "rosie",
+      "name": "Opening a Dream 🍲",
+      "intro": "Rosie opens her first restaurant in Bellport.",
+      "startDay": 1,
+      "everyDays": 1,
+      "episodes": [
+        {
+          "id": "s4-rosie01",
+          "author": "The Chirp Times",
+          "text": "LOCAL NEWS: A new restaurant called Rosie's Kitchen will open in Bellport soon. Owner Rosie Pan says everyone is welcome.",
+          "translation": "地元ニュース：BellportにRosie’s Kitchenという新しいレストランがまもなく開店します。店主のRosie Panさんは、誰でも歓迎すると話しています。",
+          "easyText": "A new restaurant is coming!",
+          "replies": [
+            {
+              "author": "Coffee Goblin",
+              "text": "Will they have coffee?",
+              "translation": "コーヒーはあるかな？",
+              "delay": 5000,
+              "easyText": "Will they have coffee?"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "It's near my office!",
+              "translation": "職場の近くだ！",
+              "delay": 12000,
+              "easyText": "It's near my office!"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Yes, we have coffee. And soup!",
+              "translation": "はい、コーヒーもスープもあります！",
+              "delay": 21000,
+              "easyText": "Yes, we have coffee. And soup!"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie02",
+          "author": "Rosie Pan",
+          "text": "I'm opening my own restaurant. I'm excited, but I'm also nervous!",
+          "translation": "自分のお店をオープンします。楽しみだけど、緊張もしています！",
+          "easyText": "I'm opening my restaurant!",
+          "replies": [
+            {
+              "author": "Wise Owl",
+              "text": "You can do it, Rosie!",
+              "translation": "ロージー、きっとできるよ！",
+              "delay": 5000,
+              "easyText": "You can do it, Rosie!"
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "What is a restaurant opening?",
+              "translation": "レストランの開店って何？",
+              "delay": 11000,
+              "easyText": "What is a restaurant opening?"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Come visit and find out!",
+              "translation": "来てみたらわかるよ！",
+              "delay": 19000,
+              "easyText": "Come visit and find out!"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie03",
+          "author": "Rosie's Kitchen",
+          "text": "Hello, Bellport! Our doors open tomorrow at noon. Come say hi!",
+          "translation": "こんにちは、Bellport！明日の正午に開店します。ぜひ遊びに来てね！",
+          "easyText": "We open tomorrow at noon!",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "I'll be there for lunch!",
+              "translation": "ランチに行くね！",
+              "delay": 6000,
+              "easyText": "I'll be there for lunch!"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Coffee first. Then lunch.",
+              "translation": "まずコーヒー。それからランチ。",
+              "delay": 14000,
+              "easyText": "Coffee first. Then lunch."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie04",
+          "author": "Rosie's Kitchen",
+          "text": "WE ARE OPEN! Today we have tomato soup, fresh bread, and a lot of happy nerves.",
+          "translation": "オープンしました！今日はトマトスープと焼きたてパン、そしてドキドキがいっぱいです。",
+          "easyText": "We are open! Come in!",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "The bread smells amazing!",
+              "translation": "パンがすごくいい匂い！",
+              "delay": 5000,
+              "easyText": "The bread smells amazing!"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Thank you for coming, Mika!",
+              "translation": "ミカ、来てくれてありがとう！",
+              "delay": 13000,
+              "easyText": "Thank you for coming, Mika!"
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "Is soup a drink?",
+              "translation": "スープは飲み物ですか？",
+              "delay": 23000,
+              "easyText": "Is soup a drink?"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie05",
+          "author": "Mika Reed",
+          "text": "I tried the new restaurant near my office. Rosie's soup is so good!",
+          "translation": "職場の近くの新しいレストランに行ってきた。Rosieのスープ、すごくおいしい！",
+          "easyText": "Rosie's soup is so good!",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "This made my day. Thank you!",
+              "translation": "今日いちばんうれしい！ありがとう！",
+              "delay": 8000,
+              "easyText": "This made my day. Thank you!"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "I'll try it this weekend.",
+              "translation": "今週末行ってみるよ。",
+              "delay": 18000,
+              "easyText": "I'll try it this weekend."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie06",
+          "author": "Rosie Pan",
+          "text": "I tried making a new pasta dish. I made a huge mess. The kitchen survived.",
+          "translation": "新しいパスタを試作したら、キッチンが大変なことに。なんとか無事でした。",
+          "easyText": "I made new pasta. Oops!",
+          "replies": [
+            {
+              "author": "Coffee Goblin",
+              "text": "Did the pasta survive?",
+              "translation": "パスタは無事だった？",
+              "delay": 6000,
+              "easyText": "Did the pasta survive?"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Most of it. 😂",
+              "translation": "大部分はね。😂",
+              "delay": 16000,
+              "easyText": "Most of it. 😂"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie07",
+          "author": "Rosie's Kitchen",
+          "text": "Help us choose our next special: spicy curry or chocolate pancakes?",
+          "translation": "次のおすすめを選んでね。スパイシーカレー、それともチョコレートパンケーキ？",
+          "easyText": "Curry or pancakes?",
+          "replies": [
+            {
+              "author": "Nova Orbit",
+              "text": "Why not both?",
+              "translation": "両方じゃダメなの？",
+              "delay": 6000,
+              "easyText": "Why not both?"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Please do not give me ideas!",
+              "translation": "余計なアイデアを出さないで！",
+              "delay": 16000,
+              "easyText": "Please do not give me ideas!"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie08",
+          "author": "Rosie Pan",
+          "text": "We sold out of soup today! I need a bigger pot.",
+          "translation": "今日はスープが売り切れた！もっと大きな鍋が必要だわ。",
+          "easyText": "The soup is sold out!",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "Good problem to have!",
+              "translation": "うれしい悲鳴だね！",
+              "delay": 5000,
+              "easyText": "Good problem to have!"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "True! My feet disagree.",
+              "translation": "そうね！足は反対してるけど。",
+              "delay": 14000,
+              "easyText": "True! My feet disagree."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie09",
+          "author": "Bellport Transit",
+          "text": "NOTICE: A small delay on the Harbor Line this afternoon. Please allow extra time.",
+          "translation": "お知らせ：本日午後、ハーバー線で小規模な遅延が発生しています。時間に余裕を持ってください。",
+          "easyText": "The Harbor train is late.",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "My bread delivery is on that train!",
+              "translation": "パンの配達がその電車なの！",
+              "delay": 5000,
+              "easyText": "My bread delivery is on that train!"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "I can help carry some supplies.",
+              "translation": "材料運びなら手伝えるよ。",
+              "delay": 14000,
+              "easyText": "I can help carry some supplies."
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "You are a lifesaver!",
+              "translation": "本当に助かる！",
+              "delay": 23000,
+              "easyText": "You are a lifesaver!"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie10",
+          "author": "Rosie's Kitchen",
+          "text": "A little thank-you dinner this Friday! We made it through our first week together.",
+          "translation": "金曜日に小さな感謝のディナーを開きます！みんなのおかげで最初の1週間を乗り切れました。",
+          "easyText": "Thank you, everyone!",
+          "replies": [
+            {
+              "author": "Jazz Cat",
+              "text": "Can I bring my sax?",
+              "translation": "サックス持っていってもいい？",
+              "delay": 5000,
+              "easyText": "Can I bring my sax?"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Only if you play something cheerful!",
+              "translation": "明るい曲を演奏してくれるなら！",
+              "delay": 14000,
+              "easyText": "Only if you play something cheerful!"
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "I will bring my human disguise.",
+              "translation": "人間用の変装を持っていきます。",
+              "delay": 22000,
+              "easyText": "I will bring my human disguise."
+            }
+          ],
+          "category": "story"
+        }
+      ]
+    },
+    {
+      "id": "jazz",
+      "name": "A Little Apology 🎷",
+      "intro": "Jazz Cat tries to repair a friendship.",
+      "startDay": 3,
+      "everyDays": 2,
+      "episodes": [
+        {
+          "id": "s4-jazz01",
+          "author": "Jazz Cat",
+          "text": "I had a bad argument with a friend. I don't know what to say now.",
+          "translation": "友達とひどい口論をしてしまった。今、何を言えばいいかわからない。",
+          "easyText": "I argued with a friend.",
+          "replies": [
+            {
+              "author": "Wise Owl",
+              "text": "Give yourself some time.",
+              "translation": "少し時間をとって。",
+              "delay": 6000,
+              "easyText": "Give yourself some time."
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Do you want to talk?",
+              "translation": "話したい？",
+              "delay": 14000,
+              "easyText": "Do you want to talk?"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-jazz02",
+          "author": "Jazz Cat",
+          "text": "I think I was too harsh yesterday. I should say sorry.",
+          "translation": "昨日は言いすぎたと思う。謝らなきゃ。",
+          "easyText": "I should say sorry.",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "It's not easy, but you can do it.",
+              "translation": "簡単じゃないけど、できるよ。",
+              "delay": 7000,
+              "easyText": "It's not easy, but you can do it."
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Thanks. I'm still scared.",
+              "translation": "ありがとう。でもまだ怖いよ。",
+              "delay": 17000,
+              "easyText": "Thanks. I'm still scared."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-jazz03",
+          "author": "Jazz Cat",
+          "text": "I finally sent the message. Now I'm waiting.",
+          "translation": "ようやくメッセージを送った。今は返事を待ってる。",
+          "easyText": "I sent the message.",
+          "replies": [
+            {
+              "author": "Wise Owl",
+              "text": "That took courage.",
+              "translation": "勇気が要ったね。",
+              "delay": 6000,
+              "easyText": "That took courage."
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "Waiting is a strange human sport.",
+              "translation": "待つというのは奇妙な人間のスポーツですね。",
+              "delay": 16000,
+              "easyText": "Waiting is a strange human sport."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-jazz04",
+          "author": "Jazz Cat",
+          "text": "We talked. We both made mistakes. I feel a little better.",
+          "translation": "話ができた。お互いに間違いがあった。少し気持ちが楽になった。",
+          "easyText": "We talked today.",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "I'm glad you talked.",
+              "translation": "話せてよかったね。",
+              "delay": 7000,
+              "easyText": "I'm glad you talked."
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Me too. Thank you.",
+              "translation": "僕もそう思う。ありがとう。",
+              "delay": 15000,
+              "easyText": "Me too. Thank you."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-jazz05",
+          "author": "Jazz Cat",
+          "text": "My friend and I played music together again. It felt like home.",
+          "translation": "友達とまた一緒に演奏した。帰ってきたような気分だった。",
+          "easyText": "We played together again.",
+          "replies": [
+            {
+              "author": "Tenor Turtle",
+              "text": "Music helps us talk.",
+              "translation": "音楽は会話の助けになるよね。",
+              "delay": 6000,
+              "easyText": "Music helps us talk."
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Now that is good news.",
+              "translation": "それはいいニュースだ。",
+              "delay": 16000,
+              "easyText": "Now that is good news."
+            }
+          ],
+          "category": "story"
+        }
+      ]
+    },
+    {
+      "id": "nova",
+      "name": "An Alien Learns Small Talk 👽",
+      "intro": "Nova studies human conversations.",
+      "startDay": 2,
+      "everyDays": 3,
+      "episodes": [
+        {
+          "id": "s4-nova01",
+          "author": "Nova Orbit",
+          "text": "Today I learned that humans talk about the weather when they have nothing to say.",
+          "translation": "今日は、人間は話題がないときに天気の話をすると学びました。",
+          "easyText": "Humans talk about weather.",
+          "replies": [
+            {
+              "author": "Wise Owl",
+              "text": "It is a friendly way to start.",
+              "translation": "親しく話し始める方法なんだよ。",
+              "delay": 6000,
+              "easyText": "It is a friendly way to start."
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "So... nice weather?",
+              "translation": "では……いい天気ですね？",
+              "delay": 15000,
+              "easyText": "So... nice weather?"
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-nova02",
+          "author": "Nova Orbit",
+          "text": "I tried saying “nice weather” during a storm. People looked confused.",
+          "translation": "嵐の日に「いい天気ですね」と言ってみました。みんな困惑していました。",
+          "easyText": "I said nice weather. Oops.",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "Maybe check the sky first. 😂",
+              "translation": "まず空を見たほうがいいかも。😂",
+              "delay": 7000,
+              "easyText": "Maybe check the sky first. 😂"
+            },
+            {
+              "author": "Nova Orbit",
+              "text": "Noted. Sky first.",
+              "translation": "記録しました。まず空。",
+              "delay": 17000,
+              "easyText": "Noted. Sky first."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-nova03",
+          "author": "Nova Orbit",
+          "text": "I made a new friend today. We talked about clouds for ten minutes.",
+          "translation": "今日は新しい友達ができました。雲について10分間話しました。",
+          "easyText": "I made a new friend!",
+          "replies": [
+            {
+              "author": "Wise Owl",
+              "text": "That sounds lovely.",
+              "translation": "それは素敵だね。",
+              "delay": 7000,
+              "easyText": "That sounds lovely."
+            }
+          ],
+          "category": "story"
+        }
+      ]
+    }
+  ]
+}
