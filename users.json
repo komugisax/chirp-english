@@ -1,0 +1,248 @@
+{
+  "version": 3,
+  "users": [
+    {
+      "id": "mellow_moon",
+      "name": "Mellow Moon",
+      "handle": "@mellow_moon",
+      "avatar": "🌙",
+      "color": "#F3CEB6",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "lost_in_my_20s",
+      "name": "Lost in My 20s",
+      "handle": "@lost_in_my_20s",
+      "avatar": "🙂",
+      "color": "#AEDFE1",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "office_ghost",
+      "name": "Office Ghost",
+      "handle": "@office_ghost",
+      "avatar": "👻",
+      "color": "#C9D2F6",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "tiny_dragon",
+      "name": "Tiny Dragon",
+      "handle": "@tiny_dragon",
+      "avatar": "🐉",
+      "color": "#F6D19D",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "wise_owl",
+      "name": "Wise Owl",
+      "handle": "@wise_owl",
+      "avatar": "🦉",
+      "color": "#B9DED4",
+      "location": "Frosthill",
+      "bio": "Thoughtful advice, quiet nights, and books."
+    },
+    {
+      "id": "monday_survivor",
+      "name": "Monday Survivor",
+      "handle": "@monday_survivor",
+      "avatar": "📅",
+      "color": "#F1B9D1",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "night_owl",
+      "name": "Night Owl",
+      "handle": "@night_owl",
+      "avatar": "🦇",
+      "color": "#D5C4EF",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "bookish_fox",
+      "name": "Bookish Fox",
+      "handle": "@bookish_fox",
+      "avatar": "📚",
+      "color": "#F8C9D6",
+      "location": "Frosthill",
+      "bio": "Reads too many books and keeps buying more."
+    },
+    {
+      "id": "rainy_rabbit",
+      "name": "Rainy Rabbit",
+      "handle": "@rainy_rabbit",
+      "avatar": "🐰",
+      "color": "#B6DFF3",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "coffee_goblin",
+      "name": "Coffee Goblin",
+      "handle": "@coffee_goblin",
+      "avatar": "☕",
+      "color": "#F4D5BC",
+      "location": "Sunvale",
+      "bio": "An energetic caffeine enthusiast with chaotic opinions."
+    },
+    {
+      "id": "sleepy_cat",
+      "name": "Sleepy Cat",
+      "handle": "@sleepy_cat",
+      "avatar": "🐈",
+      "color": "#D5E9AE",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "dog_detective",
+      "name": "Dog Detective",
+      "handle": "@dog_detective",
+      "avatar": "🐕",
+      "color": "#F4C6B8",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "penguin_intern",
+      "name": "Penguin Intern",
+      "handle": "@penguin_intern",
+      "avatar": "🐧",
+      "color": "#F3CEB6",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "garden_snail",
+      "name": "Garden Snail",
+      "handle": "@garden_snail",
+      "avatar": "🐌",
+      "color": "#AEDFE1",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "jazz_cat",
+      "name": "Jazz Cat",
+      "handle": "@jazzcat",
+      "avatar": "🐈",
+      "color": "#F8CF91",
+      "location": "Bellport",
+      "bio": "A playful jazz lover who always blames the reed."
+    },
+    {
+      "id": "sax_problems",
+      "name": "Sax Problems",
+      "handle": "@sax_problems",
+      "avatar": "🎵",
+      "color": "#F6D19D",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "tenor_turtle",
+      "name": "Tenor Turtle",
+      "handle": "@tenor_turtle",
+      "avatar": "🐢",
+      "color": "#BBDDF7",
+      "location": "Bellport",
+      "bio": "A calm tenor sax player. Once met Mika at a jam session."
+    },
+    {
+      "id": "alto_fox",
+      "name": "Alto Fox",
+      "handle": "@alto_fox",
+      "avatar": "🦊",
+      "color": "#F1B9D1",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "soprano_star",
+      "name": "Soprano Star",
+      "handle": "@soprano_star",
+      "avatar": "⭐",
+      "color": "#D5C4EF",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "baritone_bear",
+      "name": "Baritone Bear",
+      "handle": "@baritone_bear",
+      "avatar": "🐻",
+      "color": "#F3E2A0",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "pizza_philosopher",
+      "name": "Pizza Philosopher",
+      "handle": "@pizza_philosopher",
+      "avatar": "🍕",
+      "color": "#B6DFF3",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "noodle_wizard",
+      "name": "Noodle Wizard",
+      "handle": "@noodle_wizard",
+      "avatar": "🍜",
+      "color": "#DED1B6",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "toast_captain",
+      "name": "Toast Captain",
+      "handle": "@toast_captain",
+      "avatar": "🍞",
+      "color": "#D5E9AE",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "space_potato",
+      "name": "Space Potato",
+      "handle": "@space_potato",
+      "avatar": "🥔",
+      "color": "#F4C6B8",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "tech_gremlin",
+      "name": "Tech Gremlin",
+      "handle": "@tech_gremlin",
+      "avatar": "💻",
+      "color": "#F3CEB6",
+      "location": "Somewhere",
+      "bio": "Sharing little moments, jokes, and everyday thoughts."
+    },
+    {
+      "id": "mika_reed",
+      "name": "Mika Reed",
+      "handle": "@midnight_sax",
+      "avatar": "🎷",
+      "color": "#E6C5F5",
+      "location": "Bellport",
+      "bio": "A web creator who plays saxophone after work. Loves late-night jazz and coffee."
+    },
+    {
+      "id": "nova_orbit",
+      "name": "Nova Orbit",
+      "handle": "@probably_an_alien",
+      "avatar": "👽",
+      "color": "#D6F0B8",
+      "location": "Unknown",
+      "bio": "A self-proclaimed alien studying Earth customs. Curious, logical, and very sincere."
+    }
+  ]
+}

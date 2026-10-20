@@ -1,0 +1,1705 @@
+{
+  "version": 3,
+  "posts": [
+    {
+      "id": "e001",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I need a break.",
+      "translation": "休憩が必要。",
+      "replies": [
+        {
+          "id": "e001-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Take your time!",
+          "translation": "ゆっくりでいいよ！"
+        }
+      ]
+    },
+    {
+      "id": "e002",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Take your time!",
+      "translation": "ゆっくりでいいよ！",
+      "replies": [
+        {
+          "id": "e002-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "I need a break.",
+          "translation": "休憩が必要。"
+        }
+      ]
+    },
+    {
+      "id": "e003",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "My cat is hungry.",
+      "translation": "うちの猫はお腹がすいてる。",
+      "replies": [
+        {
+          "id": "e003-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Again? Mine too!",
+          "translation": "また？うちのも！"
+        }
+      ]
+    },
+    {
+      "id": "e004",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "Again? Mine too!",
+      "translation": "また？うちのも！",
+      "replies": [
+        {
+          "id": "e004-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "My cat is hungry.",
+          "translation": "うちの猫はお腹がすいてる。"
+        }
+      ]
+    },
+    {
+      "id": "e005",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I love this song.",
+      "translation": "この曲が大好き。",
+      "replies": [
+        {
+          "id": "e005-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e006",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "Me too!",
+      "translation": "私も！",
+      "replies": [
+        {
+          "id": "e006-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "I love this song.",
+          "translation": "この曲が大好き。"
+        }
+      ]
+    },
+    {
+      "id": "e007",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "It is raining.",
+      "translation": "雨が降っている。",
+      "replies": [
+        {
+          "id": "e007-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Bring an umbrella!",
+          "translation": "傘を持ってね！"
+        }
+      ]
+    },
+    {
+      "id": "e008",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "Bring an umbrella!",
+      "translation": "傘を持ってね！",
+      "replies": [
+        {
+          "id": "e008-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "It is raining.",
+          "translation": "雨が降っている。"
+        }
+      ]
+    },
+    {
+      "id": "e009",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "Where is my coffee?",
+      "translation": "私のコーヒーはどこ？",
+      "replies": [
+        {
+          "id": "e009-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Check your desk.",
+          "translation": "机を見て。"
+        }
+      ]
+    },
+    {
+      "id": "e010",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "Check your desk.",
+      "translation": "机を見て。",
+      "replies": [
+        {
+          "id": "e010-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Where is my coffee?",
+          "translation": "私のコーヒーはどこ？"
+        }
+      ]
+    },
+    {
+      "id": "e011",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "Today feels very long.",
+      "translation": "今日はとても長く感じる。",
+      "replies": [
+        {
+          "id": "e011-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "You can rest.",
+          "translation": "休んでいいよ。"
+        }
+      ]
+    },
+    {
+      "id": "e012",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "You can rest.",
+      "translation": "休んでいいよ。",
+      "replies": [
+        {
+          "id": "e012-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Today feels very long.",
+          "translation": "今日はとても長く感じる。"
+        }
+      ]
+    },
+    {
+      "id": "e013",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My sax sounds strange.",
+      "translation": "サックスの音が変。",
+      "replies": [
+        {
+          "id": "e013-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Try a new reed.",
+          "translation": "新しいリードを試して。"
+        }
+      ]
+    },
+    {
+      "id": "e014",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "Try a new reed.",
+      "translation": "新しいリードを試して。",
+      "replies": [
+        {
+          "id": "e014-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "My sax sounds strange.",
+          "translation": "サックスの音が変。"
+        }
+      ]
+    },
+    {
+      "id": "e015",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I want more pizza.",
+      "translation": "もっとピザが欲しい。",
+      "replies": [
+        {
+          "id": "e015-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "We all do.",
+          "translation": "みんなそうだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e016",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "We all do.",
+      "translation": "みんなそうだよ。",
+      "replies": [
+        {
+          "id": "e016-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "I want more pizza.",
+          "translation": "もっとピザが欲しい。"
+        }
+      ]
+    },
+    {
+      "id": "e017",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "The moon looks beautiful.",
+      "translation": "月がきれいだね。",
+      "replies": [
+        {
+          "id": "e017-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Look at the stars!",
+          "translation": "星も見て！"
+        }
+      ]
+    },
+    {
+      "id": "e018",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Look at the stars!",
+      "translation": "星も見て！",
+      "replies": [
+        {
+          "id": "e018-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "The moon looks beautiful.",
+          "translation": "月がきれいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e019",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "I lost my keys.",
+      "translation": "鍵をなくした。",
+      "replies": [
+        {
+          "id": "e019-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "Check your bag!",
+          "translation": "かばんを見て！"
+        }
+      ]
+    },
+    {
+      "id": "e020",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "Check your bag!",
+      "translation": "かばんを見て！",
+      "replies": [
+        {
+          "id": "e020-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "I lost my keys.",
+          "translation": "鍵をなくした。"
+        }
+      ]
+    },
+    {
+      "id": "e021",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "This book is amazing.",
+      "translation": "この本は最高。",
+      "replies": [
+        {
+          "id": "e021-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Tell me more!",
+          "translation": "もっと教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e022",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Tell me more!",
+      "translation": "もっと教えて！",
+      "replies": [
+        {
+          "id": "e022-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "This book is amazing.",
+          "translation": "この本は最高。"
+        }
+      ]
+    },
+    {
+      "id": "e023",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I feel a little sad.",
+      "translation": "少し悲しい気分。",
+      "replies": [
+        {
+          "id": "e023-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "I am here.",
+          "translation": "ここにいるよ。"
+        }
+      ]
+    },
+    {
+      "id": "e024",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I am here.",
+      "translation": "ここにいるよ。",
+      "replies": [
+        {
+          "id": "e024-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I feel a little sad.",
+          "translation": "少し悲しい気分。"
+        }
+      ]
+    },
+    {
+      "id": "e025",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "Tomorrow is Friday!",
+      "translation": "明日は金曜日！",
+      "replies": [
+        {
+          "id": "e025-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "We made it!",
+          "translation": "やったね！"
+        }
+      ]
+    },
+    {
+      "id": "e026",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "We made it!",
+      "translation": "やったね！",
+      "replies": [
+        {
+          "id": "e026-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Tomorrow is Friday!",
+          "translation": "明日は金曜日！"
+        }
+      ]
+    },
+    {
+      "id": "e027",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I made some soup.",
+      "translation": "スープを作った。",
+      "replies": [
+        {
+          "id": "e027-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Save me some!",
+          "translation": "私の分も残して！"
+        }
+      ]
+    },
+    {
+      "id": "e028",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "Save me some!",
+      "translation": "私の分も残して！",
+      "replies": [
+        {
+          "id": "e028-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "I made some soup.",
+          "translation": "スープを作った。"
+        }
+      ]
+    },
+    {
+      "id": "e029",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "The wind is strong.",
+      "translation": "風が強い。",
+      "replies": [
+        {
+          "id": "e029-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Hold your hat!",
+          "translation": "帽子を押さえて！"
+        }
+      ]
+    },
+    {
+      "id": "e030",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "Hold your hat!",
+      "translation": "帽子を押さえて！",
+      "replies": [
+        {
+          "id": "e030-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "The wind is strong.",
+          "translation": "風が強い。"
+        }
+      ]
+    },
+    {
+      "id": "e031",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I love quiet mornings.",
+      "translation": "静かな朝が好き。",
+      "replies": [
+        {
+          "id": "e031-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Same here.",
+          "translation": "私もだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e032",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "Same here.",
+      "translation": "私もだよ。",
+      "replies": [
+        {
+          "id": "e032-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love quiet mornings.",
+          "translation": "静かな朝が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e033",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My plant looks happy.",
+      "translation": "植物が元気そう。",
+      "replies": [
+        {
+          "id": "e033-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Good plant parent!",
+          "translation": "いい育て主だね！"
+        }
+      ]
+    },
+    {
+      "id": "e034",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "Good plant parent!",
+      "translation": "いい育て主だね！",
+      "replies": [
+        {
+          "id": "e034-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "My plant looks happy.",
+          "translation": "植物が元気そう。"
+        }
+      ]
+    },
+    {
+      "id": "e035",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I need new socks.",
+      "translation": "新しい靴下が必要。",
+      "replies": [
+        {
+          "id": "e035-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Buy funny ones!",
+          "translation": "面白いのを買って！"
+        }
+      ]
+    },
+    {
+      "id": "e036",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Buy funny ones!",
+      "translation": "面白いのを買って！",
+      "replies": [
+        {
+          "id": "e036-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "I need new socks.",
+          "translation": "新しい靴下が必要。"
+        }
+      ]
+    },
+    {
+      "id": "e037",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I am learning English.",
+      "translation": "英語を勉強中。",
+      "replies": [
+        {
+          "id": "e037-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "You can do it!",
+          "translation": "きっとできるよ！"
+        }
+      ]
+    },
+    {
+      "id": "e038",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "You can do it!",
+      "translation": "きっとできるよ！",
+      "replies": [
+        {
+          "id": "e038-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "I am learning English.",
+          "translation": "英語を勉強中。"
+        }
+      ]
+    },
+    {
+      "id": "e039",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "This cake tastes great.",
+      "translation": "このケーキ、おいしい。",
+      "replies": [
+        {
+          "id": "e039-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "Can I try some?",
+          "translation": "少し食べていい？"
+        }
+      ]
+    },
+    {
+      "id": "e040",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "Can I try some?",
+      "translation": "少し食べていい？",
+      "replies": [
+        {
+          "id": "e040-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "This cake tastes great.",
+          "translation": "このケーキ、おいしい。"
+        }
+      ]
+    },
+    {
+      "id": "e041",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I forgot my lunch.",
+      "translation": "お昼ごはんを忘れた。",
+      "replies": [
+        {
+          "id": "e041-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Oh no!",
+          "translation": "大変！"
+        }
+      ]
+    },
+    {
+      "id": "e042",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Oh no!",
+      "translation": "大変！",
+      "replies": [
+        {
+          "id": "e042-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "I forgot my lunch.",
+          "translation": "お昼ごはんを忘れた。"
+        }
+      ]
+    },
+    {
+      "id": "e043",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "The sky is pink.",
+      "translation": "空がピンク色。",
+      "replies": [
+        {
+          "id": "e043-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "That sounds lovely.",
+          "translation": "きれいそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e044",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "That sounds lovely.",
+      "translation": "きれいそうだね。",
+      "replies": [
+        {
+          "id": "e044-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "The sky is pink.",
+          "translation": "空がピンク色。"
+        }
+      ]
+    },
+    {
+      "id": "e045",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I want to dance.",
+      "translation": "踊りたいな。",
+      "replies": [
+        {
+          "id": "e045-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Then dance!",
+          "translation": "じゃあ踊ろう！"
+        }
+      ]
+    },
+    {
+      "id": "e046",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "Then dance!",
+      "translation": "じゃあ踊ろう！",
+      "replies": [
+        {
+          "id": "e046-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "I want to dance.",
+          "translation": "踊りたいな。"
+        }
+      ]
+    },
+    {
+      "id": "e047",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Is this your hat?",
+      "translation": "これはあなたの帽子？",
+      "replies": [
+        {
+          "id": "e047-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "No, it is not.",
+          "translation": "ううん、違うよ。"
+        }
+      ]
+    },
+    {
+      "id": "e048",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "No, it is not.",
+      "translation": "ううん、違うよ。",
+      "replies": [
+        {
+          "id": "e048-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Is this your hat?",
+          "translation": "これはあなたの帽子？"
+        }
+      ]
+    },
+    {
+      "id": "e049",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I am so sleepy.",
+      "translation": "すごく眠い。",
+      "replies": [
+        {
+          "id": "e049-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Go to bed!",
+          "translation": "寝なよ！"
+        }
+      ]
+    },
+    {
+      "id": "e050",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "Go to bed!",
+      "translation": "寝なよ！",
+      "replies": [
+        {
+          "id": "e050-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "I am so sleepy.",
+          "translation": "すごく眠い。"
+        }
+      ]
+    },
+    {
+      "id": "e051",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "My dog loves snow.",
+      "translation": "うちの犬は雪が大好き。",
+      "replies": [
+        {
+          "id": "e051-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Send a picture!",
+          "translation": "写真を送って！"
+        }
+      ]
+    },
+    {
+      "id": "e052",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "Send a picture!",
+      "translation": "写真を送って！",
+      "replies": [
+        {
+          "id": "e052-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "My dog loves snow.",
+          "translation": "うちの犬は雪が大好き。"
+        }
+      ]
+    },
+    {
+      "id": "e053",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I can play jazz.",
+      "translation": "ジャズを演奏できる。",
+      "replies": [
+        {
+          "id": "e053-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "That is cool!",
+          "translation": "かっこいい！"
+        }
+      ]
+    },
+    {
+      "id": "e054",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "That is cool!",
+      "translation": "かっこいい！",
+      "replies": [
+        {
+          "id": "e054-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "I can play jazz.",
+          "translation": "ジャズを演奏できる。"
+        }
+      ]
+    },
+    {
+      "id": "e055",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "This chair is broken.",
+      "translation": "この椅子は壊れてる。",
+      "replies": [
+        {
+          "id": "e055-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Please be careful.",
+          "translation": "気をつけてね。"
+        }
+      ]
+    },
+    {
+      "id": "e056",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Please be careful.",
+      "translation": "気をつけてね。",
+      "replies": [
+        {
+          "id": "e056-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "This chair is broken.",
+          "translation": "この椅子は壊れてる。"
+        }
+      ]
+    },
+    {
+      "id": "e057",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "Today is my day!",
+      "translation": "今日は私の日！",
+      "replies": [
+        {
+          "id": "e057-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Enjoy it!",
+          "translation": "楽しんでね！"
+        }
+      ]
+    },
+    {
+      "id": "e058",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Enjoy it!",
+      "translation": "楽しんでね！",
+      "replies": [
+        {
+          "id": "e058-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Today is my day!",
+          "translation": "今日は私の日！"
+        }
+      ]
+    },
+    {
+      "id": "e059",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "I hate early meetings.",
+      "translation": "朝早い会議が嫌い。",
+      "replies": [
+        {
+          "id": "e059-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "I understand completely.",
+          "translation": "すごくわかる。"
+        }
+      ]
+    },
+    {
+      "id": "e060",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I understand completely.",
+      "translation": "すごくわかる。",
+      "replies": [
+        {
+          "id": "e060-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "I hate early meetings.",
+          "translation": "朝早い会議が嫌い。"
+        }
+      ]
+    },
+    {
+      "id": "e061",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The rain stopped.",
+      "translation": "雨がやんだ。",
+      "replies": [
+        {
+          "id": "e061-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Let us go outside!",
+          "translation": "外に行こう！"
+        }
+      ]
+    },
+    {
+      "id": "e062",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Let us go outside!",
+      "translation": "外に行こう！",
+      "replies": [
+        {
+          "id": "e062-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "The rain stopped.",
+          "translation": "雨がやんだ。"
+        }
+      ]
+    },
+    {
+      "id": "e063",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "My phone is missing.",
+      "translation": "スマホが見つからない。",
+      "replies": [
+        {
+          "id": "e063-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Are you calling me?",
+          "translation": "私に電話してる？"
+        }
+      ]
+    },
+    {
+      "id": "e064",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "Are you calling me?",
+      "translation": "私に電話してる？",
+      "replies": [
+        {
+          "id": "e064-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "My phone is missing.",
+          "translation": "スマホが見つからない。"
+        }
+      ]
+    },
+    {
+      "id": "e065",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I love warm tea.",
+      "translation": "温かい紅茶が好き。",
+      "replies": [
+        {
+          "id": "e065-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds relaxing.",
+          "translation": "落ち着きそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e066",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "That sounds relaxing.",
+      "translation": "落ち着きそうだね。",
+      "replies": [
+        {
+          "id": "e066-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "I love warm tea.",
+          "translation": "温かい紅茶が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e067",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "This game is hard.",
+      "translation": "このゲーム難しい。",
+      "replies": [
+        {
+          "id": "e067-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Keep trying!",
+          "translation": "頑張って続けて！"
+        }
+      ]
+    },
+    {
+      "id": "e068",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "Keep trying!",
+      "translation": "頑張って続けて！",
+      "replies": [
+        {
+          "id": "e068-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "This game is hard.",
+          "translation": "このゲーム難しい。"
+        }
+      ]
+    },
+    {
+      "id": "e069",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I bought new shoes.",
+      "translation": "新しい靴を買った。",
+      "replies": [
+        {
+          "id": "e069-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Are they comfortable?",
+          "translation": "履き心地いい？"
+        }
+      ]
+    },
+    {
+      "id": "e070",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "Are they comfortable?",
+      "translation": "履き心地いい？",
+      "replies": [
+        {
+          "id": "e070-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "I bought new shoes.",
+          "translation": "新しい靴を買った。"
+        }
+      ]
+    },
+    {
+      "id": "e071",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "The stars are bright.",
+      "translation": "星が明るい。",
+      "replies": [
+        {
+          "id": "e071-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Make a wish!",
+          "translation": "願い事して！"
+        }
+      ]
+    },
+    {
+      "id": "e072",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "Make a wish!",
+      "translation": "願い事して！",
+      "replies": [
+        {
+          "id": "e072-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "The stars are bright.",
+          "translation": "星が明るい。"
+        }
+      ]
+    },
+    {
+      "id": "e073",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I need some help.",
+      "translation": "少し助けが必要。",
+      "replies": [
+        {
+          "id": "e073-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "What happened?",
+          "translation": "どうしたの？"
+        }
+      ]
+    },
+    {
+      "id": "e074",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "What happened?",
+      "translation": "どうしたの？",
+      "replies": [
+        {
+          "id": "e074-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "I need some help.",
+          "translation": "少し助けが必要。"
+        }
+      ]
+    },
+    {
+      "id": "e075",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "My sandwich disappeared.",
+      "translation": "サンドイッチが消えた。",
+      "replies": [
+        {
+          "id": "e075-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "Ask the cat.",
+          "translation": "猫に聞いて。"
+        }
+      ]
+    },
+    {
+      "id": "e076",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Ask the cat.",
+      "translation": "猫に聞いて。",
+      "replies": [
+        {
+          "id": "e076-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "My sandwich disappeared.",
+          "translation": "サンドイッチが消えた。"
+        }
+      ]
+    },
+    {
+      "id": "e077",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "I can hear music.",
+      "translation": "音楽が聞こえる。",
+      "replies": [
+        {
+          "id": "e077-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Where is it?",
+          "translation": "どこから？"
+        }
+      ]
+    },
+    {
+      "id": "e078",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Where is it?",
+      "translation": "どこから？",
+      "replies": [
+        {
+          "id": "e078-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "I can hear music.",
+          "translation": "音楽が聞こえる。"
+        }
+      ]
+    },
+    {
+      "id": "e079",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "It is very hot.",
+      "translation": "とても暑い。",
+      "replies": [
+        {
+          "id": "e079-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "Drink some water.",
+          "translation": "水を飲んでね。"
+        }
+      ]
+    },
+    {
+      "id": "e080",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "Drink some water.",
+      "translation": "水を飲んでね。",
+      "replies": [
+        {
+          "id": "e080-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "It is very hot.",
+          "translation": "とても暑い。"
+        }
+      ]
+    },
+    {
+      "id": "e081",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I want a holiday.",
+      "translation": "休みが欲しい。",
+      "replies": [
+        {
+          "id": "e081-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Me too, friend.",
+          "translation": "私もだよ、友よ。"
+        }
+      ]
+    },
+    {
+      "id": "e082",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "Me too, friend.",
+      "translation": "私もだよ、友よ。",
+      "replies": [
+        {
+          "id": "e082-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "I want a holiday.",
+          "translation": "休みが欲しい。"
+        }
+      ]
+    },
+    {
+      "id": "e083",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "My room is messy.",
+      "translation": "部屋が散らかってる。",
+      "replies": [
+        {
+          "id": "e083-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Mine is worse.",
+          "translation": "私のほうがひどい。"
+        }
+      ]
+    },
+    {
+      "id": "e084",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "Mine is worse.",
+      "translation": "私のほうがひどい。",
+      "replies": [
+        {
+          "id": "e084-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "My room is messy.",
+          "translation": "部屋が散らかってる。"
+        }
+      ]
+    },
+    {
+      "id": "e085",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "What is that sound?",
+      "translation": "あの音は何？",
+      "replies": [
+        {
+          "id": "e085-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Probably my sax.",
+          "translation": "多分私のサックス。"
+        }
+      ]
+    },
+    {
+      "id": "e086",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "Probably my sax.",
+      "translation": "多分私のサックス。",
+      "replies": [
+        {
+          "id": "e086-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "What is that sound?",
+          "translation": "あの音は何？"
+        }
+      ]
+    },
+    {
+      "id": "e087",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I found a coin.",
+      "translation": "コインを見つけた。",
+      "replies": [
+        {
+          "id": "e087-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Lucky you!",
+          "translation": "運がいいね！"
+        }
+      ]
+    },
+    {
+      "id": "e088",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "Lucky you!",
+      "translation": "運がいいね！",
+      "replies": [
+        {
+          "id": "e088-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "I found a coin.",
+          "translation": "コインを見つけた。"
+        }
+      ]
+    },
+    {
+      "id": "e089",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "This soup is cold.",
+      "translation": "このスープ冷たい。",
+      "replies": [
+        {
+          "id": "e089-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Heat it up!",
+          "translation": "温めて！"
+        }
+      ]
+    },
+    {
+      "id": "e090",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "Heat it up!",
+      "translation": "温めて！",
+      "replies": [
+        {
+          "id": "e090-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "This soup is cold.",
+          "translation": "このスープ冷たい。"
+        }
+      ]
+    },
+    {
+      "id": "e091",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I miss the sun.",
+      "translation": "太陽が恋しい。",
+      "replies": [
+        {
+          "id": "e091-r1",
+          "author": "Sleepy Cat",
+          "avatar": "🐈",
+          "text": "Come to Sunvale!",
+          "translation": "Sunvaleへおいで！"
+        }
+      ]
+    },
+    {
+      "id": "e092",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "Come to Sunvale!",
+      "translation": "Sunvaleへおいで！",
+      "replies": [
+        {
+          "id": "e092-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I miss the sun.",
+          "translation": "太陽が恋しい。"
+        }
+      ]
+    },
+    {
+      "id": "e093",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My computer is slow.",
+      "translation": "パソコンが遅い。",
+      "replies": [
+        {
+          "id": "e093-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "Mine is sleeping.",
+          "translation": "私のは寝てるよ。"
+        }
+      ]
+    },
+    {
+      "id": "e094",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "Mine is sleeping.",
+      "translation": "私のは寝てるよ。",
+      "replies": [
+        {
+          "id": "e094-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "My computer is slow.",
+          "translation": "パソコンが遅い。"
+        }
+      ]
+    },
+    {
+      "id": "e095",
+      "category": "easy",
+      "author": "Sleepy Cat",
+      "avatar": "🐈",
+      "text": "I saw a rainbow!",
+      "translation": "虹を見たよ！",
+      "replies": [
+        {
+          "id": "e095-r1",
+          "author": "Office Ghost",
+          "avatar": "👻",
+          "text": "That is wonderful!",
+          "translation": "すてき！"
+        }
+      ]
+    },
+    {
+      "id": "e096",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "That is wonderful!",
+      "translation": "すてき！",
+      "replies": [
+        {
+          "id": "e096-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "I saw a rainbow!",
+          "translation": "虹を見たよ！"
+        }
+      ]
+    },
+    {
+      "id": "e097",
+      "category": "easy",
+      "author": "Rainy Rabbit",
+      "avatar": "🐰",
+      "text": "My new reed squeaks.",
+      "translation": "新しいリードが鳴く。",
+      "replies": [
+        {
+          "id": "e097-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Welcome to jazz.",
+          "translation": "ジャズへようこそ。"
+        }
+      ]
+    },
+    {
+      "id": "e098",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Welcome to jazz.",
+      "translation": "ジャズへようこそ。",
+      "replies": [
+        {
+          "id": "e098-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "My new reed squeaks.",
+          "translation": "新しいリードが鳴く。"
+        }
+      ]
+    },
+    {
+      "id": "e099",
+      "category": "easy",
+      "author": "Office Ghost",
+      "avatar": "👻",
+      "text": "I love this place.",
+      "translation": "ここが大好き。",
+      "replies": [
+        {
+          "id": "e099-r1",
+          "author": "Nova Orbit",
+          "avatar": "👽",
+          "text": "We love you too!",
+          "translation": "私たちもあなたが好き！"
+        }
+      ]
+    },
+    {
+      "id": "e100",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "We love you too!",
+      "translation": "私たちもあなたが好き！",
+      "replies": [
+        {
+          "id": "e100-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "I love this place.",
+          "translation": "ここが大好き。"
+        }
+      ]
+    }
+  ]
+}

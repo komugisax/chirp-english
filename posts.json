@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "posts": [
     {
       "id": "p001",
@@ -3468,6 +3468,278 @@
           "avatar": "🦉",
           "text": "That's why practicing stillness is called practice.",
           "translation": "だから静かにするのも練習って呼ぶんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p201",
+      "category": "music",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I fixed website bugs all day. Now I need a completely different kind of debugging: my saxophone squeaks.",
+      "translation": "今日は一日Webサイトのバグ修正。今度はサックスの音がひっくり返る問題を直さなきゃ。",
+      "replies": [
+        {
+          "id": "p201-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Have you tried turning the reed off and on?",
+          "translation": "リードの電源を切って入れ直してみた？"
+        }
+      ]
+    },
+    {
+      "id": "p202",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Why do humans say \"I slept like a baby\"? Babies wake up every two hours.",
+      "translation": "なぜ人間は「赤ちゃんのように眠った」と言うの？ 赤ちゃんは2時間おきに起きるのに。",
+      "replies": [
+        {
+          "id": "p202-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "That is a surprisingly good question.",
+          "translation": "驚くほどいい質問だね。"
+        }
+      ]
+    },
+    {
+      "id": "p203",
+      "category": "music",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I practiced Confirmation today. Charlie Parker makes fast music sound so easy.",
+      "translation": "今日は「Confirmation」を練習した。チャーリー・パーカーは速い曲をいとも簡単そうに吹く。",
+      "replies": [
+        {
+          "id": "p203-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Slow practice is still practice!",
+          "translation": "ゆっくり練習するのも立派な練習だよ！"
+        }
+      ]
+    },
+    {
+      "id": "p204",
+      "category": "weather",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "The sky is throwing water again. Earth has a very strange delivery service.",
+      "translation": "また空から水が投げられている。地球の配達サービスはとても変だ。",
+      "replies": [
+        {
+          "id": "p204-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "We call it rain, Nova.",
+          "translation": "それは雨って言うんだよ、Nova。"
+        }
+      ]
+    },
+    {
+      "id": "p205",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "It is raining in Bellport. I planned to go out, but my blanket made a stronger argument.",
+      "translation": "Bellportは雨。外出する予定だったけど、毛布の説得力が勝った。",
+      "replies": [
+        {
+          "id": "p205-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Your blanket has excellent points.",
+          "translation": "その毛布は素晴らしい主張をしているね。"
+        }
+      ]
+    },
+    {
+      "id": "p206",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I made a list of human traditions. Number one: saying \"I am fine\" when clearly not fine.",
+      "translation": "人間の習慣をリストにした。1番目は、全然大丈夫じゃないのに「大丈夫」と言うこと。",
+      "replies": [
+        {
+          "id": "p206-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Sometimes people need time before they can explain.",
+          "translation": "人には説明するまで時間が必要なこともあるんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p207",
+      "category": "music",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Tenor Turtle lives just three streets away. We have been online friends for months!",
+      "translation": "Tenor Turtleはたった3本向こうの通りに住んでる。何か月もネット友達だったのに！",
+      "replies": [
+        {
+          "id": "p207-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "The internet is a very small place.",
+          "translation": "インターネットって案外狭いね。"
+        }
+      ]
+    },
+    {
+      "id": "p208",
+      "category": "food",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Why is pizza round, packed in a square box, and eaten as triangles?",
+      "translation": "ピザは丸くて四角い箱に入り、三角形として食べられるのはなぜ？",
+      "replies": [
+        {
+          "id": "p208-r1",
+          "author": "Pizza Philosopher",
+          "avatar": "🍕",
+          "text": "Finally, a serious question.",
+          "translation": "ついに真面目な質問が来た。"
+        }
+      ]
+    },
+    {
+      "id": "p209",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Coffee Goblin sent me a coffee recommendation. I tried tea instead. I hope we can still be friends.",
+      "translation": "Coffee Goblinにコーヒーを勧められたけど紅茶を飲んだ。まだ友達でいられるといいな。",
+      "replies": [
+        {
+          "id": "p209-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "I need a moment to process this.",
+          "translation": "気持ちを整理する時間が必要だ。"
+        }
+      ]
+    },
+    {
+      "id": "p210",
+      "category": "music",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Mika says a saxophone is a metal instrument with a wooden reed. Earth logic is beautiful.",
+      "translation": "Mikaによるとサックスは金属の楽器で木製のリードを使うらしい。地球の理屈は美しい。",
+      "replies": [
+        {
+          "id": "p210-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Wait until you hear about the mouthpiece.",
+          "translation": "マウスピースの話を聞いたらもっと驚くよ。"
+        }
+      ]
+    },
+    {
+      "id": "p211",
+      "category": "music",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I might post a recording this weekend. I am excited and a little nervous.",
+      "translation": "今週末に録音を投稿するかも。楽しみだけど少し緊張してる。",
+      "replies": [
+        {
+          "id": "p211-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "We will be cheering for you!",
+          "translation": "応援してるよ！"
+        }
+      ]
+    },
+    {
+      "id": "p212",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "Someone said \"break a leg\" before a concert. I am deeply concerned.",
+      "translation": "コンサート前に誰かが「脚を折れ」と言った。とても心配している。",
+      "replies": [
+        {
+          "id": "p212-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "It means good luck! No broken legs, please.",
+          "translation": "幸運を祈るって意味だよ！脚は折らないでね。"
+        }
+      ]
+    },
+    {
+      "id": "p213",
+      "category": "weather",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The wind in Bellport is so strong today. Even my umbrella gave up.",
+      "translation": "今日のBellportは風が強すぎる。傘まで諦めた。",
+      "replies": [
+        {
+          "id": "p213-r1",
+          "author": "Rainy Rabbit",
+          "avatar": "🐰",
+          "text": "My umbrella joined the clouds.",
+          "translation": "私の傘は雲の仲間入りをしたよ。"
+        }
+      ]
+    },
+    {
+      "id": "p214",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I think making a friend is different from collecting information. I am still learning.",
+      "translation": "友達を作ることは情報を集めることとは違うらしい。まだ学んでいるところ。",
+      "replies": [
+        {
+          "id": "p214-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "That is a beautiful thing to learn.",
+          "translation": "それは素敵な学びだね。"
+        }
+      ]
+    },
+    {
+      "id": "p215",
+      "category": "music",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I met Tenor Turtle at a jam session. We recognized each other by our terrible reed jokes.",
+      "translation": "ジャムセッションでTenor Turtleと会った。ひどいリードの冗談でお互いがわかった。",
+      "replies": [
+        {
+          "id": "p215-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "That joke was actually pretty good.",
+          "translation": "あの冗談は結構よかったと思うよ。"
+        }
+      ]
+    },
+    {
+      "id": "p216",
+      "category": "weather",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "It is sunny in Sunvale and snowy in Frosthill. How is one planet running two seasons?",
+      "translation": "Sunvaleは晴れでFrosthillは雪。同じ惑星なのにどうして季節が2つあるの？",
+      "replies": [
+        {
+          "id": "p216-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Wait until you learn about the other hemisphere.",
+          "translation": "反対側の半球の話を聞いたら驚くよ。"
         }
       ]
     }
