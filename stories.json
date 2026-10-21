@@ -9,42 +9,11 @@
       "everyDays": 1,
       "episodes": [
         {
-          "id": "s4-rosie01",
-          "author": "The Chirp Times",
-          "text": "LOCAL NEWS: A new restaurant called Rosie's Kitchen will open in Bellport soon. Owner Rosie Pan says everyone is welcome.",
-          "translation": "地元ニュース：BellportにRosie’s Kitchenという新しいレストランがまもなく開店します。店主のRosie Panさんは、誰でも歓迎すると話しています。",
-          "easyText": "A new restaurant is coming!",
-          "replies": [
-            {
-              "author": "Coffee Goblin",
-              "text": "Will they have coffee?",
-              "translation": "コーヒーはあるかな？",
-              "delay": 5000,
-              "easyText": "Will they have coffee?"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "It's near my office!",
-              "translation": "職場の近くだ！",
-              "delay": 12000,
-              "easyText": "It's near my office!"
-            },
-            {
-              "author": "Rosie Pan",
-              "text": "Yes, we have coffee. And soup!",
-              "translation": "はい、コーヒーもスープもあります！",
-              "delay": 21000,
-              "easyText": "Yes, we have coffee. And soup!"
-            }
-          ],
-          "category": "story"
-        },
-        {
           "id": "s4-rosie02",
           "author": "Rosie Pan",
-          "text": "I'm opening my own restaurant. I'm excited, but I'm also nervous!",
-          "translation": "自分のお店をオープンします。楽しみだけど、緊張もしています！",
-          "easyText": "I'm opening my restaurant!",
+          "text": "I'm almost ready to open my restaurant! I still have so much to do.",
+          "translation": "もうすぐ自分のお店がオープンする！まだやることがいっぱい。",
+          "easyText": "My restaurant opens soon!",
           "replies": [
             {
               "author": "Wise Owl",
@@ -72,10 +41,10 @@
         },
         {
           "id": "s4-rosie03",
-          "author": "Rosie's Kitchen",
-          "text": "Hello, Bellport! Our doors open tomorrow at noon. Come say hi!",
-          "translation": "こんにちは、Bellport！明日の正午に開店します。ぜひ遊びに来てね！",
-          "easyText": "We open tomorrow at noon!",
+          "author": "Rosie Pan",
+          "text": "The sign is up! We're opening this Saturday. I'm so nervous!",
+          "translation": "看板がついた！今週土曜日にオープンするよ。すごく緊張する！",
+          "easyText": "We open this Saturday!",
           "replies": [
             {
               "author": "Mika Reed",
@@ -90,6 +59,37 @@
               "translation": "まずコーヒー。それからランチ。",
               "delay": 14000,
               "easyText": "Coffee first. Then lunch."
+            }
+          ],
+          "category": "story"
+        },
+        {
+          "id": "s4-rosie01",
+          "author": "The Chirp Times",
+          "text": "LOCAL NEWS: Rosie Pan will open Rosie's Kitchen in Bellport this Saturday. The owner has been preparing for months.",
+          "translation": "地元ニュース：Rosie Panさんの「Rosie’s Kitchen」が今週土曜日、Bellportに開店予定。店主は数か月にわたり準備を進めてきました。",
+          "easyText": "Rosie's Kitchen opens Saturday!",
+          "replies": [
+            {
+              "author": "Coffee Goblin",
+              "text": "Will they have coffee?",
+              "translation": "コーヒーはあるかな？",
+              "delay": 5000,
+              "easyText": "Will they have coffee?"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "It's near my office!",
+              "translation": "職場の近くだ！",
+              "delay": 12000,
+              "easyText": "It's near my office!"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Yes, we have coffee. And soup!",
+              "translation": "はい、コーヒーもスープもあります！",
+              "delay": 21000,
+              "easyText": "Yes, we have coffee. And soup!"
             }
           ],
           "category": "story"
