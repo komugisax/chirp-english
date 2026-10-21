@@ -25,8 +25,24 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 - Main post body text size options (Standard, +2px, +4px)
 - DM unread badge and short everyday mood posts
 - New content can be added through JSON files over time
+- Fictional Eastmere city and its neighborhoods introduced in Ver.4.4
 
 ## Version History
+
+### Ver.4.4 — Reading Comfort & Eastmere Introduction 🏙️
+
+- Saved the Feed reading location when switching between bottom tabs, including DMs, Stories, People, and Stats.
+- Improved translation/replies click behavior to preserve the current post's place on the screen.
+- Restored consistent padding and touch-target sizes for Translate, replies, and Save buttons.
+- Made Japanese translation text smaller and less visually prominent than the English post body.
+- Prevented the same story/local post from appearing twice as both a fresh post and a newly replied-to post in the same feed section.
+- Changed the Stories tab icon from a globe to an open book.
+- Introduced **Eastmere**, a fictional train-oriented city inspired by Tokyo, with Neonbridge, Willow Lane, Cloverfield (including Harmony Street instrument shops), and Brookside Concert Hall.
+- Added four fictional accounts: Chloe Spark, Daily Wellness, Clara Strings, and Lily Pop, with short Easy variants and new everyday posts.
+- The full Eastmere travel story is planned for a later update; no travel storyline is included here.
+- Kept the same local save-data key and existing post IDs, so previously saved progress should be retained. Back up before updating.
+
+
 
 ### Ver.4.3 — More Natural Conversations & Reading
 

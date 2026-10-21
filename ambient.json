@@ -1,5 +1,5 @@
 {
-  "version": "4.3",
+  "version": "4.4",
   "posts": [
     {
       "id": "a4-weather-morning",
@@ -202,6 +202,180 @@
       "easyText": "Why do babies wake up?",
       "daypart": "night",
       "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-eastmere-intro",
+      "author": "The Chirp Times",
+      "text": "CITY GUIDE: Eastmere is a big city with many different neighborhoods. Its trains connect bright downtown streets and quiet residential areas.",
+      "translation": "街の案内：Eastmereはさまざまな地域がある大都市。鉄道がにぎやかな都心と静かな住宅街をつないでいます。",
+      "easyText": "Eastmere is a big city. It has many trains.",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-neon",
+      "author": "Chloe Spark",
+      "text": "Morning rush in Neonbridge. The trains are packed, but I made it to work on time!",
+      "translation": "Neonbridgeの朝のラッシュ。電車は満員だったけど、仕事には間に合った！",
+      "easyText": "The train is full!",
+      "daypart": "morning",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-willow",
+      "author": "Chloe Spark",
+      "text": "Back home in Willow Lane. The little bakery on my street smells wonderful.",
+      "translation": "Willow Laneの自宅に帰ってきた。近所の小さなパン屋さん、すごくいい匂い。",
+      "easyText": "I am home. The bakery smells good.",
+      "daypart": "evening",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-clover",
+      "author": "Lily Pop",
+      "text": "There are so many tiny record stores in Cloverfield. I could spend all day here!",
+      "translation": "Cloverfieldには小さなレコード店がいっぱい。一日中いられそう！",
+      "easyText": "I love these record stores!",
+      "daypart": "afternoon",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-harmony",
+      "author": "Lily Pop",
+      "text": "I walked down Harmony Street today. Guitars, violins, saxophones... I wanted to try everything!",
+      "translation": "今日はHarmony Streetを歩いた。ギターにバイオリンにサックス……全部試してみたくなった！",
+      "easyText": "So many instruments here!",
+      "daypart": "afternoon",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Mika Reed",
+          "text": "A saxophone shop? Now I want to visit!",
+          "translation": "サックスのお店？行ってみたくなった！",
+          "easyText": "I want to visit!",
+          "delay": 7000
+        }
+      ]
+    },
+    {
+      "id": "a44-brookside",
+      "author": "Clara Strings",
+      "text": "Rehearsal is over. I love the sound inside Brookside Concert Hall.",
+      "translation": "リハーサル終わった！Brookside Concert Hallの響き、ほんとに好き。",
+      "easyText": "Practice is over!",
+      "daypart": "evening",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Lily Pop",
+          "text": "I want to hear your concert someday!",
+          "translation": "いつかコンサートを聴いてみたい！",
+          "easyText": "I want to go!",
+          "delay": 6000
+        }
+      ]
+    },
+    {
+      "id": "a44-clara",
+      "author": "Clara Strings",
+      "text": "Concert tickets are on sale! We are playing at Brookside Concert Hall next month.",
+      "translation": "コンサートのチケットが発売中！来月Brookside Concert Hallで演奏するよ。",
+      "easyText": "My concert is next month!",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-pop",
+      "author": "Lily Pop",
+      "text": "I finally got tickets for my favorite pop band! I am so excited!",
+      "translation": "大好きなポップバンドのチケットが取れた！めっちゃ楽しみ！",
+      "easyText": "I got concert tickets!",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-review",
+      "author": "Chloe Spark",
+      "text": "I tried the fictional CloudGlow lip balm. Lovely scent, but a little too sticky. 6/10. Not sponsored.",
+      "translation": "架空のCloudGlowリップバームを試してみた。香りはいいけど、ちょっとベタつく。10点中6点。PRではありません。",
+      "easyText": "Nice smell. Too sticky!",
+      "daypart": "any",
+      "season": "all",
+      "replies": [
+        {
+          "author": "Nova Orbit",
+          "text": "Why do humans want shiny lips?",
+          "translation": "人間はどうして唇をツヤツヤにしたいの？",
+          "easyText": "Why shiny lips?",
+          "delay": 7000
+        }
+      ]
+    },
+    {
+      "id": "a44-ad",
+      "author": "Chloe Spark",
+      "text": "Ad · Fictional brand: MoonMug sent me their color-changing cup. The design is cute, but it is expensive!",
+      "translation": "PR・架空ブランド：MoonMugから色が変わるカップを提供してもらったよ。デザインはかわいいけど、高い！",
+      "easyText": "Ad: Cute cup. Too expensive!",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-sleep",
+      "author": "Daily Wellness",
+      "text": "Getting enough sleep supports your health. Try to keep a regular bedtime when you can.",
+      "translation": "十分な睡眠は健康維持に役立ちます。できる範囲で寝る時間を一定にしてみましょう。",
+      "easyText": "Sleep is important for health.",
+      "daypart": "night",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-vitamin",
+      "author": "Daily Wellness",
+      "text": "Vitamin C helps the body make collagen. Fruits and vegetables are common sources.",
+      "translation": "ビタミンCは体内でコラーゲンを作るのを助けます。果物や野菜から摂取できます。",
+      "easyText": "Fruit has vitamin C.",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-walk",
+      "author": "Daily Wellness",
+      "text": "A short walk is one simple way to be active. Small steps count, too.",
+      "translation": "短い散歩も体を動かす方法のひとつ。少しずつでもいいんです。",
+      "easyText": "A short walk is good.",
+      "daypart": "afternoon",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-eastmere-transit",
+      "author": "The Chirp Times",
+      "text": "LOCAL LIFE: Eastmere commuters rely on trains. The riverside Brookside district is a popular weekend stop.",
+      "translation": "街の暮らし：Eastmereでは鉄道が通勤の足。週末には川沿いのBrooksideが人気です。",
+      "easyText": "Eastmere has many trains.",
+      "daypart": "any",
+      "season": "all",
+      "replies": []
+    },
+    {
+      "id": "a44-autumn",
+      "author": "Lily Pop",
+      "text": "The leaves are changing color in Brookside. Maybe I will visit after my next concert.",
+      "translation": "Brooksideの木々が色づいてきた。次のコンサートのあとに行こうかな。",
+      "easyText": "The leaves are red!",
+      "daypart": "afternoon",
+      "season": "autumn",
       "replies": []
     }
   ]

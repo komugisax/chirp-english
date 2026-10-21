@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": "4.4",
   "users": [
     {
       "id": "mellow_moon",
@@ -306,6 +306,42 @@
       "color": "#F7C98A",
       "location": "Bellport",
       "bio": "A brand-new fictional family restaurant. Homemade meals and warm smiles."
+    },
+    {
+      "id": "chloe_spark",
+      "name": "Chloe Spark",
+      "handle": "@chloe_glows",
+      "avatar": "💄",
+      "color": "#F5C5E5",
+      "location": "Willow Lane, Eastmere",
+      "bio": "Honest reviews of fictional products, fashion finds, and daily life. Works around Neonbridge."
+    },
+    {
+      "id": "daily_wellness",
+      "name": "Daily Wellness",
+      "handle": "@dailywellness",
+      "avatar": "🌿",
+      "color": "#B9E5CF",
+      "location": "Eastmere (fictional publication)",
+      "bio": "General wellness tips about sleep, food, movement and everyday health. Fictional publication, not medical advice."
+    },
+    {
+      "id": "clara_strings",
+      "name": "Clara Strings",
+      "handle": "@clara_strings",
+      "avatar": "🎻",
+      "color": "#E1D5F5",
+      "location": "Brookside, Eastmere",
+      "bio": "Orchestra violinist who enjoys chamber music, quiet river walks, and bad puns."
+    },
+    {
+      "id": "lily_pop",
+      "name": "Lily Pop",
+      "handle": "@lily_pop",
+      "avatar": "🎤",
+      "color": "#F5D1C2",
+      "location": "Cloverfield, Eastmere",
+      "bio": "Pop music fan, concertgoer and karaoke enthusiast. Not a professional singer."
     }
   ]
 }

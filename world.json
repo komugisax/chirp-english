@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": "4.4",
   "notice": "ALL towns, accounts, news, forecasts and events are fictional. No live news or weather.",
   "cities": [
     {
@@ -19,6 +19,30 @@
       "timezone": "Europe/Oslo",
       "climate": "cold",
       "description": "Mountain town with long winters."
+    },
+    {
+      "name": "Eastmere",
+      "timezone": "Asia/Tokyo",
+      "climate": "four seasons",
+      "description": "Large fictional rail-connected city inspired by the varied neighborhoods of Tokyo, but not Tokyo.",
+      "districts": [
+        {
+          "name": "Neonbridge",
+          "description": "Busy downtown with large train stations, offices and nightlife."
+        },
+        {
+          "name": "Willow Lane",
+          "description": "Quiet historic residential neighborhood with small local shops and friendly neighbors."
+        },
+        {
+          "name": "Cloverfield",
+          "description": "Creative area with indie music venues, cafés, secondhand shops, games and Harmony Street instrument shops."
+        },
+        {
+          "name": "Brookside",
+          "description": "Riverside neighborhoods with cycling paths, a public library and Brookside Concert Hall."
+        }
+      ]
     }
   ]
 }
