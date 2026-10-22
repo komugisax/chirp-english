@@ -2117,6 +2117,21 @@
       ]
     },
     {
+      "id": "e453-o01",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I have two questions.",
+      "translation": "質問が二つある。",
+      "replies": [
+        {
+          "id": "e453-o01-r1",
+          "author": "Bookish Fox",
+          "text": "Maybe it is in a book.",
+          "translation": "本の中にあるかも。"
+        }
+      ]
+    },
+    {
       "id": "e45-024",
       "category": "books",
       "author": "Chloe Spark",
@@ -2184,6 +2199,21 @@
       ]
     },
     {
+      "id": "e453-o02",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I tried new bread.",
+      "translation": "新しいパンを試した。",
+      "replies": [
+        {
+          "id": "e453-o02-r1",
+          "author": "Rosie Pan",
+          "text": "New bread is fun!",
+          "translation": "新しいパンは楽しいね！"
+        }
+      ]
+    },
+    {
       "id": "e45-028",
       "category": "train",
       "author": "Nova Orbit",
@@ -2232,6 +2262,21 @@
           "author": "Sleepy Cat",
           "text": "Boxes always win.",
           "translation": "箱には勝てない。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o03",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The bench is fixed.",
+      "translation": "ベンチが直った。",
+      "replies": [
+        {
+          "id": "e453-o03-r1",
+          "author": "Mika Reed",
+          "text": "I saw that bench!",
+          "translation": "そのベンチ、見たよ！"
         }
       ]
     },
@@ -2310,6 +2355,21 @@
       ]
     },
     {
+      "id": "e453-o04",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I like quiet songs.",
+      "translation": "静かな曲が好き。",
+      "replies": [
+        {
+          "id": "e453-o04-r1",
+          "author": "Tenor Turtle",
+          "text": "I like quiet music.",
+          "translation": "静かな音楽が好き。"
+        }
+      ]
+    },
+    {
       "id": "e45-035",
       "category": "work",
       "author": "Bookish Fox",
@@ -2358,6 +2418,21 @@
           "author": "Sleepy Cat",
           "text": "Sleep a little longer!",
           "translation": "もう少し寝よう！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o05",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "My joke did not work.",
+      "translation": "冗談がうまくいかなかった。",
+      "replies": [
+        {
+          "id": "e453-o05-r1",
+          "author": "Jazz Cat",
+          "text": "Jokes are hard!",
+          "translation": "冗談って難しいね！"
         }
       ]
     },
@@ -2429,6 +2504,21 @@
       ]
     },
     {
+      "id": "e453-o06",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The train was late.",
+      "translation": "電車が遅れた。",
+      "replies": [
+        {
+          "id": "e453-o06-r1",
+          "author": "Chloe Spark",
+          "text": "People can be kind.",
+          "translation": "人は親切だね。"
+        }
+      ]
+    },
+    {
       "id": "e45-042",
       "category": "shopping",
       "author": "Lily Pop",
@@ -2477,6 +2567,21 @@
           "author": "Chloe Spark",
           "text": "Pretty paper!",
           "translation": "きれいな紙！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o07",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I asked for help.",
+      "translation": "助けを求めた。",
+      "replies": [
+        {
+          "id": "e453-o07-r1",
+          "author": "Wise Owl",
+          "text": "Asking takes courage.",
+          "translation": "聞くには勇気がいるね。"
         }
       ]
     },
@@ -2555,6 +2660,21 @@
       ]
     },
     {
+      "id": "e453-o08",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "My tea got cold.",
+      "translation": "お茶が冷めた。",
+      "replies": [
+        {
+          "id": "e453-o08-r1",
+          "author": "Coffee Goblin",
+          "text": "My coffee got cold, too.",
+          "translation": "私のコーヒーも冷めたよ。"
+        }
+      ]
+    },
+    {
       "id": "e45-049",
       "category": "plants",
       "author": "Wise Owl",
@@ -2610,6 +2730,21 @@
           "text": "I love fresh herbs.",
           "translation": "新鮮なハーブが好き。",
           "delay": 240000
+        }
+      ]
+    },
+    {
+      "id": "e453-o09",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Music holds memories.",
+      "translation": "音楽には思い出がある。",
+      "replies": [
+        {
+          "id": "e453-o09-r1",
+          "author": "Clara Strings",
+          "text": "Music brings back memories.",
+          "translation": "音楽は思い出を呼ぶね。"
         }
       ]
     },
@@ -2681,6 +2816,21 @@
       ]
     },
     {
+      "id": "e453-o10",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The library looks new.",
+      "translation": "図書館が新しく見える。",
+      "replies": [
+        {
+          "id": "e453-o10-r1",
+          "author": "Bookish Fox",
+          "text": "I want to visit!",
+          "translation": "行ってみたい！"
+        }
+      ]
+    },
+    {
       "id": "e45-056",
       "category": "friends",
       "author": "Lily Pop",
@@ -2729,6 +2879,21 @@
           "author": "Penguin Intern",
           "text": "So cozy!",
           "translation": "ぬくぬくだね！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o11",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I made a mistake.",
+      "translation": "間違えちゃった。",
+      "replies": [
+        {
+          "id": "e453-o11-r1",
+          "author": "Rosie Pan",
+          "text": "I make mistakes, too.",
+          "translation": "私も間違えるよ。"
         }
       ]
     },
@@ -2814,6 +2979,21 @@
       ]
     },
     {
+      "id": "e453-o12",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "A cat is sleeping.",
+      "translation": "猫が寝ている。",
+      "replies": [
+        {
+          "id": "e453-o12-r1",
+          "author": "Jazz Cat",
+          "text": "That cat loves music!",
+          "translation": "その猫は音楽が好き！"
+        }
+      ]
+    },
+    {
       "id": "e45-063",
       "category": "sax",
       "author": "Soprano Star",
@@ -2876,6 +3056,21 @@
           "text": "You sound great!",
           "translation": "いい音だね！",
           "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "e453-w01",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Regular sleep can help.",
+      "translation": "規則的な睡眠が役立つよ。",
+      "replies": [
+        {
+          "id": "e453-w01-r1",
+          "author": "Sleepy Cat",
+          "text": "My sleep time changes.",
+          "translation": "寝る時間が変わっちゃう。"
         }
       ]
     },
@@ -2954,6 +3149,21 @@
       ]
     },
     {
+      "id": "e453-w02",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Short walks count.",
+      "translation": "短い散歩も運動だよ。",
+      "replies": [
+        {
+          "id": "e453-w02-r1",
+          "author": "Tenor Turtle",
+          "text": "I walk slowly.",
+          "translation": "ゆっくり歩くよ。"
+        }
+      ]
+    },
+    {
       "id": "e45-070",
       "category": "pop",
       "author": "Lily Pop",
@@ -3009,6 +3219,21 @@
           "text": "I love that moment.",
           "translation": "あの瞬間が好き。",
           "delay": 300000
+        }
+      ]
+    },
+    {
+      "id": "e453-w03",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Eat different vegetables.",
+      "translation": "いろんな野菜を食べよう。",
+      "replies": [
+        {
+          "id": "e453-w03-r1",
+          "author": "Rosie Pan",
+          "text": "I will make soup!",
+          "translation": "スープを作るよ！"
         }
       ]
     },
@@ -3087,6 +3312,21 @@
       ]
     },
     {
+      "id": "e453-w04",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Drink water when hot.",
+      "translation": "暑いときは水を飲もう。",
+      "replies": [
+        {
+          "id": "e453-w04-r1",
+          "author": "Coffee Goblin",
+          "text": "Water with my coffee!",
+          "translation": "コーヒーと一緒に水も！"
+        }
+      ]
+    },
+    {
       "id": "e45-077",
       "category": "clothes",
       "author": "Tenor Turtle",
@@ -3128,6 +3368,21 @@
           "author": "Wise Owl",
           "text": "Stay warm!",
           "translation": "暖かくしてね！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w05",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Take a screen break.",
+      "translation": "画面から少し離れよう。",
+      "replies": [
+        {
+          "id": "e453-w05-r1",
+          "author": "Tech Gremlin",
+          "text": "I will rest my eyes.",
+          "translation": "目を休めるよ。"
         }
       ]
     },
@@ -3199,6 +3454,21 @@
       ]
     },
     {
+      "id": "e453-w06",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Balance matters, too.",
+      "translation": "バランス運動も大切。",
+      "replies": [
+        {
+          "id": "e453-w06-r1",
+          "author": "Garden Snail",
+          "text": "I like to garden.",
+          "translation": "庭仕事が好き。"
+        }
+      ]
+    },
+    {
       "id": "e45-084",
       "category": "pets",
       "author": "Clara Strings",
@@ -3254,6 +3524,21 @@
           "author": "Bookish Fox",
           "text": "Good night, book!",
           "translation": "本、おやすみ！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w07",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Rest days are okay.",
+      "translation": "休む日も大切。",
+      "replies": [
+        {
+          "id": "e453-w07-r1",
+          "author": "Mika Reed",
+          "text": "My shoulders need rest.",
+          "translation": "肩を休めないと。"
         }
       ]
     },
@@ -3332,6 +3617,21 @@
       ]
     },
     {
+      "id": "e453-w08",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Meals need not be perfect.",
+      "translation": "食事は完璧じゃなくていい。",
+      "replies": [
+        {
+          "id": "e453-w08-r1",
+          "author": "Rosie Pan",
+          "text": "Good news for cooks!",
+          "translation": "料理する人には朗報！"
+        }
+      ]
+    },
+    {
       "id": "e45-091",
       "category": "tech",
       "author": "Tenor Turtle",
@@ -3380,6 +3680,21 @@
           "author": "Chloe Spark",
           "text": "Which color?",
           "translation": "何色だった？"
+        }
+      ]
+    },
+    {
+      "id": "e453-w09",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Daylight helps your clock.",
+      "translation": "日光は体内時計に役立つ。",
+      "replies": [
+        {
+          "id": "e453-w09-r1",
+          "author": "Wise Owl",
+          "text": "I will open the curtains.",
+          "translation": "カーテンを開けよう。"
         }
       ]
     },
@@ -3458,6 +3773,21 @@
       ]
     },
     {
+      "id": "e453-w10",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "You can ask for help.",
+      "translation": "助けを求めてもいい。",
+      "replies": [
+        {
+          "id": "e453-w10-r1",
+          "author": "Ollie",
+          "text": "Asking can be hard.",
+          "translation": "聞くのは難しいこともあるね。"
+        }
+      ]
+    },
+    {
       "id": "e45-098",
       "category": "smalljoy",
       "author": "Chloe Spark",
@@ -3513,336 +3843,6 @@
           "text": "What a sunset!",
           "translation": "なんて夕焼け！",
           "delay": 180000
-        }
-      ]
-    },
-    {
-      "id": "e453-o01",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I have two questions.",
-      "translation": "質問が二つある。",
-      "replies": [
-        {
-          "id": "e453-o01-r1",
-          "author": "Bookish Fox",
-          "text": "Maybe it is in a book.",
-          "translation": "本の中にあるかも。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o02",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I tried new bread.",
-      "translation": "新しいパンを試した。",
-      "replies": [
-        {
-          "id": "e453-o02-r1",
-          "author": "Rosie Pan",
-          "text": "New bread is fun!",
-          "translation": "新しいパンは楽しいね！"
-        }
-      ]
-    },
-    {
-      "id": "e453-o03",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The bench is fixed.",
-      "translation": "ベンチが直った。",
-      "replies": [
-        {
-          "id": "e453-o03-r1",
-          "author": "Mika Reed",
-          "text": "I saw that bench!",
-          "translation": "そのベンチ、見たよ！"
-        }
-      ]
-    },
-    {
-      "id": "e453-o04",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I like quiet songs.",
-      "translation": "静かな曲が好き。",
-      "replies": [
-        {
-          "id": "e453-o04-r1",
-          "author": "Tenor Turtle",
-          "text": "I like quiet music.",
-          "translation": "静かな音楽が好き。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o05",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "My joke did not work.",
-      "translation": "冗談がうまくいかなかった。",
-      "replies": [
-        {
-          "id": "e453-o05-r1",
-          "author": "Jazz Cat",
-          "text": "Jokes are hard!",
-          "translation": "冗談って難しいね！"
-        }
-      ]
-    },
-    {
-      "id": "e453-o06",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The train was late.",
-      "translation": "電車が遅れた。",
-      "replies": [
-        {
-          "id": "e453-o06-r1",
-          "author": "Chloe Spark",
-          "text": "People can be kind.",
-          "translation": "人は親切だね。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o07",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I asked for help.",
-      "translation": "助けを求めた。",
-      "replies": [
-        {
-          "id": "e453-o07-r1",
-          "author": "Wise Owl",
-          "text": "Asking takes courage.",
-          "translation": "聞くには勇気がいるね。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o08",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "My tea got cold.",
-      "translation": "お茶が冷めた。",
-      "replies": [
-        {
-          "id": "e453-o08-r1",
-          "author": "Coffee Goblin",
-          "text": "My coffee got cold, too.",
-          "translation": "私のコーヒーも冷めたよ。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o09",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "Music holds memories.",
-      "translation": "音楽には思い出がある。",
-      "replies": [
-        {
-          "id": "e453-o09-r1",
-          "author": "Clara Strings",
-          "text": "Music brings back memories.",
-          "translation": "音楽は思い出を呼ぶね。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o10",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The library looks new.",
-      "translation": "図書館が新しく見える。",
-      "replies": [
-        {
-          "id": "e453-o10-r1",
-          "author": "Bookish Fox",
-          "text": "I want to visit!",
-          "translation": "行ってみたい！"
-        }
-      ]
-    },
-    {
-      "id": "e453-o11",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I made a mistake.",
-      "translation": "間違えちゃった。",
-      "replies": [
-        {
-          "id": "e453-o11-r1",
-          "author": "Rosie Pan",
-          "text": "I make mistakes, too.",
-          "translation": "私も間違えるよ。"
-        }
-      ]
-    },
-    {
-      "id": "e453-o12",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "A cat is sleeping.",
-      "translation": "猫が寝ている。",
-      "replies": [
-        {
-          "id": "e453-o12-r1",
-          "author": "Jazz Cat",
-          "text": "That cat loves music!",
-          "translation": "その猫は音楽が好き！"
-        }
-      ]
-    },
-    {
-      "id": "e453-w01",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Regular sleep can help.",
-      "translation": "規則的な睡眠が役立つよ。",
-      "replies": [
-        {
-          "id": "e453-w01-r1",
-          "author": "Sleepy Cat",
-          "text": "My sleep time changes.",
-          "translation": "寝る時間が変わっちゃう。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w02",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Short walks count.",
-      "translation": "短い散歩も運動だよ。",
-      "replies": [
-        {
-          "id": "e453-w02-r1",
-          "author": "Tenor Turtle",
-          "text": "I walk slowly.",
-          "translation": "ゆっくり歩くよ。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w03",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Eat different vegetables.",
-      "translation": "いろんな野菜を食べよう。",
-      "replies": [
-        {
-          "id": "e453-w03-r1",
-          "author": "Rosie Pan",
-          "text": "I will make soup!",
-          "translation": "スープを作るよ！"
-        }
-      ]
-    },
-    {
-      "id": "e453-w04",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Drink water when hot.",
-      "translation": "暑いときは水を飲もう。",
-      "replies": [
-        {
-          "id": "e453-w04-r1",
-          "author": "Coffee Goblin",
-          "text": "Water with my coffee!",
-          "translation": "コーヒーと一緒に水も！"
-        }
-      ]
-    },
-    {
-      "id": "e453-w05",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Take a screen break.",
-      "translation": "画面から少し離れよう。",
-      "replies": [
-        {
-          "id": "e453-w05-r1",
-          "author": "Tech Gremlin",
-          "text": "I will rest my eyes.",
-          "translation": "目を休めるよ。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w06",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Balance matters, too.",
-      "translation": "バランス運動も大切。",
-      "replies": [
-        {
-          "id": "e453-w06-r1",
-          "author": "Garden Snail",
-          "text": "I like to garden.",
-          "translation": "庭仕事が好き。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w07",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Rest days are okay.",
-      "translation": "休む日も大切。",
-      "replies": [
-        {
-          "id": "e453-w07-r1",
-          "author": "Mika Reed",
-          "text": "My shoulders need rest.",
-          "translation": "肩を休めないと。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w08",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Meals need not be perfect.",
-      "translation": "食事は完璧じゃなくていい。",
-      "replies": [
-        {
-          "id": "e453-w08-r1",
-          "author": "Rosie Pan",
-          "text": "Good news for cooks!",
-          "translation": "料理する人には朗報！"
-        }
-      ]
-    },
-    {
-      "id": "e453-w09",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Daylight helps your clock.",
-      "translation": "日光は体内時計に役立つ。",
-      "replies": [
-        {
-          "id": "e453-w09-r1",
-          "author": "Wise Owl",
-          "text": "I will open the curtains.",
-          "translation": "カーテンを開けよう。"
-        }
-      ]
-    },
-    {
-      "id": "e453-w10",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "You can ask for help.",
-      "translation": "助けを求めてもいい。",
-      "replies": [
-        {
-          "id": "e453-w10-r1",
-          "author": "Ollie",
-          "text": "Asking can be hard.",
-          "translation": "聞くのは難しいこともあるね。"
         }
       ]
     }

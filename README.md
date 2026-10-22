@@ -159,7 +159,7 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Note: Older self-posts saved in the browser retain the replies originally saved with them; newly selected self-posts will use the improved moods.json replies.
 
 
-## Ver.4.5.3 – World & conversations consistency
+## Ver.4.5.4 – World & conversations consistency
 
 - Fixed instruments being played by unrelated characters in both Easy and Normal posts; prevented self-congratulatory replies from being attributed to the post author.
 - Added 46 contextual second replies per reading level. These may arrive after the post is first shown; earlier posts can appear again when a reply arrives without duplication or changing read IDs.
@@ -167,3 +167,10 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Added five optional DMs, including returning characters. Unread indicators continue to use existing save keys.
 - New-post screen is always called “Create a post”; welcome posts are available only before the first player post.
 - Preserves localStorage key `chirp-english-v3` and original post IDs. Back up progress before upgrading.
+
+
+### Ver.4.5.4 (DM pacing and feed variety)
+- New eligible DMs arrive one at a time, spaced approximately 20 hours apart. Previously read/completed messages remain accessible. No live background push notifications; messages appear when using the app.
+- After replying to a DM, the character's reply appears after about 3 seconds with a temporary "Typing…" indication.
+- Redistributed new Ollie and Daily Wellness posts among existing posts so no single account dominates the newest feed batch.
+- Preserves all earlier IDs and browser reading/bookmark/story progress.

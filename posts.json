@@ -4159,6 +4159,21 @@
       ]
     },
     {
+      "id": "p453-o01",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I wrote down a question and forgot why it mattered. Now I have two questions.",
+      "translation": "質問を書き留めたけど、なぜ気になったか忘れた。質問が二つになった。",
+      "replies": [
+        {
+          "id": "p453-o01-r1",
+          "author": "Bookish Fox",
+          "text": "Maybe the forgotten reason is hiding in a book.",
+          "translation": "理由は本の中に隠れているかも。"
+        }
+      ]
+    },
+    {
       "id": "p45-024",
       "category": "books",
       "author": "Chloe Spark",
@@ -4226,6 +4241,21 @@
       ]
     },
     {
+      "id": "p453-o02",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The bakery was out of bread, so I tried something new. I might go back.",
+      "translation": "パン屋で目当てのパンが売り切れだったから別のものを試した。また行くかも。",
+      "replies": [
+        {
+          "id": "p453-o02-r1",
+          "author": "Rosie Pan",
+          "text": "Unexpected discoveries are the best part of a bakery.",
+          "translation": "思いがけない発見がパン屋の醍醐味だよ。"
+        }
+      ]
+    },
+    {
       "id": "p45-028",
       "category": "train",
       "author": "Nova Orbit",
@@ -4274,6 +4304,21 @@
           "author": "Sleepy Cat",
           "text": "The box has better reviews in cat circles.",
           "translation": "猫界では箱のほうが高評価なんだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o03",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Someone fixed the broken bench by the harbor. I wonder who noticed first.",
+      "translation": "港の壊れたベンチが直っていた。誰が最初に気づいたんだろう。",
+      "replies": [
+        {
+          "id": "p453-o03-r1",
+          "author": "Mika Reed",
+          "text": "I passed it yesterday. It looks great now.",
+          "translation": "昨日そこを通ったよ。今はきれいだね。"
         }
       ]
     },
@@ -4352,6 +4397,21 @@
       ]
     },
     {
+      "id": "p453-o04",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I like songs that leave a little room for silence.",
+      "translation": "少しの沈黙を残してくれる曲が好き。",
+      "replies": [
+        {
+          "id": "p453-o04-r1",
+          "author": "Tenor Turtle",
+          "text": "Sometimes the rests are where the feeling lives.",
+          "translation": "休符に気持ちが宿ることもあるよね。"
+        }
+      ]
+    },
+    {
       "id": "p45-035",
       "category": "work",
       "author": "Bookish Fox",
@@ -4400,6 +4460,21 @@
           "author": "Sleepy Cat",
           "text": "A Saturday with no alarm is my favorite holiday.",
           "translation": "アラームのない土曜日が一番好きな祝日だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o05",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I tried to explain a joke. It stopped being funny halfway through.",
+      "translation": "冗談を説明しようとしたら途中で面白くなくなった。",
+      "replies": [
+        {
+          "id": "p453-o05-r1",
+          "author": "Jazz Cat",
+          "text": "That is why I never explain mine.",
+          "translation": "だから僕は冗談を説明しないんだ。"
         }
       ]
     },
@@ -4471,6 +4546,21 @@
       ]
     },
     {
+      "id": "p453-o06",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The train was late. A stranger shared a very useful shortcut.",
+      "translation": "電車が遅れた。知らない人が便利な近道を教えてくれた。",
+      "replies": [
+        {
+          "id": "p453-o06-r1",
+          "author": "Chloe Spark",
+          "text": "Helpful strangers make a city feel smaller.",
+          "translation": "親切な人がいると街が身近に感じられるね。"
+        }
+      ]
+    },
+    {
       "id": "p45-042",
       "category": "shopping",
       "author": "Lily Pop",
@@ -4519,6 +4609,21 @@
           "author": "Chloe Spark",
           "text": "Beautiful wrapping makes a gift feel like a tiny celebration.",
           "translation": "きれいな包装紙って小さなお祝いみたい。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o07",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Today I learned that asking for help can be a kind of courage.",
+      "translation": "助けを求めるのも勇気の一つだと今日学んだ。",
+      "replies": [
+        {
+          "id": "p453-o07-r1",
+          "author": "Wise Owl",
+          "text": "And letting someone help can build a friendship.",
+          "translation": "助けてもらうことで友情が生まれることもあるね。"
         }
       ]
     },
@@ -4597,6 +4702,21 @@
       ]
     },
     {
+      "id": "p453-o08",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I made tea and waited for it to cool. Then I forgot about it.",
+      "translation": "お茶をいれて冷めるのを待った。そして忘れた。",
+      "replies": [
+        {
+          "id": "p453-o08-r1",
+          "author": "Coffee Goblin",
+          "text": "My coffee has suffered the same fate.",
+          "translation": "僕のコーヒーも同じ運命をたどったよ。"
+        }
+      ]
+    },
+    {
       "id": "p45-049",
       "category": "plants",
       "author": "Wise Owl",
@@ -4652,6 +4772,21 @@
           "text": "Fresh herbs make a kitchen smell amazing.",
           "translation": "新鮮なハーブがあると台所がいい香りになるよ。",
           "delay": 240000
+        }
+      ]
+    },
+    {
+      "id": "p453-o09",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Two people can hear the same song and remember completely different days.",
+      "translation": "同じ曲を聴いても二人が思い出す日はまったく違うことがある。",
+      "replies": [
+        {
+          "id": "p453-o09-r1",
+          "author": "Clara Strings",
+          "text": "That is what makes performing for people so moving.",
+          "translation": "だから人前で演奏するのは感動的なんだよね。"
         }
       ]
     },
@@ -4723,6 +4858,21 @@
       ]
     },
     {
+      "id": "p453-o10",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The little library near my street has a new window display.",
+      "translation": "家の近くの小さな図書館に新しい窓の展示があった。",
+      "replies": [
+        {
+          "id": "p453-o10-r1",
+          "author": "Bookish Fox",
+          "text": "I may have to visit after lunch.",
+          "translation": "お昼の後に行かなくちゃ。"
+        }
+      ]
+    },
+    {
       "id": "p45-056",
       "category": "friends",
       "author": "Lily Pop",
@@ -4771,6 +4921,21 @@
           "author": "Penguin Intern",
           "text": "Whoever invented blankets deserves a very warm medal.",
           "translation": "毛布の発明者にはあったかいメダルをあげたい。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o11",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I was wrong about something small today. Saying so felt surprisingly easy.",
+      "translation": "今日、小さなことを勘違いしていた。認めるのは思いのほか簡単だった。",
+      "replies": [
+        {
+          "id": "p453-o11-r1",
+          "author": "Rosie Pan",
+          "text": "I wish kitchen mistakes were always that easy to admit!",
+          "translation": "厨房の失敗もいつも簡単に認められたらいいのに！"
         }
       ]
     },
@@ -4856,6 +5021,21 @@
       ]
     },
     {
+      "id": "p453-o12",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I saw an orange cat asleep beside a music shop. The music did not wake it.",
+      "translation": "楽器店の横で茶トラ猫が寝ていた。音楽でも起きなかった。",
+      "replies": [
+        {
+          "id": "p453-o12-r1",
+          "author": "Jazz Cat",
+          "text": "A true professional listener.",
+          "translation": "本物のプロの聴き手だね。"
+        }
+      ]
+    },
+    {
       "id": "p45-063",
       "category": "sax",
       "author": "Soprano Star",
@@ -4918,6 +5098,21 @@
           "text": "That moment when a group locks in is magical.",
           "translation": "みんなの音が合った瞬間って魔法みたい。",
           "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "p453-w01",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "A regular sleep schedule can support better rest. Try keeping similar bedtimes and wake times when you can.",
+      "translation": "規則的な睡眠時間は休息に役立つことがあります。できる範囲で寝る時刻と起きる時刻をそろえてみましょう。",
+      "replies": [
+        {
+          "id": "p453-w01-r1",
+          "author": "Sleepy Cat",
+          "text": "My weekend schedule might need some work.",
+          "translation": "週末の睡眠時間を見直した方がいいかも。"
         }
       ]
     },
@@ -4996,6 +5191,21 @@
       ]
     },
     {
+      "id": "p453-w02",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Short walks count as movement. Start with a pace that feels comfortable for you.",
+      "translation": "短い散歩も運動に含まれます。自分に無理のないペースから始めましょう。",
+      "replies": [
+        {
+          "id": "p453-w02-r1",
+          "author": "Tenor Turtle",
+          "text": "Slow is my favorite walking speed.",
+          "translation": "ゆっくり歩くのが好きなんだ。"
+        }
+      ]
+    },
+    {
       "id": "p45-070",
       "category": "pop",
       "author": "Lily Pop",
@@ -5051,6 +5261,21 @@
           "text": "A whole room singing together gives me goosebumps.",
           "translation": "会場みんなで歌うと鳥肌が立つよ。",
           "delay": 300000
+        }
+      ]
+    },
+    {
+      "id": "p453-w03",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Eating a variety of fruits and vegetables can help you get different nutrients.",
+      "translation": "いろいろな野菜や果物を食べると、さまざまな栄養素を摂取しやすくなります。",
+      "replies": [
+        {
+          "id": "p453-w03-r1",
+          "author": "Rosie Pan",
+          "text": "A colorful soup sounds good tonight.",
+          "translation": "今夜は彩りのいいスープにしようかな。"
         }
       ]
     },
@@ -5129,6 +5354,21 @@
       ]
     },
     {
+      "id": "p453-w04",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "When the weather is hot, remember to drink water regularly. Your needs vary with activity and climate.",
+      "translation": "暑いときはこまめな水分補給を意識しましょう。必要な量は活動量や気候によって変わります。",
+      "replies": [
+        {
+          "id": "p453-w04-r1",
+          "author": "Coffee Goblin",
+          "text": "Fine, I will put a water glass next to my coffee.",
+          "translation": "わかった、コーヒーの隣に水も置くよ。"
+        }
+      ]
+    },
+    {
       "id": "p45-077",
       "category": "clothes",
       "author": "Tenor Turtle",
@@ -5170,6 +5410,21 @@
           "author": "Wise Owl",
           "text": "A scarf is basically a portable little hug.",
           "translation": "マフラーは持ち歩ける小さなハグみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w05",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Taking a break from screens before bedtime may help some people wind down.",
+      "translation": "寝る前に画面から離れることは、人によっては気持ちを落ち着かせる助けになります。",
+      "replies": [
+        {
+          "id": "p453-w05-r1",
+          "author": "Tech Gremlin",
+          "text": "My phone and I need some boundaries.",
+          "translation": "スマホとの距離感を考えないとな。"
         }
       ]
     },
@@ -5241,6 +5496,21 @@
       ]
     },
     {
+      "id": "p453-w06",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Strength and balance activities are useful alongside aerobic exercise. Choose activities that suit your abilities.",
+      "translation": "筋力やバランスを使う運動も、有酸素運動とともに役立ちます。自分に合った運動を選びましょう。",
+      "replies": [
+        {
+          "id": "p453-w06-r1",
+          "author": "Garden Snail",
+          "text": "Gardening keeps me moving in little ways.",
+          "translation": "園芸でも少しずつ体を動かせるよ。"
+        }
+      ]
+    },
+    {
       "id": "p45-084",
       "category": "pets",
       "author": "Clara Strings",
@@ -5296,6 +5566,21 @@
           "author": "Bookish Fox",
           "text": "That sounds like the perfect final page of an evening.",
           "translation": "それは夜の最後の一ページにぴったりだね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w07",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "It is okay to take a rest day. Recovery is part of a sustainable activity routine.",
+      "translation": "休息日を取っても大丈夫です。回復も無理なく運動を続ける一部です。",
+      "replies": [
+        {
+          "id": "p453-w07-r1",
+          "author": "Mika Reed",
+          "text": "My shoulders needed that reminder after practice.",
+          "translation": "練習のあとの肩に必要な言葉だったよ。"
         }
       ]
     },
@@ -5374,6 +5659,21 @@
       ]
     },
     {
+      "id": "p453-w08",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "A balanced meal does not have to be complicated. Variety over time matters more than perfection at every meal.",
+      "translation": "バランスの良い食事は複雑でなくても大丈夫。一食ごとの完璧さより長期的な多様性が大切です。",
+      "replies": [
+        {
+          "id": "p453-w08-r1",
+          "author": "Rosie Pan",
+          "text": "That is a good message for home cooks.",
+          "translation": "家庭料理を作る人にいい言葉だね。"
+        }
+      ]
+    },
+    {
       "id": "p45-091",
       "category": "tech",
       "author": "Tenor Turtle",
@@ -5422,6 +5722,21 @@
           "author": "Chloe Spark",
           "text": "Handmade mugs make even plain tea feel special.",
           "translation": "手作りのマグなら普通のお茶も特別になるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w09",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Daylight during the day can help support your body clock.",
+      "translation": "日中に明るい光を浴びることは体内時計を整える助けになります。",
+      "replies": [
+        {
+          "id": "p453-w09-r1",
+          "author": "Wise Owl",
+          "text": "An open curtain is a lovely start.",
+          "translation": "カーテンを開けるところから始めたいね。"
         }
       ]
     },
@@ -5500,6 +5815,21 @@
       ]
     },
     {
+      "id": "p453-w10",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "If stress feels overwhelming or persistent, reaching out to a trusted person or health professional can help.",
+      "translation": "強いストレスが続く場合は、信頼できる人や専門家に相談することが役立ちます。",
+      "replies": [
+        {
+          "id": "p453-w10-r1",
+          "author": "Ollie",
+          "text": "Asking is sometimes the bravest part.",
+          "translation": "声をかけることが一番勇気のいる部分だったりするね。"
+        }
+      ]
+    },
+    {
       "id": "p45-098",
       "category": "smalljoy",
       "author": "Chloe Spark",
@@ -5555,336 +5885,6 @@
           "text": "Sometimes the sky deserves a standing ovation.",
           "translation": "空に拍手したくなる時があるね。",
           "delay": 180000
-        }
-      ]
-    },
-    {
-      "id": "p453-o01",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I wrote down a question and forgot why it mattered. Now I have two questions.",
-      "translation": "質問を書き留めたけど、なぜ気になったか忘れた。質問が二つになった。",
-      "replies": [
-        {
-          "id": "p453-o01-r1",
-          "author": "Bookish Fox",
-          "text": "Maybe the forgotten reason is hiding in a book.",
-          "translation": "理由は本の中に隠れているかも。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o02",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The bakery was out of bread, so I tried something new. I might go back.",
-      "translation": "パン屋で目当てのパンが売り切れだったから別のものを試した。また行くかも。",
-      "replies": [
-        {
-          "id": "p453-o02-r1",
-          "author": "Rosie Pan",
-          "text": "Unexpected discoveries are the best part of a bakery.",
-          "translation": "思いがけない発見がパン屋の醍醐味だよ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o03",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "Someone fixed the broken bench by the harbor. I wonder who noticed first.",
-      "translation": "港の壊れたベンチが直っていた。誰が最初に気づいたんだろう。",
-      "replies": [
-        {
-          "id": "p453-o03-r1",
-          "author": "Mika Reed",
-          "text": "I passed it yesterday. It looks great now.",
-          "translation": "昨日そこを通ったよ。今はきれいだね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o04",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I like songs that leave a little room for silence.",
-      "translation": "少しの沈黙を残してくれる曲が好き。",
-      "replies": [
-        {
-          "id": "p453-o04-r1",
-          "author": "Tenor Turtle",
-          "text": "Sometimes the rests are where the feeling lives.",
-          "translation": "休符に気持ちが宿ることもあるよね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o05",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I tried to explain a joke. It stopped being funny halfway through.",
-      "translation": "冗談を説明しようとしたら途中で面白くなくなった。",
-      "replies": [
-        {
-          "id": "p453-o05-r1",
-          "author": "Jazz Cat",
-          "text": "That is why I never explain mine.",
-          "translation": "だから僕は冗談を説明しないんだ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o06",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The train was late. A stranger shared a very useful shortcut.",
-      "translation": "電車が遅れた。知らない人が便利な近道を教えてくれた。",
-      "replies": [
-        {
-          "id": "p453-o06-r1",
-          "author": "Chloe Spark",
-          "text": "Helpful strangers make a city feel smaller.",
-          "translation": "親切な人がいると街が身近に感じられるね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o07",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "Today I learned that asking for help can be a kind of courage.",
-      "translation": "助けを求めるのも勇気の一つだと今日学んだ。",
-      "replies": [
-        {
-          "id": "p453-o07-r1",
-          "author": "Wise Owl",
-          "text": "And letting someone help can build a friendship.",
-          "translation": "助けてもらうことで友情が生まれることもあるね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o08",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I made tea and waited for it to cool. Then I forgot about it.",
-      "translation": "お茶をいれて冷めるのを待った。そして忘れた。",
-      "replies": [
-        {
-          "id": "p453-o08-r1",
-          "author": "Coffee Goblin",
-          "text": "My coffee has suffered the same fate.",
-          "translation": "僕のコーヒーも同じ運命をたどったよ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o09",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "Two people can hear the same song and remember completely different days.",
-      "translation": "同じ曲を聴いても二人が思い出す日はまったく違うことがある。",
-      "replies": [
-        {
-          "id": "p453-o09-r1",
-          "author": "Clara Strings",
-          "text": "That is what makes performing for people so moving.",
-          "translation": "だから人前で演奏するのは感動的なんだよね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o10",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "The little library near my street has a new window display.",
-      "translation": "家の近くの小さな図書館に新しい窓の展示があった。",
-      "replies": [
-        {
-          "id": "p453-o10-r1",
-          "author": "Bookish Fox",
-          "text": "I may have to visit after lunch.",
-          "translation": "お昼の後に行かなくちゃ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-o11",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I was wrong about something small today. Saying so felt surprisingly easy.",
-      "translation": "今日、小さなことを勘違いしていた。認めるのは思いのほか簡単だった。",
-      "replies": [
-        {
-          "id": "p453-o11-r1",
-          "author": "Rosie Pan",
-          "text": "I wish kitchen mistakes were always that easy to admit!",
-          "translation": "厨房の失敗もいつも簡単に認められたらいいのに！"
-        }
-      ]
-    },
-    {
-      "id": "p453-o12",
-      "category": "daily",
-      "author": "Ollie",
-      "text": "I saw an orange cat asleep beside a music shop. The music did not wake it.",
-      "translation": "楽器店の横で茶トラ猫が寝ていた。音楽でも起きなかった。",
-      "replies": [
-        {
-          "id": "p453-o12-r1",
-          "author": "Jazz Cat",
-          "text": "A true professional listener.",
-          "translation": "本物のプロの聴き手だね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w01",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "A regular sleep schedule can support better rest. Try keeping similar bedtimes and wake times when you can.",
-      "translation": "規則的な睡眠時間は休息に役立つことがあります。できる範囲で寝る時刻と起きる時刻をそろえてみましょう。",
-      "replies": [
-        {
-          "id": "p453-w01-r1",
-          "author": "Sleepy Cat",
-          "text": "My weekend schedule might need some work.",
-          "translation": "週末の睡眠時間を見直した方がいいかも。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w02",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Short walks count as movement. Start with a pace that feels comfortable for you.",
-      "translation": "短い散歩も運動に含まれます。自分に無理のないペースから始めましょう。",
-      "replies": [
-        {
-          "id": "p453-w02-r1",
-          "author": "Tenor Turtle",
-          "text": "Slow is my favorite walking speed.",
-          "translation": "ゆっくり歩くのが好きなんだ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w03",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Eating a variety of fruits and vegetables can help you get different nutrients.",
-      "translation": "いろいろな野菜や果物を食べると、さまざまな栄養素を摂取しやすくなります。",
-      "replies": [
-        {
-          "id": "p453-w03-r1",
-          "author": "Rosie Pan",
-          "text": "A colorful soup sounds good tonight.",
-          "translation": "今夜は彩りのいいスープにしようかな。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w04",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "When the weather is hot, remember to drink water regularly. Your needs vary with activity and climate.",
-      "translation": "暑いときはこまめな水分補給を意識しましょう。必要な量は活動量や気候によって変わります。",
-      "replies": [
-        {
-          "id": "p453-w04-r1",
-          "author": "Coffee Goblin",
-          "text": "Fine, I will put a water glass next to my coffee.",
-          "translation": "わかった、コーヒーの隣に水も置くよ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w05",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Taking a break from screens before bedtime may help some people wind down.",
-      "translation": "寝る前に画面から離れることは、人によっては気持ちを落ち着かせる助けになります。",
-      "replies": [
-        {
-          "id": "p453-w05-r1",
-          "author": "Tech Gremlin",
-          "text": "My phone and I need some boundaries.",
-          "translation": "スマホとの距離感を考えないとな。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w06",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Strength and balance activities are useful alongside aerobic exercise. Choose activities that suit your abilities.",
-      "translation": "筋力やバランスを使う運動も、有酸素運動とともに役立ちます。自分に合った運動を選びましょう。",
-      "replies": [
-        {
-          "id": "p453-w06-r1",
-          "author": "Garden Snail",
-          "text": "Gardening keeps me moving in little ways.",
-          "translation": "園芸でも少しずつ体を動かせるよ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w07",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "It is okay to take a rest day. Recovery is part of a sustainable activity routine.",
-      "translation": "休息日を取っても大丈夫です。回復も無理なく運動を続ける一部です。",
-      "replies": [
-        {
-          "id": "p453-w07-r1",
-          "author": "Mika Reed",
-          "text": "My shoulders needed that reminder after practice.",
-          "translation": "練習のあとの肩に必要な言葉だったよ。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w08",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "A balanced meal does not have to be complicated. Variety over time matters more than perfection at every meal.",
-      "translation": "バランスの良い食事は複雑でなくても大丈夫。一食ごとの完璧さより長期的な多様性が大切です。",
-      "replies": [
-        {
-          "id": "p453-w08-r1",
-          "author": "Rosie Pan",
-          "text": "That is a good message for home cooks.",
-          "translation": "家庭料理を作る人にいい言葉だね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w09",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "Daylight during the day can help support your body clock.",
-      "translation": "日中に明るい光を浴びることは体内時計を整える助けになります。",
-      "replies": [
-        {
-          "id": "p453-w09-r1",
-          "author": "Wise Owl",
-          "text": "An open curtain is a lovely start.",
-          "translation": "カーテンを開けるところから始めたいね。"
-        }
-      ]
-    },
-    {
-      "id": "p453-w10",
-      "category": "wellness",
-      "author": "Daily Wellness",
-      "text": "If stress feels overwhelming or persistent, reaching out to a trusted person or health professional can help.",
-      "translation": "強いストレスが続く場合は、信頼できる人や専門家に相談することが役立ちます。",
-      "replies": [
-        {
-          "id": "p453-w10-r1",
-          "author": "Ollie",
-          "text": "Asking is sometimes the bravest part.",
-          "translation": "声をかけることが一番勇気のいる部分だったりするね。"
         }
       ]
     }
