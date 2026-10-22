@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.6.1",
   "posts": [
     {
       "id": "p001",
@@ -3840,7 +3840,7 @@
         },
         {
           "id": "p45-003-r2",
-          "author": "Coffee Goblin",
+          "author": "Rosie Pan",
           "text": "That first sip deserves its own little celebration.",
           "translation": "最初の一口は小さなお祝いに値するね。",
           "delay": 360000
@@ -3877,7 +3877,7 @@
         },
         {
           "id": "p45-005-r2",
-          "author": "Rainy Rabbit",
+          "author": "Ollie",
           "text": "The clouds must have seen your umbrella.",
           "translation": "雲が傘を見たんだね。",
           "delay": 180000
@@ -3944,7 +3944,7 @@
         },
         {
           "id": "p45-009-r2",
-          "author": "Rosie Pan",
+          "author": "Chloe Spark",
           "text": "Being remembered at a café feels wonderful.",
           "translation": "カフェで覚えてもらえるのって嬉しいね。",
           "delay": 420000
@@ -4011,7 +4011,7 @@
         },
         {
           "id": "p45-013-r2",
-          "author": "Mika Reed",
+          "author": "Jazz Cat",
           "text": "A tricky passage feels great when it finally clicks.",
           "translation": "難しいフレーズができたときは最高だよね。",
           "delay": 360000
@@ -4048,7 +4048,7 @@
         },
         {
           "id": "p45-015-r2",
-          "author": "Clara Strings",
+          "author": "Jazz Cat",
           "text": "I wonder if they were practicing or playing for fun.",
           "translation": "練習だったのか楽しんでいたのか気になるな。",
           "delay": 180000
@@ -4070,7 +4070,7 @@
         },
         {
           "id": "p45-016-r2",
-          "author": "Mika Reed",
+          "author": "Clara Strings",
           "text": "Old recordings have such a special atmosphere.",
           "translation": "古い録音には独特の雰囲気があるね。",
           "delay": 240000
@@ -4137,7 +4137,7 @@
         },
         {
           "id": "p45-019-r2",
-          "author": "Rosie Pan",
+          "author": "Coffee Goblin",
           "text": "Leftover soup often tastes even better tomorrow.",
           "translation": "スープは翌日の方がおいしいこともあるよね。",
           "delay": 420000
@@ -4174,7 +4174,7 @@
         },
         {
           "id": "p45-021-r2",
-          "author": "Wise Owl",
+          "author": "Mika Reed",
           "text": "One book turns into four so easily.",
           "translation": "本はあっという間に一冊から四冊になるよね。",
           "delay": 240000
@@ -4211,7 +4211,7 @@
         },
         {
           "id": "p45-023-r2",
-          "author": "Bookish Fox",
+          "author": "Ollie",
           "text": "Now I need to know which ending impressed you.",
           "translation": "どんな結末だったのか聞きたいな。",
           "delay": 360000
@@ -4345,7 +4345,7 @@
         },
         {
           "id": "p45-029-r2",
-          "author": "Jazz Cat",
+          "author": "Ollie",
           "text": "The cat clearly had an important question.",
           "translation": "その猫には大事な質問があったのかも。",
           "delay": 420000
@@ -4583,7 +4583,7 @@
         },
         {
           "id": "p45-039-r2",
-          "author": "Bookish Fox",
+          "author": "Ollie",
           "text": "Finding a new corner of your own city is lovely.",
           "translation": "自分の街の知らない一角を見つけるのはいいね。",
           "delay": 420000
@@ -4717,7 +4717,7 @@
         },
         {
           "id": "p45-045-r2",
-          "author": "Tech Gremlin",
+          "author": "Jazz Cat",
           "text": "The dangerous words: just one more level.",
           "translation": "危険な言葉だね、あと一面だけ。",
           "delay": 180000
@@ -4739,7 +4739,7 @@
         },
         {
           "id": "p45-046-r2",
-          "author": "Lily Pop",
+          "author": "Tech Gremlin",
           "text": "Game soundtracks deserve their own concerts.",
           "translation": "ゲーム音楽もコンサートで聴きたいよね。",
           "delay": 240000
@@ -4806,7 +4806,7 @@
         },
         {
           "id": "p45-049-r2",
-          "author": "Garden Snail",
+          "author": "Rosie Pan",
           "text": "One new leaf is a big event in plant time.",
           "translation": "植物の時間なら新しい葉っぱは大事件だよ。",
           "delay": 420000
@@ -4925,7 +4925,7 @@
         },
         {
           "id": "p45-054-r2",
-          "author": "Dog Detective",
+          "author": "Jazz Cat",
           "text": "Was the dog making a funny face?",
           "translation": "その犬、面白い顔をしてた？",
           "delay": 420000
@@ -4992,7 +4992,7 @@
         },
         {
           "id": "p45-057-r2",
-          "author": "Sleepy Cat",
+          "author": "Ollie",
           "text": "My brain does the same thing at bedtime.",
           "translation": "私の頭も寝る前にそうなるよ。",
           "delay": 300000
@@ -5059,7 +5059,7 @@
         },
         {
           "id": "p45-060-r2",
-          "author": "Wise Owl",
+          "author": "Sleepy Cat",
           "text": "A good night of sleep really changes the day.",
           "translation": "よく眠ると一日の感じが変わるね。",
           "delay": 180000
@@ -5081,7 +5081,7 @@
         },
         {
           "id": "p45-061-r2",
-          "author": "Mika Reed",
+          "author": "Clara Strings",
           "text": "I want to hear that warm alto tone.",
           "translation": "その温かいアルトの音色を聴きたいな。",
           "delay": 240000
@@ -5273,7 +5273,7 @@
         },
         {
           "id": "p45-068-r2",
-          "author": "Clara Strings",
+          "author": "Mika Reed",
           "text": "The cello has such a rich lower register.",
           "translation": "チェロの低音域はとても豊かだよね。",
           "delay": 360000
@@ -5451,7 +5451,7 @@
         },
         {
           "id": "p45-076-r2",
-          "author": "Rainy Rabbit",
+          "author": "Ollie",
           "text": "Bridges always seem to invite an extra gust.",
           "translation": "橋にはいつも風が余計に吹く気がする。",
           "delay": 240000
@@ -5645,7 +5645,7 @@
         },
         {
           "id": "p45-084-r2",
-          "author": "Dog Detective",
+          "author": "Chloe Spark",
           "text": "The snacks are clearly part of the contract.",
           "translation": "おやつが条件なんだろうね。",
           "delay": 420000
@@ -5667,7 +5667,7 @@
         },
         {
           "id": "p45-085-r2",
-          "author": "Mika Reed",
+          "author": "Ollie",
           "text": "Harbor lights always make the walk home nicer.",
           "translation": "港の灯りがあると帰り道も楽しいね。",
           "delay": 180000
@@ -5734,7 +5734,7 @@
         },
         {
           "id": "p45-088-r2",
-          "author": "Wise Owl",
+          "author": "Rosie Pan",
           "text": "Some days being tired and satisfied go together.",
           "translation": "疲れたけど満足、そんな日もあるね。",
           "delay": 360000
@@ -5890,7 +5890,7 @@
         },
         {
           "id": "p45-095-r2",
-          "author": "Garden Snail",
+          "author": "Chloe Spark",
           "text": "Flowers are a perfectly good reason to smile.",
           "translation": "花は笑顔になる十分な理由だね。",
           "delay": 180000
@@ -6001,7 +6001,7 @@
         },
         {
           "id": "p45-100-r2",
-          "author": "Mika Reed",
+          "author": "Ollie",
           "text": "Sometimes the sky deserves a standing ovation.",
           "translation": "空に拍手したくなる時があるね。",
           "delay": 180000

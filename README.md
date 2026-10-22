@@ -29,6 +29,17 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
+### Ver.4.6.1 — Conversation & Feed polish (2026-10-22)
+
+- Corrected tab navigation so switching from DMs/People/Stories/Settings to Feed no longer accidentally reapplies scroll coordinates from a different screen. Feed position remains recoverable.
+- Reassigned **25 Normal + 25 Easy** second replies to different, context-appropriate speakers (with several duplicate lines rewritten). Original post IDs and existing reading progress are preserved.
+- Added **58 authored replies** to story episodes. Stories have roughly **3–5 replies** per episode, arriving in stages. Existing replies remain instantly readable; new arrivals briefly show **Typing…** when their reply thread is open.
+- Stories are no longer permanently displayed as full-size pinned Feed cards. A compact **Stories · Day N** shortcut remains available. An active story appears within the normal stream and can reappear when new replies arrive; every chapter remains available in Stories.
+- Seasonal and time-of-day posts appear interspersed in the normal Feed, not in a permanent top block; posts for the wrong daypart are excluded. The time-of-day selection refreshes when the feed refreshes.
+- Ollie's profile icon is now **💡**, distinct from Wise Owl. Added **Good afternoon**, **Good evening** and **I'm home** to the selectable English posts; common greetings appear in time order and carry emoji + Japanese hints **only in the selection list**, never in published English text.
+- Previously exported saves remain importable. The user's saved posts, bookmarks, DM choices, and themes are retained. New optional tracking fields do not erase the old storage key.
+- Ver.4.7 ideas (more mood phrases, additional avatar icons, residents of Sunvale and Frosthill, and broader choice-based conversations) are *not* part of this minor release.
+
 ### Ver.4.6 — A Better Everyday Feed & Harbor Festival ⚓
 
 - Feed reads in smaller groups: **4 posts** at launch and per "More" action. Automatically marks an original post as seen after **1.4 seconds** at 60% visibility, or immediately when its translation/replies/bookmark action is used on Feed. People profiles never auto-mark posts.

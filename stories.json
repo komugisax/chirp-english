@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.6.1",
   "arcs": [
     {
       "id": "rosie",
@@ -35,6 +35,14 @@
               "translation": "来てみたらわかるよ！",
               "delay": 19000,
               "easyText": "Come visit and find out!"
+            },
+            {
+              "id": "s4-rosie02-r4",
+              "author": "Coffee Goblin",
+              "text": "Will you have coffee on the menu too?",
+              "translation": "コーヒーもメニューに入る？",
+              "easyText": "Will you sell coffee?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -59,6 +67,22 @@
               "translation": "まずコーヒー。それからランチ。",
               "delay": 14000,
               "easyText": "Coffee first. Then lunch."
+            },
+            {
+              "id": "s4-rosie03-r3",
+              "author": "Ollie",
+              "text": "Do you have a lucky apron for opening day?",
+              "translation": "開店日のための幸運のエプロンってある？",
+              "easyText": "Do you have a lucky apron?",
+              "delay": 90000
+            },
+            {
+              "id": "s4-rosie03-r4",
+              "author": "Rosie Pan",
+              "text": "Only one covered in flour!",
+              "translation": "小麦粉だらけのしかないよ！",
+              "easyText": "Only a floury one!",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -90,6 +114,14 @@
               "translation": "はい、コーヒーもスープもあります！",
               "delay": 21000,
               "easyText": "Yes, we have coffee. And soup!"
+            },
+            {
+              "id": "s4-rosie01-r4",
+              "author": "Jazz Cat",
+              "text": "I hope they have seats by the window.",
+              "translation": "窓際の席があるといいな。",
+              "easyText": "I want a window seat.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -121,6 +153,14 @@
               "translation": "スープは飲み物ですか？",
               "delay": 23000,
               "easyText": "Is soup a drink?"
+            },
+            {
+              "id": "s4-rosie04-r4",
+              "author": "Coffee Goblin",
+              "text": "That bread sounds like the perfect lunch.",
+              "translation": "そのパンは最高のお昼ごはんになりそう。",
+              "easyText": "I want that bread!",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -145,6 +185,22 @@
               "translation": "今週末行ってみるよ。",
               "delay": 18000,
               "easyText": "I'll try it this weekend."
+            },
+            {
+              "id": "s4-rosie05-r3",
+              "author": "Rosie Pan",
+              "text": "You picked the soup! That makes me happy.",
+              "translation": "スープを選んでくれたのね！嬉しいな。",
+              "easyText": "You had my soup!",
+              "delay": 90000
+            },
+            {
+              "id": "s4-rosie05-r4",
+              "author": "Ollie",
+              "text": "I wonder how many tomatoes are in one bowl.",
+              "translation": "一杯にトマトがいくつ入っているのかな。",
+              "easyText": "How many tomatoes?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -169,6 +225,22 @@
               "translation": "大部分はね。😂",
               "delay": 16000,
               "easyText": "Most of it. 😂"
+            },
+            {
+              "id": "s4-rosie06-r3",
+              "author": "Coffee Goblin",
+              "text": "The best experiments leave a messy kitchen.",
+              "translation": "最高の実験は台所を散らかすものさ。",
+              "easyText": "Cooking gets messy!",
+              "delay": 90000
+            },
+            {
+              "id": "s4-rosie06-r4",
+              "author": "Rosie Pan",
+              "text": "Next time I will use a bigger pan.",
+              "translation": "次はもっと大きなフライパンを使うわ。",
+              "easyText": "I need a bigger pan!",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -193,6 +265,22 @@
               "translation": "余計なアイデアを出さないで！",
               "delay": 16000,
               "easyText": "Please do not give me ideas!"
+            },
+            {
+              "id": "s4-rosie07-r3",
+              "author": "Mika Reed",
+              "text": "I vote for something warm after a late gig.",
+              "translation": "遅いライブのあとには温かいものに一票。",
+              "easyText": "Something warm, please!",
+              "delay": 90000
+            },
+            {
+              "id": "s4-rosie07-r4",
+              "author": "Ollie",
+              "text": "Can a pancake be spicy?",
+              "translation": "パンケーキって辛くできるのかな？",
+              "easyText": "Spicy pancakes?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -217,6 +305,22 @@
               "translation": "そうね！足は反対してるけど。",
               "delay": 14000,
               "easyText": "True! My feet disagree."
+            },
+            {
+              "id": "s4-rosie08-r3",
+              "author": "Mika Reed",
+              "text": "I missed the last bowl!",
+              "translation": "最後の一杯を逃しちゃった！",
+              "easyText": "I missed the soup!",
+              "delay": 90000
+            },
+            {
+              "id": "s4-rosie08-r4",
+              "author": "Rosie Pan",
+              "text": "I promise to make more tomorrow.",
+              "translation": "明日はもっと作ると約束するよ。",
+              "easyText": "More soup tomorrow!",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -248,6 +352,14 @@
               "translation": "本当に助かる！",
               "delay": 23000,
               "easyText": "You are a lifesaver!"
+            },
+            {
+              "id": "s4-rosie09-r4",
+              "author": "Ollie",
+              "text": "I will bring a book for the wait.",
+              "translation": "待ち時間用に本を持っていこう。",
+              "easyText": "I will bring a book.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -279,6 +391,14 @@
               "translation": "人間用の変装を持っていきます。",
               "delay": 22000,
               "easyText": "I will bring my human disguise."
+            },
+            {
+              "id": "s4-rosie10-r4",
+              "author": "Coffee Goblin",
+              "text": "Does the thank-you dinner include dessert?",
+              "translation": "感謝ディナーにはデザートも付く？",
+              "easyText": "Is there dessert?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -312,6 +432,22 @@
               "translation": "話したい？",
               "delay": 14000,
               "easyText": "Do you want to talk?"
+            },
+            {
+              "id": "s4-jazz01-r3",
+              "author": "Mika Reed",
+              "text": "Give yourselves a little time to cool down.",
+              "translation": "お互い少し落ち着く時間を取ってね。",
+              "easyText": "Take some time.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-jazz01-r4",
+              "author": "Ollie",
+              "text": "Could one short message help?",
+              "translation": "短いメッセージが役に立つかな？",
+              "easyText": "Maybe send a message?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -336,6 +472,22 @@
               "translation": "ありがとう。でもまだ怖いよ。",
               "delay": 17000,
               "easyText": "Thanks. I'm still scared."
+            },
+            {
+              "id": "s4-jazz02-r3",
+              "author": "Tenor Turtle",
+              "text": "You can start with a simple hello.",
+              "translation": "まずは簡単な挨拶から始めてみたら。",
+              "easyText": "Start with hello.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-jazz02-r4",
+              "author": "Jazz Cat",
+              "text": "I think I can do that.",
+              "translation": "それならできそう。",
+              "easyText": "I can do that.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -360,6 +512,22 @@
               "translation": "待つというのは奇妙な人間のスポーツですね。",
               "delay": 16000,
               "easyText": "Waiting is a strange human sport."
+            },
+            {
+              "id": "s4-jazz03-r3",
+              "author": "Ollie",
+              "text": "Waiting for an answer takes courage too.",
+              "translation": "返事を待つのにも勇気がいるよね。",
+              "easyText": "Waiting is hard.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-jazz03-r4",
+              "author": "Mika Reed",
+              "text": "Try playing something while you wait.",
+              "translation": "待っている間に何か演奏してみたら。",
+              "easyText": "Play while you wait.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -384,6 +552,22 @@
               "translation": "僕もそう思う。ありがとう。",
               "delay": 15000,
               "easyText": "Me too. Thank you."
+            },
+            {
+              "id": "s4-jazz04-r3",
+              "author": "Wise Owl",
+              "text": "Listening is sometimes the hardest part.",
+              "translation": "話を聞くのが一番難しいこともあるよね。",
+              "easyText": "Listening is hard.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-jazz04-r4",
+              "author": "Jazz Cat",
+              "text": "But it was worth it.",
+              "translation": "でも、話してよかった。",
+              "easyText": "It was worth it.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -408,6 +592,22 @@
               "translation": "それはいいニュースだ。",
               "delay": 16000,
               "easyText": "Now that is good news."
+            },
+            {
+              "id": "s4-jazz05-r3",
+              "author": "Mika Reed",
+              "text": "Music makes a good second beginning.",
+              "translation": "音楽はやり直しのよいきっかけになるね。",
+              "easyText": "Music helps us reconnect.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-jazz05-r4",
+              "author": "Tenor Turtle",
+              "text": "What did you two play?",
+              "translation": "二人で何を演奏したの？",
+              "easyText": "What did you play?",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -441,6 +641,22 @@
               "translation": "では……いい天気ですね？",
               "delay": 15000,
               "easyText": "So... nice weather?"
+            },
+            {
+              "id": "s4-nova01-r3",
+              "author": "Ollie",
+              "text": "Sometimes weather is an easy way to say hello.",
+              "translation": "天気の話は挨拶のきっかけになることもあるね。",
+              "easyText": "It starts a chat.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-nova01-r4",
+              "author": "Nova Orbit",
+              "text": "I shall study more clouds.",
+              "translation": "もっと雲を研究するとしよう。",
+              "easyText": "I will study clouds.",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -465,6 +681,22 @@
               "translation": "記録しました。まず空。",
               "delay": 17000,
               "easyText": "Noted. Sky first."
+            },
+            {
+              "id": "s4-nova02-r3",
+              "author": "Rainy Rabbit",
+              "text": "Next time try asking about umbrellas.",
+              "translation": "次は傘について聞いてみたら？",
+              "easyText": "Try asking about umbrellas.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-nova02-r4",
+              "author": "Ollie",
+              "text": "The timing matters more than the words!",
+              "translation": "言葉そのものよりタイミングが大事なんだね！",
+              "easyText": "Timing matters!",
+              "delay": 270000
             }
           ],
           "category": "story"
@@ -482,6 +714,22 @@
               "translation": "それは素敵だね。",
               "delay": 7000,
               "easyText": "That sounds lovely."
+            },
+            {
+              "id": "s4-nova03-r2",
+              "author": "Bookish Fox",
+              "text": "Ten minutes of cloud talk sounds lovely.",
+              "translation": "10分間の雲談義、素敵ね。",
+              "easyText": "Cloud talk sounds fun.",
+              "delay": 90000
+            },
+            {
+              "id": "s4-nova03-r3",
+              "author": "Nova Orbit",
+              "text": "We named three cloud shapes.",
+              "translation": "雲の形に3つ名前を付けた。",
+              "easyText": "We named three clouds.",
+              "delay": 90000
             }
           ],
           "category": "story"
@@ -509,6 +757,22 @@
               "translation": "幸運のマウスピースも持っていって！",
               "easyText": "Take your sax!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere01-r2",
+              "author": "Ollie",
+              "text": "I wonder how many train lines Eastmere has.",
+              "translation": "イーストミアには鉄道路線がいくつあるんだろう。",
+              "easyText": "How many train lines?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere01-r3",
+              "author": "Rosie Pan",
+              "text": "I will save you some soup for your return.",
+              "translation": "帰ってきたらスープを取っておくよ。",
+              "easyText": "Soup when you return!",
+              "delay": 90000
             }
           ]
         },
@@ -526,6 +790,22 @@
               "translation": "チケットを確認して。まだ時間はあるよ。",
               "easyText": "Check your ticket.",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere02-r2",
+              "author": "Ollie",
+              "text": "Does the airport have a helpful information desk?",
+              "translation": "空港に案内カウンターはあるかな？",
+              "easyText": "Ask at the desk!",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere02-r3",
+              "author": "Mika Reed",
+              "text": "Found it! The gate is upstairs.",
+              "translation": "見つけた！搭乗口は上の階だった。",
+              "easyText": "I found my gate!",
+              "delay": 90000
             }
           ]
         },
@@ -543,6 +823,22 @@
               "translation": "ようこそ！4番出口を探して。",
               "easyText": "Try Exit Four.",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere03-r2",
+              "author": "Chloe Spark",
+              "text": "Neonbridge has exits that surprise everyone.",
+              "translation": "ネオンブリッジの出口は誰でも迷うよ。",
+              "easyText": "Those exits are tricky!",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere03-r3",
+              "author": "Mika Reed",
+              "text": "I think I walked in a circle.",
+              "translation": "ぐるっと一周した気がする。",
+              "easyText": "I walked in a circle!",
+              "delay": 90000
             }
           ]
         },
@@ -560,6 +856,22 @@
               "translation": "カップがサックスケースくらい大きいよ。",
               "easyText": "This cup is huge!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere04-r2",
+              "author": "Lily Pop",
+              "text": "Did you try their cinnamon rolls?",
+              "translation": "あそこのシナモンロール食べた？",
+              "easyText": "Did you try the rolls?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere04-r3",
+              "author": "Chloe Spark",
+              "text": "Next visit! Mika found a tiny music shop nearby.",
+              "translation": "次回こそ！ミカは近くに小さな楽器店を見つけたよ。",
+              "easyText": "Next time!",
+              "delay": 90000
             }
           ]
         },
@@ -577,6 +889,22 @@
               "translation": "あの猫はみんなに挨拶するの。",
               "easyText": "That cat is friendly.",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere05-r2",
+              "author": "Ollie",
+              "text": "Did the cat lead you to a secret street?",
+              "translation": "猫が秘密の道に案内してくれたのかな？",
+              "easyText": "Did the cat guide you?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere05-r3",
+              "author": "Mika Reed",
+              "text": "It led me to a bakery instead.",
+              "translation": "代わりにパン屋さんへ連れていかれたよ。",
+              "easyText": "To a bakery!",
+              "delay": 90000
             }
           ]
         },
@@ -594,6 +922,22 @@
               "translation": "今夜バンドを聴きに行こうよ！",
               "easyText": "Let’s hear music!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere06-r2",
+              "author": "Ollie",
+              "text": "Did the old games still work?",
+              "translation": "昔のゲームはまだ動いたのかな？",
+              "easyText": "Did the games work?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere06-r3",
+              "author": "Mika Reed",
+              "text": "I found a jazz album I had never heard.",
+              "translation": "聴いたことのないジャズのアルバムを見つけた。",
+              "easyText": "I found a jazz album!",
+              "delay": 90000
             }
           ]
         },
@@ -611,6 +955,22 @@
               "translation": "ここにはすてきなバイオリン店もあるよ。",
               "easyText": "I love this street.",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere07-r2",
+              "author": "Jazz Cat",
+              "text": "Did you test a really low note?",
+              "translation": "すごく低い音も試した？",
+              "easyText": "Did you try a low note?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere07-r3",
+              "author": "Mika Reed",
+              "text": "The third mouthpiece sounded surprisingly warm.",
+              "translation": "3つ目のマウスピースは驚くほど温かい音だった。",
+              "easyText": "The third was warm!",
+              "delay": 90000
             }
           ]
         },
@@ -628,6 +988,22 @@
               "translation": "響きがきれいなホールだね。クララ、頑張って！",
               "easyText": "Good luck, Clara!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere08-r2",
+              "author": "Ollie",
+              "text": "What does the hall sound like before anyone plays?",
+              "translation": "誰も演奏していない時のホールってどんな響きなんだろう？",
+              "easyText": "Was the hall quiet?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere08-r3",
+              "author": "Clara Strings",
+              "text": "I always take one deep breath before I begin.",
+              "translation": "始める前には必ず一度深呼吸するの。",
+              "easyText": "I take one breath.",
+              "delay": 90000
             }
           ]
         },
@@ -645,6 +1021,22 @@
               "translation": "次はサックスを持ってきて。一緒に演奏しよう。",
               "easyText": "Let’s play together!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere09-r2",
+              "author": "Ollie",
+              "text": "Did the river change how the music felt afterward?",
+              "translation": "川辺だと演奏の余韻も変わるのかな？",
+              "easyText": "Did the river help?",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere09-r3",
+              "author": "Mika Reed",
+              "text": "It made everything feel peaceful.",
+              "translation": "何もかも穏やかに感じられたよ。",
+              "easyText": "It felt peaceful.",
+              "delay": 90000
             }
           ]
         },
@@ -662,6 +1054,22 @@
               "translation": "おかえり！話を全部聞かせて。",
               "easyText": "Welcome home, Mika!",
               "delay": 6500
+            },
+            {
+              "id": "s45-eastmere10-r2",
+              "author": "Lily Pop",
+              "text": "Come back to Cloverfield sometime!",
+              "translation": "またクローバーフィールドに来てね！",
+              "easyText": "Come back soon!",
+              "delay": 90000
+            },
+            {
+              "id": "s45-eastmere10-r3",
+              "author": "Rosie Pan",
+              "text": "Bellport missed you. Dinner at my place?",
+              "translation": "ベルポートは寂しかったよ。うちで夕食どう？",
+              "easyText": "Dinner at my place?",
+              "delay": 90000
             }
           ]
         }
@@ -696,6 +1104,22 @@
               "translation": "お祭りって街ごとに違う匂いがするのかな？",
               "easyText": "I love food smells!",
               "delay": 14000
+            },
+            {
+              "id": "s46-festival01-r3",
+              "author": "Coffee Goblin",
+              "text": "I will need something warm after the train ride.",
+              "translation": "電車の旅のあとには温かいものが欲しいな。",
+              "easyText": "I want hot food!",
+              "delay": 90000
+            },
+            {
+              "id": "s46-festival01-r4",
+              "author": "Rosie Pan",
+              "text": "Then come before the line gets long!",
+              "translation": "なら行列が長くなる前に来てね！",
+              "easyText": "Come early!",
+              "delay": 270000
             }
           ]
         },
@@ -721,6 +1145,14 @@
               "translation": "着いたね！最初にどの屋台へ行く？",
               "easyText": "What will you eat?",
               "delay": 14000
+            },
+            {
+              "id": "s46-festival02-r3",
+              "author": "Coffee Goblin",
+              "text": "More like glowing cups of coffee.",
+              "translation": "光るコーヒーカップみたいだよ。",
+              "easyText": "Like glowing coffee!",
+              "delay": 90000
             }
           ]
         },
@@ -754,6 +1186,14 @@
               "translation": "風もソロを吹きたいのかも。",
               "easyText": "The wind wants music!",
               "delay": 21000
+            },
+            {
+              "id": "s46-festival03-r4",
+              "author": "Jazz Cat",
+              "text": "I can hold the music stand!",
+              "translation": "譜面台を押さえてあげるよ！",
+              "easyText": "I can help!",
+              "delay": 270000
             }
           ]
         },
@@ -779,6 +1219,22 @@
               "translation": "ゲーム屋台の隣でおいしいコーヒーを見つけた。",
               "easyText": "I found great coffee!",
               "delay": 14000
+            },
+            {
+              "id": "s46-festival04-r3",
+              "author": "Clara Strings",
+              "text": "I heard the children singing from the bridge.",
+              "translation": "橋から子どもたちの合唱が聞こえたよ。",
+              "easyText": "I heard the choir!",
+              "delay": 90000
+            },
+            {
+              "id": "s46-festival04-r4",
+              "author": "Lily Pop",
+              "text": "Their last song made everyone clap along!",
+              "translation": "最後の歌ではみんな手拍子していたよ！",
+              "easyText": "Everyone clapped!",
+              "delay": 270000
             }
           ]
         },
@@ -812,6 +1268,14 @@
               "translation": "来年も同じ時期？今度はもっと大きいカップを持ってくるよ。",
               "easyText": "See you next year!",
               "delay": 21000
+            },
+            {
+              "id": "s46-festival05-r4",
+              "author": "Mika Reed",
+              "text": "Your sandwiches kept the musicians going.",
+              "translation": "あなたのサンドイッチのおかげで演奏者は元気だったよ。",
+              "easyText": "Your food helped us!",
+              "delay": 270000
             }
           ]
         }

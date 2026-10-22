@@ -293,7 +293,62 @@
               "text": "Morning! I need more sleep.",
               "translation": "おはよう！私はもう少し寝たいな。"
             }
-          ]
+          ],
+          "pickEmoji": "🌅"
+        },
+        {
+          "id": "afternoon-greeting",
+          "en": "Good afternoon!",
+          "ja": "こんにちは！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "Hope lunch treated you well!",
+              "translation": "お昼ごはんはおいしかった？"
+            },
+            {
+              "author": "Ollie",
+              "text": "How is your day going?",
+              "translation": "今日はどんな感じ？"
+            }
+          ],
+          "pickEmoji": "☀️"
+        },
+        {
+          "id": "evening-greeting",
+          "en": "Good evening!",
+          "ja": "こんばんは！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "Good evening! Any plans tonight?",
+              "translation": "こんばんは！今夜は何か予定ある？"
+            },
+            {
+              "author": "Ollie",
+              "text": "The city lights are coming on.",
+              "translation": "街の明かりがつき始めたね。"
+            }
+          ],
+          "pickEmoji": "🌆"
+        },
+        {
+          "id": "home-greeting",
+          "en": "I'm home!",
+          "ja": "ただいま！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "Welcome back! Hungry?",
+              "translation": "おかえり！お腹すいた？"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Time to relax!",
+              "translation": "くつろぐ時間だね！"
+            }
+          ],
+          "pickEmoji": "🏠"
         },
         {
           "id": "night",
@@ -315,7 +370,8 @@
               "text": "May tomorrow bring something gentle.",
               "translation": "明日が穏やかな日になりますように。"
             }
-          ]
+          ],
+          "pickEmoji": "💤"
         },
         {
           "id": "sleepy",

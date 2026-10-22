@@ -347,7 +347,7 @@
       "id": "ollie_thinks",
       "name": "Ollie",
       "handle": "@ollie_thinks",
-      "avatar": "🦉",
+      "avatar": "💡",
       "color": "#D8E5CC",
       "location": "Bellport",
       "bio": "Curious about ordinary days, small questions, and the things people learn together."
@@ -360,6 +360,15 @@
       "color": "#E4D4AF",
       "location": "Bellport",
       "bio": "A small fictional English school. One useful word at a time, with simple examples."
+    },
+    {
+      "id": "whats_on_bellport",
+      "name": "What's On Bellport",
+      "handle": "@whats_on_bellport",
+      "avatar": "🎟️",
+      "color": "#E9D3AF",
+      "location": "Bellport",
+      "bio": "A fictional local events guide for fictional Bellport. All events are imaginary."
     }
   ]
 }

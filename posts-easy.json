@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.6.1",
   "posts": [
     {
       "id": "e001",
@@ -1798,7 +1798,7 @@
         },
         {
           "id": "e45-003-r2",
-          "author": "Coffee Goblin",
+          "author": "Rosie Pan",
           "text": "Coffee time!",
           "translation": "コーヒーの時間！",
           "delay": 360000
@@ -1835,7 +1835,7 @@
         },
         {
           "id": "e45-005-r2",
-          "author": "Rainy Rabbit",
+          "author": "Ollie",
           "text": "The rain is shy!",
           "translation": "雨が恥ずかしがってる！",
           "delay": 180000
@@ -1902,9 +1902,9 @@
         },
         {
           "id": "e45-009-r2",
-          "author": "Rosie Pan",
-          "text": "They remember you!",
-          "translation": "覚えてくれてるね！",
+          "author": "Chloe Spark",
+          "text": "You are a regular now!",
+          "translation": "もう常連だね！",
           "delay": 420000
         }
       ]
@@ -1969,9 +1969,9 @@
         },
         {
           "id": "e45-013-r2",
-          "author": "Mika Reed",
-          "text": "You did it!",
-          "translation": "できたね！",
+          "author": "Jazz Cat",
+          "text": "Practice really helped!",
+          "translation": "練習の成果が出たね！",
           "delay": 360000
         }
       ]
@@ -2006,7 +2006,7 @@
         },
         {
           "id": "e45-015-r2",
-          "author": "Clara Strings",
+          "author": "Jazz Cat",
           "text": "I want to listen.",
           "translation": "聴いてみたいな。",
           "delay": 180000
@@ -2028,7 +2028,7 @@
         },
         {
           "id": "e45-016-r2",
-          "author": "Mika Reed",
+          "author": "Clara Strings",
           "text": "Old music is great.",
           "translation": "古い音楽、いいね。",
           "delay": 240000
@@ -2095,7 +2095,7 @@
         },
         {
           "id": "e45-019-r2",
-          "author": "Rosie Pan",
+          "author": "Coffee Goblin",
           "text": "Soup tomorrow, too!",
           "translation": "明日もスープだね！",
           "delay": 420000
@@ -2132,7 +2132,7 @@
         },
         {
           "id": "e45-021-r2",
-          "author": "Wise Owl",
+          "author": "Mika Reed",
           "text": "Four books! Wow!",
           "translation": "四冊も！すごい！",
           "delay": 240000
@@ -2169,7 +2169,7 @@
         },
         {
           "id": "e45-023-r2",
-          "author": "Bookish Fox",
+          "author": "Ollie",
           "text": "What happened next?",
           "translation": "そのあとどうなった？",
           "delay": 360000
@@ -2303,7 +2303,7 @@
         },
         {
           "id": "e45-029-r2",
-          "author": "Jazz Cat",
+          "author": "Ollie",
           "text": "Cats know things.",
           "translation": "猫は何か知ってる。",
           "delay": 420000
@@ -2541,7 +2541,7 @@
         },
         {
           "id": "e45-039-r2",
-          "author": "Bookish Fox",
+          "author": "Ollie",
           "text": "A secret street!",
           "translation": "秘密の道だ！",
           "delay": 420000
@@ -2675,9 +2675,9 @@
         },
         {
           "id": "e45-045-r2",
-          "author": "Tech Gremlin",
-          "text": "One more game?",
-          "translation": "もう一回？",
+          "author": "Jazz Cat",
+          "text": "Did you win?",
+          "translation": "勝った？",
           "delay": 180000
         }
       ]
@@ -2697,7 +2697,7 @@
         },
         {
           "id": "e45-046-r2",
-          "author": "Lily Pop",
+          "author": "Tech Gremlin",
           "text": "Play it again!",
           "translation": "もう一回かけて！",
           "delay": 240000
@@ -2764,7 +2764,7 @@
         },
         {
           "id": "e45-049-r2",
-          "author": "Garden Snail",
+          "author": "Rosie Pan",
           "text": "A baby leaf!",
           "translation": "小さな葉っぱ！",
           "delay": 420000
@@ -2883,9 +2883,9 @@
         },
         {
           "id": "e45-054-r2",
-          "author": "Dog Detective",
-          "text": "Show me the dog!",
-          "translation": "犬を見せて！",
+          "author": "Jazz Cat",
+          "text": "What a funny picture!",
+          "translation": "なんて面白い写真！",
           "delay": 420000
         }
       ]
@@ -2950,7 +2950,7 @@
         },
         {
           "id": "e45-057-r2",
-          "author": "Sleepy Cat",
+          "author": "Ollie",
           "text": "Me too. Every night.",
           "translation": "私も毎晩そう。",
           "delay": 300000
@@ -3017,7 +3017,7 @@
         },
         {
           "id": "e45-060-r2",
-          "author": "Wise Owl",
+          "author": "Sleepy Cat",
           "text": "Sleep feels good.",
           "translation": "睡眠は大事だね。",
           "delay": 180000
@@ -3039,7 +3039,7 @@
         },
         {
           "id": "e45-061-r2",
-          "author": "Mika Reed",
+          "author": "Clara Strings",
           "text": "Let me hear it!",
           "translation": "聴かせて！",
           "delay": 240000
@@ -3231,7 +3231,7 @@
         },
         {
           "id": "e45-068-r2",
-          "author": "Clara Strings",
+          "author": "Mika Reed",
           "text": "Cellos sound warm.",
           "translation": "チェロは温かい音。",
           "delay": 360000
@@ -3409,7 +3409,7 @@
         },
         {
           "id": "e45-076-r2",
-          "author": "Rainy Rabbit",
+          "author": "Ollie",
           "text": "That wind is strong!",
           "translation": "風が強いね！",
           "delay": 240000
@@ -3603,9 +3603,9 @@
         },
         {
           "id": "e45-084-r2",
-          "author": "Dog Detective",
-          "text": "Smart puppy!",
-          "translation": "賢い子犬！",
+          "author": "Chloe Spark",
+          "text": "Who has the treats?",
+          "translation": "おやつを持ってるのは誰？",
           "delay": 420000
         }
       ]
@@ -3625,7 +3625,7 @@
         },
         {
           "id": "e45-085-r2",
-          "author": "Mika Reed",
+          "author": "Ollie",
           "text": "So pretty!",
           "translation": "きれいだね！",
           "delay": 180000
@@ -3692,9 +3692,9 @@
         },
         {
           "id": "e45-088-r2",
-          "author": "Wise Owl",
-          "text": "Rest well tonight.",
-          "translation": "今夜は休んでね。",
+          "author": "Rosie Pan",
+          "text": "What made it good?",
+          "translation": "何がよかったの？",
           "delay": 360000
         }
       ]
@@ -3848,7 +3848,7 @@
         },
         {
           "id": "e45-095-r2",
-          "author": "Garden Snail",
+          "author": "Chloe Spark",
           "text": "Lovely flowers!",
           "translation": "すてきなお花！",
           "delay": 180000
@@ -3959,7 +3959,7 @@
         },
         {
           "id": "e45-100-r2",
-          "author": "Mika Reed",
+          "author": "Ollie",
           "text": "What a sunset!",
           "translation": "なんて夕焼け！",
           "delay": 180000
