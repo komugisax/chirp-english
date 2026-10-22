@@ -1,5 +1,5 @@
 {
-  "version": "4.4",
+  "version": "4.6",
   "users": [
     {
       "id": "mellow_moon",
@@ -351,6 +351,15 @@
       "color": "#D8E5CC",
       "location": "Bellport",
       "bio": "Curious about ordinary days, small questions, and the things people learn together."
+    },
+    {
+      "id": "little_english_lab",
+      "name": "Little English Lab",
+      "handle": "@little_english_lab",
+      "avatar": "📚",
+      "color": "#E4D4AF",
+      "location": "Bellport",
+      "bio": "A small fictional English school. One useful word at a time, with simple examples."
     }
   ]
 }

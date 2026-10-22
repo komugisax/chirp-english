@@ -1,5 +1,5 @@
 {
-  "version": "4.5",
+  "version": "4.6",
   "arcs": [
     {
       "id": "rosie",
@@ -662,6 +662,156 @@
               "translation": "おかえり！話を全部聞かせて。",
               "easyText": "Welcome home, Mika!",
               "delay": 6500
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bellport-harbor-festival",
+      "name": "Bellport Harbor Festival 🎉",
+      "intro": "A warm neighborhood festival with jazz, food stalls, games and visitors from Eastmere.",
+      "startDay": 23,
+      "everyDays": 1,
+      "episodes": [
+        {
+          "id": "s46-festival01",
+          "author": "Rosie Pan",
+          "text": "The harbor festival starts soon. My kitchen will have a little food stand!",
+          "translation": "港のお祭りがもうすぐ始まる。うちのお店も小さな屋台を出すよ！",
+          "easyText": "The festival starts soon. I will cook there!",
+          "replies": [
+            {
+              "id": "s46-festival01-r1",
+              "author": "Mika Reed",
+              "text": "Save me a sandwich! I have rehearsals all day.",
+              "translation": "サンドイッチを取っておいて！一日中リハーサルなんだ。",
+              "easyText": "Save me one!",
+              "delay": 7000
+            },
+            {
+              "id": "s46-festival01-r2",
+              "author": "Ollie",
+              "text": "Do festivals smell different in every town?",
+              "translation": "お祭りって街ごとに違う匂いがするのかな？",
+              "easyText": "I love food smells!",
+              "delay": 14000
+            }
+          ]
+        },
+        {
+          "id": "s46-festival02",
+          "author": "Coffee Goblin",
+          "text": "I took the early train to Bellport. There are lights all along the harbor!",
+          "translation": "早い電車でベルポートに来た。港沿いがずっとライトで飾られてる！",
+          "easyText": "I came to Bellport. So many lights!",
+          "replies": [
+            {
+              "id": "s46-festival02-r1",
+              "author": "Rosie Pan",
+              "text": "Come find my stand near the small blue boat.",
+              "translation": "小さな青い船の近くにある屋台に来てね。",
+              "easyText": "Find my food stand!",
+              "delay": 7000
+            },
+            {
+              "id": "s46-festival02-r2",
+              "author": "Ollie",
+              "text": "You made it! Which stall will you visit first?",
+              "translation": "着いたね！最初にどの屋台へ行く？",
+              "easyText": "What will you eat?",
+              "delay": 14000
+            }
+          ]
+        },
+        {
+          "id": "s46-festival03",
+          "author": "Mika Reed",
+          "text": "Sound check is done. The wind keeps stealing my sheet music!",
+          "translation": "音響チェックが終わった。風が譜面を何度も飛ばしていく！",
+          "easyText": "Sound check is done. It is windy!",
+          "replies": [
+            {
+              "id": "s46-festival03-r1",
+              "author": "Jazz Cat",
+              "text": "I'll guard the music stand. Probably.",
+              "translation": "譜面台は守るよ。たぶんね。",
+              "easyText": "I'll help you!",
+              "delay": 7000
+            },
+            {
+              "id": "s46-festival03-r2",
+              "author": "Clara Strings",
+              "text": "Try a few clips. Outdoor stages can be tricky.",
+              "translation": "クリップを使ってみて。野外ステージって難しいよね。",
+              "easyText": "Use some clips!",
+              "delay": 14000
+            },
+            {
+              "id": "s46-festival03-r3",
+              "author": "Ollie",
+              "text": "Maybe the wind wants a solo.",
+              "translation": "風もソロを吹きたいのかも。",
+              "easyText": "The wind wants music!",
+              "delay": 21000
+            }
+          ]
+        },
+        {
+          "id": "s46-festival04",
+          "author": "Lily Pop",
+          "text": "The harbor is full of music! I heard jazz, then a rock band, then a children's choir.",
+          "translation": "港じゅう音楽でいっぱい！ジャズ、ロックバンド、子どもたちの合唱まで聴いたよ。",
+          "easyText": "So much music! I love this festival!",
+          "replies": [
+            {
+              "id": "s46-festival04-r1",
+              "author": "Mika Reed",
+              "text": "I could hear the choir from backstage. They were great!",
+              "translation": "舞台裏まで合唱が聞こえたよ。素敵だった！",
+              "easyText": "They sang so well!",
+              "delay": 7000
+            },
+            {
+              "id": "s46-festival04-r2",
+              "author": "Coffee Goblin",
+              "text": "I found good coffee beside the game stalls.",
+              "translation": "ゲーム屋台の隣でおいしいコーヒーを見つけた。",
+              "easyText": "I found great coffee!",
+              "delay": 14000
+            }
+          ]
+        },
+        {
+          "id": "s46-festival05",
+          "author": "Rosie Pan",
+          "text": "The festival is over, and I'm exhausted. We sold every last sandwich. Thank you, Bellport!",
+          "translation": "お祭りが終わってくたくた。サンドイッチは全部売り切れ！ベルポートのみんな、ありがとう！",
+          "easyText": "The festival is over. We sold out!",
+          "replies": [
+            {
+              "id": "s46-festival05-r1",
+              "author": "Mika Reed",
+              "text": "You fed half the band. We owe you!",
+              "translation": "バンドの半分にご飯をくれたよね。恩がある！",
+              "easyText": "Thank you, Rosie!",
+              "delay": 7000
+            },
+            {
+              "id": "s46-festival05-r2",
+              "author": "Ollie",
+              "text": "The empty stalls make the harbor feel quiet again.",
+              "translation": "屋台がなくなると、港がまた静かに感じるね。",
+              "easyText": "It feels quiet now.",
+              "delay": 14000
+            },
+            {
+              "id": "s46-festival05-r3",
+              "author": "Coffee Goblin",
+              "text": "Same time next year? I'll bring a bigger cup.",
+              "translation": "来年も同じ時期？今度はもっと大きいカップを持ってくるよ。",
+              "easyText": "See you next year!",
+              "delay": 21000
             }
           ]
         }

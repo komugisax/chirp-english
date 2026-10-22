@@ -29,6 +29,18 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
+### Ver.4.6 — A Better Everyday Feed & Harbor Festival ⚓
+
+- Feed reads in smaller groups: **4 posts** at launch and per "More" action. Automatically marks an original post as seen after **1.4 seconds** at 60% visibility, or immediately when its translation/replies/bookmark action is used on Feed. People profiles never auto-mark posts.
+- Introduced **Reading history**, including earlier seen posts where available, and a **Continue reading** shortcut to the last feed position. These are separate from bookmark records.
+- Player posts now live in a collapsed **My Posts** section with new-reply indicators; they no longer take up the top of the daily feed as separate cards. New messages show a brief typing indicator; existing replies open immediately.
+- New DMs are spaced **12 hours** apart rather than 20; DM threads are ordered by latest activity. Replies to selected DM choices still appear after approximately three seconds.
+- Updated Marigold (#E07820, white text), Nemophila (#579DD7, white text), Lavender (#9979C7, white text), while keeping Olive as the default and the seven original themes. Bright themes retain readable action text.
+- **Story Progress** in Settings allows manual day rescue, preserving reading history and bookmarks but not reconstructing lost DM choices or posts.
+- Added five-part **Bellport Harbor Festival** after Mika's Eastmere return (Days 23–27), and introduced **Little English Lab** with eight English-only mini-lessons per reading level, with Japanese shown only on demand.
+- Original localStorage key and story/post IDs are preserved. As always, export your save before updating. No live data or genuine real-time AI replies.
+
+
 ## Ver.4.5 — Flower Themes, Eastmere Journey & More English 🌼🚆
 
 - Added **Flower Themes**, with **Olive as the default**, plus Rose, Marigold, Mimosa, Nemophila, Lavender, and Cotton. Theme settings are stored in the existing local save object; restoring an older save defaults safely to Olive.
@@ -174,3 +186,24 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - After replying to a DM, the character's reply appears after about 3 seconds with a temporary "Typing…" indication.
 - Redistributed new Ollie and Daily Wellness posts among existing posts so no single account dominates the newest feed batch.
 - Preserves all earlier IDs and browser reading/bookmark/story progress.
+
+
+## Ver.4.6 — A Better Everyday Feed (2026-10-22)
+
+### Comfortable reading
+- The initial archive feed batch and subsequent Load more batches contain **4 archive posts** each instead of 7. Story and ambient items are displayed separately.
+- A post is automatically marked seen after 60% remains in the feed viewport for **1.4 continuous seconds**. Using Translate, Replies, or Save on a Feed post also marks it seen. Visiting People does not mark it seen.
+- **Reading history** stores posts shown in each level (Easy/Normal) for revisiting, without requiring every post to be understood immediately. Existing seen IDs seed the history when upgrading. Use **Continue reading** to return to the last visible archive post. Reading history and seen statistics are distinct.
+- Personal posts are collected in **My Posts** at the top of Feed, initially closed. New timed replies earn a red dot and are marked read explicitly with **Mark new replies read**. Existing individual fold controls are retained.
+
+### Conversations & world
+- Newly eligible DMs are staggered at approximately **12-hour** intervals, including rescheduling future undelivered queue entries from the v4.5.4 schedule. DM conversations sort by most recent known activity, with unread dots. The existing approx. 3-second DM reply Typing… remains.
+- **Only genuinely arriving delayed post replies** get a temporary approx. 3-second Typing… indicator before display. Existing replies and archive rereads open instantly.
+- **Bellport Harbor Festival** introduces five carefully ordered story episodes starting Story Day **23**, after the Eastmere journey (Days 12–21). The festival includes food stalls, jazz, local games, and visitors from outside Bellport. Both levels use English-only post content with Japanese translations available on demand.
+- **Little English Lab** is a fictional Bellport English school, appearing in 8 dispersed posts per level. The account explains one English word or expression at a time with examples; Japanese appears only in hidden translation text. This is a modest introduction, not a new quiz or required study step.
+
+### Settings & compatibility
+- **Story Progress** lets readers manually change their story day (up to Day 90 or the current day, whichever is greater) as an emergency recovery aid. It controls story availability without forging reading history or DM choices. It is **not** a complete save-file restore; export backups as before.
+- Revised flower colors: Marigold `#E07820` (white label), Nemophila `#579DD7` (white label), Lavender `#9979C7` (white label). The default remains Olive `#667C3E`. Marigold and Nemophila have less contrast with small white lettering; check legibility on your own screen.
+- Existing storage key `chirp-english-v3`, IDs, bookmarks, chosen replies, profile, and theme preferences are retained. Newly introduced storage fields are added without clearing existing data.
+- Fictional people, places, institutes, news/weather, promotions and events remain fictional; general wellness and language tips are intended to be grounded and qualified.

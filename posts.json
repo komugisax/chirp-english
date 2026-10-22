@@ -1,5 +1,5 @@
 {
-  "version": "4.5",
+  "version": "4.6",
   "posts": [
     {
       "id": "p001",
@@ -3013,6 +3013,21 @@
       ]
     },
     {
+      "id": "p46-lab-earlier",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "Word of the day: \"earlier.\" It means \"before now.\" Example: \"I had coffee earlier.\"",
+      "translation": "今日の単語：earlier。「今より前に」の意味。例：さっきコーヒーを飲んだよ。",
+      "replies": [
+        {
+          "id": "p46-lab-earlier-r1",
+          "author": "Mika Reed",
+          "text": "I used that word after rehearsal!",
+          "translation": "リハーサルのあとにその言葉を使ったよ！"
+        }
+      ]
+    },
+    {
       "id": "p174",
       "category": "food",
       "author": "Noodle Wizard",
@@ -3353,6 +3368,21 @@
       ]
     },
     {
+      "id": "p46-lab-almost",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"Almost\" means \"not quite, but close.\" Example: \"I almost missed the train.\"",
+      "translation": "almostは「もう少しで」「ほとんど」。例：もう少しで電車に乗り遅れるところだった。",
+      "replies": [
+        {
+          "id": "p46-lab-almost-r1",
+          "author": "Coffee Goblin",
+          "text": "That's me every Monday morning.",
+          "translation": "月曜の朝の私そのもの！"
+        }
+      ]
+    },
+    {
       "id": "p194",
       "category": "random",
       "author": "Tech Gremlin",
@@ -3689,6 +3719,21 @@
           "avatar": "🐰",
           "text": "My umbrella joined the clouds.",
           "translation": "私の傘は雲の仲間入りをしたよ。"
+        }
+      ]
+    },
+    {
+      "id": "p46-lab-borrow",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "You can \"borrow\" a book and give it back later. Example: \"Can I borrow your pen?\"",
+      "translation": "borrowは「借りる」。あとで返すものに使う。例：ペンを借りてもいい？",
+      "replies": [
+        {
+          "id": "p46-lab-borrow-r1",
+          "author": "Bookish Fox",
+          "text": "Please return library books on time!",
+          "translation": "図書館の本は期限どおりに返してね！"
         }
       ]
     },
@@ -4048,6 +4093,21 @@
       ]
     },
     {
+      "id": "p46-lab-worth",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"Worth\" means something is valuable enough. \"That long walk was worth it!\"",
+      "translation": "worthは「それだけの価値がある」。例：長く歩いた甲斐があった！",
+      "replies": [
+        {
+          "id": "p46-lab-worth-r1",
+          "author": "Ollie",
+          "text": "A good question can be worth a long walk.",
+          "translation": "いい質問のためなら、長い散歩にも価値があるね。"
+        }
+      ]
+    },
+    {
       "id": "p45-018",
       "category": "food",
       "author": "Tenor Turtle",
@@ -4397,6 +4457,21 @@
       ]
     },
     {
+      "id": "p46-lab-onmyway",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"I'm on my way\" means \"I'm coming now.\" Example: \"I'm on my way to the station.\"",
+      "translation": "I’m on my wayは「今向かっているよ」。例：駅に向かっているよ。",
+      "replies": [
+        {
+          "id": "p46-lab-onmyway-r1",
+          "author": "Mika Reed",
+          "text": "I text this when I'm running late.",
+          "translation": "遅刻しそうなときに、このメッセージを送るよ。"
+        }
+      ]
+    },
+    {
       "id": "p453-o04",
       "category": "daily",
       "author": "Ollie",
@@ -4735,6 +4810,21 @@
           "text": "One new leaf is a big event in plant time.",
           "translation": "植物の時間なら新しい葉っぱは大事件だよ。",
           "delay": 420000
+        }
+      ]
+    },
+    {
+      "id": "p46-lab-practice",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"Practice\" can be a verb or a noun. \"I practice saxophone every evening.\"",
+      "translation": "practiceは動詞の「練習する」も名詞の「練習」も意味する。例：毎晩サックスを練習する。",
+      "replies": [
+        {
+          "id": "p46-lab-practice-r1",
+          "author": "Clara Strings",
+          "text": "Even short practice sessions help.",
+          "translation": "短時間の練習でも役に立つよ。"
         }
       ]
     },
@@ -5102,6 +5192,21 @@
       ]
     },
     {
+      "id": "p46-lab-quiet",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"Quiet\" means \"not loud.\" \"The street is quiet after the festival.\"",
+      "translation": "quietは「静かな」。例：祭りのあと、通りは静かだ。",
+      "replies": [
+        {
+          "id": "p46-lab-quiet-r1",
+          "author": "Rosie Pan",
+          "text": "My kitchen is quiet after closing, too.",
+          "translation": "閉店後はうちの厨房も静かだよ。"
+        }
+      ]
+    },
+    {
       "id": "p453-w01",
       "category": "wellness",
       "author": "Daily Wellness",
@@ -5447,6 +5552,21 @@
           "text": "Keeping a favorite coat going is worth the effort.",
           "translation": "お気に入りのコートを長く着るのはいいね。",
           "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "p46-lab-figureout",
+      "category": "learning",
+      "author": "Little English Lab",
+      "text": "\"Figure out\" means \"understand or solve.\" \"We'll figure it out together.\"",
+      "translation": "figure outは「理解する」「解決する」。例：一緒に考えればわかるよ。",
+      "replies": [
+        {
+          "id": "p46-lab-figureout-r1",
+          "author": "Ollie",
+          "text": "That's one of my favorite phrases.",
+          "translation": "大好きな表現の一つだよ。"
         }
       ]
     },
