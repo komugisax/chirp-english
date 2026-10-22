@@ -1114,7 +1114,7 @@
         },
         {
           "id": "p063-r2",
-          "author": "Noodle Wizard",
+          "author": "Bookish Fox",
           "avatar": "🍜",
           "text": "Barely. Worth it.",
           "translation": "ギリギリね。でもその価値はあった。"
@@ -1189,7 +1189,7 @@
         },
         {
           "id": "p067-r2",
-          "author": "Noodle Wizard",
+          "author": "Bookish Fox",
           "avatar": "🍜",
           "text": "Follow the recipe.",
           "translation": "レシピに従うこと。"
@@ -1577,7 +1577,7 @@
         },
         {
           "id": "p089-r2",
-          "author": "Tech Gremlin",
+          "author": "Bookish Fox",
           "avatar": "💻",
           "text": "Absolutely not.",
           "translation": "まったく。"
@@ -3755,6 +3755,13 @@
           "author": "Sleepy Cat",
           "text": "My curtains never win against morning sunlight either.",
           "translation": "朝の日差しにはうちのカーテンも勝てないよ。"
+        },
+        {
+          "id": "p45-001-r2",
+          "author": "Wise Owl",
+          "text": "A bright morning can feel like a fresh page.",
+          "translation": "明るい朝は新しいページみたいだね。",
+          "delay": 240000
         }
       ]
     },
@@ -3785,6 +3792,13 @@
           "author": "Coffee Goblin",
           "text": "A tiny victory served in a very important cup.",
           "translation": "とても大事な一杯に入った小さな勝利だね。"
+        },
+        {
+          "id": "p45-003-r2",
+          "author": "Coffee Goblin",
+          "text": "That first sip deserves its own little celebration.",
+          "translation": "最初の一口は小さなお祝いに値するね。",
+          "delay": 360000
         }
       ]
     },
@@ -3815,6 +3829,13 @@
           "author": "Rainy Rabbit",
           "text": "Thank you for your excellent weather-control service.",
           "translation": "素晴らしい天気操作をありがとう。"
+        },
+        {
+          "id": "p45-005-r2",
+          "author": "Rainy Rabbit",
+          "text": "The clouds must have seen your umbrella.",
+          "translation": "雲が傘を見たんだね。",
+          "delay": 180000
         }
       ]
     },
@@ -3875,6 +3896,13 @@
           "author": "Rosie Pan",
           "text": "That means your next coffee already comes with a smile.",
           "translation": "次のコーヒーには笑顔も付いてくるね。"
+        },
+        {
+          "id": "p45-009-r2",
+          "author": "Rosie Pan",
+          "text": "Being remembered at a café feels wonderful.",
+          "translation": "カフェで覚えてもらえるのって嬉しいね。",
+          "delay": 420000
         }
       ]
     },
@@ -3926,7 +3954,7 @@
     {
       "id": "p45-013",
       "category": "music",
-      "author": "Lily Pop",
+      "author": "Clara Strings",
       "text": "I practiced one difficult measure until it finally sounded right.",
       "translation": "難しい一小節を、やっとうまく吹けるまで練習した。",
       "replies": [
@@ -3935,6 +3963,13 @@
           "author": "Mika Reed",
           "text": "That one stubborn measure finally gave up, huh?",
           "translation": "あの手ごわい小節もついに降参したんだね。"
+        },
+        {
+          "id": "p45-013-r2",
+          "author": "Mika Reed",
+          "text": "A tricky passage feels great when it finally clicks.",
+          "translation": "難しいフレーズができたときは最高だよね。",
+          "delay": 360000
         }
       ]
     },
@@ -3965,6 +4000,13 @@
           "author": "Clara Strings",
           "text": "I always wonder what piece they're practicing.",
           "translation": "どんな曲を練習しているのか、いつも気になるの。"
+        },
+        {
+          "id": "p45-015-r2",
+          "author": "Clara Strings",
+          "text": "I wonder if they were practicing or playing for fun.",
+          "translation": "練習だったのか楽しんでいたのか気になるな。",
+          "delay": 180000
         }
       ]
     },
@@ -3980,6 +4022,13 @@
           "author": "Mika Reed",
           "text": "Old recordings carry entire afternoons inside them.",
           "translation": "古い録音には昔の午後が丸ごと詰まっているね。"
+        },
+        {
+          "id": "p45-016-r2",
+          "author": "Mika Reed",
+          "text": "Old recordings have such a special atmosphere.",
+          "translation": "古い録音には独特の雰囲気があるね。",
+          "delay": 240000
         }
       ]
     },
@@ -4025,6 +4074,13 @@
           "author": "Rosie Pan",
           "text": "Tomorrow's soup always tastes better after a quiet night.",
           "translation": "一晩置いた明日のスープはもっとおいしいよ。"
+        },
+        {
+          "id": "p45-019-r2",
+          "author": "Rosie Pan",
+          "text": "Leftover soup often tastes even better tomorrow.",
+          "translation": "スープは翌日の方がおいしいこともあるよね。",
+          "delay": 420000
         }
       ]
     },
@@ -4055,6 +4111,13 @@
           "author": "Wise Owl",
           "text": "Four books is a perfectly reasonable definition of one.",
           "translation": "四冊でも「一冊」の範囲内ってことでいいよ。"
+        },
+        {
+          "id": "p45-021-r2",
+          "author": "Wise Owl",
+          "text": "One book turns into four so easily.",
+          "translation": "本はあっという間に一冊から四冊になるよね。",
+          "delay": 240000
         }
       ]
     },
@@ -4085,6 +4148,13 @@
           "author": "Bookish Fox",
           "text": "The best endings make you return to the beginning.",
           "translation": "最高の結末は最初から読み返したくなるね。"
+        },
+        {
+          "id": "p45-023-r2",
+          "author": "Bookish Fox",
+          "text": "Now I need to know which ending impressed you.",
+          "translation": "どんな結末だったのか聞きたいな。",
+          "delay": 360000
         }
       ]
     },
@@ -4145,6 +4215,13 @@
           "author": "Rosie Pan",
           "text": "That small kindness probably changed their whole morning.",
           "translation": "その小さな親切がその人の朝を変えたかもね。"
+        },
+        {
+          "id": "p45-027-r2",
+          "author": "Wise Owl",
+          "text": "Small kindness can change an entire day.",
+          "translation": "小さな親切が一日を変えることもあるね。",
+          "delay": 300000
         }
       ]
     },
@@ -4175,6 +4252,13 @@
           "author": "Jazz Cat",
           "text": "Maybe you interrupted an important feline appointment.",
           "translation": "猫の大事な約束を邪魔したのかもね。"
+        },
+        {
+          "id": "p45-029-r2",
+          "author": "Jazz Cat",
+          "text": "The cat clearly had an important question.",
+          "translation": "その猫には大事な質問があったのかも。",
+          "delay": 420000
         }
       ]
     },
@@ -4202,9 +4286,16 @@
       "replies": [
         {
           "id": "p45-031-r1",
-          "author": "Jazz Cat",
+          "author": "Wise Owl",
           "text": "You've been chosen for a very tiny inspection.",
           "translation": "ものすごく小さな検査官に選ばれたね。"
+        },
+        {
+          "id": "p45-031-r2",
+          "author": "Sleepy Cat",
+          "text": "Maybe a new neighbor wants to say hello.",
+          "translation": "新しいご近所さんが挨拶してるのかも。",
+          "delay": 240000
         }
       ]
     },
@@ -4250,6 +4341,13 @@
           "author": "Monday Survivor",
           "text": "The hardest task is usually the loudest one in my head.",
           "translation": "一番大変な仕事は頭の中でも一番うるさいんだ。"
+        },
+        {
+          "id": "p45-034-r2",
+          "author": "Office Ghost",
+          "text": "I wish I had done the hard task first, too.",
+          "translation": "私も難しい仕事を先にやればよかった。",
+          "delay": 420000
         }
       ]
     },
@@ -4280,6 +4378,13 @@
           "author": "Garden Snail",
           "text": "A little fresh air counts even on the busiest day.",
           "translation": "忙しくても少し外の空気を吸うのは大事だよ。"
+        },
+        {
+          "id": "p45-036-r2",
+          "author": "Tenor Turtle",
+          "text": "A short walk can reset my whole afternoon.",
+          "translation": "短い散歩で午後の気分が変わるよ。",
+          "delay": 240000
         }
       ]
     },
@@ -4325,6 +4430,13 @@
           "author": "Bookish Fox",
           "text": "Those unnoticed streets often have the nicest surprises.",
           "translation": "気づかなかった道にこそ素敵な発見があるよね。"
+        },
+        {
+          "id": "p45-039-r2",
+          "author": "Bookish Fox",
+          "text": "Finding a new corner of your own city is lovely.",
+          "translation": "自分の街の知らない一角を見つけるのはいいね。",
+          "delay": 420000
         }
       ]
     },
@@ -4370,6 +4482,13 @@
           "author": "Mika Reed",
           "text": "I might visit just to hear the afternoon playlist.",
           "translation": "午後のプレイリストを聴きに行こうかな。"
+        },
+        {
+          "id": "p45-042-r2",
+          "author": "Jazz Cat",
+          "text": "A good shop playlist makes browsing twice as fun.",
+          "translation": "お店の選曲が良いと買い物も楽しいね。",
+          "delay": 300000
         }
       ]
     },
@@ -4382,7 +4501,7 @@
       "replies": [
         {
           "id": "p45-043-r1",
-          "author": "Nova Orbit",
+          "author": "Wise Owl",
           "text": "At last, enough pocket space for Earth's mysteries.",
           "translation": "ついに地球の謎を入れるだけのポケットが！"
         }
@@ -4415,6 +4534,13 @@
           "author": "Tech Gremlin",
           "text": "Midnight is apparently only five minutes after one more game.",
           "translation": "「もう一回」の五分後には深夜になる不思議。"
+        },
+        {
+          "id": "p45-045-r2",
+          "author": "Tech Gremlin",
+          "text": "The dangerous words: just one more level.",
+          "translation": "危険な言葉だね、あと一面だけ。",
+          "delay": 180000
         }
       ]
     },
@@ -4430,6 +4556,13 @@
           "author": "Lily Pop",
           "text": "Some game soundtracks deserve their own concert halls.",
           "translation": "ゲーム音楽にもコンサートホールがふさわしい曲があるよね。"
+        },
+        {
+          "id": "p45-046-r2",
+          "author": "Lily Pop",
+          "text": "Game soundtracks deserve their own concerts.",
+          "translation": "ゲーム音楽もコンサートで聴きたいよね。",
+          "delay": 240000
         }
       ]
     },
@@ -4475,6 +4608,13 @@
           "author": "Garden Snail",
           "text": "One new leaf is a whole adventure for that plant.",
           "translation": "新しい葉っぱ一枚はその植物にとって大冒険だね。"
+        },
+        {
+          "id": "p45-049-r2",
+          "author": "Garden Snail",
+          "text": "One new leaf is a big event in plant time.",
+          "translation": "植物の時間なら新しい葉っぱは大事件だよ。",
+          "delay": 420000
         }
       ]
     },
@@ -4502,9 +4642,16 @@
       "replies": [
         {
           "id": "p45-051-r1",
-          "author": "Rosie Pan",
+          "author": "Wise Owl",
           "text": "Fresh herbs after rain make even simple meals exciting.",
           "translation": "雨上がりのハーブは簡単な料理まで楽しみにしてくれるね。"
+        },
+        {
+          "id": "p45-051-r2",
+          "author": "Ollie",
+          "text": "Fresh herbs make a kitchen smell amazing.",
+          "translation": "新鮮なハーブがあると台所がいい香りになるよ。",
+          "delay": 240000
         }
       ]
     },
@@ -4550,6 +4697,13 @@
           "author": "Dog Detective",
           "text": "I need to examine this extremely important dog photograph.",
           "translation": "その重大な犬の写真を調査しなくては。"
+        },
+        {
+          "id": "p45-054-r2",
+          "author": "Dog Detective",
+          "text": "Was the dog making a funny face?",
+          "translation": "その犬、面白い顔をしてた？",
+          "delay": 420000
         }
       ]
     },
@@ -4595,6 +4749,13 @@
           "author": "Sleepy Cat",
           "text": "My brain saves all its best ideas for bedtime too.",
           "translation": "私の頭も寝る直前に最高のアイデアを出すよ。"
+        },
+        {
+          "id": "p45-057-r2",
+          "author": "Sleepy Cat",
+          "text": "My brain does the same thing at bedtime.",
+          "translation": "私の頭も寝る前にそうなるよ。",
+          "delay": 300000
         }
       ]
     },
@@ -4640,13 +4801,20 @@
           "author": "Wise Owl",
           "text": "Good sleep makes little problems look much smaller.",
           "translation": "よく眠ると小さな問題がもっと小さく見えるね。"
+        },
+        {
+          "id": "p45-060-r2",
+          "author": "Wise Owl",
+          "text": "A good night of sleep really changes the day.",
+          "translation": "よく眠ると一日の感じが変わるね。",
+          "delay": 180000
         }
       ]
     },
     {
       "id": "p45-061",
       "category": "sax",
-      "author": "Jazz Cat",
+      "author": "Alto Fox",
       "text": "My alto sax sounded especially warm in the practice room today.",
       "translation": "今日の練習室ではアルトの音が特に温かかった。",
       "replies": [
@@ -4655,6 +4823,13 @@
           "author": "Mika Reed",
           "text": "Was it the room, or did you find just the right reed?",
           "translation": "部屋のおかげ？それともぴったりのリードを見つけた？"
+        },
+        {
+          "id": "p45-061-r2",
+          "author": "Mika Reed",
+          "text": "I want to hear that warm alto tone.",
+          "translation": "その温かいアルトの音色を聴きたいな。",
+          "delay": 240000
         }
       ]
     },
@@ -4670,51 +4845,79 @@
           "author": "Jazz Cat",
           "text": "A tenor sax can turn one note into a whole conversation.",
           "translation": "テナーサックスは一音で会話ができるね。"
+        },
+        {
+          "id": "p45-062-r2",
+          "author": "Mika Reed",
+          "text": "The tenor really can sound like a speaking voice.",
+          "translation": "テナーは本当に話す声みたいに響くよね。",
+          "delay": 300000
         }
       ]
     },
     {
       "id": "p45-063",
       "category": "sax",
-      "author": "Wise Owl",
+      "author": "Soprano Star",
       "text": "I played my soprano sax for a few quiet minutes.",
       "translation": "ソプラノを少しだけ静かに吹いた。",
       "replies": [
         {
           "id": "p45-063-r1",
-          "author": "Soprano Star",
+          "author": "Wise Owl",
           "text": "Quiet soprano practice has a special kind of sparkle.",
           "translation": "静かなソプラノ練習には特別な輝きがあるね。"
+        },
+        {
+          "id": "p45-063-r2",
+          "author": "Mika Reed",
+          "text": "Soprano takes such careful breath control.",
+          "translation": "ソプラノは息のコントロールが難しいよね。",
+          "delay": 360000
         }
       ]
     },
     {
       "id": "p45-064",
       "category": "sax",
-      "author": "Bookish Fox",
+      "author": "Baritone Bear",
       "text": "The baritone sax case barely fits through this doorway.",
       "translation": "バリトンのケースはこのドアを通るのも一苦労。",
       "replies": [
         {
           "id": "p45-064-r1",
-          "author": "Baritone Bear",
+          "author": "Wise Owl",
           "text": "Doorways and baritone cases are natural enemies.",
           "translation": "ドアとバリトンサックスのケースは天敵だよ。"
+        },
+        {
+          "id": "p45-064-r2",
+          "author": "Tenor Turtle",
+          "text": "Those big cases always win against narrow doors.",
+          "translation": "大きいケースは狭いドアに勝っちゃうね。",
+          "delay": 420000
         }
       ]
     },
     {
       "id": "p45-065",
       "category": "classical",
-      "author": "Bookish Fox",
+      "author": "Clara Strings",
       "text": "The quartet rehearsed the same passage until everyone smiled.",
       "translation": "四重奏が同じフレーズを全員笑顔になるまで練習。",
       "replies": [
         {
           "id": "p45-065-r1",
-          "author": "Clara Strings",
+          "author": "Wise Owl",
           "text": "That smile after a difficult passage is why rehearsals matter.",
           "translation": "難しい部分のあとに笑えるからこそ合奏は大事だね。"
+        },
+        {
+          "id": "p45-065-r2",
+          "author": "Mika Reed",
+          "text": "That moment when a group locks in is magical.",
+          "translation": "みんなの音が合った瞬間って魔法みたい。",
+          "delay": 180000
         }
       ]
     },
@@ -4736,15 +4939,22 @@
     {
       "id": "p45-067",
       "category": "classical",
-      "author": "Coffee Goblin",
+      "author": "Clara Strings",
       "text": "I changed one bowing and the melody felt completely different.",
       "translation": "弓づかいを一つ変えるだけで曲が違って感じた。",
       "replies": [
         {
           "id": "p45-067-r1",
-          "author": "Clara Strings",
+          "author": "Wise Owl",
           "text": "One bowing change can make the whole phrase breathe.",
           "translation": "弓使い一つでフレーズ全体の呼吸が変わるね。"
+        },
+        {
+          "id": "p45-067-r2",
+          "author": "Tenor Turtle",
+          "text": "One tiny change can reshape the whole phrase.",
+          "translation": "小さな変化でフレーズ全体が変わるよね。",
+          "delay": 300000
         }
       ]
     },
@@ -4760,6 +4970,13 @@
           "author": "Clara Strings",
           "text": "Cellos can make four walls feel infinitely tall.",
           "translation": "チェロは四方の壁をどこまでも高く感じさせるよね。"
+        },
+        {
+          "id": "p45-068-r2",
+          "author": "Clara Strings",
+          "text": "The cello has such a rich lower register.",
+          "translation": "チェロの低音域はとても豊かだよね。",
+          "delay": 360000
         }
       ]
     },
@@ -4781,13 +4998,13 @@
     {
       "id": "p45-070",
       "category": "pop",
-      "author": "Clara Strings",
+      "author": "Lily Pop",
       "text": "I learned the dance steps, except for the hard part.",
       "translation": "ダンスの難しい部分以外は覚えた。",
       "replies": [
         {
           "id": "p45-070-r1",
-          "author": "Lily Pop",
+          "author": "Wise Owl",
           "text": "The hard step is always the one everyone remembers.",
           "translation": "難しいステップこそみんなの印象に残るよね。"
         }
@@ -4805,6 +5022,13 @@
           "author": "Mika Reed",
           "text": "I love that moment between a song announcement and release.",
           "translation": "新曲発表から発売までのワクワクが好き。"
+        },
+        {
+          "id": "p45-071-r2",
+          "author": "Chloe Spark",
+          "text": "I hope they announce tour dates soon, too.",
+          "translation": "ツアー日程も早く発表してほしいな。",
+          "delay": 240000
         }
       ]
     },
@@ -4820,6 +5044,13 @@
           "author": "Clara Strings",
           "text": "That must have been wonderful to hear from the stage.",
           "translation": "ステージから聞いたら素敵だったでしょうね。"
+        },
+        {
+          "id": "p45-072-r2",
+          "author": "Lily Pop",
+          "text": "A whole room singing together gives me goosebumps.",
+          "translation": "会場みんなで歌うと鳥肌が立つよ。",
+          "delay": 300000
         }
       ]
     },
@@ -4835,6 +5066,13 @@
           "author": "Garden Snail",
           "text": "Cloudy light can make a river look like a painting.",
           "translation": "曇りの日の光で川が絵画みたいに見えるね。"
+        },
+        {
+          "id": "p45-073-r2",
+          "author": "Clara Strings",
+          "text": "The river looks different every evening.",
+          "translation": "川は夕方ごとに違って見えるね。",
+          "delay": 360000
         }
       ]
     },
@@ -4880,6 +5118,13 @@
           "author": "Rainy Rabbit",
           "text": "Bridges always seem to collect extra wind.",
           "translation": "橋って余計な風を集めちゃうみたいだね。"
+        },
+        {
+          "id": "p45-076-r2",
+          "author": "Rainy Rabbit",
+          "text": "Bridges always seem to invite an extra gust.",
+          "translation": "橋にはいつも風が余計に吹く気がする。",
+          "delay": 240000
         }
       ]
     },
@@ -4922,7 +5167,7 @@
       "replies": [
         {
           "id": "p45-079-r1",
-          "author": "Bookish Fox",
+          "author": "Wise Owl",
           "text": "A scarf is basically a portable little hug.",
           "translation": "マフラーは持ち歩ける小さなハグみたいだね。"
         }
@@ -4937,9 +5182,16 @@
       "replies": [
         {
           "id": "p45-080-r1",
-          "author": "Rosie Pan",
+          "author": "Wise Owl",
           "text": "An old coat deserves a second life after one small repair.",
           "translation": "小さな修理で古いコートがまた活躍できるね。"
+        },
+        {
+          "id": "p45-080-r2",
+          "author": "Bookish Fox",
+          "text": "Keeping a favorite coat going is worth the effort.",
+          "translation": "お気に入りのコートを長く着るのはいいね。",
+          "delay": 180000
         }
       ]
     },
@@ -5000,6 +5252,13 @@
           "author": "Dog Detective",
           "text": "That puppy understands the snack-based economy already.",
           "translation": "その子犬、おやつ経済をもう理解してるね。"
+        },
+        {
+          "id": "p45-084-r2",
+          "author": "Dog Detective",
+          "text": "The snacks are clearly part of the contract.",
+          "translation": "おやつが条件なんだろうね。",
+          "delay": 420000
         }
       ]
     },
@@ -5015,6 +5274,13 @@
           "author": "Mika Reed",
           "text": "Harbor lights look like notes scattered across dark water.",
           "translation": "港の灯りは暗い海に散らばった音符みたい。"
+        },
+        {
+          "id": "p45-085-r2",
+          "author": "Mika Reed",
+          "text": "Harbor lights always make the walk home nicer.",
+          "translation": "港の灯りがあると帰り道も楽しいね。",
+          "delay": 180000
         }
       ]
     },
@@ -5060,6 +5326,13 @@
           "author": "Wise Owl",
           "text": "Those are the days that deserve a small smile before sleep.",
           "translation": "そんな日は眠る前に少し微笑みたくなるね。"
+        },
+        {
+          "id": "p45-088-r2",
+          "author": "Wise Owl",
+          "text": "Some days being tired and satisfied go together.",
+          "translation": "疲れたけど満足、そんな日もあるね。",
+          "delay": 360000
         }
       ]
     },
@@ -5090,6 +5363,13 @@
           "author": "Tech Gremlin",
           "text": "The battery chose the most dramatic possible moment.",
           "translation": "バッテリーは最高に劇的な瞬間を選んだね。"
+        },
+        {
+          "id": "p45-090-r2",
+          "author": "Lily Pop",
+          "text": "The worst possible moment for a battery to quit!",
+          "translation": "電池が切れる最悪のタイミングだね！",
+          "delay": 180000
         }
       ]
     },
@@ -5120,6 +5400,13 @@
           "author": "Office Ghost",
           "text": "My computer also believes updates are urgent emergencies.",
           "translation": "私のパソコンも更新は緊急事態だと思ってるよ。"
+        },
+        {
+          "id": "p45-092-r2",
+          "author": "Tech Gremlin",
+          "text": "Updates have a gift for terrible timing.",
+          "translation": "アップデートはいつもタイミングが悪いね。",
+          "delay": 300000
         }
       ]
     },
@@ -5165,6 +5452,13 @@
           "author": "Garden Snail",
           "text": "Sometimes flowers are the best reason to buy flowers.",
           "translation": "花を買う理由は花がきれい、それだけで十分だよ。"
+        },
+        {
+          "id": "p45-095-r2",
+          "author": "Garden Snail",
+          "text": "Flowers are a perfectly good reason to smile.",
+          "translation": "花は笑顔になる十分な理由だね。",
+          "delay": 180000
         }
       ]
     },
@@ -5195,6 +5489,13 @@
           "author": "Jazz Cat",
           "text": "A cookie with your name on it, apparently.",
           "translation": "そのクッキー、あなたの名前が書いてあったみたい。"
+        },
+        {
+          "id": "p45-097-r2",
+          "author": "Rosie Pan",
+          "text": "Save me one if you find another box!",
+          "translation": "次の箱があったら一枚取っておいて！",
+          "delay": 300000
         }
       ]
     },
@@ -5225,6 +5526,13 @@
           "author": "Rosie Pan",
           "text": "Small kindnesses make a crowded day feel lighter.",
           "translation": "小さな親切が忙しい日を軽くしてくれるね。"
+        },
+        {
+          "id": "p45-099-r2",
+          "author": "Wise Owl",
+          "text": "That tiny gesture probably meant a lot.",
+          "translation": "その小さな行動はきっと嬉しかったよね。",
+          "delay": 420000
         }
       ]
     },
@@ -5240,6 +5548,343 @@
           "author": "Mika Reed",
           "text": "I wish sunsets came with a pause button.",
           "translation": "夕焼けには一時停止ボタンが欲しいな。"
+        },
+        {
+          "id": "p45-100-r2",
+          "author": "Mika Reed",
+          "text": "Sometimes the sky deserves a standing ovation.",
+          "translation": "空に拍手したくなる時があるね。",
+          "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "p453-o01",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I wrote down a question and forgot why it mattered. Now I have two questions.",
+      "translation": "質問を書き留めたけど、なぜ気になったか忘れた。質問が二つになった。",
+      "replies": [
+        {
+          "id": "p453-o01-r1",
+          "author": "Bookish Fox",
+          "text": "Maybe the forgotten reason is hiding in a book.",
+          "translation": "理由は本の中に隠れているかも。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o02",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The bakery was out of bread, so I tried something new. I might go back.",
+      "translation": "パン屋で目当てのパンが売り切れだったから別のものを試した。また行くかも。",
+      "replies": [
+        {
+          "id": "p453-o02-r1",
+          "author": "Rosie Pan",
+          "text": "Unexpected discoveries are the best part of a bakery.",
+          "translation": "思いがけない発見がパン屋の醍醐味だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o03",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Someone fixed the broken bench by the harbor. I wonder who noticed first.",
+      "translation": "港の壊れたベンチが直っていた。誰が最初に気づいたんだろう。",
+      "replies": [
+        {
+          "id": "p453-o03-r1",
+          "author": "Mika Reed",
+          "text": "I passed it yesterday. It looks great now.",
+          "translation": "昨日そこを通ったよ。今はきれいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o04",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I like songs that leave a little room for silence.",
+      "translation": "少しの沈黙を残してくれる曲が好き。",
+      "replies": [
+        {
+          "id": "p453-o04-r1",
+          "author": "Tenor Turtle",
+          "text": "Sometimes the rests are where the feeling lives.",
+          "translation": "休符に気持ちが宿ることもあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o05",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I tried to explain a joke. It stopped being funny halfway through.",
+      "translation": "冗談を説明しようとしたら途中で面白くなくなった。",
+      "replies": [
+        {
+          "id": "p453-o05-r1",
+          "author": "Jazz Cat",
+          "text": "That is why I never explain mine.",
+          "translation": "だから僕は冗談を説明しないんだ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o06",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The train was late. A stranger shared a very useful shortcut.",
+      "translation": "電車が遅れた。知らない人が便利な近道を教えてくれた。",
+      "replies": [
+        {
+          "id": "p453-o06-r1",
+          "author": "Chloe Spark",
+          "text": "Helpful strangers make a city feel smaller.",
+          "translation": "親切な人がいると街が身近に感じられるね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o07",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Today I learned that asking for help can be a kind of courage.",
+      "translation": "助けを求めるのも勇気の一つだと今日学んだ。",
+      "replies": [
+        {
+          "id": "p453-o07-r1",
+          "author": "Wise Owl",
+          "text": "And letting someone help can build a friendship.",
+          "translation": "助けてもらうことで友情が生まれることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o08",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I made tea and waited for it to cool. Then I forgot about it.",
+      "translation": "お茶をいれて冷めるのを待った。そして忘れた。",
+      "replies": [
+        {
+          "id": "p453-o08-r1",
+          "author": "Coffee Goblin",
+          "text": "My coffee has suffered the same fate.",
+          "translation": "僕のコーヒーも同じ運命をたどったよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o09",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Two people can hear the same song and remember completely different days.",
+      "translation": "同じ曲を聴いても二人が思い出す日はまったく違うことがある。",
+      "replies": [
+        {
+          "id": "p453-o09-r1",
+          "author": "Clara Strings",
+          "text": "That is what makes performing for people so moving.",
+          "translation": "だから人前で演奏するのは感動的なんだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o10",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The little library near my street has a new window display.",
+      "translation": "家の近くの小さな図書館に新しい窓の展示があった。",
+      "replies": [
+        {
+          "id": "p453-o10-r1",
+          "author": "Bookish Fox",
+          "text": "I may have to visit after lunch.",
+          "translation": "お昼の後に行かなくちゃ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-o11",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I was wrong about something small today. Saying so felt surprisingly easy.",
+      "translation": "今日、小さなことを勘違いしていた。認めるのは思いのほか簡単だった。",
+      "replies": [
+        {
+          "id": "p453-o11-r1",
+          "author": "Rosie Pan",
+          "text": "I wish kitchen mistakes were always that easy to admit!",
+          "translation": "厨房の失敗もいつも簡単に認められたらいいのに！"
+        }
+      ]
+    },
+    {
+      "id": "p453-o12",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I saw an orange cat asleep beside a music shop. The music did not wake it.",
+      "translation": "楽器店の横で茶トラ猫が寝ていた。音楽でも起きなかった。",
+      "replies": [
+        {
+          "id": "p453-o12-r1",
+          "author": "Jazz Cat",
+          "text": "A true professional listener.",
+          "translation": "本物のプロの聴き手だね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w01",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "A regular sleep schedule can support better rest. Try keeping similar bedtimes and wake times when you can.",
+      "translation": "規則的な睡眠時間は休息に役立つことがあります。できる範囲で寝る時刻と起きる時刻をそろえてみましょう。",
+      "replies": [
+        {
+          "id": "p453-w01-r1",
+          "author": "Sleepy Cat",
+          "text": "My weekend schedule might need some work.",
+          "translation": "週末の睡眠時間を見直した方がいいかも。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w02",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Short walks count as movement. Start with a pace that feels comfortable for you.",
+      "translation": "短い散歩も運動に含まれます。自分に無理のないペースから始めましょう。",
+      "replies": [
+        {
+          "id": "p453-w02-r1",
+          "author": "Tenor Turtle",
+          "text": "Slow is my favorite walking speed.",
+          "translation": "ゆっくり歩くのが好きなんだ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w03",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Eating a variety of fruits and vegetables can help you get different nutrients.",
+      "translation": "いろいろな野菜や果物を食べると、さまざまな栄養素を摂取しやすくなります。",
+      "replies": [
+        {
+          "id": "p453-w03-r1",
+          "author": "Rosie Pan",
+          "text": "A colorful soup sounds good tonight.",
+          "translation": "今夜は彩りのいいスープにしようかな。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w04",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "When the weather is hot, remember to drink water regularly. Your needs vary with activity and climate.",
+      "translation": "暑いときはこまめな水分補給を意識しましょう。必要な量は活動量や気候によって変わります。",
+      "replies": [
+        {
+          "id": "p453-w04-r1",
+          "author": "Coffee Goblin",
+          "text": "Fine, I will put a water glass next to my coffee.",
+          "translation": "わかった、コーヒーの隣に水も置くよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w05",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Taking a break from screens before bedtime may help some people wind down.",
+      "translation": "寝る前に画面から離れることは、人によっては気持ちを落ち着かせる助けになります。",
+      "replies": [
+        {
+          "id": "p453-w05-r1",
+          "author": "Tech Gremlin",
+          "text": "My phone and I need some boundaries.",
+          "translation": "スマホとの距離感を考えないとな。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w06",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Strength and balance activities are useful alongside aerobic exercise. Choose activities that suit your abilities.",
+      "translation": "筋力やバランスを使う運動も、有酸素運動とともに役立ちます。自分に合った運動を選びましょう。",
+      "replies": [
+        {
+          "id": "p453-w06-r1",
+          "author": "Garden Snail",
+          "text": "Gardening keeps me moving in little ways.",
+          "translation": "園芸でも少しずつ体を動かせるよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w07",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "It is okay to take a rest day. Recovery is part of a sustainable activity routine.",
+      "translation": "休息日を取っても大丈夫です。回復も無理なく運動を続ける一部です。",
+      "replies": [
+        {
+          "id": "p453-w07-r1",
+          "author": "Mika Reed",
+          "text": "My shoulders needed that reminder after practice.",
+          "translation": "練習のあとの肩に必要な言葉だったよ。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w08",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "A balanced meal does not have to be complicated. Variety over time matters more than perfection at every meal.",
+      "translation": "バランスの良い食事は複雑でなくても大丈夫。一食ごとの完璧さより長期的な多様性が大切です。",
+      "replies": [
+        {
+          "id": "p453-w08-r1",
+          "author": "Rosie Pan",
+          "text": "That is a good message for home cooks.",
+          "translation": "家庭料理を作る人にいい言葉だね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w09",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Daylight during the day can help support your body clock.",
+      "translation": "日中に明るい光を浴びることは体内時計を整える助けになります。",
+      "replies": [
+        {
+          "id": "p453-w09-r1",
+          "author": "Wise Owl",
+          "text": "An open curtain is a lovely start.",
+          "translation": "カーテンを開けるところから始めたいね。"
+        }
+      ]
+    },
+    {
+      "id": "p453-w10",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "If stress feels overwhelming or persistent, reaching out to a trusted person or health professional can help.",
+      "translation": "強いストレスが続く場合は、信頼できる人や専門家に相談することが役立ちます。",
+      "replies": [
+        {
+          "id": "p453-w10-r1",
+          "author": "Ollie",
+          "text": "Asking is sometimes the bravest part.",
+          "translation": "声をかけることが一番勇気のいる部分だったりするね。"
         }
       ]
     }

@@ -1713,6 +1713,13 @@
           "author": "Sleepy Cat",
           "text": "The sun is early!",
           "translation": "太陽、早起きだね！"
+        },
+        {
+          "id": "e45-001-r2",
+          "author": "Wise Owl",
+          "text": "Good morning!",
+          "translation": "おはよう！",
+          "delay": 240000
         }
       ]
     },
@@ -1743,6 +1750,13 @@
           "author": "Coffee Goblin",
           "text": "Best first sip!",
           "translation": "最初の一口が最高！"
+        },
+        {
+          "id": "e45-003-r2",
+          "author": "Coffee Goblin",
+          "text": "Coffee time!",
+          "translation": "コーヒーの時間！",
+          "delay": 360000
         }
       ]
     },
@@ -1773,6 +1787,13 @@
           "author": "Rainy Rabbit",
           "text": "Your umbrella worked!",
           "translation": "傘のおかげだね！"
+        },
+        {
+          "id": "e45-005-r2",
+          "author": "Rainy Rabbit",
+          "text": "The rain is shy!",
+          "translation": "雨が恥ずかしがってる！",
+          "delay": 180000
         }
       ]
     },
@@ -1833,6 +1854,13 @@
           "author": "Rosie Pan",
           "text": "They remember you!",
           "translation": "覚えてくれてるんだ！"
+        },
+        {
+          "id": "e45-009-r2",
+          "author": "Rosie Pan",
+          "text": "They remember you!",
+          "translation": "覚えてくれてるね！",
+          "delay": 420000
         }
       ]
     },
@@ -1884,7 +1912,7 @@
     {
       "id": "e45-013",
       "category": "music",
-      "author": "Lily Pop",
+      "author": "Clara Strings",
       "text": "I practiced this part.",
       "translation": "難しい一小節を、やっとうまく吹けるまで練習した。",
       "replies": [
@@ -1893,6 +1921,13 @@
           "author": "Mika Reed",
           "text": "You did it!",
           "translation": "できたね！"
+        },
+        {
+          "id": "e45-013-r2",
+          "author": "Mika Reed",
+          "text": "You did it!",
+          "translation": "できたね！",
+          "delay": 360000
         }
       ]
     },
@@ -1923,6 +1958,13 @@
           "author": "Clara Strings",
           "text": "What song was it?",
           "translation": "何の曲だった？"
+        },
+        {
+          "id": "e45-015-r2",
+          "author": "Clara Strings",
+          "text": "I want to listen.",
+          "translation": "聴いてみたいな。",
+          "delay": 180000
         }
       ]
     },
@@ -1938,6 +1980,13 @@
           "author": "Mika Reed",
           "text": "Play it again!",
           "translation": "もう一度かけて！"
+        },
+        {
+          "id": "e45-016-r2",
+          "author": "Mika Reed",
+          "text": "Old music is great.",
+          "translation": "古い音楽、いいね。",
+          "delay": 240000
         }
       ]
     },
@@ -1983,6 +2032,13 @@
           "author": "Rosie Pan",
           "text": "Save me a bowl!",
           "translation": "私の分も取っておいて！"
+        },
+        {
+          "id": "e45-019-r2",
+          "author": "Rosie Pan",
+          "text": "Soup tomorrow, too!",
+          "translation": "明日もスープだね！",
+          "delay": 420000
         }
       ]
     },
@@ -2013,6 +2069,13 @@
           "author": "Wise Owl",
           "text": "Only four?",
           "translation": "四冊だけ？"
+        },
+        {
+          "id": "e45-021-r2",
+          "author": "Wise Owl",
+          "text": "Four books! Wow!",
+          "translation": "四冊も！すごい！",
+          "delay": 240000
         }
       ]
     },
@@ -2043,6 +2106,13 @@
           "author": "Bookish Fox",
           "text": "Read it again!",
           "translation": "もう一回読もう！"
+        },
+        {
+          "id": "e45-023-r2",
+          "author": "Bookish Fox",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？",
+          "delay": 360000
         }
       ]
     },
@@ -2103,6 +2173,13 @@
           "author": "Rosie Pan",
           "text": "That was kind!",
           "translation": "優しいね！"
+        },
+        {
+          "id": "e45-027-r2",
+          "author": "Wise Owl",
+          "text": "That was kind.",
+          "translation": "親切だね。",
+          "delay": 300000
         }
       ]
     },
@@ -2133,6 +2210,13 @@
           "author": "Jazz Cat",
           "text": "Pay the cat!",
           "translation": "猫に払って！"
+        },
+        {
+          "id": "e45-029-r2",
+          "author": "Jazz Cat",
+          "text": "Cats know things.",
+          "translation": "猫は何か知ってる。",
+          "delay": 420000
         }
       ]
     },
@@ -2160,9 +2244,16 @@
       "replies": [
         {
           "id": "e45-031-r1",
-          "author": "Jazz Cat",
+          "author": "Wise Owl",
           "text": "Who is there?",
           "translation": "誰がいるの？"
+        },
+        {
+          "id": "e45-031-r2",
+          "author": "Sleepy Cat",
+          "text": "Hello, little cat!",
+          "translation": "こんにちは、子猫！",
+          "delay": 240000
         }
       ]
     },
@@ -2208,6 +2299,13 @@
           "author": "Monday Survivor",
           "text": "Now you can relax.",
           "translation": "もう休めるね。"
+        },
+        {
+          "id": "e45-034-r2",
+          "author": "Office Ghost",
+          "text": "Nice work!",
+          "translation": "お疲れさま！",
+          "delay": 420000
         }
       ]
     },
@@ -2238,6 +2336,13 @@
           "author": "Garden Snail",
           "text": "Nice little walk.",
           "translation": "いい散歩だね。"
+        },
+        {
+          "id": "e45-036-r2",
+          "author": "Tenor Turtle",
+          "text": "Fresh air helps.",
+          "translation": "外の空気っていいね。",
+          "delay": 240000
         }
       ]
     },
@@ -2283,6 +2388,13 @@
           "author": "Bookish Fox",
           "text": "Where does it go?",
           "translation": "どこにつながるの？"
+        },
+        {
+          "id": "e45-039-r2",
+          "author": "Bookish Fox",
+          "text": "A secret street!",
+          "translation": "秘密の道だ！",
+          "delay": 420000
         }
       ]
     },
@@ -2328,6 +2440,13 @@
           "author": "Mika Reed",
           "text": "What music?",
           "translation": "どんな音楽？"
+        },
+        {
+          "id": "e45-042-r2",
+          "author": "Jazz Cat",
+          "text": "I love that shop.",
+          "translation": "そのお店、好き！",
+          "delay": 300000
         }
       ]
     },
@@ -2340,7 +2459,7 @@
       "replies": [
         {
           "id": "e45-043-r1",
-          "author": "Nova Orbit",
+          "author": "Wise Owl",
           "text": "Big pockets win!",
           "translation": "大きなポケット最高！"
         }
@@ -2373,6 +2492,13 @@
           "author": "Tech Gremlin",
           "text": "Just one more?",
           "translation": "もう一回だけ？"
+        },
+        {
+          "id": "e45-045-r2",
+          "author": "Tech Gremlin",
+          "text": "One more game?",
+          "translation": "もう一回？",
+          "delay": 180000
         }
       ]
     },
@@ -2388,6 +2514,13 @@
           "author": "Lily Pop",
           "text": "Play that tune!",
           "translation": "その曲かけて！"
+        },
+        {
+          "id": "e45-046-r2",
+          "author": "Lily Pop",
+          "text": "Play it again!",
+          "translation": "もう一回かけて！",
+          "delay": 240000
         }
       ]
     },
@@ -2433,6 +2566,13 @@
           "author": "Garden Snail",
           "text": "Hello, little leaf!",
           "translation": "こんにちは、葉っぱ！"
+        },
+        {
+          "id": "e45-049-r2",
+          "author": "Garden Snail",
+          "text": "A baby leaf!",
+          "translation": "小さな葉っぱ！",
+          "delay": 420000
         }
       ]
     },
@@ -2460,9 +2600,16 @@
       "replies": [
         {
           "id": "e45-051-r1",
-          "author": "Rosie Pan",
+          "author": "Wise Owl",
           "text": "Smells like dinner!",
           "translation": "夕飯の香り！"
+        },
+        {
+          "id": "e45-051-r2",
+          "author": "Ollie",
+          "text": "I love fresh herbs.",
+          "translation": "新鮮なハーブが好き。",
+          "delay": 240000
         }
       ]
     },
@@ -2508,6 +2655,13 @@
           "author": "Dog Detective",
           "text": "Show me the dog!",
           "translation": "犬を見せて！"
+        },
+        {
+          "id": "e45-054-r2",
+          "author": "Dog Detective",
+          "text": "Show me the dog!",
+          "translation": "犬を見せて！",
+          "delay": 420000
         }
       ]
     },
@@ -2553,6 +2707,13 @@
           "author": "Sleepy Cat",
           "text": "Count some sheep!",
           "translation": "羊を数えよう！"
+        },
+        {
+          "id": "e45-057-r2",
+          "author": "Sleepy Cat",
+          "text": "Me too. Every night.",
+          "translation": "私も毎晩そう。",
+          "delay": 300000
         }
       ]
     },
@@ -2598,13 +2759,20 @@
           "author": "Wise Owl",
           "text": "A fresh start!",
           "translation": "いいスタート！"
+        },
+        {
+          "id": "e45-060-r2",
+          "author": "Wise Owl",
+          "text": "Sleep feels good.",
+          "translation": "睡眠は大事だね。",
+          "delay": 180000
         }
       ]
     },
     {
       "id": "e45-061",
       "category": "sax",
-      "author": "Jazz Cat",
+      "author": "Alto Fox",
       "text": "My alto sounds warm.",
       "translation": "今日の練習室ではアルトの音が特に温かかった。",
       "replies": [
@@ -2613,6 +2781,13 @@
           "author": "Mika Reed",
           "text": "Which reed?",
           "translation": "どのリード？"
+        },
+        {
+          "id": "e45-061-r2",
+          "author": "Mika Reed",
+          "text": "Let me hear it!",
+          "translation": "聴かせて！",
+          "delay": 240000
         }
       ]
     },
@@ -2628,51 +2803,79 @@
           "author": "Jazz Cat",
           "text": "Play one note!",
           "translation": "一音吹いて！"
+        },
+        {
+          "id": "e45-062-r2",
+          "author": "Mika Reed",
+          "text": "I love tenor sax.",
+          "translation": "テナーサックス大好き。",
+          "delay": 300000
         }
       ]
     },
     {
       "id": "e45-063",
       "category": "sax",
-      "author": "Wise Owl",
+      "author": "Soprano Star",
       "text": "I played my soprano.",
       "translation": "ソプラノを少しだけ静かに吹いた。",
       "replies": [
         {
           "id": "e45-063-r1",
-          "author": "Soprano Star",
+          "author": "Wise Owl",
           "text": "Sweet high notes!",
           "translation": "きれいな高音！"
+        },
+        {
+          "id": "e45-063-r2",
+          "author": "Mika Reed",
+          "text": "Soprano is tricky!",
+          "translation": "ソプラノは難しい！",
+          "delay": 360000
         }
       ]
     },
     {
       "id": "e45-064",
       "category": "sax",
-      "author": "Bookish Fox",
+      "author": "Baritone Bear",
       "text": "My baritone case is big!",
       "translation": "バリトンのケースはこのドアを通るのも一苦労。",
       "replies": [
         {
           "id": "e45-064-r1",
-          "author": "Baritone Bear",
+          "author": "Wise Owl",
           "text": "Turn it sideways!",
           "translation": "横にしてみて！"
+        },
+        {
+          "id": "e45-064-r2",
+          "author": "Tenor Turtle",
+          "text": "That case is huge!",
+          "translation": "大きなケース！",
+          "delay": 420000
         }
       ]
     },
     {
       "id": "e45-065",
       "category": "classical",
-      "author": "Bookish Fox",
+      "author": "Clara Strings",
       "text": "The quartet practiced together.",
       "translation": "四重奏が同じフレーズを全員笑顔になるまで練習。",
       "replies": [
         {
           "id": "e45-065-r1",
-          "author": "Clara Strings",
+          "author": "Wise Owl",
           "text": "One more time!",
           "translation": "もう一回！"
+        },
+        {
+          "id": "e45-065-r2",
+          "author": "Mika Reed",
+          "text": "You sound great!",
+          "translation": "いい音だね！",
+          "delay": 180000
         }
       ]
     },
@@ -2694,15 +2897,22 @@
     {
       "id": "e45-067",
       "category": "classical",
-      "author": "Coffee Goblin",
+      "author": "Clara Strings",
       "text": "I changed my bowing.",
       "translation": "弓づかいを一つ変えるだけで曲が違って感じた。",
       "replies": [
         {
           "id": "e45-067-r1",
-          "author": "Clara Strings",
+          "author": "Wise Owl",
           "text": "It sounds different!",
           "translation": "音が変わった！"
+        },
+        {
+          "id": "e45-067-r2",
+          "author": "Tenor Turtle",
+          "text": "Small changes matter.",
+          "translation": "小さな変化は大切。",
+          "delay": 300000
         }
       ]
     },
@@ -2718,6 +2928,13 @@
           "author": "Clara Strings",
           "text": "Such a deep sound.",
           "translation": "深い音だね。"
+        },
+        {
+          "id": "e45-068-r2",
+          "author": "Clara Strings",
+          "text": "Cellos sound warm.",
+          "translation": "チェロは温かい音。",
+          "delay": 360000
         }
       ]
     },
@@ -2739,13 +2956,13 @@
     {
       "id": "e45-070",
       "category": "pop",
-      "author": "Clara Strings",
+      "author": "Lily Pop",
       "text": "I learned the dance.",
       "translation": "ダンスの難しい部分以外は覚えた。",
       "replies": [
         {
           "id": "e45-070-r1",
-          "author": "Lily Pop",
+          "author": "Wise Owl",
           "text": "Show me the steps!",
           "translation": "ステップ見せて！"
         }
@@ -2763,6 +2980,13 @@
           "author": "Mika Reed",
           "text": "When is it out?",
           "translation": "いつ出るの？"
+        },
+        {
+          "id": "e45-071-r2",
+          "author": "Chloe Spark",
+          "text": "A new song! Yay!",
+          "translation": "新曲だ！やった！",
+          "delay": 240000
         }
       ]
     },
@@ -2778,6 +3002,13 @@
           "author": "Clara Strings",
           "text": "Sing it louder!",
           "translation": "もっと大きく歌おう！"
+        },
+        {
+          "id": "e45-072-r2",
+          "author": "Lily Pop",
+          "text": "I love that moment.",
+          "translation": "あの瞬間が好き。",
+          "delay": 300000
         }
       ]
     },
@@ -2793,6 +3024,13 @@
           "author": "Garden Snail",
           "text": "Like a mirror!",
           "translation": "鏡みたい！"
+        },
+        {
+          "id": "e45-073-r2",
+          "author": "Clara Strings",
+          "text": "The river is calm.",
+          "translation": "川は静かだね。",
+          "delay": 360000
         }
       ]
     },
@@ -2838,6 +3076,13 @@
           "author": "Rainy Rabbit",
           "text": "Zip your jacket!",
           "translation": "上着の前を閉めて！"
+        },
+        {
+          "id": "e45-076-r2",
+          "author": "Rainy Rabbit",
+          "text": "That wind is strong!",
+          "translation": "風が強いね！",
+          "delay": 240000
         }
       ]
     },
@@ -2880,7 +3125,7 @@
       "replies": [
         {
           "id": "e45-079-r1",
-          "author": "Bookish Fox",
+          "author": "Wise Owl",
           "text": "Stay warm!",
           "translation": "暖かくしてね！"
         }
@@ -2895,9 +3140,16 @@
       "replies": [
         {
           "id": "e45-080-r1",
-          "author": "Rosie Pan",
+          "author": "Wise Owl",
           "text": "Good as new!",
           "translation": "新品みたい！"
+        },
+        {
+          "id": "e45-080-r2",
+          "author": "Bookish Fox",
+          "text": "Good as new!",
+          "translation": "新品みたい！",
+          "delay": 180000
         }
       ]
     },
@@ -2958,6 +3210,13 @@
           "author": "Dog Detective",
           "text": "Where's my treat?",
           "translation": "ごほうびは？"
+        },
+        {
+          "id": "e45-084-r2",
+          "author": "Dog Detective",
+          "text": "Smart puppy!",
+          "translation": "賢い子犬！",
+          "delay": 420000
         }
       ]
     },
@@ -2973,6 +3232,13 @@
           "author": "Mika Reed",
           "text": "So many lights!",
           "translation": "灯りがいっぱい！"
+        },
+        {
+          "id": "e45-085-r2",
+          "author": "Mika Reed",
+          "text": "So pretty!",
+          "translation": "きれいだね！",
+          "delay": 180000
         }
       ]
     },
@@ -3018,6 +3284,13 @@
           "author": "Wise Owl",
           "text": "You did enough.",
           "translation": "今日は十分頑張ったよ。"
+        },
+        {
+          "id": "e45-088-r2",
+          "author": "Wise Owl",
+          "text": "Rest well tonight.",
+          "translation": "今夜は休んでね。",
+          "delay": 360000
         }
       ]
     },
@@ -3048,6 +3321,13 @@
           "author": "Tech Gremlin",
           "text": "Charge them now!",
           "translation": "今すぐ充電！"
+        },
+        {
+          "id": "e45-090-r2",
+          "author": "Lily Pop",
+          "text": "Oh no, the music!",
+          "translation": "ああ、音楽が！",
+          "delay": 180000
         }
       ]
     },
@@ -3078,6 +3358,13 @@
           "author": "Office Ghost",
           "text": "Not right now!",
           "translation": "今じゃない！"
+        },
+        {
+          "id": "e45-092-r2",
+          "author": "Tech Gremlin",
+          "text": "Not right now!",
+          "translation": "今じゃないよ！",
+          "delay": 300000
         }
       ]
     },
@@ -3123,6 +3410,13 @@
           "author": "Garden Snail",
           "text": "For your table?",
           "translation": "テーブルに飾る？"
+        },
+        {
+          "id": "e45-095-r2",
+          "author": "Garden Snail",
+          "text": "Lovely flowers!",
+          "translation": "すてきなお花！",
+          "delay": 180000
         }
       ]
     },
@@ -3153,6 +3447,13 @@
           "author": "Jazz Cat",
           "text": "Save me a bite!",
           "translation": "一口ちょうだい！"
+        },
+        {
+          "id": "e45-097-r2",
+          "author": "Rosie Pan",
+          "text": "Lucky cookie!",
+          "translation": "幸運のクッキー！",
+          "delay": 300000
         }
       ]
     },
@@ -3183,6 +3484,13 @@
           "author": "Rosie Pan",
           "text": "Say thank you!",
           "translation": "ありがとうって言おう！"
+        },
+        {
+          "id": "e45-099-r2",
+          "author": "Wise Owl",
+          "text": "That was nice.",
+          "translation": "優しいね。",
+          "delay": 420000
         }
       ]
     },
@@ -3198,6 +3506,343 @@
           "author": "Mika Reed",
           "text": "Look at those colors!",
           "translation": "あの色を見て！"
+        },
+        {
+          "id": "e45-100-r2",
+          "author": "Mika Reed",
+          "text": "What a sunset!",
+          "translation": "なんて夕焼け！",
+          "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "e453-o01",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I have two questions.",
+      "translation": "質問が二つある。",
+      "replies": [
+        {
+          "id": "e453-o01-r1",
+          "author": "Bookish Fox",
+          "text": "Maybe it is in a book.",
+          "translation": "本の中にあるかも。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o02",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I tried new bread.",
+      "translation": "新しいパンを試した。",
+      "replies": [
+        {
+          "id": "e453-o02-r1",
+          "author": "Rosie Pan",
+          "text": "New bread is fun!",
+          "translation": "新しいパンは楽しいね！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o03",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The bench is fixed.",
+      "translation": "ベンチが直った。",
+      "replies": [
+        {
+          "id": "e453-o03-r1",
+          "author": "Mika Reed",
+          "text": "I saw that bench!",
+          "translation": "そのベンチ、見たよ！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o04",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I like quiet songs.",
+      "translation": "静かな曲が好き。",
+      "replies": [
+        {
+          "id": "e453-o04-r1",
+          "author": "Tenor Turtle",
+          "text": "I like quiet music.",
+          "translation": "静かな音楽が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o05",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "My joke did not work.",
+      "translation": "冗談がうまくいかなかった。",
+      "replies": [
+        {
+          "id": "e453-o05-r1",
+          "author": "Jazz Cat",
+          "text": "Jokes are hard!",
+          "translation": "冗談って難しいね！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o06",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The train was late.",
+      "translation": "電車が遅れた。",
+      "replies": [
+        {
+          "id": "e453-o06-r1",
+          "author": "Chloe Spark",
+          "text": "People can be kind.",
+          "translation": "人は親切だね。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o07",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I asked for help.",
+      "translation": "助けを求めた。",
+      "replies": [
+        {
+          "id": "e453-o07-r1",
+          "author": "Wise Owl",
+          "text": "Asking takes courage.",
+          "translation": "聞くには勇気がいるね。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o08",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "My tea got cold.",
+      "translation": "お茶が冷めた。",
+      "replies": [
+        {
+          "id": "e453-o08-r1",
+          "author": "Coffee Goblin",
+          "text": "My coffee got cold, too.",
+          "translation": "私のコーヒーも冷めたよ。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o09",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "Music holds memories.",
+      "translation": "音楽には思い出がある。",
+      "replies": [
+        {
+          "id": "e453-o09-r1",
+          "author": "Clara Strings",
+          "text": "Music brings back memories.",
+          "translation": "音楽は思い出を呼ぶね。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o10",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "The library looks new.",
+      "translation": "図書館が新しく見える。",
+      "replies": [
+        {
+          "id": "e453-o10-r1",
+          "author": "Bookish Fox",
+          "text": "I want to visit!",
+          "translation": "行ってみたい！"
+        }
+      ]
+    },
+    {
+      "id": "e453-o11",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "I made a mistake.",
+      "translation": "間違えちゃった。",
+      "replies": [
+        {
+          "id": "e453-o11-r1",
+          "author": "Rosie Pan",
+          "text": "I make mistakes, too.",
+          "translation": "私も間違えるよ。"
+        }
+      ]
+    },
+    {
+      "id": "e453-o12",
+      "category": "daily",
+      "author": "Ollie",
+      "text": "A cat is sleeping.",
+      "translation": "猫が寝ている。",
+      "replies": [
+        {
+          "id": "e453-o12-r1",
+          "author": "Jazz Cat",
+          "text": "That cat loves music!",
+          "translation": "その猫は音楽が好き！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w01",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Regular sleep can help.",
+      "translation": "規則的な睡眠が役立つよ。",
+      "replies": [
+        {
+          "id": "e453-w01-r1",
+          "author": "Sleepy Cat",
+          "text": "My sleep time changes.",
+          "translation": "寝る時間が変わっちゃう。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w02",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Short walks count.",
+      "translation": "短い散歩も運動だよ。",
+      "replies": [
+        {
+          "id": "e453-w02-r1",
+          "author": "Tenor Turtle",
+          "text": "I walk slowly.",
+          "translation": "ゆっくり歩くよ。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w03",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Eat different vegetables.",
+      "translation": "いろんな野菜を食べよう。",
+      "replies": [
+        {
+          "id": "e453-w03-r1",
+          "author": "Rosie Pan",
+          "text": "I will make soup!",
+          "translation": "スープを作るよ！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w04",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Drink water when hot.",
+      "translation": "暑いときは水を飲もう。",
+      "replies": [
+        {
+          "id": "e453-w04-r1",
+          "author": "Coffee Goblin",
+          "text": "Water with my coffee!",
+          "translation": "コーヒーと一緒に水も！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w05",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Take a screen break.",
+      "translation": "画面から少し離れよう。",
+      "replies": [
+        {
+          "id": "e453-w05-r1",
+          "author": "Tech Gremlin",
+          "text": "I will rest my eyes.",
+          "translation": "目を休めるよ。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w06",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Balance matters, too.",
+      "translation": "バランス運動も大切。",
+      "replies": [
+        {
+          "id": "e453-w06-r1",
+          "author": "Garden Snail",
+          "text": "I like to garden.",
+          "translation": "庭仕事が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w07",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Rest days are okay.",
+      "translation": "休む日も大切。",
+      "replies": [
+        {
+          "id": "e453-w07-r1",
+          "author": "Mika Reed",
+          "text": "My shoulders need rest.",
+          "translation": "肩を休めないと。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w08",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Meals need not be perfect.",
+      "translation": "食事は完璧じゃなくていい。",
+      "replies": [
+        {
+          "id": "e453-w08-r1",
+          "author": "Rosie Pan",
+          "text": "Good news for cooks!",
+          "translation": "料理する人には朗報！"
+        }
+      ]
+    },
+    {
+      "id": "e453-w09",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "Daylight helps your clock.",
+      "translation": "日光は体内時計に役立つ。",
+      "replies": [
+        {
+          "id": "e453-w09-r1",
+          "author": "Wise Owl",
+          "text": "I will open the curtains.",
+          "translation": "カーテンを開けよう。"
+        }
+      ]
+    },
+    {
+      "id": "e453-w10",
+      "category": "wellness",
+      "author": "Daily Wellness",
+      "text": "You can ask for help.",
+      "translation": "助けを求めてもいい。",
+      "replies": [
+        {
+          "id": "e453-w10-r1",
+          "author": "Ollie",
+          "text": "Asking can be hard.",
+          "translation": "聞くのは難しいこともあるね。"
         }
       ]
     }

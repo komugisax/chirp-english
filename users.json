@@ -342,6 +342,15 @@
       "color": "#F5D1C2",
       "location": "Cloverfield, Eastmere",
       "bio": "Pop music fan, concertgoer and karaoke enthusiast. Not a professional singer."
+    },
+    {
+      "id": "ollie_thinks",
+      "name": "Ollie",
+      "handle": "@ollie_thinks",
+      "avatar": "🦉",
+      "color": "#D8E5CC",
+      "location": "Bellport",
+      "bio": "Curious about ordinary days, small questions, and the things people learn together."
     }
   ]
 }

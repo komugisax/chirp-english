@@ -157,3 +157,13 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Replies now use 30+ individual fictional character voices, including relevant interests and topics, with Japanese translations.
 - Original pre-v4.5 archive posts, character conversations, stories, interactions, and all localStorage keys are unchanged. The mood-post reply pools in moods.json have also been rewritten to match each specific mood.
 - Note: Older self-posts saved in the browser retain the replies originally saved with them; newly selected self-posts will use the improved moods.json replies.
+
+
+## Ver.4.5.3 – World & conversations consistency
+
+- Fixed instruments being played by unrelated characters in both Easy and Normal posts; prevented self-congratulatory replies from being attributed to the post author.
+- Added 46 contextual second replies per reading level. These may arrive after the post is first shown; earlier posts can appear again when a reply arrives without duplication or changing read IDs.
+- Added Ollie, a curious fictional Bellport resident, without making their identity a mystery gimmick. Added 12 Ollie posts and 10 grounded Daily Wellness posts in both levels.
+- Added five optional DMs, including returning characters. Unread indicators continue to use existing save keys.
+- New-post screen is always called “Create a post”; welcome posts are available only before the first player post.
+- Preserves localStorage key `chirp-english-v3` and original post IDs. Back up progress before upgrading.

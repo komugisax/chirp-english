@@ -396,6 +396,148 @@
         }
       ],
       "easyPrompt": "We have a music party! Join us?"
+    },
+    {
+      "id": "rosie_dm_followup",
+      "kind": "dm",
+      "author": "Rosie Pan",
+      "minSeen": 45,
+      "minTalk": 0,
+      "prompt": "Hi! I tried a new soup recipe today. Want to hear about it?",
+      "translation": "今日は新しいスープを作ってみたの。聞いてみる？",
+      "easyPrompt": "I made soup today!",
+      "choices": [
+        {
+          "en": "Yes, please!",
+          "ja": "ぜひ！",
+          "answer": "I added fresh herbs at the end. The whole kitchen smelled wonderful!",
+          "answerJa": "最後に新鮮なハーブを入れたの。台所じゅういい香り！",
+          "easyEn": "Yes, please!",
+          "easyAnswer": "I added fresh herbs at the end. The whole kitchen smelled wonderful!"
+        },
+        {
+          "en": "Maybe another time.",
+          "ja": "また今度ね。",
+          "answer": "Of course! The kitchen will still be here.",
+          "answerJa": "もちろん！台所はいつでもここにあるよ。",
+          "easyEn": "Maybe another time.",
+          "easyAnswer": "Of course! The kitchen will still be here."
+        }
+      ]
+    },
+    {
+      "id": "mika_dm_followup",
+      "kind": "dm",
+      "author": "Mika Reed",
+      "minSeen": 52,
+      "minTalk": 0,
+      "prompt": "Remember that Charlie Parker tune? I finally played it at the club!",
+      "translation": "あのチャーリー・パーカーの曲、覚えてる？ついにクラブで演奏したよ！",
+      "easyPrompt": "I played at the club!",
+      "choices": [
+        {
+          "en": "How did it go?",
+          "ja": "どうだった？",
+          "answer": "I missed one note, but the audience smiled. I had a great time.",
+          "answerJa": "一音間違えたけど、お客さんが笑顔だった。楽しかったよ。",
+          "easyEn": "How did it go?",
+          "easyAnswer": "I missed one note, but the audience smiled. I had a great time."
+        },
+        {
+          "en": "Congratulations!",
+          "ja": "おめでとう！",
+          "answer": "Thanks! I was nervous until the first chorus.",
+          "answerJa": "ありがとう！最初のコーラスまでは緊張してた。",
+          "easyEn": "Congratulations!",
+          "easyAnswer": "Thanks! I was nervous until the first chorus."
+        }
+      ],
+      "requires": "mika_dm"
+    },
+    {
+      "id": "clara_dm",
+      "kind": "dm",
+      "author": "Clara Strings",
+      "minSeen": 64,
+      "minTalk": 0,
+      "prompt": "Hello from Brookside! I found a lovely little music shop today.",
+      "translation": "ブルックサイドからこんにちは！今日はすてきな小さな楽器店を見つけたよ。",
+      "easyPrompt": "I found a music shop.",
+      "choices": [
+        {
+          "en": "What was inside?",
+          "ja": "何があったの？",
+          "answer": "Old sheet music, violin strings, and a very sleepy cat.",
+          "answerJa": "古い楽譜とバイオリンの弦と、とても眠そうな猫がいたよ。",
+          "easyEn": "What was inside?",
+          "easyAnswer": "Old sheet music, violin strings, and a very sleepy cat."
+        },
+        {
+          "en": "Sounds lovely!",
+          "ja": "すてき！",
+          "answer": "It was. I stayed longer than I planned.",
+          "answerJa": "そうなの。思ったより長居しちゃった。",
+          "easyEn": "Sounds lovely!",
+          "easyAnswer": "It was. I stayed longer than I planned."
+        }
+      ]
+    },
+    {
+      "id": "ollie_dm",
+      "kind": "dm",
+      "author": "Ollie",
+      "minSeen": 72,
+      "minTalk": 0,
+      "prompt": "Can I ask you something? What made you smile today?",
+      "translation": "ひとつ聞いてもいい？今日は何を見て笑顔になった？",
+      "easyPrompt": "What made you smile?",
+      "choices": [
+        {
+          "en": "A small kindness.",
+          "ja": "小さな親切だよ。",
+          "answer": "I like that answer. Those moments stay with us.",
+          "answerJa": "その答え、好きだな。そういう瞬間は心に残るね。",
+          "easyEn": "A small kindness.",
+          "easyAnswer": "I like that answer. Those moments stay with us."
+        },
+        {
+          "en": "A good song.",
+          "ja": "いい曲だよ。",
+          "answer": "Music can make an ordinary day feel special.",
+          "answerJa": "音楽は普通の日を特別にしてくれるね。",
+          "easyEn": "A good song.",
+          "easyAnswer": "Music can make an ordinary day feel special."
+        }
+      ]
+    },
+    {
+      "id": "rosie_dm_later",
+      "kind": "dm",
+      "author": "Rosie Pan",
+      "minSeen": 90,
+      "minTalk": 0,
+      "prompt": "A customer asked for the soup you helped me talk about. It is on our menu now!",
+      "translation": "この前話したスープをお客さんが注文してくれたよ。今はメニューにあるんだ！",
+      "easyPrompt": "The soup is on our menu!",
+      "choices": [
+        {
+          "en": "That is great!",
+          "ja": "それはよかった！",
+          "answer": "I am keeping the recipe in my favorite notebook.",
+          "answerJa": "お気に入りのノートにレシピを書いておくね。",
+          "easyEn": "That is great!",
+          "easyAnswer": "I am keeping the recipe in my favorite notebook."
+        },
+        {
+          "en": "Is it popular?",
+          "ja": "人気なの？",
+          "answer": "More than I expected. That makes me happy.",
+          "answerJa": "思った以上にね。嬉しいな。",
+          "easyEn": "Is it popular?",
+          "easyAnswer": "More than I expected. That makes me happy."
+        }
+      ],
+      "requires": "rosie_dm_followup"
     }
   ]
 }
