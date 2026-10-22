@@ -140,3 +140,12 @@ The concept, features, and creative direction are guided by a human, while AI is
 All characters, posts, and conversations are fictional. They do not represent real people or actual social media activity.
 
 This project is independent and is not affiliated with, endorsed by, or an official product of OpenAI or any social media platform.
+
+
+## v4.5.1 — UI polish (2026-10-22)
+
+- Replaced the Settings gear with a centered symmetric SVG shape.
+- Mimosa and Cotton use dark gray text for active translation and reply controls, improving contrast.
+- Removed the redundant “Choose another post” button; use the floating **＋ Post** button.
+- Your own posts now have two independent controls: **Collapse / Expand** for the whole post and **Hide replies / Show replies** for the reply thread. These states persist in local storage and are included in exported saves. New posts initially appear expanded.
+- Existing progress, bookmarks, theme choices, reading history and story progress remain compatible with v4.5.
