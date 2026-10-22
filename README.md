@@ -149,3 +149,11 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Removed the redundant “Choose another post” button; use the floating **＋ Post** button.
 - Your own posts now have two independent controls: **Collapse / Expand** for the whole post and **Hide replies / Show replies** for the reply thread. These states persist in local storage and are included in exported saves. New posts initially appear expanded.
 - Existing progress, bookmarks, theme choices, reading history and story progress remain compatible with v4.5.
+
+
+### Ver.4.5.2 — Contextual conversations fix
+
+- Rewrote replies for all 100 new Normal and 100 new Easy archive posts to respond to the actual post content, not repeating four generic templates.
+- Replies now use 30+ individual fictional character voices, including relevant interests and topics, with Japanese translations.
+- Original pre-v4.5 archive posts, character conversations, stories, interactions, and all localStorage keys are unchanged. The mood-post reply pools in moods.json have also been rewritten to match each specific mood.
+- Note: Older self-posts saved in the browser retain the replies originally saved with them; newly selected self-posts will use the improved moods.json replies.

@@ -10,24 +10,19 @@
           "ja": "暇！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
+              "text": "Any music plans for your free time?",
+              "translation": "空いた時間に音楽の予定はある？"
             },
             {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Rosie Pan",
+              "text": "I've got a new recipe to try.",
+              "translation": "新しいレシピを試したいんだ。"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Come hear some jazz tonight!",
+              "translation": "今夜ジャズを聴きにおいで！"
             }
           ]
         },
@@ -37,24 +32,19 @@
           "ja": "退屈！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "author": "Lily Pop",
+              "text": "Want a song recommendation?",
+              "translation": "おすすめの曲、聞きたい？"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "The library has a mystery shelf.",
+              "translation": "図書館にはミステリーの棚があるよ。"
             },
             {
               "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Is boredom an Earth hobby?",
+              "translation": "退屈って地球の趣味なの？"
             }
           ]
         },
@@ -65,20 +55,18 @@
           "replies": [
             {
               "author": "Wise Owl",
-              "text": "Get some rest!",
-              "translation": "少し休んで！"
-            },
-            {
-              "author": "Coffee Goblin",
-              "text": "Coffee time?",
-              "translation": "コーヒーの時間？",
-              "when": "afternoon"
+              "text": "Rest is part of progress.",
+              "translation": "休むことも前進の一部だよ。"
             },
             {
               "author": "Rosie Pan",
-              "text": "What a long day!",
-              "translation": "長い一日だったね！",
-              "when": "evening"
+              "text": "Have you had dinner yet?",
+              "translation": "もう夕飯は食べた？"
+            },
+            {
+              "author": "Sleepy Cat",
+              "text": "A short nap sounds perfect.",
+              "translation": "ちょっと昼寝するとよさそう。"
             }
           ]
         },
@@ -88,19 +76,19 @@
           "ja": "忙しい！",
           "replies": [
             {
-              "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
-            },
-            {
               "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
+              "text": "I hope you get a break soon.",
+              "translation": "もうすぐ休めるといいね。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "author": "Office Ghost",
+              "text": "My calendar needs its own calendar.",
+              "translation": "私の予定表には予定表が必要だよ。"
+            },
+            {
+              "author": "Wise Owl",
+              "text": "One thing at a time.",
+              "translation": "一つずつやろう。"
             }
           ]
         },
@@ -111,23 +99,18 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "text": "Did something wonderful happen?",
+              "translation": "何か素敵なことがあった？"
+            },
+            {
+              "author": "Lily Pop",
+              "text": "That calls for a happy song!",
+              "translation": "そんなときは楽しい曲だね！"
             },
             {
               "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Happiness seems contagious here.",
+              "translation": "幸せってここでは伝染するみたいだね。"
             }
           ]
         },
@@ -137,24 +120,19 @@
           "ja": "楽しい！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "author": "Jazz Cat",
+              "text": "Save some fun for us!",
+              "translation": "私たちの分の楽しみも残して！"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Chloe Spark",
+              "text": "What are you up to?",
+              "translation": "何をして楽しんでるの？"
             },
             {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Lily Pop",
+              "text": "I hope there's music involved!",
+              "translation": "音楽もあるといいな！"
             }
           ]
         },
@@ -165,18 +143,18 @@
           "replies": [
             {
               "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "text": "Would a little company help?",
+              "translation": "誰かがそばにいたら少し楽かな？"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "I can make you some soup.",
+              "translation": "スープを作ってあげられるよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "text": "Want me to listen?",
+              "translation": "話を聞こうか？"
             }
           ]
         },
@@ -186,19 +164,19 @@
           "ja": "ムカつく！",
           "replies": [
             {
+              "author": "Jazz Cat",
+              "text": "Want to tell me what happened?",
+              "translation": "何があったか話す？"
+            },
+            {
               "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "text": "You don't have to answer right now.",
+              "translation": "今すぐ返事をしなくてもいいよ。"
             },
             {
-              "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "author": "Coffee Goblin",
+              "text": "That sounds like a coffee break.",
+              "translation": "それはコーヒー休憩の出番だね。"
             }
           ]
         },
@@ -208,19 +186,19 @@
           "ja": "落ち込んでる。",
           "replies": [
             {
-              "author": "Wise Owl",
-              "text": "Take your time.",
-              "translation": "無理せずゆっくりね。"
-            },
-            {
               "author": "Mika Reed",
-              "text": "Want to talk?",
-              "translation": "話したい？"
+              "text": "We can just sit quietly.",
+              "translation": "ただ静かに座っててもいいよ。"
             },
             {
               "author": "Rosie Pan",
-              "text": "Sending you a hug.",
-              "translation": "ぎゅっとハグを送るよ。"
+              "text": "I'll save you a warm meal.",
+              "translation": "温かいご飯を取っておくね。"
+            },
+            {
+              "author": "Wise Owl",
+              "text": "Hard days don't last forever.",
+              "translation": "つらい日が永遠に続くわけじゃないよ。"
             }
           ]
         },
@@ -230,24 +208,19 @@
           "ja": "ワクワクしてる！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Lily Pop",
+              "text": "Okay, now I'm excited too!",
+              "translation": "私までワクワクしてきた！"
             },
             {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
+              "text": "Is something big happening?",
+              "translation": "何か大きなことがあるの？"
             },
             {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Nova Orbit",
+              "text": "Should I prepare confetti?",
+              "translation": "紙吹雪を用意したほうがいい？"
             }
           ]
         },
@@ -257,19 +230,19 @@
           "ja": "緊張してる。",
           "replies": [
             {
+              "author": "Clara Strings",
+              "text": "I get nervous before concerts too.",
+              "translation": "私もコンサート前は緊張するよ。"
+            },
+            {
               "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "text": "You can take your time.",
+              "translation": "ゆっくりでいいんだよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "text": "Want to practice together?",
+              "translation": "一緒に練習する？"
             }
           ]
         },
@@ -280,18 +253,18 @@
           "replies": [
             {
               "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "text": "What's the part you can control?",
+              "translation": "自分で変えられる部分はどこかな？"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "You don't need to handle it alone.",
+              "translation": "一人で抱えなくていいよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "text": "Do you want to talk it through?",
+              "translation": "一緒に話して整理する？"
             }
           ]
         }
@@ -306,24 +279,19 @@
           "ja": "おはよう！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "author": "Coffee Goblin",
+              "text": "My first cup is already brewing.",
+              "translation": "一杯目のコーヒーを淹れてるところ。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Rosie Pan",
+              "text": "Fresh bread just came out!",
+              "translation": "焼きたてパンができたよ！"
             },
             {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Morning! I need more sleep.",
+              "translation": "おはよう！私はもう少し寝たいな。"
             }
           ]
         },
@@ -333,24 +301,19 @@
           "ja": "おやすみ！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "author": "Sleepy Cat",
+              "text": "The pillows are calling.",
+              "translation": "枕が呼んでるよ。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
+              "author": "Clara Strings",
+              "text": "I'll put my violin away too.",
+              "translation": "私もバイオリンを片づけよう。"
             },
             {
               "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "May tomorrow bring something gentle.",
+              "translation": "明日が穏やかな日になりますように。"
             }
           ]
         },
@@ -360,19 +323,19 @@
           "ja": "眠い！",
           "replies": [
             {
-              "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "author": "Sleepy Cat",
+              "text": "My specialty! Find a pillow.",
+              "translation": "私の得意分野！枕を探そう。"
             },
             {
-              "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
+              "author": "Coffee Goblin",
+              "text": "Even I might skip this coffee.",
+              "translation": "私でも今日はコーヒーを見送るかも。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "author": "Bookish Fox",
+              "text": "One page, then lights out.",
+              "translation": "あと一ページで消灯ね。"
             }
           ]
         },
@@ -383,27 +346,18 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Come for lunch!",
-              "translation": "ランチに来て！",
-              "when": "lunch"
-            },
-            {
-              "author": "Rosie Pan",
-              "text": "Breakfast time!",
-              "translation": "朝ごはんの時間！",
-              "when": "morning"
+              "text": "I'm testing today's lunch special.",
+              "translation": "今日のランチを試作中だよ。"
             },
             {
               "author": "Coffee Goblin",
-              "text": "Midnight snack?",
-              "translation": "夜食かな？",
-              "when": "night"
+              "text": "I have biscuits by the coffee.",
+              "translation": "コーヒーの横にビスケットがあるよ。"
             },
             {
               "author": "Nova Orbit",
-              "text": "Humans eat so often!",
-              "translation": "人間ってよく食べるね！",
-              "when": "any"
+              "text": "How many meals do humans need?",
+              "translation": "人間って何食必要なの？"
             }
           ]
         },
@@ -414,23 +368,18 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "text": "Then my cooking did its job!",
+              "translation": "じゃあ私の料理は役目を果たしたね！"
+            },
+            {
+              "author": "Sleepy Cat",
+              "text": "Now comes the perfect nap.",
+              "translation": "次は最高の昼寝だね。"
             },
             {
               "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Is this your battery at 100%?",
+              "translation": "これは充電100％の状態？"
             }
           ]
         },
@@ -441,23 +390,18 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "text": "What did you eat? I need details!",
+              "translation": "何を食べたの？詳しく教えて！"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Noodle Wizard",
+              "text": "Was there a secret sauce?",
+              "translation": "秘密のソースがあった？"
             },
             {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Coffee Goblin",
+              "text": "Save me a bite next time.",
+              "translation": "次は私の分も一口残してね。"
             }
           ]
         },
@@ -467,24 +411,19 @@
           "ja": "仕事終わった！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "author": "Office Ghost",
+              "text": "Close that laptop like a champion.",
+              "translation": "勝者のようにノートPCを閉じよう。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Rosie Pan",
+              "text": "Dinner tastes better after work.",
+              "translation": "仕事のあとの夕飯はおいしいよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Time to switch to music mode?",
+              "translation": "音楽モードに切り替える時間？"
             }
           ]
         },
@@ -495,18 +434,18 @@
           "replies": [
             {
               "author": "Mika Reed",
-              "text": "How did it go?",
-              "translation": "どうだった？"
+              "text": "That last note always feels special.",
+              "translation": "最後の一音って特別だよね。"
             },
             {
               "author": "Jazz Cat",
-              "text": "Nice work!",
-              "translation": "お疲れさま！"
+              "text": "Did the audience clap loudly?",
+              "translation": "お客さんは大きく拍手してくれた？"
             },
             {
-              "author": "Wise Owl",
-              "text": "You did it!",
-              "translation": "やり遂げたね！"
+              "author": "Clara Strings",
+              "text": "Now give your hands a rest.",
+              "translation": "さあ、手を休ませてあげて。"
             }
           ]
         },
@@ -516,24 +455,19 @@
           "ja": "休憩したい。",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
               "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "Five quiet minutes can help.",
+              "translation": "静かな五分でも役立つよ。"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "I'll put the kettle on.",
+              "translation": "お湯を沸かしておくね。"
+            },
+            {
+              "author": "Sleepy Cat",
+              "text": "The sofa is available.",
+              "translation": "ソファ、空いてるよ。"
             }
           ]
         },
@@ -543,19 +477,19 @@
           "ja": "帰りたい。",
           "replies": [
             {
-              "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "author": "Rosie Pan",
+              "text": "Is it one of those long days?",
+              "translation": "今日は長い一日だった？"
             },
             {
-              "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
+              "author": "Sleepy Cat",
+              "text": "Home is where the blanket is.",
+              "translation": "家は毛布のある場所だよ。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "author": "Bellport Transit",
+              "text": "Check the last train before leaving.",
+              "translation": "帰る前に終電を確認してね。"
             }
           ]
         }
@@ -570,19 +504,19 @@
           "ja": "寒い！",
           "replies": [
             {
-              "author": "Chirp Weather",
-              "text": "Stay comfortable today!",
-              "translation": "今日は快適に過ごしてね！"
+              "author": "Rainy Rabbit",
+              "text": "The wind went through my scarf.",
+              "translation": "風がマフラーを通り抜けたよ。"
             },
             {
               "author": "Coffee Goblin",
-              "text": "I need a warm drink.",
-              "translation": "温かい飲み物がほしい。"
+              "text": "Hot chocolate sounds right today.",
+              "translation": "今日はホットチョコレートだね。"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Earth weather is strange.",
-              "translation": "地球の天気は不思議だ。"
+              "author": "Bookish Fox",
+              "text": "I brought an extra sweater.",
+              "translation": "予備のセーターを持ってきたよ。"
             }
           ]
         },
@@ -592,19 +526,19 @@
           "ja": "暑い！",
           "replies": [
             {
-              "author": "Chirp Weather",
-              "text": "Stay comfortable today!",
-              "translation": "今日は快適に過ごしてね！"
+              "author": "Rosie Pan",
+              "text": "Cold noodles sound good today.",
+              "translation": "今日は冷たい麺がよさそう。"
+            },
+            {
+              "author": "Garden Snail",
+              "text": "I'll stay in the shade.",
+              "translation": "私は日陰にいるね。"
             },
             {
               "author": "Coffee Goblin",
-              "text": "I need a warm drink.",
-              "translation": "温かい飲み物がほしい。"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Earth weather is strange.",
-              "translation": "地球の天気は不思議だ。"
+              "text": "Even my coffee wants ice.",
+              "translation": "私のコーヒーまで氷を欲しがってる。"
             }
           ]
         },
@@ -614,24 +548,19 @@
           "ja": "明日が楽しみ！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
-            },
-            {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
+              "text": "Have you packed everything you need?",
+              "translation": "必要なものは全部用意した？"
+            },
+            {
+              "author": "Lily Pop",
+              "text": "I can feel your excitement!",
+              "translation": "ワクワクが伝わってくる！"
             },
             {
               "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "text": "A little anticipation is lovely.",
+              "translation": "楽しみに待つ時間も素敵だね。"
             }
           ]
         },
@@ -642,23 +571,18 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
+              "text": "What was the best part?",
+              "translation": "一番よかったのは何？"
             },
             {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Clara Strings",
+              "text": "Hold on to that feeling.",
+              "translation": "その気持ちを大切にしてね。"
             },
             {
-              "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Jazz Cat",
+              "text": "Let's end it with a song!",
+              "translation": "歌で締めくくろう！"
             }
           ]
         },
@@ -669,18 +593,18 @@
           "replies": [
             {
               "author": "Wise Owl",
-              "text": "Take it easy.",
-              "translation": "無理しないでね。"
+              "text": "Tomorrow gets a fresh page.",
+              "translation": "明日は新しいページだよ。"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "A warm meal won't fix everything, but it helps.",
+              "translation": "温かいご飯で全部は直らないけど、少し楽になるよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Are you okay?",
-              "translation": "大丈夫？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "I hope tomorrow is better.",
-              "translation": "明日はいい日になるといいね。"
+              "text": "Want some quiet jazz?",
+              "translation": "静かなジャズを聴く？"
             }
           ]
         },
@@ -690,24 +614,19 @@
           "ja": "今日は予定なし。",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Sounds great!",
-              "translation": "いいね！"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Interesting!",
-              "translation": "興味深い！"
+              "author": "Bookish Fox",
+              "text": "The library might have ideas.",
+              "translation": "図書館にヒントがあるかも。"
             },
             {
               "author": "Mika Reed",
-              "text": "Tell me more!",
-              "translation": "もっと聞かせて！"
+              "text": "A walk by the harbor sounds nice.",
+              "translation": "港を散歩するのもよさそう。"
             },
             {
-              "author": "Wise Owl",
-              "text": "Enjoy your day!",
-              "translation": "よい一日を！"
+              "author": "Sleepy Cat",
+              "text": "I vote for an excellent nap.",
+              "translation": "私は最高の昼寝に一票。"
             }
           ]
         }
