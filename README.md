@@ -29,6 +29,21 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
+## Ver.4.5 — Flower Themes, Eastmere Journey & More English 🌼🚆
+
+- Added **Flower Themes**, with **Olive as the default**, plus Rose, Marigold, Mimosa, Nemophila, Lavender, and Cotton. Theme settings are stored in the existing local save object; restoring an older save defaults safely to Olive.
+- Flower colors are used for the floating **＋ Post** button, saved 🔖 state, primary action buttons, progress bar, and selected navigation state. Light/dark display mode remains separate.
+- Standardized the six bottom navigation icons using **self-contained inline line-art SVG** (in a Lucide-inspired style), without an external runtime icon/CDN dependency. These icons are authored within this project rather than fetched verbatim from a third-party icon distribution. Bottom-right Stats is now **Settings**. In-post translation and reply emoji remain unchanged; the save emoji stays 🔖 in both states.
+- A floating **＋ Post** button appears on Feed, remains available while scrolling, and hides in other tabs and the composition screen. On creating a post, the feed scrolls to your new post so its delayed replies can be seen.
+- Added a Japanese in-app **guide.html**, accessible from Settings → Help & About. It provides spoiler-free city descriptions and privacy/fiction disclaimers.
+- Added **100 new Normal posts** and **100 new Easy posts**, across everyday topics and music, with translations and authored short replies. Normal grows from 216 to **316** posts; Easy grows from 100 to **200** posts.
+- Added a **10-part Mika Eastmere trip** story arc (story days 12–21): departure from Bellport, airport, downtown Neonbridge, Willow Lane, Cloverfield, Harmony Street instrument shops, Clara's Brookside concert, riverside conversation, and homecoming. The trip follows the existing Rosie/jazz story progression so the stories don't place Mika on tour and at a Bellport gig at once. Easy text variants and delayed character replies are included. No missed-day skips.
+- Existing saved progress, bookmarks, selected avatar, reading history, events and prior story chapters retain their IDs and existing localStorage key. Back up your saved data before upgrading.
+
+### How to update
+
+Upload **all 11 files** from the new ZIP into the same GitHub Pages folder, including the new `guide.html`. Do not rename or remove the JSON files. Existing installed home-screen shortcuts should continue to work. A site refresh may be needed for caching.
+
 ### Ver.4.4 — Reading Comfort & Eastmere Introduction 🏙️
 
 - Saved the Feed reading location when switching between bottom tabs, including DMs, Stories, People, and Stats.
@@ -102,7 +117,7 @@ Chirp English does not require user registration and does not include an app-spe
 
 Bookmarks, reading progress, preferences, and story choices are stored locally in your browser or installed web app. They may be lost if browser or site data is cleared, or if you switch browsers, devices, or storage contexts.
 
-Use **Stats → Export save data** to back up your progress before major updates. You can import saved data to restore it.
+Use **Settings → Export save data** to back up your progress before major updates. You can import saved data to restore it.
 
 The website is hosted through GitHub Pages; normal hosting or platform access logs may be handled by its provider. Local browser storage is separate from those hosting logs.
 

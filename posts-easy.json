@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": "4.5",
   "posts": [
     {
       "id": "e001",
@@ -1698,6 +1698,1506 @@
           "avatar": "☕",
           "text": "I love this place.",
           "translation": "ここが大好き。"
+        }
+      ]
+    },
+    {
+      "id": "e45-001",
+      "category": "morning",
+      "author": "Mika Reed",
+      "text": "The sun woke me up.",
+      "translation": "カーテンを厚くしたほうがいいかも。朝日で目が覚めた。",
+      "replies": [
+        {
+          "id": "e45-001-r1",
+          "author": "Tenor Turtle",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-002",
+      "category": "morning",
+      "author": "Jazz Cat",
+      "text": "I forgot my toast.",
+      "translation": "トーストを作ったのに台所に忘れちゃった。",
+      "replies": [
+        {
+          "id": "e45-002-r1",
+          "author": "Wise Owl",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-003",
+      "category": "morning",
+      "author": "Tenor Turtle",
+      "text": "My coffee tastes good.",
+      "translation": "コーヒーの最初の一口は小さな勝利みたい。",
+      "replies": [
+        {
+          "id": "e45-003-r1",
+          "author": "Bookish Fox",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-004",
+      "category": "morning",
+      "author": "Wise Owl",
+      "text": "The birds are loud.",
+      "translation": "窓を開けたら鳥たちが外で口論していた。",
+      "replies": [
+        {
+          "id": "e45-004-r1",
+          "author": "Rosie Pan",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-005",
+      "category": "rain",
+      "author": "Wise Owl",
+      "text": "The rain stopped.",
+      "translation": "傘を持ったら当然のように雨が止んだ。",
+      "replies": [
+        {
+          "id": "e45-005-r1",
+          "author": "Rosie Pan",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-006",
+      "category": "rain",
+      "author": "Bookish Fox",
+      "text": "My shoes are wet.",
+      "translation": "水たまりを歩いたら靴がキュッキュッ鳴る。",
+      "replies": [
+        {
+          "id": "e45-006-r1",
+          "author": "Coffee Goblin",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-007",
+      "category": "rain",
+      "author": "Rosie Pan",
+      "text": "I hear the rain.",
+      "translation": "屋根の雨音を聞くと布団から出にくい。",
+      "replies": [
+        {
+          "id": "e45-007-r1",
+          "author": "Chloe Spark",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-008",
+      "category": "rain",
+      "author": "Coffee Goblin",
+      "text": "My laundry is wet.",
+      "translation": "洗濯物を外に干したままだった。しまった。",
+      "replies": [
+        {
+          "id": "e45-008-r1",
+          "author": "Clara Strings",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-009",
+      "category": "coffee",
+      "author": "Coffee Goblin",
+      "text": "They know my order.",
+      "translation": "店員さんが注文を覚えてくれた。もう常連気分。",
+      "replies": [
+        {
+          "id": "e45-009-r1",
+          "author": "Clara Strings",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-010",
+      "category": "coffee",
+      "author": "Chloe Spark",
+      "text": "I chose tea today.",
+      "translation": "自分を驚かせようとコーヒーじゃなく紅茶にした。",
+      "replies": [
+        {
+          "id": "e45-010-r1",
+          "author": "Lily Pop",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-011",
+      "category": "coffee",
+      "author": "Clara Strings",
+      "text": "I found a nice chair.",
+      "translation": "このカフェにはみんなが座りたがる椅子が一つある。",
+      "replies": [
+        {
+          "id": "e45-011-r1",
+          "author": "Nova Orbit",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-012",
+      "category": "coffee",
+      "author": "Lily Pop",
+      "text": "My drink is hot.",
+      "translation": "飲み物が熱すぎて、しばらく通りを眺めた。",
+      "replies": [
+        {
+          "id": "e45-012-r1",
+          "author": "Mika Reed",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-013",
+      "category": "music",
+      "author": "Lily Pop",
+      "text": "I practiced this part.",
+      "translation": "難しい一小節を、やっとうまく吹けるまで練習した。",
+      "replies": [
+        {
+          "id": "e45-013-r1",
+          "author": "Mika Reed",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-014",
+      "category": "music",
+      "author": "Nova Orbit",
+      "text": "This song stays with me.",
+      "translation": "午後ずっと頭から離れないメロディーがある。",
+      "replies": [
+        {
+          "id": "e45-014-r1",
+          "author": "Jazz Cat",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-015",
+      "category": "music",
+      "author": "Mika Reed",
+      "text": "I heard a piano.",
+      "translation": "開いた窓からピアノの音が聞こえた。",
+      "replies": [
+        {
+          "id": "e45-015-r1",
+          "author": "Tenor Turtle",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-016",
+      "category": "music",
+      "author": "Jazz Cat",
+      "text": "This old song is good.",
+      "translation": "今でも笑顔になる古い録音を見つけた。",
+      "replies": [
+        {
+          "id": "e45-016-r1",
+          "author": "Wise Owl",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-017",
+      "category": "food",
+      "author": "Jazz Cat",
+      "text": "My dinner was spicy.",
+      "translation": "胡椒を入れすぎたけど夕食はおいしかった。",
+      "replies": [
+        {
+          "id": "e45-017-r1",
+          "author": "Wise Owl",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-018",
+      "category": "food",
+      "author": "Tenor Turtle",
+      "text": "My bread was sold out.",
+      "translation": "昼前にお気に入りのパンが売り切れた。",
+      "replies": [
+        {
+          "id": "e45-018-r1",
+          "author": "Bookish Fox",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-019",
+      "category": "food",
+      "author": "Wise Owl",
+      "text": "I made extra soup.",
+      "translation": "明日の分までスープを作った。明日の私は喜ぶはず。",
+      "replies": [
+        {
+          "id": "e45-019-r1",
+          "author": "Rosie Pan",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-020",
+      "category": "food",
+      "author": "Bookish Fox",
+      "text": "I like this sauce.",
+      "translation": "新しいソースを試したら何にでもかけたくなった。",
+      "replies": [
+        {
+          "id": "e45-020-r1",
+          "author": "Coffee Goblin",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-021",
+      "category": "books",
+      "author": "Bookish Fox",
+      "text": "I borrowed four books.",
+      "translation": "一冊借りるつもりが四冊になった。",
+      "replies": [
+        {
+          "id": "e45-021-r1",
+          "author": "Coffee Goblin",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-022",
+      "category": "books",
+      "author": "Rosie Pan",
+      "text": "I lost my page.",
+      "translation": "しおりが抜けて、読んでいたページがわからない。",
+      "replies": [
+        {
+          "id": "e45-022-r1",
+          "author": "Chloe Spark",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-023",
+      "category": "books",
+      "author": "Coffee Goblin",
+      "text": "I read it twice.",
+      "translation": "結末がよすぎて二回読んだ。",
+      "replies": [
+        {
+          "id": "e45-023-r1",
+          "author": "Clara Strings",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-024",
+      "category": "books",
+      "author": "Chloe Spark",
+      "text": "I love this story.",
+      "translation": "ありふれたことを特別にしてくれる物語が好き。",
+      "replies": [
+        {
+          "id": "e45-024-r1",
+          "author": "Lily Pop",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-025",
+      "category": "train",
+      "author": "Chloe Spark",
+      "text": "I ran for the train.",
+      "translation": "電車が早く来たのに結局走った。",
+      "replies": [
+        {
+          "id": "e45-025-r1",
+          "author": "Lily Pop",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-026",
+      "category": "train",
+      "author": "Clara Strings",
+      "text": "I missed my stop.",
+      "translation": "雲を見ていたら乗り過ごした。",
+      "replies": [
+        {
+          "id": "e45-026-r1",
+          "author": "Nova Orbit",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-027",
+      "category": "train",
+      "author": "Lily Pop",
+      "text": "That was very kind.",
+      "translation": "疲れた旅行者に席を譲る人を見た。",
+      "replies": [
+        {
+          "id": "e45-027-r1",
+          "author": "Mika Reed",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-028",
+      "category": "train",
+      "author": "Nova Orbit",
+      "text": "The station smells good.",
+      "translation": "朝の駅は焼きたてのパンの匂いがする。",
+      "replies": [
+        {
+          "id": "e45-028-r1",
+          "author": "Jazz Cat",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-029",
+      "category": "cats",
+      "author": "Nova Orbit",
+      "text": "That cat stared at me.",
+      "translation": "近所の猫に借金取りみたいに見つめられた。",
+      "replies": [
+        {
+          "id": "e45-029-r1",
+          "author": "Jazz Cat",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-030",
+      "category": "cats",
+      "author": "Mika Reed",
+      "text": "The cat likes boxes.",
+      "translation": "高いベッドより段ボール箱がいいらしい。",
+      "replies": [
+        {
+          "id": "e45-030-r1",
+          "author": "Tenor Turtle",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-031",
+      "category": "cats",
+      "author": "Jazz Cat",
+      "text": "I saw a small paw.",
+      "translation": "今朝ドアの下から小さな肉球が出てきた。",
+      "replies": [
+        {
+          "id": "e45-031-r1",
+          "author": "Wise Owl",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-032",
+      "category": "cats",
+      "author": "Tenor Turtle",
+      "text": "The cat took my notebook.",
+      "translation": "ノートが必要なときに限って猫が上に座る。",
+      "replies": [
+        {
+          "id": "e45-032-r1",
+          "author": "Bookish Fox",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-033",
+      "category": "work",
+      "author": "Tenor Turtle",
+      "text": "My desk is messy.",
+      "translation": "机が片付いていたのは五分くらい。",
+      "replies": [
+        {
+          "id": "e45-033-r1",
+          "author": "Bookish Fox",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-034",
+      "category": "work",
+      "author": "Wise Owl",
+      "text": "I finished the hard job.",
+      "translation": "難しい仕事を先に終えて気が楽になった。",
+      "replies": [
+        {
+          "id": "e45-034-r1",
+          "author": "Rosie Pan",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-035",
+      "category": "work",
+      "author": "Bookish Fox",
+      "text": "My friend shared snacks.",
+      "translation": "お弁当を忘れたけど友達がお菓子をくれた。",
+      "replies": [
+        {
+          "id": "e45-035-r1",
+          "author": "Coffee Goblin",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-036",
+      "category": "work",
+      "author": "Rosie Pan",
+      "text": "I took a short walk.",
+      "translation": "忙しいけど少し散歩する時間が取れた。",
+      "replies": [
+        {
+          "id": "e45-036-r1",
+          "author": "Chloe Spark",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-037",
+      "category": "weekend",
+      "author": "Rosie Pan",
+      "text": "No alarm today!",
+      "translation": "アラームを切ると土曜が長く感じる。",
+      "replies": [
+        {
+          "id": "e45-037-r1",
+          "author": "Chloe Spark",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-038",
+      "category": "weekend",
+      "author": "Coffee Goblin",
+      "text": "I stayed on the sofa.",
+      "translation": "掃除するつもりがソファから動けなかった。",
+      "replies": [
+        {
+          "id": "e45-038-r1",
+          "author": "Clara Strings",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-039",
+      "category": "weekend",
+      "author": "Chloe Spark",
+      "text": "I found a new street.",
+      "translation": "今まで気づかなかった静かな道を見つけた。",
+      "replies": [
+        {
+          "id": "e45-039-r1",
+          "author": "Lily Pop",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-040",
+      "category": "weekend",
+      "author": "Clara Strings",
+      "text": "I want a slow morning.",
+      "translation": "日曜はゆっくり朝ごはんを食べたいだけ。",
+      "replies": [
+        {
+          "id": "e45-040-r1",
+          "author": "Nova Orbit",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-041",
+      "category": "shopping",
+      "author": "Clara Strings",
+      "text": "I bought a notebook.",
+      "translation": "石鹸だけ買うつもりがノートも買った。",
+      "replies": [
+        {
+          "id": "e45-041-r1",
+          "author": "Nova Orbit",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-042",
+      "category": "shopping",
+      "author": "Lily Pop",
+      "text": "This shop plays good music.",
+      "translation": "この小さな店は午後の音楽が最高。",
+      "replies": [
+        {
+          "id": "e45-042-r1",
+          "author": "Mika Reed",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-043",
+      "category": "shopping",
+      "author": "Nova Orbit",
+      "text": "This jacket has big pockets.",
+      "translation": "何でも入りそうな大きいポケットの上着を発見。",
+      "replies": [
+        {
+          "id": "e45-043-r1",
+          "author": "Jazz Cat",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-044",
+      "category": "shopping",
+      "author": "Mika Reed",
+      "text": "My gift looks pretty.",
+      "translation": "店員さんがプレゼントをきれいに包んでくれた。",
+      "replies": [
+        {
+          "id": "e45-044-r1",
+          "author": "Tenor Turtle",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-045",
+      "category": "games",
+      "author": "Mika Reed",
+      "text": "One more game!",
+      "translation": "あと一回のつもりが気づけば真夜中。",
+      "replies": [
+        {
+          "id": "e45-045-r1",
+          "author": "Tenor Turtle",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-046",
+      "category": "games",
+      "author": "Jazz Cat",
+      "text": "I love old game music.",
+      "translation": "昔のゲーム音楽は今聴いても最高。",
+      "replies": [
+        {
+          "id": "e45-046-r1",
+          "author": "Wise Owl",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-047",
+      "category": "games",
+      "author": "Tenor Turtle",
+      "text": "My friend found a secret.",
+      "translation": "秘密の部屋をいつも先に見つける友達。",
+      "replies": [
+        {
+          "id": "e45-047-r1",
+          "author": "Bookish Fox",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-048",
+      "category": "games",
+      "author": "Wise Owl",
+      "text": "I won this level!",
+      "translation": "何日も苦戦したステージをやっとクリア。",
+      "replies": [
+        {
+          "id": "e45-048-r1",
+          "author": "Rosie Pan",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-049",
+      "category": "plants",
+      "author": "Wise Owl",
+      "text": "My plant has a leaf.",
+      "translation": "小さい植物に新芽が出てうれしい。",
+      "replies": [
+        {
+          "id": "e45-049-r1",
+          "author": "Rosie Pan",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-050",
+      "category": "plants",
+      "author": "Bookish Fox",
+      "text": "These flowers need light.",
+      "translation": "花をもっと光が当たる窓際に移した。",
+      "replies": [
+        {
+          "id": "e45-050-r1",
+          "author": "Coffee Goblin",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-051",
+      "category": "plants",
+      "author": "Rosie Pan",
+      "text": "My herbs smell nice.",
+      "translation": "雨上がりのベランダのハーブがいい香り。",
+      "replies": [
+        {
+          "id": "e45-051-r1",
+          "author": "Chloe Spark",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-052",
+      "category": "plants",
+      "author": "Coffee Goblin",
+      "text": "That plant is plastic!",
+      "translation": "造花に水をあげかけた。寝不足かも。",
+      "replies": [
+        {
+          "id": "e45-052-r1",
+          "author": "Clara Strings",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-053",
+      "category": "friends",
+      "author": "Coffee Goblin",
+      "text": "We talked for hours.",
+      "translation": "一時間も話してデザートを頼み忘れた。",
+      "replies": [
+        {
+          "id": "e45-053-r1",
+          "author": "Clara Strings",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-054",
+      "category": "friends",
+      "author": "Chloe Spark",
+      "text": "My friend sent a photo.",
+      "translation": "友達からすごく面白い犬の写真が来た。",
+      "replies": [
+        {
+          "id": "e45-054-r1",
+          "author": "Lily Pop",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-055",
+      "category": "friends",
+      "author": "Clara Strings",
+      "text": "My old friend said hello.",
+      "translation": "古い友達から短い連絡が来て幸せ。",
+      "replies": [
+        {
+          "id": "e45-055-r1",
+          "author": "Nova Orbit",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-056",
+      "category": "friends",
+      "author": "Lily Pop",
+      "text": "We want a picnic.",
+      "translation": "天気がよければピクニックに行く約束をした。",
+      "replies": [
+        {
+          "id": "e45-056-r1",
+          "author": "Mika Reed",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-057",
+      "category": "sleep",
+      "author": "Lily Pop",
+      "text": "I cannot sleep yet.",
+      "translation": "早く寝たのに明日のことを考え始めた。",
+      "replies": [
+        {
+          "id": "e45-057-r1",
+          "author": "Mika Reed",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-058",
+      "category": "sleep",
+      "author": "Nova Orbit",
+      "text": "This blanket is warm.",
+      "translation": "冬の一番好きな発明は暖かい毛布。",
+      "replies": [
+        {
+          "id": "e45-058-r1",
+          "author": "Jazz Cat",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-059",
+      "category": "sleep",
+      "author": "Mika Reed",
+      "text": "I took a nap.",
+      "translation": "二十分昼寝したら起きて混乱した。",
+      "replies": [
+        {
+          "id": "e45-059-r1",
+          "author": "Tenor Turtle",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-060",
+      "category": "sleep",
+      "author": "Jazz Cat",
+      "text": "I slept very well.",
+      "translation": "よく眠れたから朝が楽だった。",
+      "replies": [
+        {
+          "id": "e45-060-r1",
+          "author": "Wise Owl",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-061",
+      "category": "sax",
+      "author": "Jazz Cat",
+      "text": "My alto sounds warm.",
+      "translation": "今日の練習室ではアルトの音が特に温かかった。",
+      "replies": [
+        {
+          "id": "e45-061-r1",
+          "author": "Wise Owl",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-062",
+      "category": "sax",
+      "author": "Tenor Turtle",
+      "text": "I love my tenor sax.",
+      "translation": "テナーには物語を語りたくなる声がある。",
+      "replies": [
+        {
+          "id": "e45-062-r1",
+          "author": "Bookish Fox",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-063",
+      "category": "sax",
+      "author": "Wise Owl",
+      "text": "I played my soprano.",
+      "translation": "ソプラノを少しだけ静かに吹いた。",
+      "replies": [
+        {
+          "id": "e45-063-r1",
+          "author": "Rosie Pan",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-064",
+      "category": "sax",
+      "author": "Bookish Fox",
+      "text": "My baritone case is big!",
+      "translation": "バリトンのケースはこのドアを通るのも一苦労。",
+      "replies": [
+        {
+          "id": "e45-064-r1",
+          "author": "Coffee Goblin",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-065",
+      "category": "classical",
+      "author": "Bookish Fox",
+      "text": "The quartet practiced together.",
+      "translation": "四重奏が同じフレーズを全員笑顔になるまで練習。",
+      "replies": [
+        {
+          "id": "e45-065-r1",
+          "author": "Coffee Goblin",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-066",
+      "category": "classical",
+      "author": "Rosie Pan",
+      "text": "The concert starts soon.",
+      "translation": "演奏会が始まる直前の静けさが美しい。",
+      "replies": [
+        {
+          "id": "e45-066-r1",
+          "author": "Chloe Spark",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-067",
+      "category": "classical",
+      "author": "Coffee Goblin",
+      "text": "I changed my bowing.",
+      "translation": "弓づかいを一つ変えるだけで曲が違って感じた。",
+      "replies": [
+        {
+          "id": "e45-067-r1",
+          "author": "Clara Strings",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-068",
+      "category": "classical",
+      "author": "Chloe Spark",
+      "text": "The cello sounds beautiful.",
+      "translation": "チェロの音で小部屋が大聖堂みたいに感じた。",
+      "replies": [
+        {
+          "id": "e45-068-r1",
+          "author": "Lily Pop",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-069",
+      "category": "pop",
+      "author": "Chloe Spark",
+      "text": "I keep singing this song.",
+      "translation": "朝からサビが頭を離れない。",
+      "replies": [
+        {
+          "id": "e45-069-r1",
+          "author": "Lily Pop",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-070",
+      "category": "pop",
+      "author": "Clara Strings",
+      "text": "I learned the dance.",
+      "translation": "ダンスの難しい部分以外は覚えた。",
+      "replies": [
+        {
+          "id": "e45-070-r1",
+          "author": "Nova Orbit",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-071",
+      "category": "pop",
+      "author": "Lily Pop",
+      "text": "A new song is coming!",
+      "translation": "推しの歌手が新曲を発表してわくわく。",
+      "replies": [
+        {
+          "id": "e45-071-r1",
+          "author": "Mika Reed",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-072",
+      "category": "pop",
+      "author": "Nova Orbit",
+      "text": "Everyone sang together.",
+      "translation": "ライブの最後に観客全員が歌った。",
+      "replies": [
+        {
+          "id": "e45-072-r1",
+          "author": "Jazz Cat",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-073",
+      "category": "river",
+      "author": "Nova Orbit",
+      "text": "The river looks silver.",
+      "translation": "曇った夕空の下で川が銀色に見えた。",
+      "replies": [
+        {
+          "id": "e45-073-r1",
+          "author": "Jazz Cat",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-074",
+      "category": "river",
+      "author": "Mika Reed",
+      "text": "Two cyclists waved.",
+      "translation": "川沿いの道で自転車の人たちが手を振った。",
+      "replies": [
+        {
+          "id": "e45-074-r1",
+          "author": "Tenor Turtle",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-075",
+      "category": "river",
+      "author": "Jazz Cat",
+      "text": "I watched some ducks.",
+      "translation": "岸に並んだカモを眺めた。",
+      "replies": [
+        {
+          "id": "e45-075-r1",
+          "author": "Wise Owl",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-076",
+      "category": "river",
+      "author": "Tenor Turtle",
+      "text": "The wind is cold.",
+      "translation": "橋の上の風は思ったより冷たかった。",
+      "replies": [
+        {
+          "id": "e45-076-r1",
+          "author": "Bookish Fox",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-077",
+      "category": "clothes",
+      "author": "Tenor Turtle",
+      "text": "Tea on my sweater!",
+      "translation": "お気に入りのセーターにすぐ紅茶をこぼした。",
+      "replies": [
+        {
+          "id": "e45-077-r1",
+          "author": "Bookish Fox",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-078",
+      "category": "clothes",
+      "author": "Wise Owl",
+      "text": "My socks do not match.",
+      "translation": "靴下が左右違うけど、もういいや。",
+      "replies": [
+        {
+          "id": "e45-078-r1",
+          "author": "Rosie Pan",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-079",
+      "category": "clothes",
+      "author": "Bookish Fox",
+      "text": "I need my scarf.",
+      "translation": "マフラーがあると寒い朝も少し楽しい。",
+      "replies": [
+        {
+          "id": "e45-079-r1",
+          "author": "Coffee Goblin",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-080",
+      "category": "clothes",
+      "author": "Rosie Pan",
+      "text": "I fixed my coat.",
+      "translation": "古いコートのボタンをやっと直した。",
+      "replies": [
+        {
+          "id": "e45-080-r1",
+          "author": "Chloe Spark",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-081",
+      "category": "pets",
+      "author": "Rosie Pan",
+      "text": "The dog wants a walk.",
+      "translation": "犬は散歩の時間を正確に知っている。",
+      "replies": [
+        {
+          "id": "e45-081-r1",
+          "author": "Chloe Spark",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-082",
+      "category": "pets",
+      "author": "Coffee Goblin",
+      "text": "The rabbit likes paper bags.",
+      "translation": "近所のウサギは紙袋の音が好き。",
+      "replies": [
+        {
+          "id": "e45-082-r1",
+          "author": "Clara Strings",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-083",
+      "category": "pets",
+      "author": "Chloe Spark",
+      "text": "A bird sat beside me.",
+      "translation": "小さな鳥が隣の手すりに止まった。",
+      "replies": [
+        {
+          "id": "e45-083-r1",
+          "author": "Lily Pop",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-084",
+      "category": "pets",
+      "author": "Clara Strings",
+      "text": "The puppy can sit!",
+      "translation": "子犬はおやつがある時だけお座りできる。",
+      "replies": [
+        {
+          "id": "e45-084-r1",
+          "author": "Nova Orbit",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-085",
+      "category": "night",
+      "author": "Clara Strings",
+      "text": "The harbor lights are pretty.",
+      "translation": "港の灯りが落ちた星みたい。",
+      "replies": [
+        {
+          "id": "e45-085-r1",
+          "author": "Nova Orbit",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-086",
+      "category": "night",
+      "author": "Lily Pop",
+      "text": "One last cup of tea.",
+      "translation": "本を閉じる前に最後のお茶を淹れた。",
+      "replies": [
+        {
+          "id": "e45-086-r1",
+          "author": "Mika Reed",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-087",
+      "category": "night",
+      "author": "Nova Orbit",
+      "text": "I hear music outside.",
+      "translation": "通りが静かで遠い音楽が聞こえる。",
+      "replies": [
+        {
+          "id": "e45-087-r1",
+          "author": "Jazz Cat",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-088",
+      "category": "night",
+      "author": "Mika Reed",
+      "text": "Today was a good day.",
+      "translation": "疲れたけど全体としていい一日。",
+      "replies": [
+        {
+          "id": "e45-088-r1",
+          "author": "Tenor Turtle",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-089",
+      "category": "tech",
+      "author": "Mika Reed",
+      "text": "I sorted my photos.",
+      "translation": "スマホの写真をやっとアルバム整理した。",
+      "replies": [
+        {
+          "id": "e45-089-r1",
+          "author": "Tenor Turtle",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-090",
+      "category": "tech",
+      "author": "Jazz Cat",
+      "text": "My headphones died.",
+      "translation": "好きな曲の途中でイヤホンの充電が切れた。",
+      "replies": [
+        {
+          "id": "e45-090-r1",
+          "author": "Wise Owl",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-091",
+      "category": "tech",
+      "author": "Tenor Turtle",
+      "text": "I changed my wallpaper.",
+      "translation": "空の写真を壁紙にした。",
+      "replies": [
+        {
+          "id": "e45-091-r1",
+          "author": "Bookish Fox",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-092",
+      "category": "tech",
+      "author": "Wise Owl",
+      "text": "My computer is updating.",
+      "translation": "必要な時に限ってパソコンが更新し始めた。",
+      "replies": [
+        {
+          "id": "e45-092-r1",
+          "author": "Rosie Pan",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-093",
+      "category": "market",
+      "author": "Wise Owl",
+      "text": "I saw handmade mugs.",
+      "translation": "市場に素敵な手作りマグが並んでいた。",
+      "replies": [
+        {
+          "id": "e45-093-r1",
+          "author": "Rosie Pan",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-094",
+      "category": "market",
+      "author": "Bookish Fox",
+      "text": "This pear is sweet.",
+      "translation": "果物屋さんが甘い梨を試食させてくれた。",
+      "replies": [
+        {
+          "id": "e45-094-r1",
+          "author": "Coffee Goblin",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-095",
+      "category": "market",
+      "author": "Rosie Pan",
+      "text": "I bought some flowers.",
+      "translation": "見ていて笑顔になったから花を買った。",
+      "replies": [
+        {
+          "id": "e45-095-r1",
+          "author": "Chloe Spark",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-096",
+      "category": "market",
+      "author": "Coffee Goblin",
+      "text": "The market was busy.",
+      "translation": "朝市は混んでいたけどいい香りだらけ。",
+      "replies": [
+        {
+          "id": "e45-096-r1",
+          "author": "Clara Strings",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
+        }
+      ]
+    },
+    {
+      "id": "e45-097",
+      "category": "smalljoy",
+      "author": "Coffee Goblin",
+      "text": "One cookie is left!",
+      "translation": "箱の最後のクッキーが残っていた。ラッキー。",
+      "replies": [
+        {
+          "id": "e45-097-r1",
+          "author": "Clara Strings",
+          "text": "Nice!",
+          "translation": "いいね！"
+        }
+      ]
+    },
+    {
+      "id": "e45-098",
+      "category": "smalljoy",
+      "author": "Chloe Spark",
+      "text": "I found a coin.",
+      "translation": "昔の上着のポケットに小銭を見つけた。",
+      "replies": [
+        {
+          "id": "e45-098-r1",
+          "author": "Lily Pop",
+          "text": "Me too!",
+          "translation": "私も！"
+        }
+      ]
+    },
+    {
+      "id": "e45-099",
+      "category": "smalljoy",
+      "author": "Clara Strings",
+      "text": "Someone held the door.",
+      "translation": "両手がふさがった私のためにドアを開けてくれた。",
+      "replies": [
+        {
+          "id": "e45-099-r1",
+          "author": "Nova Orbit",
+          "text": "Really?",
+          "translation": "本当？"
+        }
+      ]
+    },
+    {
+      "id": "e45-100",
+      "category": "smalljoy",
+      "author": "Lily Pop",
+      "text": "The sunset is beautiful.",
+      "translation": "夕焼けがきれいで思わず立ち止まった。",
+      "replies": [
+        {
+          "id": "e45-100-r1",
+          "author": "Mika Reed",
+          "text": "Have a good day!",
+          "translation": "よい一日を！"
         }
       ]
     }

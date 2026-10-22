@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": "4.5",
   "arcs": [
     {
       "id": "rosie",
@@ -485,6 +485,185 @@
             }
           ],
           "category": "story"
+        }
+      ]
+    },
+    {
+      "id": "eastmere-trip",
+      "name": "Mika Visits Eastmere 🚆",
+      "intro": "Mika travels from Bellport, explores Eastmere, and makes new musical friends.",
+      "startDay": 12,
+      "everyDays": 1,
+      "episodes": [
+        {
+          "id": "s45-eastmere01",
+          "author": "Mika Reed",
+          "text": "My suitcase is ready. Tomorrow, I leave Bellport for Eastmere!",
+          "translation": "スーツケースの準備ができた。明日、ベルポートからイーストミアへ出発！",
+          "easyText": "My bag is ready.\nI travel tomorrow.",
+          "replies": [
+            {
+              "id": "s45-eastmere01-r1",
+              "author": "Jazz Cat",
+              "text": "Bring your lucky mouthpiece!",
+              "translation": "幸運のマウスピースも持っていって！",
+              "easyText": "Take your sax!",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere02",
+          "author": "Mika Reed",
+          "text": "I am at Bellport Airport. Which gate is mine? The signs are confusing.",
+          "translation": "ベルポート空港にいる。私の搭乗口はどこ？案内表示がややこしい。",
+          "easyText": "Where is my gate?\nI am lost.",
+          "replies": [
+            {
+              "id": "s45-eastmere02-r1",
+              "author": "Tenor Turtle",
+              "text": "Check your ticket. You have time.",
+              "translation": "チケットを確認して。まだ時間はあるよ。",
+              "easyText": "Check your ticket.",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere03",
+          "author": "Mika Reed",
+          "text": "I made it to Eastmere! Neonbridge Station is huge. I took the wrong exit twice.",
+          "translation": "イーストミアに着いた！ネオンブリッジ駅は巨大。出口を二度も間違えた。",
+          "easyText": "This station is huge!\nI am lost again.",
+          "replies": [
+            {
+              "id": "s45-eastmere03-r1",
+              "author": "Lily Pop",
+              "text": "Welcome! Look for Exit Four.",
+              "translation": "ようこそ！4番出口を探して。",
+              "easyText": "Try Exit Four.",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere04",
+          "author": "Chloe Spark",
+          "text": "Mika and I found a tiny cafe near the Neonbridge towers. She ordered the largest coffee.",
+          "translation": "ミカとネオンブリッジのビル街の小さなカフェへ。彼女は特大コーヒーを注文した。",
+          "easyText": "Mika is here!\nWe got coffee.",
+          "replies": [
+            {
+              "id": "s45-eastmere04-r1",
+              "author": "Mika Reed",
+              "text": "The cup is almost as big as my sax case.",
+              "translation": "カップがサックスケースくらい大きいよ。",
+              "easyText": "This cup is huge!",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere05",
+          "author": "Mika Reed",
+          "text": "Willow Lane is quiet in the morning. An old shopkeeper waved, and a cat followed me down the street.",
+          "translation": "朝のウィローレーンは静か。古い店の人が手を振ってくれて、猫が通りをついてきた。",
+          "easyText": "Willow Lane is quiet.\nA cat followed me.",
+          "replies": [
+            {
+              "id": "s45-eastmere05-r1",
+              "author": "Chloe Spark",
+              "text": "That cat greets everyone.",
+              "translation": "あの猫はみんなに挨拶するの。",
+              "easyText": "That cat is friendly.",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere06",
+          "author": "Mika Reed",
+          "text": "Cloverfield has record stores, old games, and a little live house. Lily showed me her favorite street.",
+          "translation": "クローバーフィールドにはレコード店、レトロゲーム、小さなライブハウス。リリーがお気に入りの通りを案内してくれた。",
+          "easyText": "I found old records.\nLily knows this street.",
+          "replies": [
+            {
+              "id": "s45-eastmere06-r1",
+              "author": "Lily Pop",
+              "text": "We should hear a band tonight!",
+              "translation": "今夜バンドを聴きに行こうよ！",
+              "easyText": "Let’s hear music!",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere07",
+          "author": "Mika Reed",
+          "text": "Harmony Street is full of instrument shops! I tried three saxophone mouthpieces and lost track of time.",
+          "translation": "ハーモニー・ストリートは楽器店だらけ！サックスのマウスピースを三つ試して、時間を忘れた。",
+          "easyText": "So many instrument shops!\nI tried three mouthpieces.",
+          "replies": [
+            {
+              "id": "s45-eastmere07-r1",
+              "author": "Clara Strings",
+              "text": "There is a wonderful violin shop here too.",
+              "translation": "ここにはすてきなバイオリン店もあるよ。",
+              "easyText": "I love this street.",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere08",
+          "author": "Clara Strings",
+          "text": "Tonight I am playing at Brookside Concert Hall. Mika came all the way from Bellport to listen.",
+          "translation": "今夜ブルックサイド・コンサートホールで演奏するの。ミカがベルポートから聴きに来てくれた。",
+          "easyText": "My concert is tonight.\nMika is coming.",
+          "replies": [
+            {
+              "id": "s45-eastmere08-r1",
+              "author": "Mika Reed",
+              "text": "The hall sounds beautiful. Good luck, Clara!",
+              "translation": "響きがきれいなホールだね。クララ、頑張って！",
+              "easyText": "Good luck, Clara!",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere09",
+          "author": "Mika Reed",
+          "text": "After the concert, Clara and I walked beside Brookside River. We talked about music and home.",
+          "translation": "コンサート後、クララとブルックサイドの川沿いを散歩した。音楽と故郷の話をした。",
+          "easyText": "We walked by the river.\nWe talked about music.",
+          "replies": [
+            {
+              "id": "s45-eastmere09-r1",
+              "author": "Clara Strings",
+              "text": "Next time, bring your sax. We can play together.",
+              "translation": "次はサックスを持ってきて。一緒に演奏しよう。",
+              "easyText": "Let’s play together!",
+              "delay": 6500
+            }
+          ]
+        },
+        {
+          "id": "s45-eastmere10",
+          "author": "Mika Reed",
+          "text": "Back in Bellport at last. My suitcase is heavier, my heart is full, and I have new friends in Eastmere.",
+          "translation": "ようやくベルポートに帰宅。スーツケースは重くなり、胸はいっぱい。イーストミアに新しい友達ができた。",
+          "easyText": "I am home!\nI made new friends.",
+          "replies": [
+            {
+              "id": "s45-eastmere10-r1",
+              "author": "Jazz Cat",
+              "text": "Welcome back! Tell us everything.",
+              "translation": "おかえり！話を全部聞かせて。",
+              "easyText": "Welcome home, Mika!",
+              "delay": 6500
+            }
+          ]
         }
       ]
     }
