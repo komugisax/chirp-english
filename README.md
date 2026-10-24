@@ -247,7 +247,7 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 
 ## Credits and usage / 制作・利用について
 
-**Creator / 制作者:** GitHubリポジトリの所有者（公開名を明記する場合は、この行を編集してください）  
+**Creator / 制作者:** MIDORINO Komugi
 **Development assistance / 制作支援:** ChatGPT (OpenAI)
 
 Chirp Englishは、無料で利用できる架空SNS型の英語学習Webアプリです。アプリのURLの共有や、個人での学習利用を歓迎します。ソースコード、登場人物、文章、ストーリー等の無断転載、再配布、および改変版の公開は原則として許可していません。ただし、法律上認められる利用や、GitHubのサービス利用規約に基づく操作は除きます。オープンソースライセンスは付与していません。第三者の権利が含まれる場合は各権利者の権利を尊重します。
