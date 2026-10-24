@@ -218,3 +218,14 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Revised flower colors: Marigold `#E07820` (white label), Nemophila `#579DD7` (white label), Lavender `#9979C7` (white label). The default remains Olive `#667C3E`. Marigold and Nemophila have less contrast with small white lettering; check legibility on your own screen.
 - Existing storage key `chirp-english-v3`, IDs, bookmarks, chosen replies, profile, and theme preferences are retained. Newly introduced storage fields are added without clearing existing data.
 - Fictional people, places, institutes, news/weather, promotions and events remain fictional; general wellness and language tips are intended to be grounded and qualified.
+
+
+## v4.6.2 — reading and reply updates
+
+- Replies have their own unread count independent of post read status. `Unread replies` means never opened; `New replies` means more replies since last opening. Opening the reply button records the currently visible count.
+- Previously acknowledged basic-post reply resurfacing is suppressed until genuinely later replies arrive.
+- Settings offers a 3–7 post batch size, default 4; it applies to Feed and My Posts.
+- My Posts is now a single accordion showing up to one batch of complete posts and replies, with a Load more button. Existing post data is retained.
+- Greetings can be posted repeatedly; several character-specific responses are rotated with variety in reply counts.
+- Translation correction: `p45-021` retains the library location. Other translations retain a natural Japanese style; a full editorial audit is still recommended.
+- The existing `chirp-english-v3` localStorage key is unchanged. Before updating, export your save in Settings.

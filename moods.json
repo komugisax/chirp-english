@@ -1,5 +1,5 @@
 {
-  "version": "4.3",
+  "version": "4.6.2",
   "categories": [
     {
       "label": "Feelings",
@@ -279,19 +279,39 @@
           "ja": "おはよう！",
           "replies": [
             {
-              "author": "Coffee Goblin",
-              "text": "My first cup is already brewing.",
-              "translation": "一杯目のコーヒーを淹れてるところ。"
-            },
-            {
               "author": "Rosie Pan",
-              "text": "Fresh bread just came out!",
-              "translation": "焼きたてパンができたよ！"
+              "text": "Morning! I am preparing breakfast.",
+              "translation": "おはよう！朝食の準備をしているよ。"
             },
             {
               "author": "Mika Reed",
-              "text": "Morning! I need more sleep.",
-              "translation": "おはよう！私はもう少し寝たいな。"
+              "text": "Morning! I need some coffee.",
+              "translation": "おはよう！コーヒーが欲しいな。"
+            },
+            {
+              "author": "Ollie",
+              "text": "Good morning! What is your plan?",
+              "translation": "おはよう！今日はどんな予定？"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Morning! Is the jazz club open yet?",
+              "translation": "おはよう！ジャズクラブはもう開いてる？"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "Good morning! I have a new book.",
+              "translation": "おはよう！新しい本を手に入れたよ。"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Morning! I am taking it slow.",
+              "translation": "おはよう！のんびり過ごすよ。"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Good morning! My coffee is ready.",
+              "translation": "おはよう！コーヒーができたよ。"
             }
           ],
           "pickEmoji": "🌅"
@@ -302,14 +322,34 @@
           "ja": "こんにちは！",
           "replies": [
             {
-              "author": "Rosie Pan",
-              "text": "Hope lunch treated you well!",
-              "translation": "お昼ごはんはおいしかった？"
+              "author": "Ollie",
+              "text": "Good afternoon! How is your day?",
+              "translation": "こんにちは！今日はどう？"
             },
             {
-              "author": "Ollie",
-              "text": "How is your day going?",
-              "translation": "今日はどんな感じ？"
+              "author": "Rosie Pan",
+              "text": "Good afternoon! Lunch was busy.",
+              "translation": "こんにちは！ランチは忙しかったよ。"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "Hello! I found a quiet reading spot.",
+              "translation": "こんにちは！静かな読書場所を見つけたよ。"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "Afternoon! I have rehearsal later.",
+              "translation": "こんにちは！あとでリハーサルなんだ。"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Hello! Is it coffee time yet?",
+              "translation": "こんにちは！そろそろコーヒーの時間かな？"
+            },
+            {
+              "author": "Clara Strings",
+              "text": "Good afternoon! I just finished practice.",
+              "translation": "こんにちは！練習を終えたところ。"
             }
           ],
           "pickEmoji": "☀️"
@@ -320,14 +360,34 @@
           "ja": "こんばんは！",
           "replies": [
             {
+              "author": "Rosie Pan",
+              "text": "Good evening! Dinner is almost ready.",
+              "translation": "こんばんは！夕食がもうすぐできるよ。"
+            },
+            {
               "author": "Mika Reed",
-              "text": "Good evening! Any plans tonight?",
-              "translation": "こんばんは！今夜は何か予定ある？"
+              "text": "Evening! I am heading to the club.",
+              "translation": "こんばんは！クラブに向かってるよ。"
             },
             {
               "author": "Ollie",
-              "text": "The city lights are coming on.",
-              "translation": "街の明かりがつき始めたね。"
+              "text": "Good evening! What made you smile today?",
+              "translation": "こんばんは！今日、何が楽しかった？"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Evening! Time for a slow song.",
+              "translation": "こんばんは！ゆったりした曲の時間だね。"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "Good evening! One more chapter tonight.",
+              "translation": "こんばんは！今夜はもう一章読むよ。"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Evening! The music is starting.",
+              "translation": "こんばんは！音楽が始まるよ。"
             }
           ],
           "pickEmoji": "🌆"
@@ -339,13 +399,28 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Welcome back! Hungry?",
-              "translation": "おかえり！お腹すいた？"
+              "text": "Welcome back! Have you eaten?",
+              "translation": "おかえり！ご飯は食べた？"
             },
             {
-              "author": "Jazz Cat",
-              "text": "Time to relax!",
-              "translation": "くつろぐ時間だね！"
+              "author": "Ollie",
+              "text": "Welcome home! How was your day?",
+              "translation": "おかえり！今日はどうだった？"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "You are home! Get some rest.",
+              "translation": "帰ってきたんだね！少し休んで。"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "Welcome back! Put your feet up.",
+              "translation": "おかえり！ゆっくりしてね。"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Home at last. That is a good feeling.",
+              "translation": "やっと帰宅。いい気分だよね。"
             }
           ],
           "pickEmoji": "🏠"
@@ -356,19 +431,34 @@
           "ja": "おやすみ！",
           "replies": [
             {
-              "author": "Sleepy Cat",
-              "text": "The pillows are calling.",
-              "translation": "枕が呼んでるよ。"
+              "author": "Mika Reed",
+              "text": "Good night! Sweet dreams.",
+              "translation": "おやすみ！いい夢を。"
             },
             {
-              "author": "Clara Strings",
-              "text": "I'll put my violin away too.",
-              "translation": "私もバイオリンを片づけよう。"
+              "author": "Ollie",
+              "text": "Sleep well! Tomorrow is another day.",
+              "translation": "ゆっくり寝てね！明日はまた新しい一日。"
             },
             {
-              "author": "Wise Owl",
-              "text": "May tomorrow bring something gentle.",
-              "translation": "明日が穏やかな日になりますように。"
+              "author": "Rosie Pan",
+              "text": "Good night! I will clean up here.",
+              "translation": "おやすみ！私は片付けをするね。"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "Night! I will finish this page.",
+              "translation": "おやすみ！このページだけ読み終えるね。"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Night! I am still listening to jazz.",
+              "translation": "おやすみ！私はまだジャズを聴いてる。"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Rest well. See you tomorrow.",
+              "translation": "ゆっくり休んで。また明日ね。"
             }
           ],
           "pickEmoji": "💤"

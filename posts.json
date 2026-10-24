@@ -1,5 +1,5 @@
 {
-  "version": "4.6.1",
+  "version": "4.6.2",
   "posts": [
     {
       "id": "p001",
@@ -4164,7 +4164,7 @@
       "category": "books",
       "author": "Bookish Fox",
       "text": "I went to the library for one book and came home with four.",
-      "translation": "一冊借りるつもりが四冊になった。",
+      "translation": "図書館に1冊借りに行ったのに、4冊も借りて帰ってきた。",
       "replies": [
         {
           "id": "p45-021-r1",
