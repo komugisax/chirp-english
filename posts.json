@@ -797,7 +797,7 @@
       "author": "Jazz Cat",
       "avatar": "🎷",
       "text": "I finally played that fast passage cleanly. Nobody was there to hear it.",
-      "translation": "ついに速いフレーズをきれいに吹けた。誰も聞いてなかった。",
+      "translation": "ついに速いフレーズをきれいに演奏できた。でも、誰も聞いてなかった。",
       "replies": [
         {
           "id": "p045-r1",
@@ -2627,7 +2627,7 @@
       "author": "Baritone Bear",
       "avatar": "🐻",
       "text": "The bass line sounded great until I realized I was on the wrong page.",
-      "translation": "間違ったページを吹いていたと気づくまでは、ベースラインが最高だった。",
+      "translation": "ベースラインは最高の出来だった。違うページの譜面を見て吹いてたと気づくまでは。",
       "replies": [
         {
           "id": "p151-r1",
@@ -3574,8 +3574,8 @@
       "category": "life",
       "author": "Mika Reed",
       "avatar": "🎷",
-      "text": "It is raining in Bellport. I planned to go out, but my blanket made a stronger argument.",
-      "translation": "Bellportは雨。外出する予定だったけど、毛布の説得力が勝った。",
+      "text": "It is raining in Bellwindport. I planned to go out, but my blanket made a stronger argument.",
+      "translation": "Bellwindportは雨。外出する予定だったけど、毛布の説得力が勝った。",
       "replies": [
         {
           "id": "p205-r1",
@@ -3710,8 +3710,8 @@
       "category": "weather",
       "author": "Mika Reed",
       "avatar": "🎷",
-      "text": "The wind in Bellport is so strong today. Even my umbrella gave up.",
-      "translation": "今日のBellportは風が強すぎる。傘まで諦めた。",
+      "text": "The wind in Bellwindport is so strong today. Even my umbrella gave up.",
+      "translation": "今日のBellwindportは風が強すぎる。傘まで諦めた。",
       "replies": [
         {
           "id": "p213-r1",
@@ -4001,7 +4001,7 @@
       "category": "music",
       "author": "Clara Strings",
       "text": "I practiced one difficult measure until it finally sounded right.",
-      "translation": "難しい一小節を、やっとうまく吹けるまで練習した。",
+      "translation": "難しい一小節を、やっとうまく弾けるまで練習した。",
       "replies": [
         {
           "id": "p45-013-r1",
@@ -4023,7 +4023,7 @@
       "category": "music",
       "author": "Nova Orbit",
       "text": "Some melodies stay in your head all afternoon.",
-      "translation": "午後ずっと頭から離れないメロディーがある。",
+      "translation": "午後じゅう、頭から離れないメロディーってあるよね。",
       "replies": [
         {
           "id": "p45-014-r1",
@@ -4257,7 +4257,7 @@
       "replies": [
         {
           "id": "p45-025-r1",
-          "author": "Bellport Transit",
+          "author": "Bellwindport Transit",
           "text": "An early train is wonderful until it becomes a surprise sprint.",
           "translation": "電車が早いのはいいけど、急な全力疾走は困るね。"
         }

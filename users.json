@@ -133,7 +133,7 @@
       "handle": "@jazzcat",
       "avatar": "🐈",
       "color": "#F8CF91",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "A playful jazz lover who always blames the reed."
     },
     {
@@ -151,7 +151,7 @@
       "handle": "@tenor_turtle",
       "avatar": "🐢",
       "color": "#BBDDF7",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "A calm tenor sax player. Once met Mika at a jam session."
     },
     {
@@ -232,7 +232,7 @@
       "handle": "@midnight_sax",
       "avatar": "🎷",
       "color": "#E6C5F5",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "A web creator who plays saxophone after work. Loves late-night jazz and coffee."
     },
     {
@@ -250,8 +250,8 @@
       "handle": "@chirptimes",
       "avatar": "📰",
       "color": "#24466B",
-      "location": "Bellport",
-      "bio": "Fictional news from Bellport and nearby cities. All reports are made up."
+      "location": "Bellwindport",
+      "bio": "Fictional news from Bellwindport and nearby cities. All reports are made up."
     },
     {
       "id": "chirp_weather",
@@ -259,25 +259,25 @@
       "handle": "@chirpweather",
       "avatar": "🌤️",
       "color": "#A9DDF2",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "Imaginary forecasts for imaginary places. Not real weather."
     },
     {
       "id": "bellport_transit",
-      "name": "Bellport Transit",
+      "name": "Bellwindport Transit",
       "handle": "@bellporttransit",
       "avatar": "🚃",
       "color": "#F8D6A5",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "Fictional tram and train updates around town."
     },
     {
       "id": "bellport_events",
-      "name": "What’s On Bellport",
+      "name": "What’s On Bellwindport",
       "handle": "@bellportevents",
       "avatar": "🎭",
       "color": "#D5C8F1",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "Fictional local events, concerts, and markets."
     },
     {
@@ -286,7 +286,7 @@
       "handle": "@happypaws",
       "avatar": "🐾",
       "color": "#BCE7C4",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "Imaginary rescue animals and real-feeling little stories."
     },
     {
@@ -295,7 +295,7 @@
       "handle": "@rosie_cooks",
       "avatar": "👩‍🍳",
       "color": "#C6E7B8",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "New restaurant owner. Cooking, learning, and making a little chaos."
     },
     {
@@ -304,7 +304,7 @@
       "handle": "@rosieskitchen",
       "avatar": "🍲",
       "color": "#F7C98A",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "A brand-new fictional family restaurant. Homemade meals and warm smiles."
     },
     {
@@ -340,7 +340,7 @@
       "handle": "@lily_pop",
       "avatar": "🎤",
       "color": "#F5D1C2",
-      "location": "Cloverfield, Eastmere",
+      "location": "Cloverstonemill, Eastmere",
       "bio": "Pop music fan, concertgoer and karaoke enthusiast. Not a professional singer."
     },
     {
@@ -349,7 +349,7 @@
       "handle": "@ollie_thinks",
       "avatar": "💡",
       "color": "#D8E5CC",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "Curious about ordinary days, small questions, and the things people learn together."
     },
     {
@@ -358,17 +358,17 @@
       "handle": "@little_english_lab",
       "avatar": "📚",
       "color": "#E4D4AF",
-      "location": "Bellport",
+      "location": "Bellwindport",
       "bio": "A small fictional English school. One useful word at a time, with simple examples."
     },
     {
       "id": "whats_on_bellport",
-      "name": "What's On Bellport",
+      "name": "What's On Bellwindport",
       "handle": "@whats_on_bellport",
       "avatar": "🎟️",
       "color": "#E9D3AF",
-      "location": "Bellport",
-      "bio": "A fictional local events guide for fictional Bellport. All events are imaginary."
+      "location": "Bellwindport",
+      "bio": "A fictional local events guide for fictional Bellwindport. All events are imaginary."
     }
   ]
 }

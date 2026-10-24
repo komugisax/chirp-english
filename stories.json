@@ -4,7 +4,7 @@
     {
       "id": "rosie",
       "name": "Opening a Dream 🍲",
-      "intro": "Rosie opens her first restaurant in Bellport.",
+      "intro": "Rosie opens her first restaurant in Bellwindport.",
       "startDay": 1,
       "everyDays": 1,
       "episodes": [
@@ -90,8 +90,8 @@
         {
           "id": "s4-rosie01",
           "author": "The Chirp Times",
-          "text": "LOCAL NEWS: Rosie Pan will open Rosie's Kitchen in Bellport this Saturday. The owner has been preparing for months.",
-          "translation": "地元ニュース：Rosie Panさんの「Rosie’s Kitchen」が今週土曜日、Bellportに開店予定。店主は数か月にわたり準備を進めてきました。",
+          "text": "LOCAL NEWS: Rosie Pan will open Rosie's Kitchen in Bellwindport this Saturday. The owner has been preparing for months.",
+          "translation": "地元ニュース：Rosie Panさんの「Rosie’s Kitchen」が今週土曜日、Bellwindportに開店予定。店主は数か月にわたり準備を進めてきました。",
           "easyText": "Rosie's Kitchen opens Saturday!",
           "replies": [
             {
@@ -327,7 +327,7 @@
         },
         {
           "id": "s4-rosie09",
-          "author": "Bellport Transit",
+          "author": "Bellwindport Transit",
           "text": "NOTICE: A small delay on the Harbor Line this afternoon. Please allow extra time.",
           "translation": "お知らせ：本日午後、ハーバー線で小規模な遅延が発生しています。時間に余裕を持ってください。",
           "easyText": "The Harbor train is late.",
@@ -739,15 +739,15 @@
     {
       "id": "eastmere-trip",
       "name": "Mika Visits Eastmere 🚆",
-      "intro": "Mika travels from Bellport, explores Eastmere, and makes new musical friends.",
+      "intro": "Mika travels from Bellwindport, explores Eastmere, and makes new musical friends.",
       "startDay": 12,
       "everyDays": 1,
       "episodes": [
         {
           "id": "s45-eastmere01",
           "author": "Mika Reed",
-          "text": "My suitcase is ready. Tomorrow, I leave Bellport for Eastmere!",
-          "translation": "スーツケースの準備ができた。明日、ベルポートからイーストミアへ出発！",
+          "text": "My suitcase is ready. Tomorrow, I leave Bellwindport for Eastmere!",
+          "translation": "スーツケースの準備ができた。明日、ベルウィンドポートからイーストミアへ出発！",
           "easyText": "My bag is ready.\nI travel tomorrow.",
           "replies": [
             {
@@ -779,8 +779,8 @@
         {
           "id": "s45-eastmere02",
           "author": "Mika Reed",
-          "text": "I am at Bellport Airport. Which gate is mine? The signs are confusing.",
-          "translation": "ベルポート空港にいる。私の搭乗口はどこ？案内表示がややこしい。",
+          "text": "I am at Bellwindport Airport. Which gate is mine? The signs are confusing.",
+          "translation": "ベルウィンドポート空港にいる。私の搭乗口はどこ？案内表示がややこしい。",
           "easyText": "Where is my gate?\nI am lost.",
           "replies": [
             {
@@ -911,8 +911,8 @@
         {
           "id": "s45-eastmere06",
           "author": "Mika Reed",
-          "text": "Cloverfield has record stores, old games, and a little live house. Lily showed me her favorite street.",
-          "translation": "クローバーフィールドにはレコード店、レトロゲーム、小さなライブハウス。リリーがお気に入りの通りを案内してくれた。",
+          "text": "Cloverstonemill has record stores, old games, and a little live house. Lily showed me her favorite street.",
+          "translation": "クローバーストーンミルにはレコード店、レトロゲーム、小さなライブハウス。リリーがお気に入りの通りを案内してくれた。",
           "easyText": "I found old records.\nLily knows this street.",
           "replies": [
             {
@@ -977,8 +977,8 @@
         {
           "id": "s45-eastmere08",
           "author": "Clara Strings",
-          "text": "Tonight I am playing at Brookside Concert Hall. Mika came all the way from Bellport to listen.",
-          "translation": "今夜ブルックサイド・コンサートホールで演奏するの。ミカがベルポートから聴きに来てくれた。",
+          "text": "Tonight I am playing at Brookside Concert Hall. Mika came all the way from Bellwindport to listen.",
+          "translation": "今夜ブルックサイド・コンサートホールで演奏するの。ミカがベルウィンドポートから聴きに来てくれた。",
           "easyText": "My concert is tonight.\nMika is coming.",
           "replies": [
             {
@@ -1043,8 +1043,8 @@
         {
           "id": "s45-eastmere10",
           "author": "Mika Reed",
-          "text": "Back in Bellport at last. My suitcase is heavier, my heart is full, and I have new friends in Eastmere.",
-          "translation": "ようやくベルポートに帰宅。スーツケースは重くなり、胸はいっぱい。イーストミアに新しい友達ができた。",
+          "text": "Back in Bellwindport at last. My suitcase is heavier, my heart is full, and I have new friends in Eastmere.",
+          "translation": "ようやくベルウィンドポートに帰宅。スーツケースは重くなり、胸はいっぱい。イーストミアに新しい友達ができた。",
           "easyText": "I am home!\nI made new friends.",
           "replies": [
             {
@@ -1058,16 +1058,16 @@
             {
               "id": "s45-eastmere10-r2",
               "author": "Lily Pop",
-              "text": "Come back to Cloverfield sometime!",
-              "translation": "またクローバーフィールドに来てね！",
+              "text": "Come back to Cloverstonemill sometime!",
+              "translation": "またクローバーストーンミルに来てね！",
               "easyText": "Come back soon!",
               "delay": 90000
             },
             {
               "id": "s45-eastmere10-r3",
               "author": "Rosie Pan",
-              "text": "Bellport missed you. Dinner at my place?",
-              "translation": "ベルポートは寂しかったよ。うちで夕食どう？",
+              "text": "Bellwindport missed you. Dinner at my place?",
+              "translation": "ベルウィンドポートは寂しかったよ。うちで夕食どう？",
               "easyText": "Dinner at my place?",
               "delay": 90000
             }
@@ -1077,7 +1077,7 @@
     },
     {
       "id": "bellport-harbor-festival",
-      "name": "Bellport Harbor Festival 🎉",
+      "name": "Bellwindport Harbor Festival 🎉",
       "intro": "A warm neighborhood festival with jazz, food stalls, games and visitors from Eastmere.",
       "startDay": 23,
       "everyDays": 1,
@@ -1126,9 +1126,9 @@
         {
           "id": "s46-festival02",
           "author": "Coffee Goblin",
-          "text": "I took the early train to Bellport. There are lights all along the harbor!",
-          "translation": "早い電車でベルポートに来た。港沿いがずっとライトで飾られてる！",
-          "easyText": "I came to Bellport. So many lights!",
+          "text": "I took the early train to Bellwindport. There are lights all along the harbor!",
+          "translation": "早い電車でベルウィンドポートに来た。港沿いがずっとライトで飾られてる！",
+          "easyText": "I came to Bellwindport. So many lights!",
           "replies": [
             {
               "id": "s46-festival02-r1",
@@ -1241,8 +1241,8 @@
         {
           "id": "s46-festival05",
           "author": "Rosie Pan",
-          "text": "The festival is over, and I'm exhausted. We sold every last sandwich. Thank you, Bellport!",
-          "translation": "お祭りが終わってくたくた。サンドイッチは全部売り切れ！ベルポートのみんな、ありがとう！",
+          "text": "The festival is over, and I'm exhausted. We sold every last sandwich. Thank you, Bellwindport!",
+          "translation": "お祭りが終わってくたくた。サンドイッチは全部売り切れ！ベルウィンドポートのみんな、ありがとう！",
           "easyText": "The festival is over. We sold out!",
           "replies": [
             {

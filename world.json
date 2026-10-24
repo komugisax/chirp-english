@@ -3,7 +3,7 @@
   "notice": "ALL towns, accounts, news, forecasts and events are fictional. No live news or weather.",
   "cities": [
     {
-      "name": "Bellport",
+      "name": "Bellwindport",
       "timezone": "Europe/London",
       "climate": "temperate",
       "description": "Harbor city with a lively food and music scene."
@@ -35,7 +35,7 @@
           "description": "Quiet historic residential neighborhood with small local shops and friendly neighbors."
         },
         {
-          "name": "Cloverfield",
+          "name": "Cloverstonemill",
           "description": "Creative area with indie music venues, cafés, secondhand shops, games and Harmony Street instrument shops."
         },
         {

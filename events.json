@@ -75,17 +75,17 @@
       "author": "Mika Reed",
       "minSeen": 5,
       "minTalk": 0,
-      "prompt": "It is raining in Bellport again. Do you like rainy days?",
-      "translation": "Bellportはまた雨。雨の日は好き？",
+      "prompt": "It is raining in Bellwindport again. Do you like rainy days?",
+      "translation": "Bellwindportはまた雨。雨の日は好き？",
       "choices": [
         {
           "en": "I love rainy days!",
           "ja": "雨の日が大好き！",
-          "answer": "Then you would love Bellport!",
-          "answerJa": "それならBellportが気に入るはず！",
+          "answer": "Then you would love Bellwindport!",
+          "answerJa": "それならBellwindportが気に入るはず！",
           "tag": "rain",
           "easyEn": "I love rainy days!",
-          "easyAnswer": "Then you would love Bellport!"
+          "easyAnswer": "Then you would love Bellwindport!"
         },
         {
           "en": "I like sunny days.",

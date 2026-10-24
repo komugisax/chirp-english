@@ -29,6 +29,15 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
+### Ver.4.6.3 — Reading polish, translation, place names (2026-10-24)
+- Changed fictional Bellport → Bellwindport and Cloverfield → Cloverstonemill in displayed data, world descriptions, resident profiles and stories. Existing post IDs and saved progress remain unchanged.
+- A post not yet read is labeled **Unread post**, even when it already has replies; separate **Unread replies** / **New replies** markers apply after the original is read.
+- Stabilized the returning-replies feed, avoided duplicate cards, and prevented repeatedly showing the same time-of-day item when no new suitable item is available.
+- Standard Japanese translation text is **13px for both posts and replies**, adjusted together with the existing Standard / +2 / +4px text-size setting.
+- Corrected identified instrument-specific Japanese translations and the generic-you melody example, without changing the authored story or English post text.
+- Updated Japanese help text and browser title. Verified original Normal/Easy post sets are preserved.
+
+
 ### v4.6.2.1 — reply-card visibility hotfix
 - Fixed a Feed bug where a resurfaced post disappeared immediately after opening its unread replies. The card remains in the current Feed view until the reader presses “Got it ✓” or leaves the Feed.
 - Fixed the same issue within the “Unread replies” reading-history filter: opening replies no longer removes a card while it is being read.
@@ -54,7 +63,7 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 - New DMs are spaced **12 hours** apart rather than 20; DM threads are ordered by latest activity. Replies to selected DM choices still appear after approximately three seconds.
 - Updated Marigold (#E07820, white text), Nemophila (#579DD7, white text), Lavender (#9979C7, white text), while keeping Olive as the default and the seven original themes. Bright themes retain readable action text.
 - **Story Progress** in Settings allows manual day rescue, preserving reading history and bookmarks but not reconstructing lost DM choices or posts.
-- Added five-part **Bellport Harbor Festival** after Mika's Eastmere return (Days 23–27), and introduced **Little English Lab** with eight English-only mini-lessons per reading level, with Japanese shown only on demand.
+- Added five-part **Bellwindport Harbor Festival** after Mika's Eastmere return (Days 23–27), and introduced **Little English Lab** with eight English-only mini-lessons per reading level, with Japanese shown only on demand.
 - Original localStorage key and story/post IDs are preserved. As always, export your save before updating. No live data or genuine real-time AI replies.
 
 
@@ -66,7 +75,7 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 - A floating **＋ Post** button appears on Feed, remains available while scrolling, and hides in other tabs and the composition screen. On creating a post, the feed scrolls to your new post so its delayed replies can be seen.
 - Added a Japanese in-app **guide.html**, accessible from Settings → Help & About. It provides spoiler-free city descriptions and privacy/fiction disclaimers.
 - Added **100 new Normal posts** and **100 new Easy posts**, across everyday topics and music, with translations and authored short replies. Normal grows from 216 to **316** posts; Easy grows from 100 to **200** posts.
-- Added a **10-part Mika Eastmere trip** story arc (story days 12–21): departure from Bellport, airport, downtown Neonbridge, Willow Lane, Cloverfield, Harmony Street instrument shops, Clara's Brookside concert, riverside conversation, and homecoming. The trip follows the existing Rosie/jazz story progression so the stories don't place Mika on tour and at a Bellport gig at once. Easy text variants and delayed character replies are included. No missed-day skips.
+- Added a **10-part Mika Eastmere trip** story arc (story days 12–21): departure from Bellwindport, airport, downtown Neonbridge, Willow Lane, Cloverstonemill, Harmony Street instrument shops, Clara's Brookside concert, riverside conversation, and homecoming. The trip follows the existing Rosie/jazz story progression so the stories don't place Mika on tour and at a Bellwindport gig at once. Easy text variants and delayed character replies are included. No missed-day skips.
 - Existing saved progress, bookmarks, selected avatar, reading history, events and prior story chapters retain their IDs and existing localStorage key. Back up your saved data before upgrading.
 
 ### How to update
@@ -81,7 +90,7 @@ Upload **all 11 files** from the new ZIP into the same GitHub Pages folder, incl
 - Made Japanese translation text smaller and less visually prominent than the English post body.
 - Prevented the same story/local post from appearing twice as both a fresh post and a newly replied-to post in the same feed section.
 - Changed the Stories tab icon from a globe to an open book.
-- Introduced **Eastmere**, a fictional train-oriented city inspired by Tokyo, with Neonbridge, Willow Lane, Cloverfield (including Harmony Street instrument shops), and Brookside Concert Hall.
+- Introduced **Eastmere**, a fictional train-oriented city inspired by Tokyo, with Neonbridge, Willow Lane, Cloverstonemill (including Harmony Street instrument shops), and Brookside Concert Hall.
 - Added four fictional accounts: Chloe Spark, Daily Wellness, Clara Strings, and Lily Pop, with short Easy variants and new everyday posts.
 - The full Eastmere travel story is planned for a later update; no travel storyline is included here.
 - Kept the same local save-data key and existing post IDs, so previously saved progress should be retained. Back up before updating.
@@ -192,7 +201,7 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 
 - Fixed instruments being played by unrelated characters in both Easy and Normal posts; prevented self-congratulatory replies from being attributed to the post author.
 - Added 46 contextual second replies per reading level. These may arrive after the post is first shown; earlier posts can appear again when a reply arrives without duplication or changing read IDs.
-- Added Ollie, a curious fictional Bellport resident, without making their identity a mystery gimmick. Added 12 Ollie posts and 10 grounded Daily Wellness posts in both levels.
+- Added Ollie, a curious fictional Bellwindport resident, without making their identity a mystery gimmick. Added 12 Ollie posts and 10 grounded Daily Wellness posts in both levels.
 - Added five optional DMs, including returning characters. Unread indicators continue to use existing save keys.
 - New-post screen is always called “Create a post”; welcome posts are available only before the first player post.
 - Preserves localStorage key `chirp-english-v3` and original post IDs. Back up progress before upgrading.
@@ -216,8 +225,8 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 ### Conversations & world
 - Newly eligible DMs are staggered at approximately **12-hour** intervals, including rescheduling future undelivered queue entries from the v4.5.4 schedule. DM conversations sort by most recent known activity, with unread dots. The existing approx. 3-second DM reply Typing… remains.
 - **Only genuinely arriving delayed post replies** get a temporary approx. 3-second Typing… indicator before display. Existing replies and archive rereads open instantly.
-- **Bellport Harbor Festival** introduces five carefully ordered story episodes starting Story Day **23**, after the Eastmere journey (Days 12–21). The festival includes food stalls, jazz, local games, and visitors from outside Bellport. Both levels use English-only post content with Japanese translations available on demand.
-- **Little English Lab** is a fictional Bellport English school, appearing in 8 dispersed posts per level. The account explains one English word or expression at a time with examples; Japanese appears only in hidden translation text. This is a modest introduction, not a new quiz or required study step.
+- **Bellwindport Harbor Festival** introduces five carefully ordered story episodes starting Story Day **23**, after the Eastmere journey (Days 12–21). The festival includes food stalls, jazz, local games, and visitors from outside Bellwindport. Both levels use English-only post content with Japanese translations available on demand.
+- **Little English Lab** is a fictional Bellwindport English school, appearing in 8 dispersed posts per level. The account explains one English word or expression at a time with examples; Japanese appears only in hidden translation text. This is a modest introduction, not a new quiz or required study step.
 
 ### Settings & compatibility
 - **Story Progress** lets readers manually change their story day (up to Day 90 or the current day, whichever is greater) as an emergency recovery aid. It controls story availability without forging reading history or DM choices. It is **not** a complete save-file restore; export backups as before.
@@ -235,3 +244,13 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Greetings can be posted repeatedly; several character-specific responses are rotated with variety in reply counts.
 - Translation correction: `p45-021` retains the library location. Other translations retain a natural Japanese style; a full editorial audit is still recommended.
 - The existing `chirp-english-v3` localStorage key is unchanged. Before updating, export your save in Settings.
+
+## Credits and usage / 制作・利用について
+
+**Creator / 制作者:** GitHubリポジトリの所有者（公開名を明記する場合は、この行を編集してください）  
+**Development assistance / 制作支援:** ChatGPT (OpenAI)
+
+Chirp Englishは、無料で利用できる架空SNS型の英語学習Webアプリです。アプリのURLの共有や、個人での学習利用を歓迎します。ソースコード、登場人物、文章、ストーリー等の無断転載、再配布、および改変版の公開は原則として許可していません。ただし、法律上認められる利用や、GitHubのサービス利用規約に基づく操作は除きます。オープンソースライセンスは付与していません。第三者の権利が含まれる場合は各権利者の権利を尊重します。
+
+© 2026 Project creator (replace with your public handle if desired).  
+All places, people, and organizations in this fictional world are imaginary. Similarity to real-world names does not imply affiliation.

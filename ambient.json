@@ -4,8 +4,8 @@
     {
       "id": "a4-weather-morning",
       "author": "Chirp Weather",
-      "text": "Good morning, Bellport! A cool start today. Take a jacket.",
-      "translation": "おはようBellport！今朝は肌寒いので上着を持ってね。",
+      "text": "Good morning, Bellwindport! A cool start today. Take a jacket.",
+      "translation": "おはようBellwindport！今朝は肌寒いので上着を持ってね。",
       "easyText": "Good morning! Take a jacket.",
       "daypart": "morning",
       "season": "all",
@@ -60,7 +60,7 @@
     },
     {
       "id": "a4-spring",
-      "author": "What's On Bellport",
+      "author": "What's On Bellwindport",
       "text": "The spring flower market opens this weekend.",
       "translation": "春の花のマーケットが今週末に開かれます。",
       "easyText": "The flower market is open!",
@@ -91,7 +91,7 @@
     },
     {
       "id": "a4-winter",
-      "author": "Bellport Transit",
+      "author": "Bellwindport Transit",
       "text": "Snow may slow down the Harbor Line today. Please take care.",
       "translation": "今日は雪でハーバー線が遅れるかもしれません。お気をつけて。",
       "easyText": "Trains may be late today.",
@@ -119,7 +119,7 @@
     },
     {
       "id": "a4-event",
-      "author": "What's On Bellport",
+      "author": "What's On Bellwindport",
       "text": "A small music market is coming to the harbor this weekend.",
       "translation": "今週末、港で小さな音楽マーケットが開催されます。",
       "easyText": "Music at the harbor!",
@@ -129,7 +129,7 @@
     },
     {
       "id": "a4-train",
-      "author": "Bellport Transit",
+      "author": "Bellwindport Transit",
       "text": "The Harbor Line is running on time this morning.",
       "translation": "今朝のハーバー線は定刻どおり運行しています。",
       "easyText": "Trains are on time!",
@@ -140,8 +140,8 @@
     {
       "id": "a4-news",
       "author": "The Chirp Times",
-      "text": "LOCAL NEWS: A giant rubber duck was spotted in Bellport Harbor. Nobody knows why.",
-      "translation": "地元ニュース：Bellport港で巨大なゴム製アヒルが目撃されました。理由は謎です。",
+      "text": "LOCAL NEWS: A giant rubber duck was spotted in Bellwindport Harbor. Nobody knows why.",
+      "translation": "地元ニュース：Bellwindport港で巨大なゴム製アヒルが目撃されました。理由は謎です。",
       "easyText": "A giant duck is in the harbor!",
       "daypart": "any",
       "season": "all",
@@ -237,8 +237,8 @@
     {
       "id": "a44-clover",
       "author": "Lily Pop",
-      "text": "There are so many tiny record stores in Cloverfield. I could spend all day here!",
-      "translation": "Cloverfieldには小さなレコード店がいっぱい。一日中いられそう！",
+      "text": "There are so many tiny record stores in Cloverstonemill. I could spend all day here!",
+      "translation": "Cloverstonemillには小さなレコード店がいっぱい。一日中いられそう！",
       "easyText": "I love these record stores!",
       "daypart": "afternoon",
       "season": "all",
