@@ -29,6 +29,12 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
+### v4.6.2.1 — reply-card visibility hotfix
+- Fixed a Feed bug where a resurfaced post disappeared immediately after opening its unread replies. The card remains in the current Feed view until the reader presses “Got it ✓” or leaves the Feed.
+- Fixed the same issue within the “Unread replies” reading-history filter: opening replies no longer removes a card while it is being read.
+- No changes to user save-data format or story progress.
+
+
 ### Ver.4.6.1 — Conversation & Feed polish (2026-10-22)
 
 - Corrected tab navigation so switching from DMs/People/Stories/Settings to Feed no longer accidentally reapplies scroll coordinates from a different screen. Feed position remains recoverable.
