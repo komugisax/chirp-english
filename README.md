@@ -1,5 +1,7 @@
 # 🐦 Chirp English
 
+**English** | [日本語](README-ja.md)
+
 *A fictional social media feed for casual English reading practice.*
 
 ## About This Project
@@ -28,6 +30,15 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 - Fictional Eastmere city and its neighborhoods introduced in Ver.4.4
 
 ## Version History
+
+### Ver.4.6.4 — Usability and documentation (2026-10-25)
+- A one-time, optional Japanese guide prompt appears at the center of the screen for first-time visitors, without interrupting existing saved users. The guide remains available from Settings.
+- Adjusted the iPhone guide page's top/back-link spacing and scroll restoration; revised Japanese guidance and removed redundant lines.
+- Post and reply translations remain 13px, scale together with the font setting, and use a slightly darker secondary color.
+- The batch size (3–7, default 4) applies to the initial feed and subsequent loads. Changing it never removes displayed posts; My Posts does not shrink while open.
+- Export filename includes local date and time. Legacy `chirp-save.json` remains importable.
+- Added a Japanese README and consistent public creator credits. No authored post, reply, or story data or storage key was changed.
+
 
 ### Ver.4.6.3 — Reading polish, translation, place names (2026-10-24)
 - Changed fictional Bellport → Bellwindport and Cloverfield → Cloverstonemill in displayed data, world descriptions, resident profiles and stories. Existing post IDs and saved progress remain unchanged.
@@ -245,12 +256,13 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 - Translation correction: `p45-021` retains the library location. Other translations retain a natural Japanese style; a full editorial audit is still recommended.
 - The existing `chirp-english-v3` localStorage key is unchanged. Before updating, export your save in Settings.
 
-## Credits and usage / 制作・利用について
+## Creator and usage
 
-**Creator / 制作者:** MIDORINO Komugi
-**Development assistance / 制作支援:** ChatGPT (OpenAI)
+**Created by:** Komugi Midorino  
+**Development assistance:** ChatGPT (OpenAI)
 
-Chirp Englishは、無料で利用できる架空SNS型の英語学習Webアプリです。アプリのURLの共有や、個人での学習利用を歓迎します。ソースコード、登場人物、文章、ストーリー等の無断転載、再配布、および改変版の公開は原則として許可していません。ただし、法律上認められる利用や、GitHubのサービス利用規約に基づく操作は除きます。オープンソースライセンスは付与していません。第三者の権利が含まれる場合は各権利者の権利を尊重します。
+© 2026 Komugi Midorino
 
-© 2026 Project creator (replace with your public handle if desired).  
-All places, people, and organizations in this fictional world are imaginary. Similarity to real-world names does not imply affiliation.
+Chirp English is a free-to-use fictional social-feed-style web app for English learners. Personal learning and sharing the URL are welcome. No open-source license is granted. Unauthorized republication, redistribution of source code or authored content, and publication of modified copies are not permitted, except for uses allowed by applicable law and GitHub's terms. Third-party rights remain with their respective owners. This notice does not imply exclusive copyright in all AI-generated elements.
+
+All places, people, organizations, posts, and stories are fictional. Similarity to real-world names does not imply affiliation. This is not an official service of OpenAI or any social network.
