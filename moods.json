@@ -1,5 +1,5 @@
 {
-  "version": "4.6.2",
+  "version": "4.7",
   "categories": [
     {
       "label": "Feelings",
@@ -208,19 +208,14 @@
           "ja": "ワクワクしてる！",
           "replies": [
             {
+              "author": "Ollie",
+              "text": "Tell me why!",
+              "translation": "どうしてか教えて！"
+            },
+            {
               "author": "Lily Pop",
-              "text": "Okay, now I'm excited too!",
-              "translation": "私までワクワクしてきた！"
-            },
-            {
-              "author": "Mika Reed",
-              "text": "Is something big happening?",
-              "translation": "何か大きなことがあるの？"
-            },
-            {
-              "author": "Nova Orbit",
-              "text": "Should I prepare confetti?",
-              "translation": "紙吹雪を用意したほうがいい？"
+              "text": "Your excitement is contagious!",
+              "translation": "わくわくが伝わってくる！"
             }
           ]
         },
@@ -230,19 +225,14 @@
           "ja": "緊張してる。",
           "replies": [
             {
-              "author": "Clara Strings",
-              "text": "I get nervous before concerts too.",
-              "translation": "私もコンサート前は緊張するよ。"
-            },
-            {
-              "author": "Wise Owl",
-              "text": "You can take your time.",
-              "translation": "ゆっくりでいいんだよ。"
+              "author": "Tenor Turtle",
+              "text": "Take your time.",
+              "translation": "焦らずにね。"
             },
             {
               "author": "Mika Reed",
-              "text": "Want to practice together?",
-              "translation": "一緒に練習する？"
+              "text": "I get nervous before shows too.",
+              "translation": "私も本番前は緊張するよ。"
             }
           ]
         },
@@ -252,19 +242,356 @@
           "ja": "心配だ。",
           "replies": [
             {
+              "author": "Rosie Pan",
+              "text": "Do you want to talk?",
+              "translation": "話してみる？"
+            },
+            {
               "author": "Wise Owl",
-              "text": "What's the part you can control?",
-              "translation": "自分で変えられる部分はどこかな？"
+              "text": "One thing at a time.",
+              "translation": "一つずつ考えよう。"
+            }
+          ]
+        },
+        {
+          "id": "surprised",
+          "pickEmoji": "😮",
+          "en": "I'm surprised!",
+          "ja": "びっくり！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "What happened?",
+              "translation": "何があったの？"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "I want to hear this story!",
+              "translation": "その話、聞きたい！"
+            }
+          ]
+        },
+        {
+          "id": "relieved",
+          "pickEmoji": "😌",
+          "en": "What a relief!",
+          "ja": "ほっとした！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "I am so glad!",
+              "translation": "本当によかった！"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Now you can rest.",
+              "translation": "これでゆっくりできるね。"
+            }
+          ]
+        },
+        {
+          "id": "proud",
+          "pickEmoji": "🌟",
+          "en": "I did it!",
+          "ja": "やった！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "You did it! Nice work!",
+              "translation": "やったね！お疲れさま！"
+            },
+            {
+              "author": "Ollie",
+              "text": "What was the best part?",
+              "translation": "何が一番よかった？"
+            }
+          ]
+        },
+        {
+          "id": "oops",
+          "pickEmoji": "😅",
+          "en": "I made a mistake!",
+          "ja": "失敗しちゃった！",
+          "replies": [
+            {
+              "author": "Bookish Fox",
+              "text": "We all make mistakes.",
+              "translation": "誰でも失敗はあるよ。"
+            },
+            {
+              "author": "Ollie",
+              "text": "Can you fix it?",
+              "translation": "直せそう？"
+            }
+          ]
+        },
+        {
+          "id": "curious",
+          "pickEmoji": "🔎",
+          "en": "I'm curious!",
+          "ja": "気になる！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "I am curious too!",
+              "translation": "私も気になる！"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "We could look it up.",
+              "translation": "調べてみようか。"
+            }
+          ]
+        },
+        {
+          "id": "grateful",
+          "pickEmoji": "🙏",
+          "en": "I'm grateful.",
+          "ja": "感謝してる。",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "That is lovely to hear.",
+              "translation": "そう聞けてうれしいな。"
+            },
+            {
+              "author": "Ollie",
+              "text": "Who made your day?",
+              "translation": "誰のおかげでいい日になったの？"
+            }
+          ]
+        },
+        {
+          "id": "confused",
+          "pickEmoji": "🌀",
+          "en": "I'm confused!",
+          "ja": "混乱してる！",
+          "replies": [
+            {
+              "author": "Bookish Fox",
+              "text": "Which part is confusing?",
+              "translation": "どの部分がわからない？"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "No rush.",
+              "translation": "急がなくていいよ。"
+            }
+          ]
+        },
+        {
+          "id": "sleepy-more",
+          "pickEmoji": "🥱",
+          "en": "I'm getting sleepy.",
+          "ja": "眠くなってきた。",
+          "replies": [
+            {
+              "author": "Mellow Moon",
+              "text": "Maybe it is bedtime.",
+              "translation": "そろそろ寝る時間かもね。"
             },
             {
               "author": "Rosie Pan",
-              "text": "You don't need to handle it alone.",
-              "translation": "一人で抱えなくていいよ。"
+              "text": "Rest well!",
+              "translation": "ゆっくり休んでね！"
+            }
+          ]
+        },
+        {
+          "id": "hungry-more",
+          "pickEmoji": "🍙",
+          "en": "I'm hungry!",
+          "ja": "お腹すいた！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "What would you like to eat?",
+              "translation": "何を食べたい？"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Time for a snack?",
+              "translation": "おやつの時間？"
+            }
+          ]
+        },
+        {
+          "id": "thirsty",
+          "pickEmoji": "🥤",
+          "en": "I'm thirsty!",
+          "ja": "のどが渇いた！",
+          "replies": [
+            {
+              "author": "Tenor Turtle",
+              "text": "Have some water.",
+              "translation": "水を飲んでね。"
+            },
+            {
+              "author": "Sunny Bloom",
+              "text": "A cold drink sounds nice.",
+              "translation": "冷たい飲み物がよさそう。"
+            }
+          ]
+        },
+        {
+          "id": "happy-little",
+          "pickEmoji": "😊",
+          "en": "That made my day!",
+          "ja": "おかげでいい一日になった！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "What happened?",
+              "translation": "何があったの？"
             },
             {
               "author": "Mika Reed",
-              "text": "Do you want to talk it through?",
-              "translation": "一緒に話して整理する？"
+              "text": "Those are the best days.",
+              "translation": "そういう日が最高だね。"
+            }
+          ]
+        },
+        {
+          "id": "lonely",
+          "pickEmoji": "🌙",
+          "en": "I feel a little lonely.",
+          "ja": "ちょっと寂しい。",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "Want to chat for a bit?",
+              "translation": "少しおしゃべりする？"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "I am here.",
+              "translation": "ここにいるよ。"
+            }
+          ]
+        },
+        {
+          "id": "energetic",
+          "pickEmoji": "⚡",
+          "en": "I'm full of energy!",
+          "ja": "元気いっぱい！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "What is your plan?",
+              "translation": "何をする予定？"
+            },
+            {
+              "author": "Ollie",
+              "text": "I could use some of that energy!",
+              "translation": "その元気をちょっと分けてほしい！"
+            }
+          ]
+        },
+        {
+          "id": "embarrassed",
+          "pickEmoji": "🙈",
+          "en": "I'm embarrassed!",
+          "ja": "恥ずかしい！",
+          "replies": [
+            {
+              "author": "Jazz Cat",
+              "text": "I have been there!",
+              "translation": "私も経験あるよ！"
+            },
+            {
+              "author": "Ollie",
+              "text": "Will you tell us?",
+              "translation": "話してくれる？"
+            }
+          ]
+        },
+        {
+          "id": "impressed",
+          "pickEmoji": "👏",
+          "en": "That's amazing!",
+          "ja": "すごい！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "I want to see it too!",
+              "translation": "私も見てみたい！"
+            },
+            {
+              "author": "Clara Strings",
+              "text": "What impressed you most?",
+              "translation": "何が一番すごかった？"
+            }
+          ]
+        },
+        {
+          "id": "disappointed",
+          "pickEmoji": "🌧️",
+          "en": "That's disappointing.",
+          "ja": "がっかり。",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "I am sorry to hear that.",
+              "translation": "それは残念だったね。"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Tomorrow is another day.",
+              "translation": "また明日があるよ。"
+            }
+          ]
+        },
+        {
+          "id": "hopeful",
+          "pickEmoji": "🌱",
+          "en": "I hope it goes well!",
+          "ja": "うまくいくといいな！",
+          "replies": [
+            {
+              "author": "Sunny Bloom",
+              "text": "I hope so too!",
+              "translation": "私もそう願ってる！"
+            },
+            {
+              "author": "Ollie",
+              "text": "Let us know how it goes.",
+              "translation": "どうなったか教えてね。"
+            }
+          ]
+        },
+        {
+          "id": "unsure",
+          "pickEmoji": "🤔",
+          "en": "I'm not sure yet.",
+          "ja": "まだわからないな。",
+          "replies": [
+            {
+              "author": "Bookish Fox",
+              "text": "There is time to think.",
+              "translation": "考える時間はあるよ。"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "You do not have to decide now.",
+              "translation": "今決めなくてもいいよ。"
+            }
+          ]
+        },
+        {
+          "id": "motivated",
+          "pickEmoji": "💪",
+          "en": "I'm ready to try!",
+          "ja": "やってみる準備はできた！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "Go for it!",
+              "translation": "やってみよう！"
+            },
+            {
+              "author": "Ollie",
+              "text": "I am cheering for you!",
+              "translation": "応援してるよ！"
             }
           ]
         }
@@ -650,19 +977,14 @@
           "ja": "寒い！",
           "replies": [
             {
-              "author": "Rainy Rabbit",
-              "text": "The wind went through my scarf.",
-              "translation": "風がマフラーを通り抜けたよ。"
+              "author": "Sunny Bloom",
+              "text": "Find somewhere warm!",
+              "translation": "暖かい場所に行ってね！"
             },
             {
               "author": "Coffee Goblin",
-              "text": "Hot chocolate sounds right today.",
-              "translation": "今日はホットチョコレートだね。"
-            },
-            {
-              "author": "Bookish Fox",
-              "text": "I brought an extra sweater.",
-              "translation": "予備のセーターを持ってきたよ。"
+              "text": "Hot tea might help.",
+              "translation": "温かい紅茶がいいかも。"
             }
           ]
         },
@@ -673,18 +995,13 @@
           "replies": [
             {
               "author": "Rosie Pan",
-              "text": "Cold noodles sound good today.",
-              "translation": "今日は冷たい麺がよさそう。"
+              "text": "Stay cool and drink water.",
+              "translation": "涼しくして水分を取ってね。"
             },
             {
-              "author": "Garden Snail",
-              "text": "I'll stay in the shade.",
-              "translation": "私は日陰にいるね。"
-            },
-            {
-              "author": "Coffee Goblin",
-              "text": "Even my coffee wants ice.",
-              "translation": "私のコーヒーまで氷を欲しがってる。"
+              "author": "Sunny Bloom",
+              "text": "The shade helps a lot.",
+              "translation": "日陰にいるとずいぶん違うよ。"
             }
           ]
         },
@@ -773,6 +1090,437 @@
               "author": "Sleepy Cat",
               "text": "I vote for an excellent nap.",
               "translation": "私は最高の昼寝に一票。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "What are you doing?",
+      "items": [
+        {
+          "id": "activity-working",
+          "pickEmoji": "💻",
+          "en": "I'm working!",
+          "ja": "仕事中！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "What are you working on?",
+              "translation": "何の仕事をしてるの？",
+              "when": "any"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Have you eaten yet?",
+              "translation": "もうご飯は食べた？",
+              "when": "any"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Coffee break soon?",
+              "translation": "そろそろコーヒー休憩？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-studying",
+          "pickEmoji": "📚",
+          "en": "I'm studying!",
+          "ja": "勉強中！",
+          "replies": [
+            {
+              "author": "Bookish Fox",
+              "text": "What are you learning?",
+              "translation": "何を勉強しているの？",
+              "when": "any"
+            },
+            {
+              "author": "Wise Owl",
+              "text": "A little every day helps.",
+              "translation": "毎日少しずつが大事だね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-music-practice",
+          "pickEmoji": "🎷",
+          "en": "I'm practicing my instrument!",
+          "ja": "楽器の練習中！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "What are you practicing?",
+              "translation": "何を練習してるの？",
+              "when": "any"
+            },
+            {
+              "author": "Clara Strings",
+              "text": "Take the hard parts slowly.",
+              "translation": "難しいところはゆっくり練習してね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-exercise",
+          "pickEmoji": "🏃",
+          "en": "I'm exercising!",
+          "ja": "運動してるところ！",
+          "replies": [
+            {
+              "author": "Sunny Bloom",
+              "text": "Is it nice outside?",
+              "translation": "外は気持ちいい？",
+              "when": "any"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Remember to drink water.",
+              "translation": "水分補給も忘れずにね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-break",
+          "pickEmoji": "☕",
+          "en": "I'm taking a break!",
+          "ja": "休憩中！",
+          "replies": [
+            {
+              "author": "Coffee Goblin",
+              "text": "Perfect time for a drink.",
+              "translation": "飲み物にちょうどいい時間だね。",
+              "when": "any"
+            },
+            {
+              "author": "Ollie",
+              "text": "A break sounds nice!",
+              "translation": "休憩っていいね！",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-eating",
+          "pickEmoji": "🍚",
+          "en": "I'm eating!",
+          "ja": "ご飯食べてる！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "What are you having?",
+              "translation": "何を食べてるの？",
+              "when": "any"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Save me a bite!",
+              "translation": "一口残しておいて！",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-sleeping-earlier",
+          "pickEmoji": "😴",
+          "en": "I was sleeping!",
+          "ja": "寝てたよ！",
+          "replies": [
+            {
+              "author": "Mellow Moon",
+              "text": "Did you sleep well?",
+              "translation": "よく眠れた？",
+              "when": "any"
+            },
+            {
+              "author": "Ollie",
+              "text": "Welcome back!",
+              "translation": "おかえり！",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-out",
+          "pickEmoji": "🚶",
+          "en": "I'm out right now!",
+          "ja": "外に出かけてる！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "Have a good time!",
+              "translation": "楽しんできてね！",
+              "when": "any"
+            },
+            {
+              "author": "Sunny Bloom",
+              "text": "Is the weather nice?",
+              "translation": "お天気はいい？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-shopping",
+          "pickEmoji": "🛍️",
+          "en": "I'm shopping!",
+          "ja": "買い物してる！",
+          "replies": [
+            {
+              "author": "Chloe Spark",
+              "text": "Find anything good?",
+              "translation": "いいもの見つかった？",
+              "when": "any"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "I hope you find a bargain.",
+              "translation": "お買い得品が見つかるといいね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-friends",
+          "pickEmoji": "👫",
+          "en": "I'm hanging out with friends!",
+          "ja": "友達と遊んでる！",
+          "replies": [
+            {
+              "author": "Lily Pop",
+              "text": "Have fun together!",
+              "translation": "みんなで楽しんでね！",
+              "when": "any"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Sounds like a good day.",
+              "translation": "いい一日になりそうだね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-games",
+          "pickEmoji": "🎮",
+          "en": "I'm playing games!",
+          "ja": "ゲームしてる！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "What game are you playing?",
+              "translation": "何のゲームをしてるの？",
+              "when": "any"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "Are you winning?",
+              "translation": "勝ってる？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-drinks",
+          "pickEmoji": "🍹",
+          "en": "I'm out for drinks!",
+          "ja": "飲み会中！",
+          "replies": [
+            {
+              "author": "Jazz Cat",
+              "text": "Cheers!",
+              "translation": "乾杯！",
+              "when": "any"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Enjoy your evening!",
+              "translation": "夜を楽しんでね！",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-reading",
+          "pickEmoji": "📖",
+          "en": "I'm reading a book!",
+          "ja": "本を読んでる！",
+          "replies": [
+            {
+              "author": "Bookish Fox",
+              "text": "What is it about?",
+              "translation": "どんな内容の本？",
+              "when": "any"
+            },
+            {
+              "author": "Wise Owl",
+              "text": "A quiet moment is lovely.",
+              "translation": "静かな時間っていいね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-listening",
+          "pickEmoji": "🎧",
+          "en": "I'm listening to music!",
+          "ja": "音楽を聴いてる！",
+          "replies": [
+            {
+              "author": "Mika Reed",
+              "text": "What are you listening to?",
+              "translation": "何を聴いてるの？",
+              "when": "any"
+            },
+            {
+              "author": "Lily Pop",
+              "text": "Is it a new song?",
+              "translation": "新しい曲？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-movie",
+          "pickEmoji": "🎬",
+          "en": "I'm watching a movie!",
+          "ja": "映画を見てる！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "No spoilers, please!",
+              "translation": "ネタバレはしないでね！",
+              "when": "any"
+            },
+            {
+              "author": "Jazz Cat",
+              "text": "Is it good so far?",
+              "translation": "ここまでは面白い？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-drawing",
+          "pickEmoji": "🎨",
+          "en": "I'm drawing!",
+          "ja": "絵を描いてる！",
+          "replies": [
+            {
+              "author": "Sunny Bloom",
+              "text": "What are you drawing?",
+              "translation": "何を描いてるの？",
+              "when": "any"
+            },
+            {
+              "author": "Ollie",
+              "text": "Can I see it later?",
+              "translation": "あとで見せてくれる？",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-cooking",
+          "pickEmoji": "🍳",
+          "en": "I'm cooking!",
+          "ja": "料理中！",
+          "replies": [
+            {
+              "author": "Rosie Pan",
+              "text": "What is on the menu?",
+              "translation": "今日のメニューは何？",
+              "when": "any"
+            },
+            {
+              "author": "Coffee Goblin",
+              "text": "That sounds delicious already.",
+              "translation": "もうおいしそうだね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-cleaning",
+          "pickEmoji": "🧹",
+          "en": "I'm cleaning!",
+          "ja": "掃除中！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "Did you find anything interesting?",
+              "translation": "何か面白いもの見つかった？",
+              "when": "any"
+            },
+            {
+              "author": "Bookish Fox",
+              "text": "I should do that too.",
+              "translation": "私も掃除しなきゃ。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-walk",
+          "pickEmoji": "🌳",
+          "en": "I'm taking a walk!",
+          "ja": "散歩中！",
+          "replies": [
+            {
+              "author": "Sunny Bloom",
+              "text": "Any flowers out there?",
+              "translation": "花は咲いてる？",
+              "when": "any"
+            },
+            {
+              "author": "Tenor Turtle",
+              "text": "Enjoy the fresh air.",
+              "translation": "新鮮な空気を楽しんでね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-relax",
+          "pickEmoji": "🛋️",
+          "en": "I'm relaxing!",
+          "ja": "のんびりしてる！",
+          "replies": [
+            {
+              "author": "Mellow Moon",
+              "text": "That sounds perfect.",
+              "translation": "それ、最高だね。",
+              "when": "any"
+            },
+            {
+              "author": "Rosie Pan",
+              "text": "Enjoy your quiet time.",
+              "translation": "ゆっくり過ごしてね。",
+              "when": "any"
+            }
+          ]
+        },
+        {
+          "id": "activity-commuting",
+          "pickEmoji": "🚃",
+          "en": "I'm on my way!",
+          "ja": "移動中！",
+          "replies": [
+            {
+              "author": "Ollie",
+              "text": "Where are you headed?",
+              "translation": "どこに向かってるの？",
+              "when": "any"
+            },
+            {
+              "author": "Mika Reed",
+              "text": "Have a safe trip!",
+              "translation": "気をつけて行ってね！",
+              "when": "any"
             }
           ]
         }

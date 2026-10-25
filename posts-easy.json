@@ -1,5 +1,5 @@
 {
-  "version": "4.6.2",
+  "version": "4.7",
   "posts": [
     {
       "id": "e001",
@@ -3963,6 +3963,2896 @@
           "text": "What a sunset!",
           "translation": "なんて夕焼け！",
           "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "e47-000-0",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I burned my toast.",
+      "translation": "トーストを焦がしちゃった。",
+      "replies": [
+        {
+          "id": "e47-000-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-000-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "The shop had fresh cinnamon rolls today.",
+      "translation": "今日はお店に焼きたてのシナモンロールがあった。",
+      "replies": [
+        {
+          "id": "e47-000-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I would read a whole book about that.",
+          "translation": "それだけで本が一冊読めそう。"
+        }
+      ]
+    },
+    {
+      "id": "e47-001-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found a tiny bakery.",
+      "translation": "小さなパン屋を見つけた。",
+      "replies": [
+        {
+          "id": "e47-001-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-001-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I tried adding lemon to my tea.",
+      "translation": "紅茶にレモンを入れてみた。",
+      "replies": [
+        {
+          "id": "e47-001-1-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a good moment.",
+          "translation": "いい時間だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-002-0",
+      "category": "easy",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I made too much pasta.",
+      "translation": "パスタを作りすぎちゃった。",
+      "replies": [
+        {
+          "id": "e47-002-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e47-002-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "Someone brought homemade cookies to work.",
+      "translation": "職場の誰かが手作りクッキーを持ってきてくれた。",
+      "replies": [
+        {
+          "id": "e47-002-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-003-0",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I left my lunch at home.",
+      "translation": "お昼ご飯を家に置いてきた。",
+      "replies": [
+        {
+          "id": "e47-003-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "e47-003-1",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I made rice for dinner.",
+      "translation": "晩ご飯にご飯を炊いた。",
+      "replies": [
+        {
+          "id": "e47-003-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Was it easy to make?",
+          "translation": "作るのは簡単だった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-004-0",
+      "category": "easy",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I tried a new soup.",
+      "translation": "新しいスープを試した。",
+      "replies": [
+        {
+          "id": "e47-004-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-004-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My apple had a funny shape.",
+      "translation": "リンゴの形がちょっと変だった。",
+      "replies": [
+        {
+          "id": "e47-004-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-005-0",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I bought fresh strawberries.",
+      "translation": "新鮮なイチゴを買った。",
+      "replies": [
+        {
+          "id": "e47-005-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "e47-005-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I tried baking bread without a recipe.",
+      "translation": "レシピを見ずにパンを焼いてみた。",
+      "replies": [
+        {
+          "id": "e47-005-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-006-0",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I made a huge sandwich.",
+      "translation": "大きなサンドイッチを作った。",
+      "replies": [
+        {
+          "id": "e47-006-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-006-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "The café gave me a tiny spoon.",
+      "translation": "カフェで小さなスプーンをもらった。",
+      "replies": [
+        {
+          "id": "e47-006-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e47-007-0",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I dropped a cookie.",
+      "translation": "クッキーを落としちゃった。",
+      "replies": [
+        {
+          "id": "e47-007-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A little treat can brighten the day.",
+          "translation": "ちょっとしたごちそうで一日が明るくなるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-007-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I made scrambled eggs this morning.",
+      "translation": "今朝はスクランブルエッグを作った。",
+      "replies": [
+        {
+          "id": "e47-007-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "e47-008-0",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I found my favorite tea.",
+      "translation": "お気に入りのお茶を見つけた。",
+      "replies": [
+        {
+          "id": "e47-008-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I would read a whole book about that.",
+          "translation": "それだけで本が一冊読めそう。"
+        }
+      ]
+    },
+    {
+      "id": "e47-008-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I had soup on a rainy day.",
+      "translation": "雨の日にスープを飲んだ。",
+      "replies": [
+        {
+          "id": "e47-008-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-009-0",
+      "category": "easy",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I ate breakfast outside.",
+      "translation": "外で朝ご飯を食べた。",
+      "replies": [
+        {
+          "id": "e47-009-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-009-1",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "My noodles were much too hot.",
+      "translation": "麺が熱すぎた。",
+      "replies": [
+        {
+          "id": "e47-009-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "e47-010-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I tried making dumplings.",
+      "translation": "餃子を作ってみた。",
+      "replies": [
+        {
+          "id": "e47-010-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-010-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I found a peach at the market.",
+      "translation": "市場で桃を見つけた。",
+      "replies": [
+        {
+          "id": "e47-010-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-011-0",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I forgot to buy milk.",
+      "translation": "牛乳を買い忘れた。",
+      "replies": [
+        {
+          "id": "e47-011-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e47-011-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I saved the last piece of cake.",
+      "translation": "最後のケーキを一切れ残しておいた。",
+      "replies": [
+        {
+          "id": "e47-011-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-012-0",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I found a new café.",
+      "translation": "新しいカフェを見つけた。",
+      "replies": [
+        {
+          "id": "e47-012-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "e47-012-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I tried a new breakfast place.",
+      "translation": "初めての朝ご飯のお店に行ってみた。",
+      "replies": [
+        {
+          "id": "e47-012-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-013-0",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I ordered the wrong drink.",
+      "translation": "違う飲み物を注文しちゃった。",
+      "replies": [
+        {
+          "id": "e47-013-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-013-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The tomatoes looked lovely today.",
+      "translation": "今日はトマトがとてもきれいだった。",
+      "replies": [
+        {
+          "id": "e47-013-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-014-0",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I made popcorn tonight.",
+      "translation": "今夜はポップコーンを作った。",
+      "replies": [
+        {
+          "id": "e47-014-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "e47-014-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I packed a picnic lunch.",
+      "translation": "ピクニック用のお昼を詰めた。",
+      "replies": [
+        {
+          "id": "e47-014-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-015-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I bought a new notebook.",
+      "translation": "新しいノートを買った。",
+      "replies": [
+        {
+          "id": "e47-015-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-015-1",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I learned how to cut a mango.",
+      "translation": "マンゴーの切り方を覚えた。",
+      "replies": [
+        {
+          "id": "e47-015-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e47-016-0",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a striped shirt.",
+      "translation": "しま模様のシャツを見つけた。",
+      "replies": [
+        {
+          "id": "e47-016-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-016-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My coffee went cold.",
+      "translation": "コーヒーが冷めちゃった。",
+      "replies": [
+        {
+          "id": "e47-016-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "e47-017-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I went window shopping.",
+      "translation": "ウィンドウショッピングに行った。",
+      "replies": [
+        {
+          "id": "e47-017-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-017-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I bought some honey at a small shop.",
+      "translation": "小さなお店でハチミツを買った。",
+      "replies": [
+        {
+          "id": "e47-017-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-018-0",
+      "category": "easy",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I bought colorful socks.",
+      "translation": "カラフルな靴下を買った。",
+      "replies": [
+        {
+          "id": "e47-018-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-018-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I made a vegetable omelet.",
+      "translation": "野菜入りのオムレツを作った。",
+      "replies": [
+        {
+          "id": "e47-018-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "e47-019-0",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I lost my shopping list.",
+      "translation": "買い物リストをなくした。",
+      "replies": [
+        {
+          "id": "e47-019-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "e47-019-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "There was a long line for donuts.",
+      "translation": "ドーナツ屋に長い列ができていた。",
+      "replies": [
+        {
+          "id": "e47-019-1-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-020-0",
+      "category": "easy",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I found an old record.",
+      "translation": "古いレコードを見つけた。",
+      "replies": [
+        {
+          "id": "e47-020-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-020-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I forgot the sugar in my muffins.",
+      "translation": "マフィンに砂糖を入れ忘れた。",
+      "replies": [
+        {
+          "id": "e47-020-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-021-0",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I picked up a postcard.",
+      "translation": "絵はがきを買った。",
+      "replies": [
+        {
+          "id": "e47-021-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-021-1",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I cut my sandwich into triangles.",
+      "translation": "サンドイッチを三角に切った。",
+      "replies": [
+        {
+          "id": "e47-021-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Was it easy to make?",
+          "translation": "作るのは簡単だった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-022-0",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I visited a small bookstore.",
+      "translation": "小さな本屋に行った。",
+      "replies": [
+        {
+          "id": "e47-022-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-022-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I tried a very sour candy.",
+      "translation": "ものすごく酸っぱいお菓子を食べてみた。",
+      "replies": [
+        {
+          "id": "e47-022-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-023-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I bought a plant pot.",
+      "translation": "植木鉢を買った。",
+      "replies": [
+        {
+          "id": "e47-023-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "e47-023-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I cooked dinner for a friend.",
+      "translation": "友達に晩ご飯を作った。",
+      "replies": [
+        {
+          "id": "e47-023-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-024-0",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I saw a handmade mug.",
+      "translation": "手作りのマグカップを見かけた。",
+      "replies": [
+        {
+          "id": "e47-024-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-024-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I ordered dessert first.",
+      "translation": "先にデザートを注文した。",
+      "replies": [
+        {
+          "id": "e47-024-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "e47-025-0",
+      "category": "easy",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I fixed a loose button.",
+      "translation": "取れかけたボタンを直した。",
+      "replies": [
+        {
+          "id": "e47-025-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-025-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a café with outdoor seats.",
+      "translation": "外の席があるカフェを見つけた。",
+      "replies": [
+        {
+          "id": "e47-025-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "e47-026-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I cleaned my desk.",
+      "translation": "机を片付けた。",
+      "replies": [
+        {
+          "id": "e47-026-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-026-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I tried a bowl of spicy noodles.",
+      "translation": "辛い麺料理を食べてみた。",
+      "replies": [
+        {
+          "id": "e47-026-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-027-0",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I washed my favorite sweater.",
+      "translation": "お気に入りのセーターを洗った。",
+      "replies": [
+        {
+          "id": "e47-027-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-027-1",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I made an extra cup of tea.",
+      "translation": "紅茶を一杯多くいれた。",
+      "replies": [
+        {
+          "id": "e47-027-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "e47-028-0",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I changed my bedsheets.",
+      "translation": "シーツを替えた。",
+      "replies": [
+        {
+          "id": "e47-028-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "e47-028-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My bread came out a little crooked.",
+      "translation": "焼いたパンが少しいびつになった。",
+      "replies": [
+        {
+          "id": "e47-028-1-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-029-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I watered the flowers.",
+      "translation": "花に水をあげた。",
+      "replies": [
+        {
+          "id": "e47-029-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I hope tomorrow is a little easier.",
+          "translation": "明日は少し楽だといいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-029-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The fruit shop had a new sign.",
+      "translation": "果物屋に新しい看板ができていた。",
+      "replies": [
+        {
+          "id": "e47-029-1-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A little treat can brighten the day.",
+          "translation": "ちょっとしたごちそうで一日が明るくなるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-030-0",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I forgot my umbrella.",
+      "translation": "傘を忘れた。",
+      "replies": [
+        {
+          "id": "e47-030-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-030-1",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I picked a sunny table for lunch.",
+      "translation": "ランチは日当たりのいいテーブルにした。",
+      "replies": [
+        {
+          "id": "e47-030-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-031-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I opened all the windows.",
+      "translation": "窓を全部開けた。",
+      "replies": [
+        {
+          "id": "e47-031-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did it go as planned?",
+          "translation": "予定どおりに進んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-031-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I bought a small bag of nuts.",
+      "translation": "ナッツを小袋で買った。",
+      "replies": [
+        {
+          "id": "e47-031-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "e47-032-0",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a missing sock.",
+      "translation": "なくした靴下を見つけた。",
+      "replies": [
+        {
+          "id": "e47-032-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I hope you get a break soon.",
+          "translation": "早く休憩できるといいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-032-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The secondhand shop had an old lamp.",
+      "translation": "古道具屋に古いランプがあった。",
+      "replies": [
+        {
+          "id": "e47-032-1-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-033-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I made my bed early.",
+      "translation": "早いうちにベッドを整えた。",
+      "replies": [
+        {
+          "id": "e47-033-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "e47-033-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I went to buy a phone case.",
+      "translation": "スマホケースを買いに行った。",
+      "replies": [
+        {
+          "id": "e47-033-1-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-034-0",
+      "category": "easy",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I looked through old photos.",
+      "translation": "昔の写真を見返した。",
+      "replies": [
+        {
+          "id": "e47-034-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "e47-034-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "A tiny bookstore opened nearby.",
+      "translation": "近くに小さな本屋ができた。",
+      "replies": [
+        {
+          "id": "e47-034-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-035-0",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I took the long way home.",
+      "translation": "遠回りして帰った。",
+      "replies": [
+        {
+          "id": "e47-035-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-035-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I found a jacket with deep pockets.",
+      "translation": "ポケットの深いジャケットを見つけた。",
+      "replies": [
+        {
+          "id": "e47-035-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-036-0",
+      "category": "easy",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I missed my bus.",
+      "translation": "バスに乗り遅れた。",
+      "replies": [
+        {
+          "id": "e47-036-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-036-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "The market had handmade baskets.",
+      "translation": "市場に手編みのかごが並んでいた。",
+      "replies": [
+        {
+          "id": "e47-036-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "e47-037-0",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I found a new walking path.",
+      "translation": "新しい散歩道を見つけた。",
+      "replies": [
+        {
+          "id": "e47-037-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-037-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I bought a little desk calendar.",
+      "translation": "小さな卓上カレンダーを買った。",
+      "replies": [
+        {
+          "id": "e47-037-1-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-038-0",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I sat by the harbor.",
+      "translation": "港のそばに座った。",
+      "replies": [
+        {
+          "id": "e47-038-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-038-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I found some old postcards at a shop.",
+      "translation": "お店で古い絵はがきを見つけた。",
+      "replies": [
+        {
+          "id": "e47-038-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-039-0",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I saw a rainbow today.",
+      "translation": "今日は虹を見た。",
+      "replies": [
+        {
+          "id": "e47-039-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-039-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "My new shoes squeak on the floor.",
+      "translation": "新しい靴が床できゅっきゅっと鳴る。",
+      "replies": [
+        {
+          "id": "e47-039-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-040-0",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I took a wrong turn.",
+      "translation": "道を一本間違えた。",
+      "replies": [
+        {
+          "id": "e47-040-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "e47-040-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I visited a shop full of buttons.",
+      "translation": "ボタンがいっぱいのお店に行った。",
+      "replies": [
+        {
+          "id": "e47-040-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Small finds make good memories.",
+          "translation": "小さな発見が思い出になるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-041-0",
+      "category": "easy",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I went to the library.",
+      "translation": "図書館に行った。",
+      "replies": [
+        {
+          "id": "e47-041-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-041-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I bought a reusable bottle.",
+      "translation": "繰り返し使えるボトルを買った。",
+      "replies": [
+        {
+          "id": "e47-041-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "e47-042-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I met a friendly dog.",
+      "translation": "人懐っこい犬に会った。",
+      "replies": [
+        {
+          "id": "e47-042-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-042-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The thrift store had a bright orange hat.",
+      "translation": "古着屋に鮮やかなオレンジ色の帽子があった。",
+      "replies": [
+        {
+          "id": "e47-042-1-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-043-0",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I spotted a tiny bird.",
+      "translation": "小さな鳥を見つけた。",
+      "replies": [
+        {
+          "id": "e47-043-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-043-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I went to the art supply store.",
+      "translation": "画材店へ行った。",
+      "replies": [
+        {
+          "id": "e47-043-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-044-0",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I walked up a steep hill.",
+      "translation": "急な坂を登った。",
+      "replies": [
+        {
+          "id": "e47-044-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-044-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I picked up a small travel map.",
+      "translation": "小さな旅行用の地図を買った。",
+      "replies": [
+        {
+          "id": "e47-044-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-045-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I practiced a new rhythm.",
+      "translation": "新しいリズムを練習した。",
+      "replies": [
+        {
+          "id": "e47-045-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-045-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "There was a sale on notebooks.",
+      "translation": "ノートのセールをしていた。",
+      "replies": [
+        {
+          "id": "e47-045-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "e47-046-0",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I heard a lovely melody.",
+      "translation": "素敵なメロディーを聴いた。",
+      "replies": [
+        {
+          "id": "e47-046-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-046-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a ceramic bowl with blue dots.",
+      "translation": "青い水玉の陶器のボウルを見つけた。",
+      "replies": [
+        {
+          "id": "e47-046-1-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-047-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I changed my guitar strings.",
+      "translation": "ギターの弦を替えた。",
+      "replies": [
+        {
+          "id": "e47-047-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love hearing about practice.",
+          "translation": "練習の話を聞くのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-047-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I went shopping for a gift.",
+      "translation": "プレゼントを探しに買い物へ行った。",
+      "replies": [
+        {
+          "id": "e47-047-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-048-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I played a slow song.",
+      "translation": "ゆっくりした曲を演奏した。",
+      "replies": [
+        {
+          "id": "e47-048-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love hearing about practice.",
+          "translation": "練習の話を聞くのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-048-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "The station shop sells cute umbrellas.",
+      "translation": "駅のお店にはかわいい傘がある。",
+      "replies": [
+        {
+          "id": "e47-048-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-049-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found an old songbook.",
+      "translation": "古い楽譜集を見つけた。",
+      "replies": [
+        {
+          "id": "e47-049-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Sometimes you just have to try again.",
+          "translation": "もう一度やってみるしかないときもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-049-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I bought a new pair of headphones.",
+      "translation": "新しいヘッドホンを買った。",
+      "replies": [
+        {
+          "id": "e47-049-1-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-050-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I listened to a live band.",
+      "translation": "生演奏のバンドを聴いた。",
+      "replies": [
+        {
+          "id": "e47-050-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-050-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "The flower stall had purple tulips.",
+      "translation": "花屋の屋台に紫のチューリップがあった。",
+      "replies": [
+        {
+          "id": "e47-050-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "e47-051-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I tried a different tempo.",
+      "translation": "違うテンポで試してみた。",
+      "replies": [
+        {
+          "id": "e47-051-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-051-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a funny fridge magnet.",
+      "translation": "変わった冷蔵庫用のマグネットを見つけた。",
+      "replies": [
+        {
+          "id": "e47-051-1-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-052-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I recorded a short tune.",
+      "translation": "短い曲を録音した。",
+      "replies": [
+        {
+          "id": "e47-052-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "e47-052-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The music store had a used keyboard.",
+      "translation": "楽器店に中古のキーボードがあった。",
+      "replies": [
+        {
+          "id": "e47-052-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-053-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I visited a music shop.",
+      "translation": "楽器店に行った。",
+      "replies": [
+        {
+          "id": "e47-053-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-053-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I tried on a pair of boots.",
+      "translation": "ブーツを試着した。",
+      "replies": [
+        {
+          "id": "e47-053-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-054-0",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I listened to music on the train.",
+      "translation": "電車で音楽を聴いた。",
+      "replies": [
+        {
+          "id": "e47-054-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "e47-054-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I picked out a new pencil case.",
+      "translation": "新しいペンケースを選んだ。",
+      "replies": [
+        {
+          "id": "e47-054-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "e47-055-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I lost my place in the score.",
+      "translation": "楽譜のどこを弾いているかわからなくなった。",
+      "replies": [
+        {
+          "id": "e47-055-0-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "That is part of learning music.",
+          "translation": "そういうのも音楽を学ぶ過程だね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-055-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I found a pocket-sized dictionary.",
+      "translation": "ポケットサイズの辞書を見つけた。",
+      "replies": [
+        {
+          "id": "e47-055-1-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-056-0",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I started a new book.",
+      "translation": "新しい本を読み始めた。",
+      "replies": [
+        {
+          "id": "e47-056-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-056-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I bought a candle that smells like pine.",
+      "translation": "松の香りのキャンドルを買った。",
+      "replies": [
+        {
+          "id": "e47-056-1-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-057-0",
+      "category": "easy",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I finished a puzzle.",
+      "translation": "パズルを完成させた。",
+      "replies": [
+        {
+          "id": "e47-057-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-057-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The bookshop displayed local comics.",
+      "translation": "本屋に地元の漫画が並んでいた。",
+      "replies": [
+        {
+          "id": "e47-057-1-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-058-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I watched an old movie.",
+      "translation": "古い映画を見た。",
+      "replies": [
+        {
+          "id": "e47-058-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-058-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I bought a new sketchbook.",
+      "translation": "新しいスケッチブックを買った。",
+      "replies": [
+        {
+          "id": "e47-058-1-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-059-0",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I tried a new game.",
+      "translation": "新しいゲームを試した。",
+      "replies": [
+        {
+          "id": "e47-059-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-059-1",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I found a secondhand camera.",
+      "translation": "中古のカメラを見つけた。",
+      "replies": [
+        {
+          "id": "e47-059-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "e47-060-0",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I drew a little cat.",
+      "translation": "小さな猫の絵を描いた。",
+      "replies": [
+        {
+          "id": "e47-060-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "e47-060-1",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I bought an extra set of strings.",
+      "translation": "予備の弦を買った。",
+      "replies": [
+        {
+          "id": "e47-060-1-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-061-0",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I made a paper airplane.",
+      "translation": "紙飛行機を折った。",
+      "replies": [
+        {
+          "id": "e47-061-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "e47-061-1",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My shopping bag tore on the way home.",
+      "translation": "帰り道で買い物袋が破れた。",
+      "replies": [
+        {
+          "id": "e47-061-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-062-0",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I started knitting a scarf.",
+      "translation": "マフラーを編み始めた。",
+      "replies": [
+        {
+          "id": "e47-062-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-062-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A busker was playing by the bridge.",
+      "translation": "橋のそばで路上演奏をしている人がいた。",
+      "replies": [
+        {
+          "id": "e47-062-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "e47-063-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I bought some colored pencils.",
+      "translation": "色鉛筆を買った。",
+      "replies": [
+        {
+          "id": "e47-063-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-063-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The wind blew my hat into a bush.",
+      "translation": "風で帽子が茂みに飛ばされた。",
+      "replies": [
+        {
+          "id": "e47-063-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-064-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I found a strange-looking stone.",
+      "translation": "変わった形の石を見つけた。",
+      "replies": [
+        {
+          "id": "e47-064-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "e47-064-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I took a walk before sunset.",
+      "translation": "日が沈む前に散歩した。",
+      "replies": [
+        {
+          "id": "e47-064-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-065-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I rearranged my bookshelf.",
+      "translation": "本棚の並びを変えた。",
+      "replies": [
+        {
+          "id": "e47-065-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-065-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I watched a ferry leave the harbor.",
+      "translation": "フェリーが港を出るのを見送った。",
+      "replies": [
+        {
+          "id": "e47-065-1-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-066-0",
+      "category": "easy",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I tripped on a step.",
+      "translation": "段差につまずいた。",
+      "replies": [
+        {
+          "id": "e47-066-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-066-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I found a quiet lane behind the station.",
+      "translation": "駅の裏に静かな小道を見つけた。",
+      "replies": [
+        {
+          "id": "e47-066-1-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-067-0",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I spilled water on my notes.",
+      "translation": "メモに水をこぼしちゃった。",
+      "replies": [
+        {
+          "id": "e47-067-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-067-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The park was full of fallen leaves.",
+      "translation": "公園は落ち葉でいっぱいだった。",
+      "replies": [
+        {
+          "id": "e47-067-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-068-0",
+      "category": "easy",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I left my gloves at home.",
+      "translation": "手袋を家に置いてきた。",
+      "replies": [
+        {
+          "id": "e47-068-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-068-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I walked past the old clock tower.",
+      "translation": "古い時計塔の前を歩いた。",
+      "replies": [
+        {
+          "id": "e47-068-1-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-069-0",
+      "category": "easy",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I forgot what I came for.",
+      "translation": "何を取りに来たか忘れた。",
+      "replies": [
+        {
+          "id": "e47-069-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-069-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "A little dog followed me for a block.",
+      "translation": "小さな犬が一区画だけついてきた。",
+      "replies": [
+        {
+          "id": "e47-069-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-070-0",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I dropped my keys again.",
+      "translation": "また鍵を落とした。",
+      "replies": [
+        {
+          "id": "e47-070-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "e47-070-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I saw a boat painted bright red.",
+      "translation": "真っ赤に塗られた船を見た。",
+      "replies": [
+        {
+          "id": "e47-070-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "e47-071-0",
+      "category": "easy",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I took a quick nap.",
+      "translation": "ちょっと昼寝した。",
+      "replies": [
+        {
+          "id": "e47-071-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-071-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The library garden is blooming.",
+      "translation": "図書館の庭で花が咲いている。",
+      "replies": [
+        {
+          "id": "e47-071-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-072-0",
+      "category": "easy",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I had a busy morning.",
+      "translation": "忙しい午前中だった。",
+      "replies": [
+        {
+          "id": "e47-072-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-072-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found an empty seat on the train.",
+      "translation": "電車で空席を見つけた。",
+      "replies": [
+        {
+          "id": "e47-072-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-073-0",
+      "category": "easy",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I cleaned my glasses.",
+      "translation": "眼鏡を拭いた。",
+      "replies": [
+        {
+          "id": "e47-073-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "e47-073-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The seaside path was windy.",
+      "translation": "海沿いの道は風が強かった。",
+      "replies": [
+        {
+          "id": "e47-073-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-074-0",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I took a break outside.",
+      "translation": "外で休憩した。",
+      "replies": [
+        {
+          "id": "e47-074-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I hope tomorrow is a little easier.",
+          "translation": "明日は少し楽だといいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-074-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I took a different train today.",
+      "translation": "今日はいつもと違う電車に乗った。",
+      "replies": [
+        {
+          "id": "e47-074-1-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-075-0",
+      "category": "easy",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I tried stretching today.",
+      "translation": "今日はストレッチをしてみた。",
+      "replies": [
+        {
+          "id": "e47-075-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-075-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "The sky turned pink over the rooftops.",
+      "translation": "屋根の向こうの空がピンクに染まった。",
+      "replies": [
+        {
+          "id": "e47-075-1-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-076-0",
+      "category": "easy",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I made a small mistake at work.",
+      "translation": "仕事で小さなミスをした。",
+      "replies": [
+        {
+          "id": "e47-076-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "e47-076-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I found a bench under a tall tree.",
+      "translation": "大きな木の下にベンチを見つけた。",
+      "replies": [
+        {
+          "id": "e47-076-1-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-077-0",
+      "category": "easy",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I found a coin in my coat.",
+      "translation": "コートの中で硬貨を見つけた。",
+      "replies": [
+        {
+          "id": "e47-077-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "e47-077-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A cyclist rang a bell behind me.",
+      "translation": "後ろで自転車のベルが鳴った。",
+      "replies": [
+        {
+          "id": "e47-077-1-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-078-0",
+      "category": "easy",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I bought the wrong batteries.",
+      "translation": "電池の種類を間違えて買った。",
+      "replies": [
+        {
+          "id": "e47-078-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-078-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I visited the neighborhood square.",
+      "translation": "近所の広場に行った。",
+      "replies": [
+        {
+          "id": "e47-078-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "e47-079-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I waited in a long line.",
+      "translation": "長い列に並んだ。",
+      "replies": [
+        {
+          "id": "e47-079-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-079-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I saw a kite over the beach.",
+      "translation": "浜辺の上に凧が上がっていた。",
+      "replies": [
+        {
+          "id": "e47-079-1-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "e47-080-0",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I saw a funny sign.",
+      "translation": "おかしな看板を見つけた。",
+      "replies": [
+        {
+          "id": "e47-080-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-080-1",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "The bookstore window had a new display.",
+      "translation": "本屋の窓の展示が新しくなっていた。",
+      "replies": [
+        {
+          "id": "e47-080-1-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "e47-081-0",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found a quiet bench.",
+      "translation": "静かなベンチを見つけた。",
+      "replies": [
+        {
+          "id": "e47-081-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-081-1",
+      "category": "easy",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I passed a tiny flower cart.",
+      "translation": "小さな花売りの屋台のそばを通った。",
+      "replies": [
+        {
+          "id": "e47-081-1-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "e47-082-0",
+      "category": "easy",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I heard bells near the harbor.",
+      "translation": "港のそばで鐘の音を聞いた。",
+      "replies": [
+        {
+          "id": "e47-082-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "e47-082-1",
+      "category": "easy",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The mountains looked close after the rain.",
+      "translation": "雨のあと、山が近くに見えた。",
+      "replies": [
+        {
+          "id": "e47-082-1-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "e47-083-0",
+      "category": "easy",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I tried a new fruit.",
+      "translation": "初めての果物を食べてみた。",
+      "replies": [
+        {
+          "id": "e47-083-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That must have caught your eye!",
+          "translation": "目を引かれたんだろうね！"
+        }
+      ]
+    },
+    {
+      "id": "e47-083-1",
+      "category": "easy",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I walked beside a canal.",
+      "translation": "運河沿いを歩いた。",
+      "replies": [
+        {
+          "id": "e47-083-1-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "e47-084-0",
+      "category": "easy",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I found a little flower shop.",
+      "translation": "小さな花屋を見つけた。",
+      "replies": [
+        {
+          "id": "e47-084-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Thanks for sharing that moment.",
+          "translation": "その時間を共有してくれてありがとう。"
+        }
+      ]
+    },
+    {
+      "id": "e47-084-1",
+      "category": "easy",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "A cloud covered the sun for a moment.",
+      "translation": "一瞬、雲が太陽を隠した。",
+      "replies": [
+        {
+          "id": "e47-084-1-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
         }
       ]
     }

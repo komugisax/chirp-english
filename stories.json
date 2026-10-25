@@ -1,5 +1,5 @@
 {
-  "version": "4.6.2",
+  "version": "4.7",
   "arcs": [
     {
       "id": "rosie",
@@ -1120,6 +1120,14 @@
               "translation": "なら行列が長くなる前に来てね！",
               "easyText": "Come early!",
               "delay": 270000
+            },
+            {
+              "id": "s47-festival-link-1",
+              "author": "Jazz Cat",
+              "text": "The blue decorations are nearly ready.",
+              "translation": "青い飾りはもうすぐ準備できるよ。",
+              "easyText": "The blue decorations are nearly ready.",
+              "delay": 45000
             }
           ]
         },
@@ -1153,6 +1161,14 @@
               "translation": "光るコーヒーカップみたいだよ。",
               "easyText": "Like glowing coffee!",
               "delay": 90000
+            },
+            {
+              "id": "s47-festival-link-2",
+              "author": "Ollie",
+              "text": "These blue ribbons look familiar.",
+              "translation": "この青いリボン、見覚えがあるな。",
+              "easyText": "These blue ribbons look familiar.",
+              "delay": 45000
             }
           ]
         },
@@ -1194,6 +1210,14 @@
               "translation": "譜面台を押さえてあげるよ！",
               "easyText": "I can help!",
               "delay": 270000
+            },
+            {
+              "id": "s47-festival-link-3",
+              "author": "Rosie Pan",
+              "text": "I hope everyone can relax soon.",
+              "translation": "みんなが早く安心できるといいな。",
+              "easyText": "I hope everyone can relax soon.",
+              "delay": 45000
             }
           ]
         },
@@ -1235,6 +1259,14 @@
               "translation": "最後の歌ではみんな手拍子していたよ！",
               "easyText": "Everyone clapped!",
               "delay": 270000
+            },
+            {
+              "id": "s47-festival-link-4",
+              "author": "Tenor Turtle",
+              "text": "I heard some good news from the workshop.",
+              "translation": "工房からいい知らせが届いたよ。",
+              "easyText": "I heard some good news from the workshop.",
+              "delay": 45000
             }
           ]
         },
@@ -1276,6 +1308,352 @@
               "translation": "あなたのサンドイッチのおかげで演奏者は元気だったよ。",
               "easyText": "Your food helped us!",
               "delay": 270000
+            },
+            {
+              "id": "s47-festival-link-5",
+              "author": "Ollie",
+              "text": "The park bell looks brighter than ever!",
+              "translation": "公園の鐘が今までで一番輝いて見える！",
+              "easyText": "The park bell looks brighter than ever!",
+              "delay": 45000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "missing-bell",
+      "name": "The Missing Bell 🔔",
+      "intro": "A little bronze bell disappears before the Harbor Festival. Ollie follows clues left in everyday posts.",
+      "startDay": 19,
+      "everyDays": 1,
+      "episodes": [
+        {
+          "id": "s47-bell-01",
+          "author": "Jazz Cat",
+          "text": "Tenor Turtle, can you bring a tape measure and scissors tomorrow?",
+          "translation": "テナータートル、明日メジャーとハサミを持ってきてくれる？",
+          "easyText": "Tenor Turtle, can you bring a tape measure and scissors tomorrow?",
+          "replies": [
+            {
+              "id": "s47-bell-01-r1",
+              "author": "Tenor Turtle",
+              "text": "Sure. What time?",
+              "translation": "いいよ。何時に？",
+              "easyText": "Sure. What time?",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-01-r2",
+              "author": "Jazz Cat",
+              "text": "Around six. Keep it quiet, okay?",
+              "translation": "6時くらい。内緒にしておいてね？",
+              "easyText": "Around six. Keep it quiet, okay?",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-02",
+          "author": "Tenor Turtle",
+          "text": "I measured something twice today. Better safe than sorry.",
+          "translation": "今日はあるものを二回測った。念には念を入れないとね。",
+          "easyText": "I measured something twice today.",
+          "replies": [
+            {
+              "id": "s47-bell-02-r1",
+              "author": "Jazz Cat",
+              "text": "And the blue ribbon is ready!",
+              "translation": "青いリボンも準備できたよ！",
+              "easyText": "And the blue ribbon is ready!",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-02-r2",
+              "author": "Tenor Turtle",
+              "text": "Not so loud!",
+              "translation": "そんな大声で言わないで！",
+              "easyText": "Not so loud!",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-03",
+          "author": "Rosie Pan",
+          "text": "The little bronze bell in Harbor Park is gone! Does anyone know what happened?",
+          "translation": "港公園の小さな青銅の鐘がなくなっちゃった！何があったか知ってる？",
+          "easyText": "The little bronze bell in Harbor Park is gone! Does anyone know what happened?",
+          "replies": [
+            {
+              "id": "s47-bell-03-r1",
+              "author": "Mika Reed",
+              "text": "Wait, it was there yesterday!",
+              "translation": "えっ、昨日はあったよね！",
+              "easyText": "Wait, it was there yesterday!",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-03-r2",
+              "author": "Ollie",
+              "text": "I will take a look.",
+              "translation": "ちょっと見てくるよ。",
+              "easyText": "I will take a look.",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-04",
+          "author": "Ollie",
+          "text": "I found a piece of blue ribbon near the empty stand. Why was it there?",
+          "translation": "空っぽの台座の近くで青いリボンの切れ端を見つけた。どうしてここに？",
+          "easyText": "I found a piece of blue ribbon near the empty stand.",
+          "replies": [
+            {
+              "id": "s47-bell-04-r1",
+              "author": "Bookish Fox",
+              "text": "Could it be from the festival decorations?",
+              "translation": "お祭りの飾りのものかも？",
+              "easyText": "Could it be from the festival decorations?",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-04-r2",
+              "author": "Jazz Cat",
+              "text": "A blue ribbon? Oh.",
+              "translation": "青いリボン？あっ。",
+              "easyText": "A blue ribbon? Oh.",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-05",
+          "author": "Jazz Cat",
+          "text": "Everyone is talking about the missing bell. This is getting out of hand.",
+          "translation": "みんな消えた鐘の話をしてる。大ごとになってきたな。",
+          "easyText": "Everyone is talking about the missing bell.",
+          "replies": [
+            {
+              "id": "s47-bell-05-r1",
+              "author": "Tenor Turtle",
+              "text": "We should say something.",
+              "translation": "そろそろ話したほうがいいよ。",
+              "easyText": "We should say something.",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-05-r2",
+              "author": "Jazz Cat",
+              "text": "I know. I just need a moment.",
+              "translation": "わかってる。ちょっと心の準備をさせて。",
+              "easyText": "I know. I just need a moment.",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-06",
+          "author": "Ollie",
+          "text": "The festival ribbons are blue. And I remember a post about scissors. Hmm...",
+          "translation": "お祭りのリボンは青。そしてハサミの投稿を覚えてる。ふむ……。",
+          "easyText": "The festival ribbons are blue.",
+          "replies": [
+            {
+              "id": "s47-bell-06-r1",
+              "author": "Mika Reed",
+              "text": "Do you have an idea?",
+              "translation": "何かわかったの？",
+              "easyText": "Do you have an idea?",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-06-r2",
+              "author": "Ollie",
+              "text": "Maybe the bell was never stolen.",
+              "translation": "もしかしたら鐘は盗まれていないのかも。",
+              "easyText": "Maybe the bell was never stolen.",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-07",
+          "author": "Tenor Turtle",
+          "text": "We have something to tell everyone. The bell is safe at a workshop.",
+          "translation": "みんなに話があるんだ。鐘は工房で無事に保管されているよ。",
+          "easyText": "We have something to tell everyone.",
+          "replies": [
+            {
+              "id": "s47-bell-07-r1",
+              "author": "Jazz Cat",
+              "text": "We wanted to polish it for the festival. It was my idea. Sorry!",
+              "translation": "お祭りのために磨いてもらいたかったんだ。僕の思いつきだった。ごめん！",
+              "easyText": "We wanted to polish it for the festival. It was my idea. Sorry!",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-07-r2",
+              "author": "Rosie Pan",
+              "text": "You really scared us!",
+              "translation": "本当に心配したじゃない！",
+              "easyText": "You really scared us!",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-08",
+          "author": "Ollie",
+          "text": "The ribbon was cut while they were testing the decoration. Mystery solved!",
+          "translation": "飾り付けを試しているときにリボンが切れたんだ。謎が解けた！",
+          "easyText": "The ribbon was cut while they were testing the decoration.",
+          "replies": [
+            {
+              "id": "s47-bell-08-r1",
+              "author": "Tenor Turtle",
+              "text": "We had permission to move the bell. We should have told everyone.",
+              "translation": "鐘を移動する許可は取っていたけど、みんなに知らせるべきだったね。",
+              "easyText": "We had permission to move the bell. We should have told everyone.",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-08-r2",
+              "author": "Jazz Cat",
+              "text": "Next time, no secret bell projects.",
+              "translation": "次から鐘の秘密計画はなしだね。",
+              "easyText": "Next time, no secret bell projects.",
+              "delay": 24000
+            }
+          ]
+        },
+        {
+          "id": "s47-bell-09",
+          "author": "Rosie Pan",
+          "text": "The bronze bell is back, shining in the park. Just in time for the final day of the festival!",
+          "translation": "青銅の鐘が公園に戻ってきたよ。ぴかぴかになって、お祭りの最終日に間に合った！",
+          "easyText": "The bronze bell is back, shining in the park.",
+          "replies": [
+            {
+              "id": "s47-bell-09-r1",
+              "author": "Mika Reed",
+              "text": "It looks wonderful!",
+              "translation": "すごくきれい！",
+              "easyText": "It looks wonderful!",
+              "delay": 12000
+            },
+            {
+              "id": "s47-bell-09-r2",
+              "author": "Ollie",
+              "text": "Next time, tell your detective first.",
+              "translation": "次は探偵に先に教えてよね。",
+              "easyText": "Next time, tell your detective first.",
+              "delay": 24000
+            },
+            {
+              "id": "s47-bell-09-r3",
+              "author": "Jazz Cat",
+              "text": "Then it would not be a surprise!",
+              "translation": "それじゃサプライズにならないよ！",
+              "easyText": "Then it would not be a surprise!",
+              "delay": 36000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gemma-stones",
+      "name": "Gemma’s Little Discoveries 💎",
+      "intro": "From collecting specimens to discovering the outdoors, one small step at a time.",
+      "startDay": 7,
+      "everyDays": 3,
+      "episodes": [
+        {
+          "id": "s47-gemma-01",
+          "author": "Gemma Stone",
+          "text": "I bought a little piece of fluorite today. Look at that color!",
+          "translation": "今日は小さな蛍石の標本を買ったよ。この色を見て！",
+          "easyText": "I bought a little piece of fluorite today.",
+          "replies": [
+            {
+              "id": "s47-gemma-01-r1",
+              "author": "Bookish Fox",
+              "text": "I need another shelf for my books, too.",
+              "translation": "私も本棚をもう一つ増やさなきゃ。",
+              "delay": 8000
+            }
+          ]
+        },
+        {
+          "id": "s47-gemma-02",
+          "author": "Gemma Stone",
+          "text": "My mineral shelf is full. I wonder what finding my own stones feels like.",
+          "translation": "鉱物の棚がいっぱい。自分で石を見つけるって、どんな感じなんだろう。",
+          "easyText": "My mineral shelf is full.",
+          "replies": [
+            {
+              "id": "s47-gemma-02-r1",
+              "author": "Ollie",
+              "text": "Maybe you could join a local field trip.",
+              "translation": "地元の採集会に参加してみたら？",
+              "delay": 8000
+            }
+          ]
+        },
+        {
+          "id": "s47-gemma-03",
+          "author": "Gemma Stone",
+          "text": "I found a river where people look for jade. I checked the local rules, and I want to go!",
+          "translation": "ヒスイを探す人がいる川を見つけた。現地のルールも確認したし、行ってみたい！",
+          "easyText": "I found a river where people look for jade.",
+          "replies": [
+            {
+              "id": "s47-gemma-03-r1",
+              "author": "Wise Owl",
+              "text": "Stay safe near the water.",
+              "translation": "川辺では安全に気をつけてね。",
+              "delay": 8000
+            }
+          ]
+        },
+        {
+          "id": "s47-gemma-04",
+          "author": "Gemma Stone",
+          "text": "I'm going to look for jade by the river today!",
+          "translation": "今日は川辺にヒスイを探しに行ってくるよ！",
+          "easyText": "I'm going to look for jade by the river today!",
+          "replies": [
+            {
+              "id": "s47-gemma-04-r1",
+              "author": "Sunny Bloom",
+              "text": "Have a wonderful trip!",
+              "translation": "いい旅を！",
+              "delay": 8000
+            }
+          ]
+        },
+        {
+          "id": "s47-gemma-05",
+          "author": "Gemma Stone",
+          "text": "I'm back! I found a few beautiful stones. An expert helped me check which ones were jade.",
+          "translation": "ただいま！きれいな石を少し拾えたよ。どれがヒスイか、詳しい人に確認してもらったんだ。",
+          "easyText": "I'm back! I found a few beautiful stones.",
+          "replies": [
+            {
+              "id": "s47-gemma-05-r1",
+              "author": "Ollie",
+              "text": "Can we see a picture?",
+              "translation": "写真を見せてくれる？",
+              "delay": 8000
+            },
+            {
+              "id": "s47-gemma-05-r2",
+              "author": "Gemma Stone",
+              "text": "Of course!",
+              "translation": "もちろん！",
+              "delay": 16000
             }
           ]
         }

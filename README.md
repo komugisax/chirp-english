@@ -31,7 +31,7 @@ Read short English posts, follow fictional characters' everyday lives, and enjoy
 
 ## Version History
 
-### Ver.4.6.4 — Usability and documentation (2026-10-25)
+### Ver.4.7 — Usability and documentation (2026-10-25)
 - A one-time, optional Japanese guide prompt appears at the center of the screen for first-time visitors, without interrupting existing saved users. The guide remains available from Settings.
 - Adjusted the iPhone guide page's top/back-link spacing and scroll restoration; revised Japanese guidance and removed redundant lines.
 - Post and reply translations remain 13px, scale together with the font setting, and use a slightly darker secondary color.
@@ -266,3 +266,16 @@ This project is independent and is not affiliated with, endorsed by, or an offic
 Chirp English is a free-to-use fictional social-feed-style web app for English learners. Personal learning and sharing the URL are welcome. No open-source license is granted. Unauthorized republication, redistribution of source code or authored content, and publication of modified copies are not permitted, except for uses allowed by applicable law and GitHub's terms. Third-party rights remain with their respective owners. This notice does not imply exclusive copyright in all AI-generated elements.
 
 All places, people, organizations, posts, and stories are fictional. Similarity to real-world names does not imply affiliation. This is not an official service of OpenAI or any social network.
+
+
+## Ver.4.7 — Living World Update
+
+- Normal 600 / Easy 400 authored posts, with more everyday conversations and follow-up replies.
+- New neighbors: Gemma Stone (Frosthill) and Sunny Bloom (Sunvale).
+- The Missing Bell mystery and Gemma’s small collecting story, using the existing story-day progression.
+- What are you doing? preset posts, expanded feelings, and more avatar icons.
+- Separate **Little English Lab** dictionary: [Open the lab](./lab.html) (requires `lab.html` and `lab.json`).
+- Local-life post repeat prevention and fictional city time-zone metadata. Bellwindport uses Japan time.
+
+**Compatibility:** Existing reading history, post IDs, bookmarks, story progress and exported save files are retained. The ZIP now contains 14 files; upload all files together.
+

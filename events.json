@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": "4.7",
   "intro": {
     "id": "welcome",
     "choices": [
@@ -242,6 +242,14 @@
           "answerJa": "大丈夫。また話そうね！",
           "easyEn": "Maybe later.",
           "easyAnswer": "No problem. Talk soon!"
+        },
+        {
+          "en": "Tell me about it!",
+          "ja": "どんな曲か教えて！",
+          "answer": "It's a jazz tune with a tricky ending.",
+          "answerJa": "ジャズの曲で、最後がちょっと難しいんだ。",
+          "easyEn": "Tell me about it!",
+          "easyAnswer": "It's a jazz tune with a tricky ending."
         }
       ],
       "easyPrompt": "Can I tell you something?"
@@ -306,6 +314,14 @@
           "answerJa": "聞くだけで十分なこともあるね。",
           "easyEn": "Just listen to them.",
           "easyAnswer": "Sometimes listening is enough."
+        },
+        {
+          "en": "You can sit with them.",
+          "ja": "そばにいてあげてもいいよ。",
+          "answer": "Sometimes being there is enough.",
+          "answerJa": "そばにいるだけで十分なこともあるね。",
+          "easyEn": "You can sit with them.",
+          "easyAnswer": "Sometimes being there is enough."
         }
       ],
       "easyPrompt": "My friend is sad. Any ideas?"
@@ -335,6 +351,14 @@
           "answerJa": "そうだね。準備ができたら公開するよ。",
           "easyEn": "Take your time.",
           "easyAnswer": "You're right. I can share it when I'm ready."
+        },
+        {
+          "en": "Maybe ask one friend first.",
+          "ja": "まず友達一人に聴いてもらったら？",
+          "answer": "That's a good first step. Thanks!",
+          "answerJa": "それなら一歩踏み出せそう。ありがとう！",
+          "easyEn": "Maybe ask one friend first.",
+          "easyAnswer": "That's a good first step. Thanks!"
         }
       ],
       "easyPrompt": "I made a song. Is it good?"
@@ -364,6 +388,14 @@
           "answerJa": "では気長に待とう。",
           "easyEn": "Friends grow over time.",
           "easyAnswer": "Then I will be patient."
+        },
+        {
+          "en": "How did you meet?",
+          "ja": "どうやって知り合ったの？",
+          "answer": "We talked about the stars.",
+          "answerJa": "星の話をしたんだ。",
+          "easyEn": "How did you meet?",
+          "easyAnswer": "We talked about the stars."
         }
       ],
       "easyPrompt": "I made a new friend!"
@@ -393,6 +425,14 @@
           "answerJa": "もちろん！誰でも歓迎だよ。",
           "easyEn": "Can I just listen?",
           "easyAnswer": "Of course! Everyone is welcome."
+        },
+        {
+          "en": "I can bring a song!",
+          "ja": "一曲持っていくよ！",
+          "answer": "Great! We love new songs.",
+          "answerJa": "いいね！新しい曲は大歓迎だよ。",
+          "easyEn": "I can bring a song!",
+          "easyAnswer": "Great! We love new songs."
         }
       ],
       "easyPrompt": "We have a music party! Join us?"
@@ -422,6 +462,14 @@
           "answerJa": "もちろん！台所はいつでもここにあるよ。",
           "easyEn": "Maybe another time.",
           "easyAnswer": "Of course! The kitchen will still be here."
+        },
+        {
+          "en": "Was it difficult?",
+          "ja": "難しかった？",
+          "answer": "Not too hard. I had fun making it!",
+          "answerJa": "そこまで難しくなかったよ。楽しく作れた！",
+          "easyEn": "Was it difficult?",
+          "easyAnswer": "Not too hard. I had fun making it!"
         }
       ]
     },
@@ -450,6 +498,14 @@
           "answerJa": "ありがとう！最初のコーラスまでは緊張してた。",
           "easyEn": "Congratulations!",
           "easyAnswer": "Thanks! I was nervous until the first chorus."
+        },
+        {
+          "en": "Did you feel nervous?",
+          "ja": "緊張した？",
+          "answer": "A little, but the audience was kind.",
+          "answerJa": "少しね。でもお客さんが優しかったよ。",
+          "easyEn": "Did you feel nervous?",
+          "easyAnswer": "A little, but the audience was kind."
         }
       ],
       "requires": "mika_dm"
@@ -479,6 +535,14 @@
           "answerJa": "そうなの。思ったより長居しちゃった。",
           "easyEn": "Sounds lovely!",
           "easyAnswer": "It was. I stayed longer than I planned."
+        },
+        {
+          "en": "Did you buy anything?",
+          "ja": "何か買った？",
+          "answer": "I bought a beautiful music notebook.",
+          "answerJa": "素敵な五線譜ノートを買ったよ。",
+          "easyEn": "Did you buy anything?",
+          "easyAnswer": "I bought a beautiful music notebook."
         }
       ]
     },
@@ -507,6 +571,14 @@
           "answerJa": "音楽は普通の日を特別にしてくれるね。",
           "easyEn": "A good song.",
           "easyAnswer": "Music can make an ordinary day feel special."
+        },
+        {
+          "en": "A nice cup of tea.",
+          "ja": "おいしい紅茶かな。",
+          "answer": "Simple joys are the best!",
+          "answerJa": "ささやかな幸せっていいよね！",
+          "easyEn": "A nice cup of tea.",
+          "easyAnswer": "Simple joys are the best!"
         }
       ]
     },
@@ -535,6 +607,14 @@
           "answerJa": "思った以上にね。嬉しいな。",
           "easyEn": "Is it popular?",
           "easyAnswer": "More than I expected. That makes me happy."
+        },
+        {
+          "en": "What did they say?",
+          "ja": "なんて言ってた？",
+          "answer": "They asked for another bowl!",
+          "answerJa": "おかわりを頼んでくれたよ！",
+          "easyEn": "What did they say?",
+          "easyAnswer": "They asked for another bowl!"
         }
       ],
       "requires": "rosie_dm_followup"

@@ -1,5 +1,5 @@
 {
-  "version": "4.6.2",
+  "version": "4.7",
   "posts": [
     {
       "id": "a4-weather-morning",
@@ -197,9 +197,9 @@
     {
       "id": "a4-night",
       "author": "Nova Orbit",
-      "text": "Why do humans say “sleep like a baby”? Babies wake up so often.",
-      "translation": "なぜ人間は「赤ちゃんのように眠る」と言うのでしょう？赤ちゃんはよく起きるのに。",
-      "easyText": "Why do babies wake up?",
+      "text": "I can hear the wind outside. Is that what quiet sounds like?",
+      "translation": "外で風の音が聞こえる。静けさって、こういう音なのかな？",
+      "easyText": "I hear the wind.",
       "daypart": "night",
       "season": "all",
       "replies": []

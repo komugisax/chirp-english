@@ -1,24 +1,27 @@
 {
-  "version": "4.4",
+  "version": "4.7",
   "notice": "ALL towns, accounts, news, forecasts and events are fictional. No live news or weather.",
   "cities": [
     {
       "name": "Bellwindport",
-      "timezone": "Europe/London",
+      "timezone": "Asia/Tokyo",
       "climate": "temperate",
-      "description": "Harbor city with a lively food and music scene."
+      "description": "Harbor city with a lively food and music scene.",
+      "timeDescription": "UTC+9"
     },
     {
       "name": "Sunvale",
-      "timezone": "Europe/Madrid",
+      "timezone": "Asia/Bangkok",
       "climate": "warm",
-      "description": "Sunny inland city."
+      "description": "Sunny inland city.",
+      "timeDescription": "UTC+7"
     },
     {
       "name": "Frosthill",
-      "timezone": "Europe/Oslo",
+      "timezone": "Europe/Helsinki",
       "climate": "cold",
-      "description": "Mountain town with long winters."
+      "description": "Mountain town with long winters.",
+      "timeDescription": "UTC+2/+3 (DST)"
     },
     {
       "name": "Eastmere",
@@ -42,7 +45,8 @@
           "name": "Brookside",
           "description": "Riverside neighborhoods with cycling paths, a public library and Brookside Concert Hall."
         }
-      ]
+      ],
+      "timeDescription": "UTC+9"
     }
   ]
 }

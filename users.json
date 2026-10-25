@@ -1,5 +1,5 @@
 {
-  "version": "4.6",
+  "version": "4.7",
   "users": [
     {
       "id": "mellow_moon",
@@ -369,6 +369,24 @@
       "color": "#E9D3AF",
       "location": "Bellwindport",
       "bio": "A fictional local events guide for fictional Bellwindport. All events are imaginary."
+    },
+    {
+      "id": "gemma_rocks",
+      "name": "Gemma Stone",
+      "handle": "@gemma_rocks",
+      "avatar": "💎",
+      "color": "#C7D6E7",
+      "location": "Frosthill",
+      "bio": "Collecting quartz and fluorite. Learning to look for rocks outdoors, one careful step at a time."
+    },
+    {
+      "id": "sunny_bloom",
+      "name": "Sunny Bloom",
+      "handle": "@sunny_bloom",
+      "avatar": "🌻",
+      "color": "#F5D693",
+      "location": "Sunvale",
+      "bio": "Plants, window boxes, little gardens, and all the ordinary parts of a sunny day."
     }
   ]
 }

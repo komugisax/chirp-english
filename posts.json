@@ -1,5 +1,5 @@
 {
-  "version": "4.6.2",
+  "version": "4.7",
   "posts": [
     {
       "id": "p001",
@@ -254,6 +254,13 @@
           "avatar": "🐰",
           "text": "That counts as a good day.",
           "translation": "それはいい日ってことでいいよ。"
+        },
+        {
+          "id": "p013-r47-later",
+          "author": "Chloe Spark",
+          "text": "Was it a good find?",
+          "translation": "いいもの見つかった？",
+          "delay": 172800000
         }
       ]
     },
@@ -567,6 +574,13 @@
           "avatar": "👻",
           "text": "Please send that message to my boss.",
           "translation": "その言葉、上司に送って。"
+        },
+        {
+          "id": "p031-r47-later",
+          "author": "Ollie",
+          "text": "Can you show me?",
+          "translation": "見せてくれる？",
+          "delay": 172800000
         }
       ]
     },
@@ -873,6 +887,13 @@
           "avatar": "☕",
           "text": "Music stores are dangerous places.",
           "translation": "楽器店は危険な場所だ。"
+        },
+        {
+          "id": "p049-r47-later",
+          "author": "Chloe Spark",
+          "text": "Was it a good find?",
+          "translation": "いいもの見つかった？",
+          "delay": 172800000
         }
       ]
     },
@@ -1210,6 +1231,13 @@
           "avatar": "🍕",
           "text": "Every meal is a chance to adapt.",
           "translation": "食事はすべて適応のチャンスだ。"
+        },
+        {
+          "id": "p068-r47-later",
+          "author": "Rosie Pan",
+          "text": "I love little shops.",
+          "translation": "小さなお店って好きだな。",
+          "delay": 172800000
         }
       ]
     },
@@ -1506,6 +1534,13 @@
           "avatar": "👻",
           "text": "Technology has a sense of humor.",
           "translation": "テクノロジーにはユーモアがあるね。"
+        },
+        {
+          "id": "p085-r47-later",
+          "author": "Chloe Spark",
+          "text": "Was it a good find?",
+          "translation": "いいもの見つかった？",
+          "delay": 172800000
         }
       ]
     },
@@ -2125,6 +2160,13 @@
           "avatar": "🐕",
           "text": "I would like to investigate this box.",
           "translation": "その箱を捜査したい。"
+        },
+        {
+          "id": "p121-r47-later",
+          "author": "Chloe Spark",
+          "text": "Was it a good find?",
+          "translation": "いいもの見つかった？",
+          "delay": 172800000
         }
       ]
     },
@@ -2550,6 +2592,13 @@
           "avatar": "🎷",
           "text": "The quiet notes have nowhere to hide.",
           "translation": "静かな音には隠れ場所がないからね。"
+        },
+        {
+          "id": "p146-r47-later",
+          "author": "Bookish Fox",
+          "text": "That sounds like a lucky find.",
+          "translation": "いい掘り出し物みたいだね。",
+          "delay": 172800000
         }
       ]
     },
@@ -3313,6 +3362,13 @@
           "avatar": "👻",
           "text": "Printers can smell fear.",
           "translation": "プリンターは恐怖を嗅ぎつけるからね。"
+        },
+        {
+          "id": "p190-r47-later",
+          "author": "Rosie Pan",
+          "text": "I hope the rest of your day is easier.",
+          "translation": "このあとの一日が楽だといいね。",
+          "delay": 172800000
         }
       ]
     },
@@ -3844,6 +3900,13 @@
           "text": "That first sip deserves its own little celebration.",
           "translation": "最初の一口は小さなお祝いに値するね。",
           "delay": 360000
+        },
+        {
+          "id": "p45-003-r47-later",
+          "author": "Bookish Fox",
+          "text": "That sounds like a lucky find.",
+          "translation": "いい掘り出し物みたいだね。",
+          "delay": 172800000
         }
       ]
     },
@@ -4349,6 +4412,13 @@
           "text": "The cat clearly had an important question.",
           "translation": "その猫には大事な質問があったのかも。",
           "delay": 420000
+        },
+        {
+          "id": "p45-029-r47-later",
+          "author": "Ollie",
+          "text": "Can you show me?",
+          "translation": "見せてくれる？",
+          "delay": 172800000
         }
       ]
     },
@@ -4892,6 +4962,13 @@
           "author": "Tech Gremlin",
           "text": "The plant appreciated your thought, if not the water.",
           "translation": "水は要らないけど、気持ちは伝わったよ。"
+        },
+        {
+          "id": "p45-052-r47-later",
+          "author": "Ollie",
+          "text": "Can you show me?",
+          "translation": "見せてくれる？",
+          "delay": 172800000
         }
       ]
     },
@@ -5307,6 +5384,13 @@
           "author": "Tenor Turtle",
           "text": "Slow is my favorite walking speed.",
           "translation": "ゆっくり歩くのが好きなんだ。"
+        },
+        {
+          "id": "p453-w02-r47-later",
+          "author": "Bookish Fox",
+          "text": "That sounds like a lucky find.",
+          "translation": "いい掘り出し物みたいだね。",
+          "delay": 172800000
         }
       ]
     },
@@ -6005,6 +6089,4428 @@
           "text": "Sometimes the sky deserves a standing ovation.",
           "translation": "空に拍手したくなる時があるね。",
           "delay": 180000
+        }
+      ]
+    },
+    {
+      "id": "p47-000-0",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I burned my toast. The kitchen smells like breakfast.",
+      "translation": "トーストを焦がしちゃった。 台所が朝ご飯の匂いでいっぱい。",
+      "replies": [
+        {
+          "id": "p47-000-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        },
+        {
+          "id": "p47-000-0-r2",
+          "author": "Ollie",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！",
+          "delay": 129600000,
+          "avatar": "💡"
+        }
+      ]
+    },
+    {
+      "id": "p47-001-0",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a tiny bakery. Their bread is still warm.",
+      "translation": "小さなパン屋を見つけた。 そこのパンはまだ温かい。",
+      "replies": [
+        {
+          "id": "p47-001-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-002-0",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I made too much pasta. Lunch is ready for tomorrow too.",
+      "translation": "パスタを作りすぎちゃった。 明日のお昼の分もできちゃった。",
+      "replies": [
+        {
+          "id": "p47-002-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "p47-003-0",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I forgot my lunch. My sandwich is still at home.",
+      "translation": "お昼ご飯を忘れた。 サンドイッチは家に置いたままだ。",
+      "replies": [
+        {
+          "id": "p47-003-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "p47-004-0",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I tried a new soup. It needs a little salt.",
+      "translation": "新しいスープを試した。 もう少し塩が必要だな。",
+      "replies": [
+        {
+          "id": "p47-004-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-005-0",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I bought fresh strawberries. I ate three on the way home.",
+      "translation": "新鮮なイチゴを買った。 帰り道で3つ食べちゃった。",
+      "replies": [
+        {
+          "id": "p47-005-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "p47-006-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I made a huge sandwich. It barely fits on my plate.",
+      "translation": "大きなサンドイッチを作った。 お皿にぎりぎり収まるくらい。",
+      "replies": [
+        {
+          "id": "p47-006-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-007-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I dropped a cookie. My dog looked very interested.",
+      "translation": "クッキーを落としちゃった。 うちの犬がすごく興味を示してた。",
+      "replies": [
+        {
+          "id": "p47-007-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A little treat can brighten the day.",
+          "translation": "ちょっとしたごちそうで一日が明るくなるね。"
+        },
+        {
+          "id": "p47-007-0-r2",
+          "author": "Coffee Goblin",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？",
+          "delay": 129600000,
+          "avatar": "☕"
+        }
+      ]
+    },
+    {
+      "id": "p47-008-0",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I found my favorite tea. The shop had one box left.",
+      "translation": "お気に入りのお茶を見つけた。 お店には最後の1箱だけ残ってた。",
+      "replies": [
+        {
+          "id": "p47-008-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I would read a whole book about that.",
+          "translation": "それだけで本が一冊読めそう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-009-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I ate breakfast outside. The morning air felt nice.",
+      "translation": "外で朝ご飯を食べた。 朝の空気が気持ちよかった。",
+      "replies": [
+        {
+          "id": "p47-009-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-010-0",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I tried making dumplings. Some look a little funny.",
+      "translation": "餃子を作ってみた。 いくつか形がちょっと変だ。",
+      "replies": [
+        {
+          "id": "p47-010-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-011-0",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I forgot to buy milk. Now my cereal looks lonely.",
+      "translation": "牛乳を買い忘れた。 シリアルがなんだか寂しそう。",
+      "replies": [
+        {
+          "id": "p47-011-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "p47-012-0",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I found a new café. The chairs are bright yellow.",
+      "translation": "新しいカフェを見つけた。 椅子が鮮やかな黄色なんだ。",
+      "replies": [
+        {
+          "id": "p47-012-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "p47-013-0",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I ordered the wrong drink. It was surprisingly good.",
+      "translation": "違う飲み物を注文しちゃった。 でも意外とおいしかった。",
+      "replies": [
+        {
+          "id": "p47-013-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-014-0",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I made popcorn tonight. The bowl is bigger than my head.",
+      "translation": "今夜はポップコーンを作った。 ボウルが頭より大きい。",
+      "replies": [
+        {
+          "id": "p47-014-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        },
+        {
+          "id": "p47-014-0-r2",
+          "author": "Mika Reed",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。",
+          "delay": 129600000,
+          "avatar": "🎷"
+        }
+      ]
+    },
+    {
+      "id": "p47-015-0",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I bought a new notebook. The first page is still blank.",
+      "translation": "新しいノートを買った。 最初のページはまだ真っ白。",
+      "replies": [
+        {
+          "id": "p47-015-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-016-0",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a striped shirt. It was on sale today.",
+      "translation": "しま模様のシャツを見つけた。 今日はセールになってた。",
+      "replies": [
+        {
+          "id": "p47-016-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-017-0",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I went window shopping. I came home with no bags.",
+      "translation": "ウィンドウショッピングに行った。 何も買わずに帰ってきた。",
+      "replies": [
+        {
+          "id": "p47-017-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-018-0",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I bought colorful socks. I couldn't choose just one pair.",
+      "translation": "カラフルな靴下を買った。 一足だけには決められなかった。",
+      "replies": [
+        {
+          "id": "p47-018-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-019-0",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I lost my shopping list. I remembered the apples, at least.",
+      "translation": "買い物リストをなくした。 とりあえずリンゴは思い出せた。",
+      "replies": [
+        {
+          "id": "p47-019-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "p47-020-0",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I found an old record. The cover art is beautiful.",
+      "translation": "古いレコードを見つけた。 ジャケットの絵が素敵なんだ。",
+      "replies": [
+        {
+          "id": "p47-020-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-021-0",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I picked up a postcard. I might send it to a friend.",
+      "translation": "絵はがきを買った。 友達に送ろうかな。",
+      "replies": [
+        {
+          "id": "p47-021-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        },
+        {
+          "id": "p47-021-0-r2",
+          "author": "Coffee Goblin",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。",
+          "delay": 129600000,
+          "avatar": "☕"
+        }
+      ]
+    },
+    {
+      "id": "p47-022-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I visited a small bookstore. A cat was sleeping by the door.",
+      "translation": "小さな本屋に行った。 入口のそばで猫が寝ていた。",
+      "replies": [
+        {
+          "id": "p47-022-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-023-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I bought a plant pot. Now I need a plant.",
+      "translation": "植木鉢を買った。 今度は植物が必要だ。",
+      "replies": [
+        {
+          "id": "p47-023-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "p47-024-0",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I saw a handmade mug. Each one was different.",
+      "translation": "手作りのマグカップを見かけた。 どれも少しずつ違ってた。",
+      "replies": [
+        {
+          "id": "p47-024-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-025-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I fixed a loose button. It only took five minutes.",
+      "translation": "取れかけたボタンを直した。 たった5分でできた。",
+      "replies": [
+        {
+          "id": "p47-025-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-026-0",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I cleaned my desk. I found three missing pens.",
+      "translation": "机を片付けた。 なくしていたペンが3本見つかった。",
+      "replies": [
+        {
+          "id": "p47-026-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-027-0",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I washed my favorite sweater. It's drying by the window.",
+      "translation": "お気に入りのセーターを洗った。 窓辺で乾かしているところ。",
+      "replies": [
+        {
+          "id": "p47-027-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-028-0",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I changed my bedsheets. My bed feels like a hotel bed.",
+      "translation": "シーツを替えた。 ベッドがホテルみたいに感じる。",
+      "replies": [
+        {
+          "id": "p47-028-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        },
+        {
+          "id": "p47-028-0-r2",
+          "author": "Bookish Fox",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。",
+          "delay": 129600000,
+          "avatar": "📚"
+        }
+      ]
+    },
+    {
+      "id": "p47-029-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I watered the flowers. One new bud appeared.",
+      "translation": "花に水をあげた。 新しいつぼみが一つ出ていた。",
+      "replies": [
+        {
+          "id": "p47-029-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I hope tomorrow is a little easier.",
+          "translation": "明日は少し楽だといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-030-0",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I forgot my umbrella. The rain started five minutes later.",
+      "translation": "傘を忘れた。 5分後に雨が降り始めた。",
+      "replies": [
+        {
+          "id": "p47-030-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-031-0",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I opened all the windows. A cool breeze came in.",
+      "translation": "窓を全部開けた。 涼しい風が入ってきた。",
+      "replies": [
+        {
+          "id": "p47-031-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did it go as planned?",
+          "translation": "予定どおりに進んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-032-0",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a missing sock. It was behind the sofa.",
+      "translation": "なくした靴下を見つけた。 ソファの後ろにあった。",
+      "replies": [
+        {
+          "id": "p47-032-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I hope you get a break soon.",
+          "translation": "早く休憩できるといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-033-0",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I made my bed early. That felt like a good start.",
+      "translation": "早いうちにベッドを整えた。 いい一日の始まりになった気がする。",
+      "replies": [
+        {
+          "id": "p47-033-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-034-0",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I sorted my photos. I found a picture from last spring.",
+      "translation": "写真を整理した。 去年の春の写真が出てきた。",
+      "replies": [
+        {
+          "id": "p47-034-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "p47-035-0",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I took the long way home. The streets were quiet.",
+      "translation": "遠回りして帰った。 通りは静かだった。",
+      "replies": [
+        {
+          "id": "p47-035-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        },
+        {
+          "id": "p47-035-0-r2",
+          "author": "Rosie Pan",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。",
+          "delay": 129600000,
+          "avatar": "👩‍🍳"
+        }
+      ]
+    },
+    {
+      "id": "p47-036-0",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I missed my bus. The next one came quickly.",
+      "translation": "バスに乗り遅れた。 次のバスはすぐ来た。",
+      "replies": [
+        {
+          "id": "p47-036-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-037-0",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I found a new walking path. It goes past a little garden.",
+      "translation": "新しい散歩道を見つけた。 小さな庭の横を通る道なんだ。",
+      "replies": [
+        {
+          "id": "p47-037-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-038-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I sat by the harbor. The boats moved gently.",
+      "translation": "港のそばに座った。 船がゆっくり揺れていた。",
+      "replies": [
+        {
+          "id": "p47-038-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-039-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I saw a rainbow today. It faded before I got my camera.",
+      "translation": "今日は虹を見た。 カメラを出す前に消えてしまった。",
+      "replies": [
+        {
+          "id": "p47-039-0-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-040-0",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I took a wrong turn. I discovered a pretty square.",
+      "translation": "道を一本間違えた。 きれいな広場を見つけた。",
+      "replies": [
+        {
+          "id": "p47-040-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "p47-041-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I went to the library. I stayed longer than planned.",
+      "translation": "図書館に行った。 予定より長居しちゃった。",
+      "replies": [
+        {
+          "id": "p47-041-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-042-0",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I met a friendly dog. It wanted another pat.",
+      "translation": "人懐っこい犬に会った。 もっとなでてほしそうだった。",
+      "replies": [
+        {
+          "id": "p47-042-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        },
+        {
+          "id": "p47-042-0-r2",
+          "author": "Sunny Bloom",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。",
+          "delay": 129600000,
+          "avatar": "🌻"
+        }
+      ]
+    },
+    {
+      "id": "p47-043-0",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I spotted a tiny bird. It was singing on a fence.",
+      "translation": "小さな鳥を見つけた。 柵の上で歌っていた。",
+      "replies": [
+        {
+          "id": "p47-043-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-044-0",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I walked up a steep hill. The view was worth it.",
+      "translation": "急な坂を登った。 景色を見ると登った甲斐があった。",
+      "replies": [
+        {
+          "id": "p47-044-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-045-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I practiced a new rhythm. My foot kept the beat.",
+      "translation": "新しいリズムを練習した。 足で拍子を取っていた。",
+      "replies": [
+        {
+          "id": "p47-045-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-046-0",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I heard a lovely melody. I hummed it all afternoon.",
+      "translation": "素敵なメロディーを聴いた。 午後じゅう口ずさんでいた。",
+      "replies": [
+        {
+          "id": "p47-046-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-047-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I changed my guitar strings. It sounds brighter now.",
+      "translation": "ギターの弦を替えた。 音が前より明るくなった。",
+      "replies": [
+        {
+          "id": "p47-047-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love hearing about practice.",
+          "translation": "練習の話を聞くのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-048-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I played a slow song. The room got very quiet.",
+      "translation": "ゆっくりした曲を演奏した。 部屋がとても静かになった。",
+      "replies": [
+        {
+          "id": "p47-048-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love hearing about practice.",
+          "translation": "練習の話を聞くのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-049-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found an old songbook. There are notes in the margins.",
+      "translation": "古い楽譜集を見つけた。 余白に書き込みがある。",
+      "replies": [
+        {
+          "id": "p47-049-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Sometimes you just have to try again.",
+          "translation": "もう一度やってみるしかないときもあるね。"
+        },
+        {
+          "id": "p47-049-0-r2",
+          "author": "Tenor Turtle",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。",
+          "delay": 129600000,
+          "avatar": "🐢"
+        }
+      ]
+    },
+    {
+      "id": "p47-050-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I listened to a live band. The drummer was amazing.",
+      "translation": "生演奏のバンドを聴いた。 ドラマーがすごかった。",
+      "replies": [
+        {
+          "id": "p47-050-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-051-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I tried a different tempo. The song felt completely new.",
+      "translation": "違うテンポで試してみた。 曲がまるで新しく感じられた。",
+      "replies": [
+        {
+          "id": "p47-051-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-052-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I recorded a short tune. I noticed a funny little mistake.",
+      "translation": "短い曲を録音した。 おかしなミスに気づいた。",
+      "replies": [
+        {
+          "id": "p47-052-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-053-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I visited a music shop. I left with a pack of picks.",
+      "translation": "楽器店に行った。 ピックを一袋買って帰った。",
+      "replies": [
+        {
+          "id": "p47-053-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-054-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I listened to music on the train. I almost missed my stop.",
+      "translation": "電車で音楽を聴いた。 危うく降りる駅を逃すところだった。",
+      "replies": [
+        {
+          "id": "p47-054-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-055-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I lost my place in the score. We all laughed and tried again.",
+      "translation": "楽譜のどこを弾いているかわからなくなった。 みんなで笑って、もう一度やった。",
+      "replies": [
+        {
+          "id": "p47-055-0-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "That is part of learning music.",
+          "translation": "そういうのも音楽を学ぶ過程だね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-056-0",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I started a new book. I already like the main character.",
+      "translation": "新しい本を読み始めた。 もう主人公が気に入っている。",
+      "replies": [
+        {
+          "id": "p47-056-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
+        },
+        {
+          "id": "p47-056-0-r2",
+          "author": "Clara Strings",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。",
+          "delay": 129600000,
+          "avatar": "🎻"
+        }
+      ]
+    },
+    {
+      "id": "p47-057-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I finished a puzzle. One piece was under the table.",
+      "translation": "パズルを完成させた。 最後の一片はテーブルの下にあった。",
+      "replies": [
+        {
+          "id": "p47-057-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-058-0",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I watched an old movie. The ending surprised me.",
+      "translation": "古い映画を見た。 結末には驚いた。",
+      "replies": [
+        {
+          "id": "p47-058-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-059-0",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I tried a new game. I lost the first round.",
+      "translation": "新しいゲームを試した。 最初のラウンドは負けた。",
+      "replies": [
+        {
+          "id": "p47-059-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-060-0",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I drew a little cat. It looks more like a potato.",
+      "translation": "小さな猫の絵を描いた。 ジャガイモみたいになっちゃった。",
+      "replies": [
+        {
+          "id": "p47-060-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-061-0",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I made a paper airplane. It flew across the room.",
+      "translation": "紙飛行機を折った。 部屋の向こうまで飛んだ。",
+      "replies": [
+        {
+          "id": "p47-061-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "p47-062-0",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I started knitting a scarf. It's getting longer each day.",
+      "translation": "マフラーを編み始めた。 毎日少しずつ長くなっている。",
+      "replies": [
+        {
+          "id": "p47-062-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-063-0",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I bought some colored pencils. The green one is my favorite.",
+      "translation": "色鉛筆を買った。 緑色が一番お気に入り。",
+      "replies": [
+        {
+          "id": "p47-063-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        },
+        {
+          "id": "p47-063-0-r2",
+          "author": "Chloe Spark",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！",
+          "delay": 129600000,
+          "avatar": "💄"
+        }
+      ]
+    },
+    {
+      "id": "p47-064-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I found a strange-looking stone. It has tiny white lines.",
+      "translation": "変わった形の石を見つけた。 細い白い線が入っている。",
+      "replies": [
+        {
+          "id": "p47-064-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "p47-065-0",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I rearranged my bookshelf. Now I can't find my dictionary.",
+      "translation": "本棚の並びを変えた。 今度は辞書が見つからない。",
+      "replies": [
+        {
+          "id": "p47-065-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-066-0",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I tripped on a step. My knee is a little sore.",
+      "translation": "段差につまずいた。 膝がちょっと痛い。",
+      "replies": [
+        {
+          "id": "p47-066-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-067-0",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I spilled water on my notes. The ink made a blue cloud.",
+      "translation": "メモに水をこぼしちゃった。 インクが青い雲みたいになった。",
+      "replies": [
+        {
+          "id": "p47-067-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-068-0",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I left my gloves at home. My hands were freezing.",
+      "translation": "手袋を家に置いてきた。 手が凍えそうだった。",
+      "replies": [
+        {
+          "id": "p47-068-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-069-0",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I forgot what I came for. I stood in the kitchen for a minute.",
+      "translation": "何を取りに来たか忘れた。 台所でしばらく立ち尽くした。",
+      "replies": [
+        {
+          "id": "p47-069-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-070-0",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I dropped my keys again. They landed in my shoe.",
+      "translation": "また鍵を落とした。 靴の中に入ってしまった。",
+      "replies": [
+        {
+          "id": "p47-070-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        },
+        {
+          "id": "p47-070-0-r2",
+          "author": "Jazz Cat",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！",
+          "delay": 129600000,
+          "avatar": "🐈"
+        }
+      ]
+    },
+    {
+      "id": "p47-071-0",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I took a quick nap. I woke up feeling much better.",
+      "translation": "ちょっと昼寝した。 起きたらずっと元気になっていた。",
+      "replies": [
+        {
+          "id": "p47-071-0-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-072-0",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I had a busy morning. I finally have a quiet moment.",
+      "translation": "忙しい午前中だった。 やっと一息つける。",
+      "replies": [
+        {
+          "id": "p47-072-0-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-073-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I cleaned my glasses. The world looks sharper now.",
+      "translation": "眼鏡を拭いた。 世界がくっきり見える。",
+      "replies": [
+        {
+          "id": "p47-073-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "p47-074-0",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I took a break outside. The sun felt warm on my face.",
+      "translation": "外で休憩した。 顔に当たる日差しが暖かかった。",
+      "replies": [
+        {
+          "id": "p47-074-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I hope tomorrow is a little easier.",
+          "translation": "明日は少し楽だといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-075-0",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I tried stretching today. My shoulders feel lighter.",
+      "translation": "今日はストレッチをしてみた。 肩が少し軽くなった。",
+      "replies": [
+        {
+          "id": "p47-075-0-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-076-0",
+      "category": "life",
+      "author": "Night Owl",
+      "avatar": "🦇",
+      "text": "I made a small mistake at work. I fixed it before lunch.",
+      "translation": "仕事で小さなミスをした。 お昼前に直せた。",
+      "replies": [
+        {
+          "id": "p47-076-0-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "p47-077-0",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I found a coin in my coat. Past me left me a present.",
+      "translation": "コートの中で硬貨を見つけた。 過去の自分からのプレゼントだ。",
+      "replies": [
+        {
+          "id": "p47-077-0-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        },
+        {
+          "id": "p47-077-0-r2",
+          "author": "Coffee Goblin",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。",
+          "delay": 129600000,
+          "avatar": "☕"
+        }
+      ]
+    },
+    {
+      "id": "p47-078-0",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I bought the wrong batteries. I kept the receipt this time.",
+      "translation": "電池の種類を間違えて買った。 今回はレシートを取っておいた。",
+      "replies": [
+        {
+          "id": "p47-078-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-079-0",
+      "category": "life",
+      "author": "Mellow Moon",
+      "avatar": "🌙",
+      "text": "I waited in a long line. The person behind me was humming.",
+      "translation": "長い列に並んだ。 後ろの人が鼻歌を歌っていた。",
+      "replies": [
+        {
+          "id": "p47-079-0-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-080-0",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I saw a funny sign. I had to read it twice.",
+      "translation": "おかしな看板を見つけた。 思わず二度読んだ。",
+      "replies": [
+        {
+          "id": "p47-080-0-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-081-0",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a quiet bench. I sat there for ten minutes.",
+      "translation": "静かなベンチを見つけた。 そこに10分座っていた。",
+      "replies": [
+        {
+          "id": "p47-081-0-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-082-0",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I heard bells near the harbor. The wind was strong today.",
+      "translation": "港のそばで鐘の音を聞いた。 今日は風が強かった。",
+      "replies": [
+        {
+          "id": "p47-082-0-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "p47-083-0",
+      "category": "life",
+      "author": "Nova Orbit",
+      "avatar": "👽",
+      "text": "I tried a new fruit. It tasted sweeter than I expected.",
+      "translation": "初めての果物を食べてみた。 思ったより甘かった。",
+      "replies": [
+        {
+          "id": "p47-083-0-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That must have caught your eye!",
+          "translation": "目を引かれたんだろうね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-084-0",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I found a little flower shop. The window was full of sunflowers.",
+      "translation": "小さな花屋を見つけた。 窓辺にヒマワリがいっぱいだった。",
+      "replies": [
+        {
+          "id": "p47-084-0-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Thanks for sharing that moment.",
+          "translation": "その時間を共有してくれてありがとう。"
+        },
+        {
+          "id": "p47-084-0-r2",
+          "author": "Mika Reed",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。",
+          "delay": 129600000,
+          "avatar": "🎷"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-000",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "The shop had fresh cinnamon rolls today. I bought one for my afternoon break.",
+      "translation": "今日はお店に焼きたてのシナモンロールがあった。 午後の休憩用に一つ買った。",
+      "replies": [
+        {
+          "id": "p47-extra-000-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I would read a whole book about that.",
+          "translation": "それだけで本が一冊読めそう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-001",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I tried adding lemon to my tea. It tasted brighter than usual.",
+      "translation": "紅茶にレモンを入れてみた。 いつもよりすっきりした味だった。",
+      "replies": [
+        {
+          "id": "p47-extra-001-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a good moment.",
+          "translation": "いい時間だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-002",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "Someone brought homemade cookies to work. The chocolate ones disappeared first.",
+      "translation": "職場の誰かが手作りクッキーを持ってきてくれた。 チョコ味が最初になくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-002-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-003",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I made rice for dinner. I forgot to make anything to go with it.",
+      "translation": "晩ご飯にご飯を炊いた。 おかずを作るのを忘れてた。",
+      "replies": [
+        {
+          "id": "p47-extra-003-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Was it easy to make?",
+          "translation": "作るのは簡単だった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-004",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My apple had a funny shape. It still tasted great.",
+      "translation": "リンゴの形がちょっと変だった。 味はとてもよかった。",
+      "replies": [
+        {
+          "id": "p47-extra-004-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-005",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I tried baking bread without a recipe. Next time, I'll use a recipe.",
+      "translation": "レシピを見ずにパンを焼いてみた。 次はレシピを使おう。",
+      "replies": [
+        {
+          "id": "p47-extra-005-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-006",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "The café gave me a tiny spoon. It was almost too cute to use.",
+      "translation": "カフェで小さなスプーンをもらった。 かわいすぎて使うのがもったいないくらいだった。",
+      "replies": [
+        {
+          "id": "p47-extra-006-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-007",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I made scrambled eggs this morning. I finally got them just right.",
+      "translation": "今朝はスクランブルエッグを作った。 ついにちょうどいい仕上がりになった。",
+      "replies": [
+        {
+          "id": "p47-extra-007-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-008",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I had soup on a rainy day. Somehow it tasted even better.",
+      "translation": "雨の日にスープを飲んだ。 なんだかいつもよりおいしかった。",
+      "replies": [
+        {
+          "id": "p47-extra-008-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-009",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "My noodles were much too hot. I had to wait before taking another bite.",
+      "translation": "麺が熱すぎた。 次の一口を食べるまで待たなきゃいけなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-009-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-010",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I found a peach at the market. It smelled wonderful.",
+      "translation": "市場で桃を見つけた。 とてもいい香りがした。",
+      "replies": [
+        {
+          "id": "p47-extra-010-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-011",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I saved the last piece of cake. Now I can't remember where I put it.",
+      "translation": "最後のケーキを一切れ残しておいた。 どこに置いたか思い出せない。",
+      "replies": [
+        {
+          "id": "p47-extra-011-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-012",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I tried a new breakfast place. The staff remembered my coffee order somehow.",
+      "translation": "初めての朝ご飯のお店に行ってみた。 なぜか店員さんが私のコーヒーの注文を覚えていた。",
+      "replies": [
+        {
+          "id": "p47-extra-012-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-013",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The tomatoes looked lovely today. I bought enough to make sauce.",
+      "translation": "今日はトマトがとてもきれいだった。 ソースを作れるくらい買った。",
+      "replies": [
+        {
+          "id": "p47-extra-013-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-014",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I packed a picnic lunch. I forgot the napkins.",
+      "translation": "ピクニック用のお昼を詰めた。 ナプキンを忘れちゃった。",
+      "replies": [
+        {
+          "id": "p47-extra-014-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-015",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I learned how to cut a mango. It was messier than I expected.",
+      "translation": "マンゴーの切り方を覚えた。 思ったより手がべたべたになった。",
+      "replies": [
+        {
+          "id": "p47-extra-015-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-016",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My coffee went cold. I was too busy reading.",
+      "translation": "コーヒーが冷めちゃった。 本を読むのに夢中だったんだ。",
+      "replies": [
+        {
+          "id": "p47-extra-016-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-017",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I bought some honey at a small shop. The jar has a pretty paper label.",
+      "translation": "小さなお店でハチミツを買った。 瓶にはかわいい紙のラベルが付いている。",
+      "replies": [
+        {
+          "id": "p47-extra-017-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-018",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I made a vegetable omelet. It broke when I tried to flip it.",
+      "translation": "野菜入りのオムレツを作った。 ひっくり返そうとしたら崩れた。",
+      "replies": [
+        {
+          "id": "p47-extra-018-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-019",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "There was a long line for donuts. I decided to come back tomorrow.",
+      "translation": "ドーナツ屋に長い列ができていた。 明日また来ることにした。",
+      "replies": [
+        {
+          "id": "p47-extra-019-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-020",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I forgot the sugar in my muffins. They're not exactly sweet now.",
+      "translation": "マフィンに砂糖を入れ忘れた。 今はあまり甘くない。",
+      "replies": [
+        {
+          "id": "p47-extra-020-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I got hungry reading this.",
+          "translation": "読んでたらお腹がすいてきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-021",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I cut my sandwich into triangles. For some reason, it felt fancy.",
+      "translation": "サンドイッチを三角に切った。 なぜかちょっとおしゃれに感じた。",
+      "replies": [
+        {
+          "id": "p47-extra-021-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Was it easy to make?",
+          "translation": "作るのは簡単だった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-022",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I tried a very sour candy. My face made everyone laugh.",
+      "translation": "ものすごく酸っぱいお菓子を食べてみた。 私の顔を見てみんな笑っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-022-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-023",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I cooked dinner for a friend. They asked for the recipe.",
+      "translation": "友達に晩ご飯を作った。 レシピを教えてと言われた。",
+      "replies": [
+        {
+          "id": "p47-extra-023-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That is a little adventure!",
+          "translation": "ちょっとした冒険だね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-024",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I ordered dessert first. No regrets.",
+      "translation": "先にデザートを注文した。 後悔はしていない。",
+      "replies": [
+        {
+          "id": "p47-extra-024-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Tell us what happened next!",
+          "translation": "このあとどうなったか教えて！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-025",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I found a café with outdoor seats. I watched people pass by.",
+      "translation": "外の席があるカフェを見つけた。 通り過ぎる人たちを眺めていた。",
+      "replies": [
+        {
+          "id": "p47-extra-025-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Would you make it again?",
+          "translation": "また作ってみたい？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-026",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I tried a bowl of spicy noodles. I needed a second glass of water.",
+      "translation": "辛い麺料理を食べてみた。 水をもう一杯飲まなきゃいけなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-026-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "That sounds like a nice break.",
+          "translation": "いい休憩になりそうだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-027",
+      "category": "life",
+      "author": "Coffee Goblin",
+      "avatar": "☕",
+      "text": "I made an extra cup of tea. My neighbor came over at just the right time.",
+      "translation": "紅茶を一杯多くいれた。 ちょうどそのとき近所の人が訪ねてきた。",
+      "replies": [
+        {
+          "id": "p47-extra-027-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Now I want a snack!",
+          "translation": "私もおやつが欲しくなった！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-028",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "My bread came out a little crooked. It tasted fine, though.",
+      "translation": "焼いたパンが少しいびつになった。 でも味は問題なかった。",
+      "replies": [
+        {
+          "id": "p47-extra-028-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Food stories are the best stories.",
+          "translation": "食べ物の話が一番好きだな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-029",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The fruit shop had a new sign. It was painted by hand.",
+      "translation": "果物屋に新しい看板ができていた。 手描きの看板だった。",
+      "replies": [
+        {
+          "id": "p47-extra-029-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A little treat can brighten the day.",
+          "translation": "ちょっとしたごちそうで一日が明るくなるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-030",
+      "category": "life",
+      "author": "Rosie Pan",
+      "avatar": "👩‍🍳",
+      "text": "I picked a sunny table for lunch. Ten minutes later, I moved into the shade.",
+      "translation": "ランチは日当たりのいいテーブルにした。 10分後には日陰に移動した。",
+      "replies": [
+        {
+          "id": "p47-extra-030-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-031",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I bought a small bag of nuts. They were gone before the train arrived.",
+      "translation": "ナッツを小袋で買った。 電車が来る前になくなっていた。",
+      "replies": [
+        {
+          "id": "p47-extra-031-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Did you have something to drink with it?",
+          "translation": "一緒に何か飲んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-032",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The secondhand shop had an old lamp. I spent ten minutes just looking at it.",
+      "translation": "古道具屋に古いランプがあった。 それを10分も眺めていた。",
+      "replies": [
+        {
+          "id": "p47-extra-032-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-033",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I went to buy a phone case. I came back with a puzzle instead.",
+      "translation": "スマホケースを買いに行った。 代わりにパズルを買って帰ってきた。",
+      "replies": [
+        {
+          "id": "p47-extra-033-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-034",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "A tiny bookstore opened nearby. There's a reading corner by the window.",
+      "translation": "近くに小さな本屋ができた。 窓辺に読書コーナーがある。",
+      "replies": [
+        {
+          "id": "p47-extra-034-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-035",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I found a jacket with deep pockets. Finally, a place for all my keys.",
+      "translation": "ポケットの深いジャケットを見つけた。 やっと鍵を全部入れる場所ができた。",
+      "replies": [
+        {
+          "id": "p47-extra-035-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-036",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "The market had handmade baskets. Each handle felt different.",
+      "translation": "市場に手編みのかごが並んでいた。 持ち手の感触がそれぞれ違った。",
+      "replies": [
+        {
+          "id": "p47-extra-036-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-037",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I bought a little desk calendar. I'm already writing plans in it.",
+      "translation": "小さな卓上カレンダーを買った。 もう予定を書き込んでいる。",
+      "replies": [
+        {
+          "id": "p47-extra-037-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-038",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I found some old postcards at a shop. One shows the harbor years ago.",
+      "translation": "お店で古い絵はがきを見つけた。 一枚には昔の港が写っている。",
+      "replies": [
+        {
+          "id": "p47-extra-038-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-039",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "My new shoes squeak on the floor. It's hard to walk quietly now.",
+      "translation": "新しい靴が床できゅっきゅっと鳴る。 静かに歩くのが難しくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-039-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-040",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I visited a shop full of buttons. I didn't know there were so many kinds.",
+      "translation": "ボタンがいっぱいのお店に行った。 こんなに種類があるなんて知らなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-040-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "Small finds make good memories.",
+          "translation": "小さな発見が思い出になるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-041",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I bought a reusable bottle. It fits perfectly in my bag.",
+      "translation": "繰り返し使えるボトルを買った。 バッグにぴったり収まる。",
+      "replies": [
+        {
+          "id": "p47-extra-041-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-042",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The thrift store had a bright orange hat. I tried it on and laughed.",
+      "translation": "古着屋に鮮やかなオレンジ色の帽子があった。 かぶってみて笑ってしまった。",
+      "replies": [
+        {
+          "id": "p47-extra-042-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-043",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I went to the art supply store. I lost track of time near the paints.",
+      "translation": "画材店へ行った。 絵の具の棚で時間を忘れた。",
+      "replies": [
+        {
+          "id": "p47-extra-043-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-044",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I picked up a small travel map. The folded corners are already wearing out.",
+      "translation": "小さな旅行用の地図を買った。 折り目の角がもう傷み始めている。",
+      "replies": [
+        {
+          "id": "p47-extra-044-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-045",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "There was a sale on notebooks. I resisted buying ten.",
+      "translation": "ノートのセールをしていた。 10冊買いたいのを我慢した。",
+      "replies": [
+        {
+          "id": "p47-extra-045-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-046",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a ceramic bowl with blue dots. It matches nothing in my kitchen.",
+      "translation": "青い水玉の陶器のボウルを見つけた。 うちの台所の物とは何も合わない。",
+      "replies": [
+        {
+          "id": "p47-extra-046-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-047",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I went shopping for a gift. I ended up calling the person for ideas.",
+      "translation": "プレゼントを探しに買い物へ行った。 結局、その人に電話して相談した。",
+      "replies": [
+        {
+          "id": "p47-extra-047-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-048",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "The station shop sells cute umbrellas. Mine is still working, so I just looked.",
+      "translation": "駅のお店にはかわいい傘がある。 今の傘はまだ使えるから、見るだけにした。",
+      "replies": [
+        {
+          "id": "p47-extra-048-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-049",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I bought a new pair of headphones. I'm hearing details I missed before.",
+      "translation": "新しいヘッドホンを買った。 前は聞き逃していた音まで聞こえる。",
+      "replies": [
+        {
+          "id": "p47-extra-049-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-050",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "The flower stall had purple tulips. I took a photo for my friend.",
+      "translation": "花屋の屋台に紫のチューリップがあった。 友達のために写真を撮った。",
+      "replies": [
+        {
+          "id": "p47-extra-050-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Was the shop busy?",
+          "translation": "お店は混んでた？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-051",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found a funny fridge magnet. It looks like a tiny sandwich.",
+      "translation": "変わった冷蔵庫用のマグネットを見つけた。 小さなサンドイッチの形をしている。",
+      "replies": [
+        {
+          "id": "p47-extra-051-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-052",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The music store had a used keyboard. Someone was trying a gentle melody.",
+      "translation": "楽器店に中古のキーボードがあった。 誰かが優しいメロディーを試し弾きしていた。",
+      "replies": [
+        {
+          "id": "p47-extra-052-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-053",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I tried on a pair of boots. They were comfortable but a bit heavy.",
+      "translation": "ブーツを試着した。 履き心地はいいけど少し重かった。",
+      "replies": [
+        {
+          "id": "p47-extra-053-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love finding little shops.",
+          "translation": "小さなお店を見つけるのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-054",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I picked out a new pencil case. The zipper makes a funny noise.",
+      "translation": "新しいペンケースを選んだ。 ファスナーが変な音を立てる。",
+      "replies": [
+        {
+          "id": "p47-extra-054-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What did you choose in the end?",
+          "translation": "結局どれを選んだの？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-055",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I found a pocket-sized dictionary. It is smaller than my phone.",
+      "translation": "ポケットサイズの辞書を見つけた。 スマホより小さいんだ。",
+      "replies": [
+        {
+          "id": "p47-extra-055-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "That sounds like a nice discovery.",
+          "translation": "いい発見だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-056",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I bought a candle that smells like pine. Now my room reminds me of the mountains.",
+      "translation": "松の香りのキャンドルを買った。 部屋にいると山を思い出す。",
+      "replies": [
+        {
+          "id": "p47-extra-056-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I might visit that shop too.",
+          "translation": "私もそのお店に行こうかな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-057",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The bookshop displayed local comics. I picked one with a green cover.",
+      "translation": "本屋に地元の漫画が並んでいた。 緑の表紙の一冊を選んだ。",
+      "replies": [
+        {
+          "id": "p47-extra-057-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Shopping can be its own little trip.",
+          "translation": "買い物って小さな旅みたいだよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-058",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I bought a new sketchbook. The paper feels wonderfully smooth.",
+      "translation": "新しいスケッチブックを買った。 紙の手触りがとてもなめらか。",
+      "replies": [
+        {
+          "id": "p47-extra-058-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "It is nice to take your time choosing.",
+          "translation": "じっくり選ぶのもいいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-059",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I found a secondhand camera. I want to learn how it works.",
+      "translation": "中古のカメラを見つけた。 使い方を覚えたい。",
+      "replies": [
+        {
+          "id": "p47-extra-059-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love a good surprise at the shops.",
+          "translation": "お店で思いがけない発見があると嬉しい。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-060",
+      "category": "life",
+      "author": "Chloe Spark",
+      "avatar": "💄",
+      "text": "I bought an extra set of strings. It's nice to be prepared for practice.",
+      "translation": "予備の弦を買った。 練習に備えておくと安心だ。",
+      "replies": [
+        {
+          "id": "p47-extra-060-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "That sounds fun!",
+          "translation": "楽しそう！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-061",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My shopping bag tore on the way home. Luckily, nothing broke.",
+      "translation": "帰り道で買い物袋が破れた。 幸い何も壊れなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-061-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "Did you find what you wanted?",
+          "translation": "欲しいものは見つかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-062",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A busker was playing by the bridge. A child stopped to listen.",
+      "translation": "橋のそばで路上演奏をしている人がいた。 子どもが立ち止まって聴いていた。",
+      "replies": [
+        {
+          "id": "p47-extra-062-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-063",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The wind blew my hat into a bush. A kind stranger helped me get it back.",
+      "translation": "風で帽子が茂みに飛ばされた。 親切な人が取るのを手伝ってくれた。",
+      "replies": [
+        {
+          "id": "p47-extra-063-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-064",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I took a walk before sunset. The windows glowed orange.",
+      "translation": "日が沈む前に散歩した。 窓がオレンジ色に輝いていた。",
+      "replies": [
+        {
+          "id": "p47-extra-064-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-065",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I watched a ferry leave the harbor. Its horn sounded deep and low.",
+      "translation": "フェリーが港を出るのを見送った。 汽笛が低く響いた。",
+      "replies": [
+        {
+          "id": "p47-extra-065-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-066",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I found a quiet lane behind the station. A tiny café was hidden there.",
+      "translation": "駅の裏に静かな小道を見つけた。 そこには小さなカフェが隠れていた。",
+      "replies": [
+        {
+          "id": "p47-extra-066-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-067",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The park was full of fallen leaves. They crunched under my shoes.",
+      "translation": "公園は落ち葉でいっぱいだった。 靴の下でかさかさ鳴った。",
+      "replies": [
+        {
+          "id": "p47-extra-067-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-068",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I walked past the old clock tower. It rang exactly at noon.",
+      "translation": "古い時計塔の前を歩いた。 ちょうど正午に鐘が鳴った。",
+      "replies": [
+        {
+          "id": "p47-extra-068-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-069",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "A little dog followed me for a block. Then it ran back to its owner.",
+      "translation": "小さな犬が一区画だけついてきた。 そのあと飼い主のところへ走って戻った。",
+      "replies": [
+        {
+          "id": "p47-extra-069-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-070",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I saw a boat painted bright red. It stood out among all the white ones.",
+      "translation": "真っ赤に塗られた船を見た。 白い船の中ですごく目立っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-070-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-071",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "The library garden is blooming. I stayed outside for a few minutes.",
+      "translation": "図書館の庭で花が咲いている。 数分だけ外にいた。",
+      "replies": [
+        {
+          "id": "p47-extra-071-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-072",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found an empty seat on the train. That almost never happens at this hour.",
+      "translation": "電車で空席を見つけた。 この時間にはめったにないことだ。",
+      "replies": [
+        {
+          "id": "p47-extra-072-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-073",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The seaside path was windy. My hair had its own plans.",
+      "translation": "海沿いの道は風が強かった。 髪の毛が好き放題になっていた。",
+      "replies": [
+        {
+          "id": "p47-extra-073-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-074",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I took a different train today. I discovered a nice view of the river.",
+      "translation": "今日はいつもと違う電車に乗った。 川のきれいな景色を見つけた。",
+      "replies": [
+        {
+          "id": "p47-extra-074-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-075",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "The sky turned pink over the rooftops. I stopped walking to watch.",
+      "translation": "屋根の向こうの空がピンクに染まった。 立ち止まって眺めた。",
+      "replies": [
+        {
+          "id": "p47-extra-075-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-076",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I found a bench under a tall tree. It was the perfect place to read.",
+      "translation": "大きな木の下にベンチを見つけた。 本を読むのにぴったりだった。",
+      "replies": [
+        {
+          "id": "p47-extra-076-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-077",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A cyclist rang a bell behind me. I stepped aside and waved.",
+      "translation": "後ろで自転車のベルが鳴った。 道を譲って手を振った。",
+      "replies": [
+        {
+          "id": "p47-extra-077-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-078",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I visited the neighborhood square. Someone was teaching a child to skate.",
+      "translation": "近所の広場に行った。 誰かが子どもにスケートを教えていた。",
+      "replies": [
+        {
+          "id": "p47-extra-078-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-079",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "I saw a kite over the beach. It dipped every time the wind changed.",
+      "translation": "浜辺の上に凧が上がっていた。 風向きが変わるたびに上下していた。",
+      "replies": [
+        {
+          "id": "p47-extra-079-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-080",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "The bookstore window had a new display. I recognized one of my favorite covers.",
+      "translation": "本屋の窓の展示が新しくなっていた。 好きな表紙を一つ見つけた。",
+      "replies": [
+        {
+          "id": "p47-extra-080-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did you take a picture?",
+          "translation": "写真は撮った？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-081",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I passed a tiny flower cart. The owner gave me a big smile.",
+      "translation": "小さな花売りの屋台のそばを通った。 店主がにっこり笑ってくれた。",
+      "replies": [
+        {
+          "id": "p47-extra-081-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-082",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The mountains looked close after the rain. The air was especially clear.",
+      "translation": "雨のあと、山が近くに見えた。 空気がとても澄んでいた。",
+      "replies": [
+        {
+          "id": "p47-extra-082-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-083",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I walked beside a canal. The water reflected the streetlights.",
+      "translation": "運河沿いを歩いた。 水面に街灯が映っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-083-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "The streets always have stories.",
+          "translation": "街にはいつも物語があるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-084",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "A cloud covered the sun for a moment. The street became cool right away.",
+      "translation": "一瞬、雲が太陽を隠した。 通りがすぐ涼しくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-084-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "It is good to notice small things.",
+          "translation": "小さなことに気づくのはいいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-085",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I visited an old train platform. The signs still have painted letters.",
+      "translation": "古い駅のホームを訪れた。 看板には今も手描きの文字が残っている。",
+      "replies": [
+        {
+          "id": "p47-extra-085-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "That sounds like an interesting walk.",
+          "translation": "面白い散歩だったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-086",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I noticed a new mural downtown. It's full of colorful birds.",
+      "translation": "街の中心部で新しい壁画に気づいた。 色とりどりの鳥が描かれている。",
+      "replies": [
+        {
+          "id": "p47-extra-086-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "There is no need to hurry on a walk.",
+          "translation": "散歩は急がなくていいよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-087",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A tiny stream runs behind my building. I heard frogs there this evening.",
+      "translation": "建物の裏に小さな流れがある。 今夜はそこでカエルの声を聞いた。",
+      "replies": [
+        {
+          "id": "p47-extra-087-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened after that?",
+          "translation": "そのあとはどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-088",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The evening market was still open. The lights made everything look warm.",
+      "translation": "夕方の市場はまだ開いていた。 灯りで何もかも温かく見えた。",
+      "replies": [
+        {
+          "id": "p47-extra-088-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "I would have stopped to look too.",
+          "translation": "私も立ち止まって見ちゃうな。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-089",
+      "category": "life",
+      "author": "Gemma Stone",
+      "avatar": "💎",
+      "text": "The street musician changed songs. Three people began to dance.",
+      "translation": "路上の音楽家が曲を変えた。 3人が踊り始めた。",
+      "replies": [
+        {
+          "id": "p47-extra-089-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Thanks for sharing that moment.",
+          "translation": "その時間を共有してくれてありがとう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-090",
+      "category": "life",
+      "author": "Sunny Bloom",
+      "avatar": "🌻",
+      "text": "I sat near the fountain today. A pigeon tried to steal my crumbs.",
+      "translation": "今日は噴水の近くに座った。 ハトがパンくずを取ろうとした。",
+      "replies": [
+        {
+          "id": "p47-extra-090-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "I love moments like that.",
+          "translation": "そういう瞬間が好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-091",
+      "category": "life",
+      "author": "Ollie",
+      "avatar": "💡",
+      "text": "I finally labeled my folders. Now I can actually find my notes.",
+      "translation": "やっとフォルダにラベルを付けた。 これでちゃんとメモが見つかる。",
+      "replies": [
+        {
+          "id": "p47-extra-091-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I can almost picture it.",
+          "translation": "目に浮かぶようだよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-092",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My meeting ended early. I had time to enjoy a quiet lunch.",
+      "translation": "会議が早く終わった。 静かにランチを楽しむ時間ができた。",
+      "replies": [
+        {
+          "id": "p47-extra-092-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-093",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I accidentally sent a blank message. My friend replied with a question mark.",
+      "translation": "うっかり空のメッセージを送った。 友達から「？」と返ってきた。",
+      "replies": [
+        {
+          "id": "p47-extra-093-r1",
+          "author": "Mellow Moon",
+          "avatar": "🌙",
+          "text": "Some days are like that.",
+          "translation": "そういう日もあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-094",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I made a small list before shopping. This time, I remembered to bring it.",
+      "translation": "買い物前に短いリストを作った。 今回は忘れずに持ってきた。",
+      "replies": [
+        {
+          "id": "p47-extra-094-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-095",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I answered all my emails this morning. It feels good to have a clear inbox.",
+      "translation": "今朝はメールを全部返信した。 受信箱がすっきりして気持ちいい。",
+      "replies": [
+        {
+          "id": "p47-extra-095-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-096",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I moved my desk closer to the window. There is much more light now.",
+      "translation": "机を窓に近づけた。 前よりずっと明るい。",
+      "replies": [
+        {
+          "id": "p47-extra-096-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-097",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "The printer ran out of paper. Of course it happened at the worst time.",
+      "translation": "プリンターの紙がなくなった。 よりによって最悪のタイミングだった。",
+      "replies": [
+        {
+          "id": "p47-extra-097-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-098",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I took notes during a long call. I can still read most of my handwriting.",
+      "translation": "長い電話の間にメモを取った。 自分の字はだいたい読める。",
+      "replies": [
+        {
+          "id": "p47-extra-098-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-099",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I finished a task I'd been avoiding. It took less time than I feared.",
+      "translation": "後回しにしていた作業を終えた。 心配していたより短時間で済んだ。",
+      "replies": [
+        {
+          "id": "p47-extra-099-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-100",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "My schedule changed this morning. Now I have an unexpected free hour.",
+      "translation": "今朝、予定が変わった。 思いがけず1時間空いた。",
+      "replies": [
+        {
+          "id": "p47-extra-100-r1",
+          "author": "Wise Owl",
+          "avatar": "🦉",
+          "text": "Small steps are still progress.",
+          "translation": "小さな一歩も前進だよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-101",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I cleaned out my bag. There were so many old receipts.",
+      "translation": "バッグの中を片付けた。 古いレシートが山ほど出てきた。",
+      "replies": [
+        {
+          "id": "p47-extra-101-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-102",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I tried a new shortcut on my computer. It might save me time every day.",
+      "translation": "パソコンで新しいショートカットを試した。 毎日時間を節約できるかもしれない。",
+      "replies": [
+        {
+          "id": "p47-extra-102-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-103",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I lost track of time while drawing. The sun was down when I looked up.",
+      "translation": "絵を描いていて時間を忘れた。 顔を上げたら日が沈んでいた。",
+      "replies": [
+        {
+          "id": "p47-extra-103-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-104",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I forgot to charge my phone. I had to borrow a cable.",
+      "translation": "スマホを充電し忘れた。 ケーブルを借りなきゃいけなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-104-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-105",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I practiced handwriting today. My last line looks better than the first.",
+      "translation": "今日は文字を書く練習をした。 最後の一行は最初より上手に書けた。",
+      "replies": [
+        {
+          "id": "p47-extra-105-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-106",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I cleaned the kitchen sink. It sparkles more than I expected.",
+      "translation": "台所のシンクを掃除した。 思った以上にぴかぴかになった。",
+      "replies": [
+        {
+          "id": "p47-extra-106-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did it go as planned?",
+          "translation": "予定どおりに進んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-107",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I tried organizing my bookshelf by color. It looks pretty, but finding books is harder.",
+      "translation": "本棚を色ごとに並べてみた。 きれいだけど、本を探すのが難しくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-107-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did it go as planned?",
+          "translation": "予定どおりに進んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-108",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I planned to take a five-minute break. Somehow twenty minutes passed.",
+      "translation": "5分だけ休憩するつもりだった。 なぜか20分経っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-108-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I hope you get a break soon.",
+          "translation": "早く休憩できるといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-109",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I rearranged the plants by the window. The smallest pot now gets more sunlight.",
+      "translation": "窓辺の植物を並べ替えた。 一番小さな鉢に日が当たりやすくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-109-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-110",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I found an old sketch in a drawer. I still like the colors I chose.",
+      "translation": "引き出しから昔のスケッチが出てきた。 選んだ色は今も好きだ。",
+      "replies": [
+        {
+          "id": "p47-extra-110-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "That reminds me of yesterday.",
+          "translation": "昨日のことを思い出した。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-111",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "My pen stopped working halfway through. I had a spare one for once.",
+      "translation": "途中でペンが書けなくなった。 珍しく予備を持っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-111-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I hope tomorrow is a little easier.",
+          "translation": "明日は少し楽だといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-112",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I turned off my phone for an hour. It was quieter than I expected.",
+      "translation": "1時間スマホの電源を切った。 思ったより静かだった。",
+      "replies": [
+        {
+          "id": "p47-extra-112-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-113",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I spent the morning preparing for visitors. They arrived carrying cake.",
+      "translation": "午前中は来客の準備をした。 お客さんはケーキを持って来てくれた。",
+      "replies": [
+        {
+          "id": "p47-extra-113-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Take care of yourself too.",
+          "translation": "自分のことも大切にね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-114",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I tried a different chair today. My back seems happier.",
+      "translation": "今日はいつもと違う椅子を使った。 背中が楽になった気がする。",
+      "replies": [
+        {
+          "id": "p47-extra-114-r1",
+          "author": "Chloe Spark",
+          "avatar": "💄",
+          "text": "At least there is a story to tell!",
+          "translation": "話のネタにはなったね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-115",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "The light in my hallway went out. I finally remembered to replace it.",
+      "translation": "廊下の電球が切れた。 やっと交換するのを思い出した。",
+      "replies": [
+        {
+          "id": "p47-extra-115-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I know that kind of day.",
+          "translation": "そういう日ってあるよね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-116",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I made a playlist for cleaning. I danced more than I cleaned.",
+      "translation": "掃除用のプレイリストを作った。 掃除より踊っている時間のほうが長かった。",
+      "replies": [
+        {
+          "id": "p47-extra-116-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Did it go as planned?",
+          "translation": "予定どおりに進んだ？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-117",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I finished sorting my old photos. I found one from our first concert.",
+      "translation": "古い写真の整理が終わった。 初めてのコンサートの写真が見つかった。",
+      "replies": [
+        {
+          "id": "p47-extra-117-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "I hope you get a break soon.",
+          "translation": "早く休憩できるといいね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-118",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "I practiced a passage very slowly. The notes finally started to connect.",
+      "translation": "難しい一節をとてもゆっくり練習した。 やっと音がつながり始めた。",
+      "replies": [
+        {
+          "id": "p47-extra-118-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "One thing at a time.",
+          "translation": "一つずつやろう。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-119",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I went to hear a student recital. The last piece was lovely.",
+      "translation": "学生の発表会を聴きに行った。 最後の曲がとても素敵だった。",
+      "replies": [
+        {
+          "id": "p47-extra-119-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "Maybe a short break would help.",
+          "translation": "少し休むといいかも。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-120",
+      "category": "life",
+      "author": "Bookish Fox",
+      "avatar": "📚",
+      "text": "The jazz club was packed tonight. Everyone applauded after the solo.",
+      "translation": "今夜のジャズクラブは満員だった。 ソロのあと、みんなが拍手した。",
+      "replies": [
+        {
+          "id": "p47-extra-120-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-121",
+      "category": "life",
+      "author": "Wise Owl",
+      "avatar": "🦉",
+      "text": "I tried a new reed today. It feels different from my usual one.",
+      "translation": "今日は新しいリードを試した。 いつものものとは吹き心地が違う。",
+      "replies": [
+        {
+          "id": "p47-extra-121-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "You have been busy!",
+          "translation": "忙しそうだね！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-122",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "My instrument case needs a new handle. I'll take it to the repair shop.",
+      "translation": "楽器ケースの持ち手を替えなきゃいけない。 修理店に持っていこう。",
+      "replies": [
+        {
+          "id": "p47-extra-122-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Sometimes you just have to try again.",
+          "translation": "もう一度やってみるしかないときもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-123",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I heard someone practicing scales. It brought back memories of school.",
+      "translation": "誰かが音階練習をしているのが聞こえた。 学生時代を思い出した。",
+      "replies": [
+        {
+          "id": "p47-extra-123-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "How did it sound in the end?",
+          "translation": "最後にはどんな音になった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-124",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I tried playing with a metronome. It reminded me to slow down.",
+      "translation": "メトロノームに合わせて弾いてみた。 もっとゆっくり弾こうと思い出させてくれた。",
+      "replies": [
+        {
+          "id": "p47-extra-124-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Did you enjoy playing it?",
+          "translation": "演奏して楽しかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-125",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "A neighbor asked about my violin. We ended up talking for ten minutes.",
+      "translation": "近所の人にバイオリンのことを聞かれた。 結局10分も話した。",
+      "replies": [
+        {
+          "id": "p47-extra-125-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-126",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I found a concert ticket in my coat. It's from last winter.",
+      "translation": "コートの中にコンサートのチケットがあった。 去年の冬のものだ。",
+      "replies": [
+        {
+          "id": "p47-extra-126-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Music makes the day better.",
+          "translation": "音楽があると一日が楽しくなる。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-127",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "The record shop played an unfamiliar song. I asked the staff for its name.",
+      "translation": "レコード店で知らない曲が流れていた。 店員さんに曲名を聞いた。",
+      "replies": [
+        {
+          "id": "p47-extra-127-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-128",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I listened to a singer in the park. Their voice carried across the grass.",
+      "translation": "公園で歌っている人を聴いた。 歌声が芝生の向こうまで響いていた。",
+      "replies": [
+        {
+          "id": "p47-extra-128-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-129",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I practiced a difficult chord change. It's finally getting smoother.",
+      "translation": "難しいコードチェンジを練習した。 やっと滑らかになってきた。",
+      "replies": [
+        {
+          "id": "p47-extra-129-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-130",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The piano at the community hall is old. But the sound is warm and gentle.",
+      "translation": "公民館のピアノは古い。 でも音は温かくて柔らかい。",
+      "replies": [
+        {
+          "id": "p47-extra-130-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "I love hearing about practice.",
+          "translation": "練習の話を聞くのって好き。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-131",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I tried improvising over a simple tune. One little phrase made me smile.",
+      "translation": "簡単な曲に合わせて即興演奏してみた。 短いフレーズが一つ、気に入った。",
+      "replies": [
+        {
+          "id": "p47-extra-131-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Sometimes you just have to try again.",
+          "translation": "もう一度やってみるしかないときもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-132",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I cleaned my saxophone after rehearsal. The sea breeze is lovely, but salt is not.",
+      "translation": "リハーサルのあと、サックスを手入れした。 潮風は気持ちいいけど、塩分は困る。",
+      "replies": [
+        {
+          "id": "p47-extra-132-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "How did it sound in the end?",
+          "translation": "最後にはどんな音になった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-133",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I bought new sheet music today. There are notes above every line.",
+      "translation": "今日は新しい楽譜を買った。 どの段にも注釈が書いてある。",
+      "replies": [
+        {
+          "id": "p47-extra-133-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Did you enjoy playing it?",
+          "translation": "演奏して楽しかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-134",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "We moved the chairs for rehearsal. It took longer than tuning our instruments.",
+      "translation": "練習のために椅子を動かした。 楽器の調律より時間がかかった。",
+      "replies": [
+        {
+          "id": "p47-extra-134-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-135",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I heard a familiar melody from a café. I stayed outside until it ended.",
+      "translation": "カフェから聞き覚えのあるメロディーがした。 終わるまで外で聴いていた。",
+      "replies": [
+        {
+          "id": "p47-extra-135-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Music makes the day better.",
+          "translation": "音楽があると一日が楽しくなる。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-136",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "My practice room is surprisingly cold. My hands need a moment to warm up.",
+      "translation": "練習室が意外と寒い。 手を温めるのに少し時間が必要だ。",
+      "replies": [
+        {
+          "id": "p47-extra-136-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-137",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I found a song written in an unusual key. I want to hear how it sounds.",
+      "translation": "珍しい調で書かれた曲を見つけた。 どんな響きなのか聴いてみたい。",
+      "replies": [
+        {
+          "id": "p47-extra-137-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-138",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I left my music stand at home. A friend kindly lent me one.",
+      "translation": "譜面台を家に忘れた。 友達が親切に貸してくれた。",
+      "replies": [
+        {
+          "id": "p47-extra-138-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-139",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I attended a small poetry reading. The room was completely silent.",
+      "translation": "小さな詩の朗読会に行った。 会場はしんと静まり返っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-139-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-140",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I tried writing a short song. I like the ending more than the start.",
+      "translation": "短い曲を作ってみた。 始まりより終わりのほうが気に入っている。",
+      "replies": [
+        {
+          "id": "p47-extra-140-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "Sometimes you just have to try again.",
+          "translation": "もう一度やってみるしかないときもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-141",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I recorded the sound of rain. It made a gentle rhythm on the roof.",
+      "translation": "雨音を録音した。 屋根の上で優しいリズムを刻んでいた。",
+      "replies": [
+        {
+          "id": "p47-extra-141-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "How did it sound in the end?",
+          "translation": "最後にはどんな音になった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-142",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I tuned my guitar twice today. The room temperature keeps changing.",
+      "translation": "今日はギターを二回チューニングした。 部屋の温度が何度も変わるんだ。",
+      "replies": [
+        {
+          "id": "p47-extra-142-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Did you enjoy playing it?",
+          "translation": "演奏して楽しかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-143",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "The conductor asked for a softer ending. The whole piece suddenly felt different.",
+      "translation": "指揮者が最後をもっと弱く演奏するように言った。 曲全体の印象が急に変わった。",
+      "replies": [
+        {
+          "id": "p47-extra-143-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-144",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I found a beautiful chord on the piano. I played it three more times.",
+      "translation": "ピアノで美しい和音を見つけた。 あと三回弾いてしまった。",
+      "replies": [
+        {
+          "id": "p47-extra-144-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Music makes the day better.",
+          "translation": "音楽があると一日が楽しくなる。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-145",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "Our rehearsal ran late. The streets were quiet on the way home.",
+      "translation": "リハーサルが長引いた。 帰り道は通りが静かだった。",
+      "replies": [
+        {
+          "id": "p47-extra-145-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-146",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I tried playing a melody from memory. I remembered more than I expected.",
+      "translation": "メロディーを暗譜で演奏してみた。 思ったよりたくさん覚えていた。",
+      "replies": [
+        {
+          "id": "p47-extra-146-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-147",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A friend showed me an old concert poster. The colors are still vivid.",
+      "translation": "友達が古いコンサートのポスターを見せてくれた。 色は今も鮮やかだった。",
+      "replies": [
+        {
+          "id": "p47-extra-147-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-148",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I took a photo of the stage lights. They looked like tiny stars.",
+      "translation": "舞台の照明の写真を撮った。 小さな星みたいだった。",
+      "replies": [
+        {
+          "id": "p47-extra-148-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-149",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I found a tiny seashell in my bag. I must have picked it up on my last walk.",
+      "translation": "バッグの中に小さな貝殻があった。 前の散歩で拾ったんだろうな。",
+      "replies": [
+        {
+          "id": "p47-extra-149-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "That is part of learning music.",
+          "translation": "そういうのも音楽を学ぶ過程だね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-150",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I tried making a paper lantern. It looked lovely by the window.",
+      "translation": "紙のランタンを作ってみた。 窓辺に置くと素敵だった。",
+      "replies": [
+        {
+          "id": "p47-extra-150-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "How did it sound in the end?",
+          "translation": "最後にはどんな音になった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-151",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "The music shop was closing early. I made it just in time.",
+      "translation": "楽器店が早く閉まる日だった。 ぎりぎり間に合った。",
+      "replies": [
+        {
+          "id": "p47-extra-151-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Did you enjoy playing it?",
+          "translation": "演奏して楽しかった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-152",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I finally fixed my bike light. The road feels safer at night now.",
+      "translation": "ようやく自転車のライトを直した。 夜の道を前より安心して走れる。",
+      "replies": [
+        {
+          "id": "p47-extra-152-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-153",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I received a letter from an old friend. The handwriting brought back memories.",
+      "translation": "昔の友達から手紙が届いた。 文字を見て懐かしくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-153-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Music makes the day better.",
+          "translation": "音楽があると一日が楽しくなる。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-154",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I found a quiet corner in a busy café. I could finally finish my book.",
+      "translation": "にぎやかなカフェで静かな隅の席を見つけた。 やっと本を読み終えられた。",
+      "replies": [
+        {
+          "id": "p47-extra-154-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-155",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "The little park has a new bench. It faces the afternoon sun.",
+      "translation": "小さな公園に新しいベンチができた。 午後の日が当たる方向を向いている。",
+      "replies": [
+        {
+          "id": "p47-extra-155-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-156",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I tried a beginner dance class. My feet were not quite ready.",
+      "translation": "初心者向けのダンス教室に参加してみた。 足がまだついていかなかった。",
+      "replies": [
+        {
+          "id": "p47-extra-156-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-157",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I bought a tiny bell for my keychain. Now my keys are easier to find.",
+      "translation": "キーホルダー用に小さな鈴を買った。 鍵を見つけやすくなった。",
+      "replies": [
+        {
+          "id": "p47-extra-157-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-158",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I shared an orange with a friend. It was sweeter than we expected.",
+      "translation": "友達とオレンジを分けた。 思ったより甘かった。",
+      "replies": [
+        {
+          "id": "p47-extra-158-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "That is part of learning music.",
+          "translation": "そういうのも音楽を学ぶ過程だね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-159",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "My neighbor gave me some herbs. The kitchen smells fresh now.",
+      "translation": "近所の人がハーブを分けてくれた。 台所が爽やかな香りになった。",
+      "replies": [
+        {
+          "id": "p47-extra-159-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-160",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I tried taking pictures at night. The streetlights turned into golden dots.",
+      "translation": "夜に写真を撮ってみた。 街灯が金色の点になって写った。",
+      "replies": [
+        {
+          "id": "p47-extra-160-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "Little changes can make a big difference.",
+          "translation": "小さな変化で大きく変わることもあるね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-161",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "I found a small crack in my mug. I will use it to hold pencils instead.",
+      "translation": "マグカップに小さなひびを見つけた。 これからはペン立てにしよう。",
+      "replies": [
+        {
+          "id": "p47-extra-161-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Music makes the day better.",
+          "translation": "音楽があると一日が楽しくなる。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-162",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "A child asked about my instrument. I showed them how it makes a sound.",
+      "translation": "子どもに楽器のことを聞かれた。 どうやって音が出るか見せてあげた。",
+      "replies": [
+        {
+          "id": "p47-extra-162-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-163",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "I bought a new towel for the kitchen. It has little green leaves on it.",
+      "translation": "台所用の新しいタオルを買った。 小さな緑の葉っぱの模様がある。",
+      "replies": [
+        {
+          "id": "p47-extra-163-r1",
+          "author": "Tenor Turtle",
+          "avatar": "🐢",
+          "text": "A steady pace helps so much.",
+          "translation": "一定のペースがすごく役立つよ。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-164",
+      "category": "life",
+      "author": "Tenor Turtle",
+      "avatar": "🐢",
+      "text": "I watched a cat sit in a sunny window. It looked perfectly comfortable.",
+      "translation": "日当たりのいい窓辺に猫が座っているのを見た。 とても気持ちよさそうだった。",
+      "replies": [
+        {
+          "id": "p47-extra-164-r1",
+          "author": "Lily Pop",
+          "avatar": "🎤",
+          "text": "I wish I could hear it!",
+          "translation": "聴いてみたかったな！"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-165",
+      "category": "life",
+      "author": "Mika Reed",
+      "avatar": "🎷",
+      "text": "I went out to mail a parcel. I ended up walking around the block twice.",
+      "translation": "小包を送りに出かけた。 ついでに近所を二周も歩いた。",
+      "replies": [
+        {
+          "id": "p47-extra-165-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "What happened next?",
+          "translation": "そのあとどうなった？"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-166",
+      "category": "life",
+      "author": "Clara Strings",
+      "avatar": "🎻",
+      "text": "The store had new music magazines. One had an interview with a local band.",
+      "translation": "お店に新しい音楽雑誌が並んでいた。 一冊には地元バンドのインタビューが載っていた。",
+      "replies": [
+        {
+          "id": "p47-extra-166-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "Now I want to practice too.",
+          "translation": "私も練習したくなってきた。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-167",
+      "category": "life",
+      "author": "Jazz Cat",
+      "avatar": "🐈",
+      "text": "I made a small shelf from leftover wood. It leans a little, but it holds my books.",
+      "translation": "余った木材で小さな棚を作った。 少し傾いているけど本は置ける。",
+      "replies": [
+        {
+          "id": "p47-extra-167-r1",
+          "author": "Clara Strings",
+          "avatar": "🎻",
+          "text": "That is part of learning music.",
+          "translation": "そういうのも音楽を学ぶ過程だね。"
+        }
+      ]
+    },
+    {
+      "id": "p47-extra-168",
+      "category": "life",
+      "author": "Lily Pop",
+      "avatar": "🎤",
+      "text": "A gust of wind closed my window. It startled me more than it should have.",
+      "translation": "突風で窓が閉まった。 思った以上にびっくりしてしまった。",
+      "replies": [
+        {
+          "id": "p47-extra-168-r1",
+          "author": "Jazz Cat",
+          "avatar": "🐈",
+          "text": "Sounds like a good session.",
+          "translation": "いいセッションだったみたいだね。"
         }
       ]
     }
