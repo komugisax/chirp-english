@@ -279,3 +279,8 @@ All places, people, organizations, posts, and stories are fictional. Similarity 
 
 **Compatibility:** Existing reading history, post IDs, bookmarks, story progress and exported save files are retained. The ZIP now contains 14 files; upload all files together.
 
+
+
+## Ver.4.7.1
+
+Maintenance update: 3-at-a-time My Posts, viewport-based reply read status, feed batch accounting for story and reply revisits, selectable Japanese choice translations, one delayed reply for newly created choice posts, avatar choices, story badge correction, and basic data schema validation. Includes the supplied Normal/Easy/Story conversation JSON fixes. Retains the existing localStorage key and post IDs. Back up progress before updating.
