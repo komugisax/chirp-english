@@ -22,11 +22,20 @@ Chirp English is a free-to-use, personal English-learning web app. Read short po
 
 ## Using and updating
 
-Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 14 files** from the Ver.4.7.2 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
+Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 14 files** from the Ver.4.7.3 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
 
 Before replacing files, use **Settings → Export save data** to back up your progress. If necessary, restore it with **Import save data**. Reading history, selected posts, profile choices, and other preferences are stored in the browser's localStorage using the existing key `chirp-english-v3`. Clearing site data or changing browsers/devices can lose locally stored progress. Existing exported saves and post/reply IDs are designed to remain compatible. Browser caching or GitHub Pages publishing delays may mean that changes do not appear immediately.
 
 ## Version history
+
+### Ver.4.7.3 · Small usability and character fixes
+
+- My Posts: opening or closing the accordion aligns the page with its heading instead of jumping toward the bottom of the feed. The newest three posts still appear first.
+- Avatar picker: six retired icons (🦦 🦝 🪼 🪁 🧩 🍂) are no longer offered as new choices. Existing saved selections remain valid and unchanged.
+- Post-choice menu: all 71 mood/activity choices and the three first-post choices have a leading emoji for easier scanning. The emoji is decorative in the selection menu only; it is **not** appended to the published post text.
+- Bookish Fox: profile now mentions being a beginner saxophonist, and the Easy-mode claim “I can play jazz.” has been replaced with a beginner-appropriate practice sentence. Post ID `e053` is unchanged.
+- Compatibility: existing post/reply IDs, saves and reading history remain supported. No additional services or dependencies.
+
 
 ### Ver.4.7.2 — My Posts and profile usability (2026-10-29)
 

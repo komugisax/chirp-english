@@ -24,7 +24,8 @@
               "text": "Come hear some jazz tonight!",
               "translation": "今夜ジャズを聴きにおいで！"
             }
-          ]
+          ],
+          "pickEmoji": "🕊️"
         },
         {
           "id": "bored",
@@ -46,7 +47,8 @@
               "text": "Is boredom an Earth hobby?",
               "translation": "退屈って地球の趣味なの？"
             }
-          ]
+          ],
+          "pickEmoji": "🥱"
         },
         {
           "id": "tired",
@@ -68,7 +70,8 @@
               "text": "A short nap sounds perfect.",
               "translation": "ちょっと昼寝するとよさそう。"
             }
-          ]
+          ],
+          "pickEmoji": "😮‍💨"
         },
         {
           "id": "busy",
@@ -90,7 +93,8 @@
               "text": "One thing at a time.",
               "translation": "一つずつやろう。"
             }
-          ]
+          ],
+          "pickEmoji": "💼"
         },
         {
           "id": "happy",
@@ -112,7 +116,8 @@
               "text": "Happiness seems contagious here.",
               "translation": "幸せってここでは伝染するみたいだね。"
             }
-          ]
+          ],
+          "pickEmoji": "😊"
         },
         {
           "id": "fun",
@@ -134,7 +139,8 @@
               "text": "I hope there's music involved!",
               "translation": "音楽もあるといいな！"
             }
-          ]
+          ],
+          "pickEmoji": "🎉"
         },
         {
           "id": "sad",
@@ -156,7 +162,8 @@
               "text": "Want me to listen?",
               "translation": "話を聞こうか？"
             }
-          ]
+          ],
+          "pickEmoji": "😢"
         },
         {
           "id": "annoyed",
@@ -178,7 +185,8 @@
               "text": "That sounds like a coffee break.",
               "translation": "それはコーヒー休憩の出番だね。"
             }
-          ]
+          ],
+          "pickEmoji": "😤"
         },
         {
           "id": "down",
@@ -200,7 +208,8 @@
               "text": "Hard days don't last forever.",
               "translation": "つらい日が永遠に続くわけじゃないよ。"
             }
-          ]
+          ],
+          "pickEmoji": "🌧️"
         },
         {
           "id": "excited",
@@ -217,7 +226,8 @@
               "text": "Your excitement is contagious!",
               "translation": "わくわくが伝わってくる！"
             }
-          ]
+          ],
+          "pickEmoji": "🤩"
         },
         {
           "id": "nervous",
@@ -234,7 +244,8 @@
               "text": "I get nervous before shows too.",
               "translation": "私も本番前は緊張するよ。"
             }
-          ]
+          ],
+          "pickEmoji": "😬"
         },
         {
           "id": "worried",
@@ -251,7 +262,8 @@
               "text": "One thing at a time.",
               "translation": "一つずつ考えよう。"
             }
-          ]
+          ],
+          "pickEmoji": "😟"
         },
         {
           "id": "surprised",
@@ -810,7 +822,8 @@
               "text": "One page, then lights out.",
               "translation": "あと一ページで消灯ね。"
             }
-          ]
+          ],
+          "pickEmoji": "😴"
         },
         {
           "id": "hungry",
@@ -832,7 +845,8 @@
               "text": "How many meals do humans need?",
               "translation": "人間って何食必要なの？"
             }
-          ]
+          ],
+          "pickEmoji": "🍙"
         },
         {
           "id": "full",
@@ -854,7 +868,8 @@
               "text": "Is this your battery at 100%?",
               "translation": "これは充電100％の状態？"
             }
-          ]
+          ],
+          "pickEmoji": "😋"
         },
         {
           "id": "delicious",
@@ -876,7 +891,8 @@
               "text": "Save me a bite next time.",
               "translation": "次は私の分も一口残してね。"
             }
-          ]
+          ],
+          "pickEmoji": "🍽️"
         },
         {
           "id": "work",
@@ -898,7 +914,8 @@
               "text": "Time to switch to music mode?",
               "translation": "音楽モードに切り替える時間？"
             }
-          ]
+          ],
+          "pickEmoji": "💻"
         },
         {
           "id": "performance",
@@ -920,7 +937,8 @@
               "text": "Now give your hands a rest.",
               "translation": "さあ、手を休ませてあげて。"
             }
-          ]
+          ],
+          "pickEmoji": "🎤"
         },
         {
           "id": "break",
@@ -942,7 +960,8 @@
               "text": "The sofa is available.",
               "translation": "ソファ、空いてるよ。"
             }
-          ]
+          ],
+          "pickEmoji": "☕"
         },
         {
           "id": "home",
@@ -964,7 +983,8 @@
               "text": "Check the last train before leaving.",
               "translation": "帰る前に終電を確認してね。"
             }
-          ]
+          ],
+          "pickEmoji": "🏠"
         }
       ]
     },
@@ -986,7 +1006,8 @@
               "text": "Hot tea might help.",
               "translation": "温かい紅茶がいいかも。"
             }
-          ]
+          ],
+          "pickEmoji": "🥶"
         },
         {
           "id": "hot",
@@ -1003,7 +1024,8 @@
               "text": "The shade helps a lot.",
               "translation": "日陰にいるとずいぶん違うよ。"
             }
-          ]
+          ],
+          "pickEmoji": "🥵"
         },
         {
           "id": "tomorrow",
@@ -1025,7 +1047,8 @@
               "text": "A little anticipation is lovely.",
               "translation": "楽しみに待つ時間も素敵だね。"
             }
-          ]
+          ],
+          "pickEmoji": "📅"
         },
         {
           "id": "goodday",
@@ -1047,7 +1070,8 @@
               "text": "Let's end it with a song!",
               "translation": "歌で締めくくろう！"
             }
-          ]
+          ],
+          "pickEmoji": "🌞"
         },
         {
           "id": "badday",
@@ -1069,7 +1093,8 @@
               "text": "Want some quiet jazz?",
               "translation": "静かなジャズを聴く？"
             }
-          ]
+          ],
+          "pickEmoji": "☁️"
         },
         {
           "id": "plans",
@@ -1091,7 +1116,8 @@
               "text": "I vote for an excellent nap.",
               "translation": "私は最高の昼寝に一票。"
             }
-          ]
+          ],
+          "pickEmoji": "🗓️"
         }
       ]
     },
