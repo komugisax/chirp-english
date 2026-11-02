@@ -15,20 +15,33 @@ Chirp English is a free-to-use, personal English-learning web app. Read short po
 - Your own selectable posts with simulated replies, including an additional reply around one hour after newly created eligible posts.
 - Reading history, Continue reading, bookmarks, and saved reading progress.
 - My Posts accordion, initially closed, showing three posts at a time.
-- Little English Lab: a searchable glossary of expressions appearing in Chirp English ([Open the lab](lab.html)).
+- Little English Lab with direct vocabulary links from matching post/reply words ([Open the lab](lab.html)).
+- Grammar Basics: 18 Japanese lessons with colored grammar chunks ([Open Grammar Basics](grammar.html)).
+- Fictional shop directions, dinner roulette, and categorized avatar choices.
 - Custom player name, emoji avatar, avatar background, seven Flower Themes, and text-size settings.
 - Feed batch-size setting (3–7, default 4) and optional Japanese translations in selectable-post menus.
 - Local save export/import; posts, story content, and other authored data are delivered in JSON files.
 
 ## Using and updating
 
-Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 14 files** from the Ver.4.7.3 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
+Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 17 files** from the Ver.4.8 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
 
 Before replacing files, use **Settings → Export save data** to back up your progress. If necessary, restore it with **Import save data**. Reading history, selected posts, profile choices, and other preferences are stored in the browser's localStorage using the existing key `chirp-english-v3`. Clearing site data or changing browsers/devices can lose locally stored progress. Existing exported saves and post/reply IDs are designed to remain compatible. Browser caching or GitHub Pages publishing delays may mean that changes do not appear immediately.
 
 ## Version history
 
-### Ver.4.7.3 · Small usability and character fixes
+### Ver.4.8 — Learning, local guides, and dinner roulette (2026-11-02)
+
+- **Tap vocabulary** in a post or reply to jump directly to an existing Little English Lab explanation when its English term matches. Text styling remains unobtrusive; unmatched words stay plain.
+- **Grammar Basics** (`grammar.html`, `grammar.json`): 18 short Japanese lessons with color-coded subject, verb, object/complement, and time/place chunks. Includes long subjects, relative clauses, and gerunds. Grammar coloring is limited to the teaching page, not feed posts.
+- **Fictional local shop guides**: six new direction posts in both Normal and Easy, with consistent station/street/landmark references in `locations.json`. All places and directions are imaginary.
+- **Hidden dinner roulette**: choose “What should I eat?” in the post composer to receive three saved meal suggestions from two random residents plus Rosie Pan. Includes Japanese, Asian, Western dishes and 26 rotating Rosie’s Kitchen specials; it sends no real notification.
+- **Categorized avatar picker**: Animals, Fruit, Food, Nature, Music, Sports, Things; existing icon selections and background colors remain stored. Emoji designs and support may vary by device.
+- **Unread reply repair**: when a reply in My Posts actually becomes visible, it is marked read and the unread badge updates. Read status persists after reopening. Off-screen replies remain unread.
+- Compatibility: prior saved post/reply IDs and the existing `chirp-english-v3` browser save key are retained. Existing Normal/Easy posts are not deleted or reordered. Current archive totals are **606 Normal** and **406 Easy**.
+- Static hosting only: **17 files** must be uploaded together; no Node.js runtime or online AI is required. Security checks do not guarantee absolute safety, and real-device Safari/Android testing remains necessary.
+
+### Ver.4.7.3 · Small usability and character fixes (2026-10-31)
 
 - My Posts: opening or closing the accordion aligns the page with its heading instead of jumping toward the bottom of the feed. The newest three posts still appear first.
 - Avatar picker: six retired icons (🦦 🦝 🪼 🪁 🧩 🍂) are no longer offered as new choices. Existing saved selections remain valid and unchanged.

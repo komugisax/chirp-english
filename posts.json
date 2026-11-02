@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8",
   "posts": [
     {
       "id": "p001",
@@ -10511,6 +10511,108 @@
           "avatar": "🐈",
           "text": "A sudden gust can really make you jump!",
           "translation": "急に強い風が吹くとびっくりするよね！"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-01",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Rosie’s Kitchen: Go straight from Bellwindport Station. Cross Harbor Street and turn right at the bookstore. Rosie’s Kitchen is next to the flower shop. It is about a three-minute walk.",
+      "translation": "ベルウィンドポート駅からまっすぐ進み、ハーバー通りを渡って本屋さんで右へ。ロージーズ・キッチンは花屋さんの隣。徒歩約3分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-01-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-02",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Windmill Bakery: Walk along Harbor Street from Bellwindport Station. Turn right at the bookstore. Windmill Bakery is across from Rosie’s Kitchen. It is a five-minute walk.",
+      "translation": "ベルウィンドポート駅からハーバー通りを進み、本屋さんで右折。ウィンドミル・ベーカリーはロージーズ・キッチンの向かい。徒歩5分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-02-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-03",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Sunvale Garden Café: From Sunvale Station, go straight on Sunshine Road. Cross at the public library. The café is beside Sunvale Park, about four minutes away on foot.",
+      "translation": "サンベール駅からサンシャイン通りを直進。公共図書館のところで横断。カフェはサンベール公園の隣、徒歩約4分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-03-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-04",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Frosthill Mineral Shop: From Frosthill Station, follow Snowdrop Lane. Turn left at the clock tower. The mineral shop is next to the bookshop, about six minutes from the station.",
+      "translation": "フロストヒル駅からスノードロップ通りを進み、時計塔で左へ。鉱物店は本屋さんの隣で、駅から約6分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-04-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-05",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Cloverstonemill Music Store: Exit Cloverstonemill Station and walk along Guitar Street. Turn right at the record shop. The music store is opposite the small live house, a three-minute walk.",
+      "translation": "クローバーストーンミル駅を出てギター通りを進み、レコード店で右へ。楽器店は小さなライブハウスの向かい。徒歩3分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-05-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
+        }
+      ]
+    },
+    {
+      "id": "p48-route-06",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Eastmere Book Nook: From Eastmere Station, walk to Willow Lane. Cross the street at the post office. Book Nook is on your left, beside the tea shop. It is a seven-minute walk.",
+      "translation": "イーストミア駅からウィロー通りへ。郵便局のところで通りを渡ると、左手のお茶屋さんの隣がブック・ヌック。徒歩約7分だよ。",
+      "replies": [
+        {
+          "id": "p48-route-06-r1",
+          "author": "Ollie",
+          "avatar": "💡",
+          "text": "Thanks! The landmark makes it easy to find.",
+          "translation": "ありがとう！目印があると見つけやすいね。"
         }
       ]
     }

@@ -387,6 +387,15 @@
       "color": "#F5D693",
       "location": "Sunvale",
       "bio": "Plants, window boxes, little gardens, and all the ordinary parts of a sunny day."
+    },
+    {
+      "id": "town_guide",
+      "name": "Town Guide",
+      "handle": "@town_guide",
+      "avatar": "🗺️",
+      "color": "#D6E6CE",
+      "location": "Across the Chirp towns",
+      "bio": "Fictional local shop and walking-route guide. No real-world locations."
     }
   ]
 }

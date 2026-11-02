@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8",
   "entries": [
     {
       "id": "figure-out",
@@ -704,6 +704,171 @@
       "exampleJa": "古い楽譜集を見つけた。 余白に書き込みがある。",
       "postId": "p47-049-0",
       "author": "Jazz Cat"
+    },
+    {
+      "id": "go-straight",
+      "term": "go straight",
+      "kind": "熟語",
+      "meaning": "まっすぐ進む",
+      "note": "道案内で前方へ直進してほしいときの言い方。",
+      "example": "Go straight from Bellwindport Station.",
+      "exampleJa": "ベルウィンドポート駅からまっすぐ進んで。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "turn-right",
+      "term": "turn right",
+      "kind": "熟語",
+      "meaning": "右に曲がる",
+      "note": "turn left は左に曲がる。at the bookstore で「本屋のところで」。",
+      "example": "Turn right at the bookstore.",
+      "exampleJa": "本屋さんで右に曲がって。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "turn-left",
+      "term": "turn left",
+      "kind": "熟語",
+      "meaning": "左に曲がる",
+      "note": "turn right とセットで覚えると道案内が楽になる。",
+      "example": "Turn left at the clock tower.",
+      "exampleJa": "時計塔で左に曲がって。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-04"
+    },
+    {
+      "id": "cross-the-street",
+      "term": "cross the street",
+      "kind": "熟語",
+      "meaning": "道を渡る",
+      "note": "crossは動詞「横断する」。crosswalk は「横断歩道」。",
+      "example": "Cross the street at the post office.",
+      "exampleJa": "郵便局のところで道を渡って。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-06"
+    },
+    {
+      "id": "next-to",
+      "term": "next to",
+      "kind": "熟語",
+      "meaning": "〜の隣に",
+      "note": "場所の位置関係を説明するときの便利な表現。",
+      "example": "It is next to the flower shop.",
+      "exampleJa": "花屋さんの隣にあるよ。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "across-from",
+      "term": "across from",
+      "kind": "熟語",
+      "meaning": "〜の向かいに",
+      "note": "通りなどを挟んだ向かい側。opposite とも言える。",
+      "example": "The bakery is across from Rosie’s Kitchen.",
+      "exampleJa": "パン屋さんはロージーズ・キッチンの向かい。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-02"
+    },
+    {
+      "id": "on-your-left",
+      "term": "on your left",
+      "kind": "熟語",
+      "meaning": "あなたの左側に",
+      "note": "目的地がどちら側に見えるかを伝える。右側は on your right。",
+      "example": "Book Nook is on your left.",
+      "exampleJa": "ブック・ヌックは左手にあるよ。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-06"
+    },
+    {
+      "id": "walking-distance",
+      "term": "a three-minute walk",
+      "kind": "表現",
+      "meaning": "徒歩3分",
+      "note": "a five-minute walk は徒歩5分。minute は複合形容詞なので単数形。",
+      "example": "It is about a three-minute walk.",
+      "exampleJa": "歩いて約3分だよ。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "landmark",
+      "term": "landmark",
+      "kind": "単語",
+      "meaning": "目印・ランドマーク",
+      "note": "建物・時計塔など、道案内の目印になるもの。",
+      "example": "The clock tower is a useful landmark.",
+      "exampleJa": "時計塔はわかりやすい目印だよ。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-04"
+    },
+    {
+      "id": "station",
+      "term": "station",
+      "kind": "単語",
+      "meaning": "駅",
+      "note": "train station は鉄道の駅。バス停は bus stop。",
+      "example": "Walk from Frosthill Station.",
+      "exampleJa": "フロストヒル駅から歩いて。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-04"
+    },
+    {
+      "id": "library",
+      "term": "library",
+      "kind": "単語",
+      "meaning": "図書館",
+      "note": "bookstore は本屋さん。図書館と混同しないように。",
+      "example": "Cross at the public library.",
+      "exampleJa": "公共図書館のところで渡って。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-03"
+    },
+    {
+      "id": "recommend",
+      "term": "recommend",
+      "kind": "単語",
+      "meaning": "おすすめする",
+      "note": "I recommend ... は「〜をおすすめします」。",
+      "example": "I recommend a warm soup.",
+      "exampleJa": "温かいスープをおすすめするよ。",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "how-about",
+      "term": "how about",
+      "kind": "熟語",
+      "meaning": "〜はどう？",
+      "note": "料理や行き先の提案にも使える。",
+      "example": "How about udon noodles?",
+      "exampleJa": "うどんはどう？",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-01"
+    },
+    {
+      "id": "soba",
+      "term": "soba",
+      "kind": "単語",
+      "meaning": "そば（料理）",
+      "note": "英語では soba noodles の形でも説明できる。",
+      "example": "How about soba noodles?",
+      "exampleJa": "そばはどう？",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-04"
+    },
+    {
+      "id": "udon",
+      "term": "udon",
+      "kind": "単語",
+      "meaning": "うどん",
+      "note": "英語では udon noodles とも言う。",
+      "example": "How about udon noodles?",
+      "exampleJa": "うどんはどう？",
+      "author": "Town Guide / Chirp English",
+      "postId": "p48-route-03"
     }
   ]
 }

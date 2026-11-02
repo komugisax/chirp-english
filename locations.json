@@ -1,0 +1,61 @@
+{
+  "version": "4.8",
+  "fictional": true,
+  "note": "Fictional landmarks and routes; not real directions. Consistency reference for future local news.",
+  "places": [
+    {
+      "name": "Rosie’s Kitchen",
+      "station": "Bellwindport Station",
+      "street": "Harbor Street",
+      "landmark": "bookstore",
+      "near": "flower shop",
+      "directions": "Go straight from Bellwindport Station. Cross Harbor Street and turn right at the bookstore. Rosie’s Kitchen is next to the flower shop. It is about a three-minute walk.",
+      "directionsJa": "ベルウィンドポート駅からまっすぐ進み、ハーバー通りを渡って本屋さんで右へ。ロージーズ・キッチンは花屋さんの隣。徒歩約3分だよ。"
+    },
+    {
+      "name": "Windmill Bakery",
+      "station": "Bellwindport Station",
+      "street": "Harbor Street",
+      "landmark": "bookstore",
+      "near": "Rosie’s Kitchen",
+      "directions": "Walk along Harbor Street from Bellwindport Station. Turn right at the bookstore. Windmill Bakery is across from Rosie’s Kitchen. It is a five-minute walk.",
+      "directionsJa": "ベルウィンドポート駅からハーバー通りを進み、本屋さんで右折。ウィンドミル・ベーカリーはロージーズ・キッチンの向かい。徒歩5分だよ。"
+    },
+    {
+      "name": "Sunvale Garden Café",
+      "station": "Sunvale Station",
+      "street": "Sunshine Road",
+      "landmark": "public library",
+      "near": "Sunvale Park",
+      "directions": "From Sunvale Station, go straight on Sunshine Road. Cross at the public library. The café is beside Sunvale Park, about four minutes away on foot.",
+      "directionsJa": "サンベール駅からサンシャイン通りを直進。公共図書館のところで横断。カフェはサンベール公園の隣、徒歩約4分だよ。"
+    },
+    {
+      "name": "Frosthill Mineral Shop",
+      "station": "Frosthill Station",
+      "street": "Snowdrop Lane",
+      "landmark": "clock tower",
+      "near": "bookshop",
+      "directions": "From Frosthill Station, follow Snowdrop Lane. Turn left at the clock tower. The mineral shop is next to the bookshop, about six minutes from the station.",
+      "directionsJa": "フロストヒル駅からスノードロップ通りを進み、時計塔で左へ。鉱物店は本屋さんの隣で、駅から約6分だよ。"
+    },
+    {
+      "name": "Cloverstonemill Music Store",
+      "station": "Cloverstonemill Station",
+      "street": "Guitar Street",
+      "landmark": "record shop",
+      "near": "small live house",
+      "directions": "Exit Cloverstonemill Station and walk along Guitar Street. Turn right at the record shop. The music store is opposite the small live house, a three-minute walk.",
+      "directionsJa": "クローバーストーンミル駅を出てギター通りを進み、レコード店で右へ。楽器店は小さなライブハウスの向かい。徒歩3分だよ。"
+    },
+    {
+      "name": "Eastmere Book Nook",
+      "station": "Eastmere Station",
+      "street": "Willow Lane",
+      "landmark": "post office",
+      "near": "tea shop",
+      "directions": "From Eastmere Station, walk to Willow Lane. Cross the street at the post office. Book Nook is on your left, beside the tea shop. It is a seven-minute walk.",
+      "directionsJa": "イーストミア駅からウィロー通りへ。郵便局のところで通りを渡ると、左手のお茶屋さんの隣がブック・ヌック。徒歩約7分だよ。"
+    }
+  ]
+}
