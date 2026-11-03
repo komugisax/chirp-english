@@ -24,11 +24,18 @@ Chirp English is a free-to-use, personal English-learning web app. Read short po
 
 ## Using and updating
 
-Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 17 files** from the Ver.4.8 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
+Chirp English is a static website intended for GitHub Pages or another static host; a Node.js server is not required to run it. Upload **all 17 files** from the Ver.4.8.1 ZIP together, preserving filenames and relative paths. [Japanese guide](guide.html) is available in the app, with a one-time guide prompt for new users.
 
 Before replacing files, use **Settings → Export save data** to back up your progress. If necessary, restore it with **Import save data**. Reading history, selected posts, profile choices, and other preferences are stored in the browser's localStorage using the existing key `chirp-english-v3`. Clearing site data or changing browsers/devices can lose locally stored progress. Existing exported saves and post/reply IDs are designed to remain compatible. Browser caching or GitHub Pages publishing delays may mean that changes do not appear immediately.
 
 ## Version history
+
+### Ver.4.8.1 — Conversation and Lab fixes (2026-11-03)
+
+- Corrected six mismatched replies in the conversation dataset while preserving post and reply IDs.
+- Adjusted English Lab anchor scrolling to account for the sticky filter header.
+- Added the idiom “half the battle” from an existing reply to the Lab.
+- Clarified the Japanese documentation for the dinner roulette.
 
 ### Ver.4.8 — Learning, local guides, and dinner roulette (2026-11-02)
 

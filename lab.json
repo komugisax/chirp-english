@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.8.1",
   "entries": [
     {
       "id": "figure-out",
@@ -869,6 +869,17 @@
       "exampleJa": "うどんはどう？",
       "author": "Town Guide / Chirp English",
       "postId": "p48-route-03"
+    },
+    {
+      "id": "half-the-battle",
+      "term": "half the battle",
+      "kind": "熟語",
+      "meaning": "成功するための大事な一歩・大きな部分",
+      "note": "直訳は「戦いの半分」。何かを達成するうえで、重要な部分をもうクリアした、という意味で使います。",
+      "example": "Remembering the list is half the battle!",
+      "exampleJa": "買い物リストを忘れずに持ってきたら、もう大事な部分はクリアだね！",
+      "postId": "p47-extra-094",
+      "author": "Wise Owl"
     }
   ]
 }

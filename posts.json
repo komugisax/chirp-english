@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.8.1",
   "posts": [
     {
       "id": "p001",
@@ -9030,8 +9030,8 @@
           "id": "p47-extra-081-r1",
           "author": "Mika Reed",
           "avatar": "🎷",
-          "text": "I love how quiet the harbor looks in the morning.",
-          "translation": "朝の静かな港っていいよね。"
+          "text": "That smile must have made your day a little brighter.",
+          "translation": "その笑顔で、ちょっといい気分になれただろうね。"
         }
       ]
     },
@@ -9047,8 +9047,8 @@
           "id": "p47-extra-082-r1",
           "author": "Bookish Fox",
           "avatar": "📚",
-          "text": "That little shop sounds worth visiting.",
-          "translation": "その小さなお店、行ってみたいな。"
+          "text": "The mountains must have looked beautiful in that clear air.",
+          "translation": "澄んだ空気の中で、山がきれいに見えただろうね。"
         }
       ]
     },
@@ -9064,8 +9064,8 @@
           "id": "p47-extra-083-r1",
           "author": "Jazz Cat",
           "avatar": "🐈",
-          "text": "Did the rain stop before you got home?",
-          "translation": "家に帰る前に雨はやんだ？"
+          "text": "The streetlights reflected on the water? That sounds beautiful.",
+          "translation": "水面に街灯が映っていたの？きれいそうだね。"
         }
       ]
     },
@@ -9081,8 +9081,8 @@
           "id": "p47-extra-084-r1",
           "author": "Wise Owl",
           "avatar": "🦉",
-          "text": "It must have been lovely to hear those birds.",
-          "translation": "鳥の声が聞こえるなんて素敵だね。"
+          "text": "A little shade can make a big difference.",
+          "translation": "少し日陰になるだけでも、ずいぶん違うよね。"
         }
       ]
     },
@@ -9098,8 +9098,8 @@
           "id": "p47-extra-085-r1",
           "author": "Chloe Spark",
           "avatar": "💄",
-          "text": "I would have stopped to watch too.",
-          "translation": "私も立ち止まって眺めちゃうだろうな。"
+          "text": "Old painted signs have so much character.",
+          "translation": "昔の手描きの看板って味があるよね。"
         }
       ]
     },
@@ -9115,8 +9115,8 @@
           "id": "p47-extra-086-r1",
           "author": "Tenor Turtle",
           "avatar": "🐢",
-          "text": "That sounds like a peaceful place to walk.",
-          "translation": "散歩するのに落ち着きそうな場所だね。"
+          "text": "Colorful birds sound perfect for a mural.",
+          "translation": "色とりどりの鳥は壁画にぴったりだね。"
         }
       ]
     },
