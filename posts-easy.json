@@ -1,5 +1,5 @@
 {
-  "version": "4.8.1",
+  "version": "4.8.2",
   "posts": [
     {
       "id": "e001",
@@ -5225,6 +5225,23 @@
       ]
     },
     {
+      "id": "e48-route-01",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Rosie’s Kitchen: Rosie’s Kitchen is near Bellwindport Station. Walk along Harbor Street. Turn at the bookstore. It is near the flower shop.",
+      "translation": "Rosie’s KitchenはBellwindport Stationの近く。Harbor Streetを歩き、bookstoreで曲がってね。flower shopの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-01-r1",
+          "author": "Rosie Pan",
+          "avatar": "👩‍🍳",
+          "text": "Thanks for sharing the route to my kitchen!",
+          "translation": "私のキッチンへの道案内をありがとう！"
+        }
+      ]
+    },
+    {
       "id": "e47-037-0",
       "category": "easy",
       "author": "Nova Orbit",
@@ -5493,6 +5510,23 @@
           "avatar": "📚",
           "text": "A little map is useful.",
           "translation": "小さな地図は便利だね。"
+        }
+      ]
+    },
+    {
+      "id": "e48-route-02",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Windmill Bakery: Windmill Bakery is near Bellwindport Station. Walk along Harbor Street. Turn at the bookstore. It is near the Rosie’s Kitchen.",
+      "translation": "Windmill BakeryはBellwindport Stationの近く。Harbor Streetを歩き、bookstoreで曲がってね。Rosie’s Kitchenの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-02-r1",
+          "author": "Coffee Goblin",
+          "avatar": "☕",
+          "text": "A bakery near the bookstore? I need to visit!",
+          "translation": "本屋の近くのパン屋？行ってみたい！"
         }
       ]
     },
@@ -5769,6 +5803,23 @@
       ]
     },
     {
+      "id": "e48-route-03",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Sunvale Garden Café: Sunvale Garden Café is near Sunvale Station. Walk along Sunshine Road. Turn at the public library. It is near the Sunvale Park.",
+      "translation": "Sunvale Garden CaféはSunvale Stationの近く。Sunshine Roadを歩き、public libraryで曲がってね。Sunvale Parkの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-03-r1",
+          "author": "Sunny Bloom",
+          "avatar": "🌻",
+          "text": "The library is a helpful landmark. Thank you!",
+          "translation": "図書館が目印になるね。ありがとう！"
+        }
+      ]
+    },
+    {
       "id": "e47-053-0",
       "category": "easy",
       "author": "Jazz Cat",
@@ -6037,6 +6088,23 @@
           "avatar": "🎤",
           "text": "Spare strings are a good idea.",
           "translation": "予備の弦があると安心だね。"
+        }
+      ]
+    },
+    {
+      "id": "e48-route-04",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Frosthill Mineral Shop: Frosthill Mineral Shop is near Frosthill Station. Walk along Snowdrop Lane. Turn at the clock tower. It is near the bookshop.",
+      "translation": "Frosthill Mineral ShopはFrosthill Stationの近く。Snowdrop Laneを歩き、clock towerで曲がってね。bookshopの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-04-r1",
+          "author": "Gemma Stone",
+          "avatar": "💎",
+          "text": "The clock tower makes the mineral shop easy to find.",
+          "translation": "時計台があると鉱物店を見つけやすいね。"
         }
       ]
     },
@@ -6313,6 +6381,23 @@
       ]
     },
     {
+      "id": "e48-route-05",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Cloverstonemill Music Store: Cloverstonemill Music Store is near Cloverstonemill Station. Walk along Guitar Street. Turn at the record shop. It is near the small live house.",
+      "translation": "Cloverstonemill Music StoreはCloverstonemill Stationの近く。Guitar Streetを歩き、record shopで曲がってね。small live houseの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-05-r1",
+          "author": "Mika Reed",
+          "avatar": "🎷",
+          "text": "A music store on Guitar Street? Perfect!",
+          "translation": "ギター通りに楽器店？ぴったりだね！"
+        }
+      ]
+    },
+    {
       "id": "e47-069-0",
       "category": "easy",
       "author": "Nova Orbit",
@@ -6585,6 +6670,23 @@
       ]
     },
     {
+      "id": "e48-route-06",
+      "category": "local",
+      "author": "Town Guide",
+      "avatar": "🗺️",
+      "text": "📍 Eastmere Book Nook: Eastmere Book Nook is near Eastmere Station. Walk along Willow Lane. Turn at the post office. It is near the tea shop.",
+      "translation": "Eastmere Book NookはEastmere Stationの近く。Willow Laneを歩き、post officeで曲がってね。tea shopの近くだよ。",
+      "replies": [
+        {
+          "id": "e48-route-06-r1",
+          "author": "Bookish Fox",
+          "avatar": "📚",
+          "text": "A bookshop near the post office? I want to go!",
+          "translation": "郵便局の近くの本屋？行ってみたい！"
+        }
+      ]
+    },
+    {
       "id": "e47-077-0",
       "category": "easy",
       "author": "Lily Pop",
@@ -6853,108 +6955,6 @@
           "avatar": "🦉",
           "text": "That cloud brought some shade!",
           "translation": "雲のおかげで少し日陰になったね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-01",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Rosie’s Kitchen: Rosie’s Kitchen is near Bellwindport Station. Walk along Harbor Street. Turn at the bookstore. It is near the flower shop.",
-      "translation": "Rosie’s KitchenはBellwindport Stationの近く。Harbor Streetを歩き、bookstoreで曲がってね。flower shopの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-01-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-02",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Windmill Bakery: Windmill Bakery is near Bellwindport Station. Walk along Harbor Street. Turn at the bookstore. It is near the Rosie’s Kitchen.",
-      "translation": "Windmill BakeryはBellwindport Stationの近く。Harbor Streetを歩き、bookstoreで曲がってね。Rosie’s Kitchenの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-02-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-03",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Sunvale Garden Café: Sunvale Garden Café is near Sunvale Station. Walk along Sunshine Road. Turn at the public library. It is near the Sunvale Park.",
-      "translation": "Sunvale Garden CaféはSunvale Stationの近く。Sunshine Roadを歩き、public libraryで曲がってね。Sunvale Parkの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-03-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-04",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Frosthill Mineral Shop: Frosthill Mineral Shop is near Frosthill Station. Walk along Snowdrop Lane. Turn at the clock tower. It is near the bookshop.",
-      "translation": "Frosthill Mineral ShopはFrosthill Stationの近く。Snowdrop Laneを歩き、clock towerで曲がってね。bookshopの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-04-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-05",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Cloverstonemill Music Store: Cloverstonemill Music Store is near Cloverstonemill Station. Walk along Guitar Street. Turn at the record shop. It is near the small live house.",
-      "translation": "Cloverstonemill Music StoreはCloverstonemill Stationの近く。Guitar Streetを歩き、record shopで曲がってね。small live houseの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-05-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
-        }
-      ]
-    },
-    {
-      "id": "e48-route-06",
-      "category": "local",
-      "author": "Town Guide",
-      "avatar": "🗺️",
-      "text": "📍 Eastmere Book Nook: Eastmere Book Nook is near Eastmere Station. Walk along Willow Lane. Turn at the post office. It is near the tea shop.",
-      "translation": "Eastmere Book NookはEastmere Stationの近く。Willow Laneを歩き、post officeで曲がってね。tea shopの近くだよ。",
-      "replies": [
-        {
-          "id": "e48-route-06-r1",
-          "author": "Ollie",
-          "avatar": "💡",
-          "text": "Thanks! The landmark makes it easy to find.",
-          "translation": "ありがとう！目印があると見つけやすいね。"
         }
       ]
     }

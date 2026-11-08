@@ -1,5 +1,5 @@
 {
-  "version": "4.8.1",
+  "version": "4.8.2",
   "entries": [
     {
       "id": "figure-out",
@@ -880,6 +880,17 @@
       "exampleJa": "買い物リストを忘れずに持ってきたら、もう大事な部分はクリアだね！",
       "postId": "p47-extra-094",
       "author": "Wise Owl"
+    },
+    {
+      "id": "hair-own-plans",
+      "term": "my hair had its own plans",
+      "kind": "表現",
+      "meaning": "髪が風で勝手に動いて、思いどおりにならなかった",
+      "note": "髪に「自分の予定がある」と言う擬人化のユーモア。決まった慣用句ではありません。have my own plans は普通「自分の予定がある」という意味です。",
+      "example": "The seaside path was windy. My hair had its own plans.",
+      "exampleJa": "海沿いの道は風が強かった。髪が勝手に好き放題していた。",
+      "postId": "p47-extra-073",
+      "author": "Mika Reed"
     }
   ]
 }

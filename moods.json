@@ -1,5 +1,5 @@
 {
-  "version": "4.8",
+  "version": "4.8.2",
   "categories": [
     {
       "label": "Feelings",
@@ -406,24 +406,6 @@
               "author": "Rosie Pan",
               "text": "Rest well!",
               "translation": "ゆっくり休んでね！"
-            }
-          ]
-        },
-        {
-          "id": "hungry-more",
-          "pickEmoji": "🍙",
-          "en": "I'm hungry!",
-          "ja": "お腹すいた！",
-          "replies": [
-            {
-              "author": "Rosie Pan",
-              "text": "What would you like to eat?",
-              "translation": "何を食べたい？"
-            },
-            {
-              "author": "Coffee Goblin",
-              "text": "Time for a snack?",
-              "translation": "おやつの時間？"
             }
           ]
         },
