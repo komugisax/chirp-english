@@ -71,6 +71,11 @@ html{scroll-behavior:auto}
 #main .replies .actions{display:flex}
 @media(max-width:360px){#main article.post>.actions{gap:4px}#main article.post>.actions .action{padding:7px 3px;font-size:11px}}
 
+/* v4.8.3 layout hotfix: four post actions share one row on narrow screens. */
+#main article.post>.actions{grid-template-columns:repeat(4,minmax(0,1fr));gap:4px}
+#main article.post>.actions .action{min-width:0;padding:8px 2px;gap:3px;font-size:11px;overflow:hidden}
+#main article.post>.actions .action .sym{font-size:16px}
+@media(max-width:390px){#main article.post>.actions .action{font-size:10px;gap:2px;padding:8px 1px}}
 /* v4.5: consistent vector navigation and deliberately limited flower accents */
 :root{--flower:#667C3E;--flower-ink:#fff;--flower-action-ink:#667C3E;--body-plus:0px}
 .nav-icon{display:block;width:22px;height:22px}.tabs button b{display:grid;place-items:center;height:23px}
