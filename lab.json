@@ -1,5 +1,5 @@
 {
-  "version": "4.8.2",
+  "version": "4.8.3",
   "entries": [
     {
       "id": "figure-out",
@@ -891,6 +891,17 @@
       "exampleJa": "海沿いの道は風が強かった。髪が勝手に好き放題していた。",
       "postId": "p47-extra-073",
       "author": "Mika Reed"
+    },
+    {
+      "id": "wear-out",
+      "term": "wearing out",
+      "kind": "熟語",
+      "meaning": "すり減ってきている・傷んできている",
+      "note": "wear out は「使ってすり減る／使い古す」、wearing out はその進行形です。人について I am worn out. と言うと「クタクタだ」という意味になります。",
+      "example": "The folded corners are already wearing out.",
+      "exampleJa": "折り目の角がもう傷み始めている。",
+      "postId": "p47-extra-044",
+      "author": "Lily Pop"
     }
   ]
 }

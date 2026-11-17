@@ -1,5 +1,5 @@
 {
-  "version": "4.7",
+  "version": "4.8.3",
   "intro": {
     "id": "welcome",
     "choices": [
@@ -618,6 +618,93 @@
         }
       ],
       "requires": "rosie_dm_followup"
+    },
+    {
+      "id": "mika_like_dm_483",
+      "author": "Mika Reed",
+      "minFriendship": 6,
+      "prompt": "I noticed you like my music posts. What kind of music do you enjoy?",
+      "translation": "音楽の投稿を気に入ってくれてるんだね。どんな音楽が好き？",
+      "easyPrompt": "What music do you like?",
+      "choices": [
+        {
+          "en": "I like jazz.",
+          "ja": "ジャズが好き。",
+          "answer": "Me too! I love a good saxophone solo.",
+          "answerJa": "私も！素敵なサックスソロが大好き。",
+          "easyEn": "I like jazz.",
+          "easyAnswer": "Me too! I love jazz."
+        },
+        {
+          "en": "I like pop music.",
+          "ja": "ポップスが好き。",
+          "answer": "Pop songs have great melodies!",
+          "answerJa": "ポップスはメロディーが素敵だよね！",
+          "easyEn": "I like pop.",
+          "easyAnswer": "That sounds fun!"
+        }
+      ],
+      "kind": "dm",
+      "minSeen": 0,
+      "minTalk": 0
+    },
+    {
+      "id": "rosie_like_dm_483",
+      "author": "Rosie Pan",
+      "minFriendship": 6,
+      "prompt": "Thank you for cheering on my cooking ideas! What should I make next?",
+      "translation": "料理のアイデアを応援してくれてありがとう！次は何を作ろうかな？",
+      "easyPrompt": "What should I cook?",
+      "choices": [
+        {
+          "en": "How about soup?",
+          "ja": "スープはどう？",
+          "answer": "Good idea! I will try a new soup.",
+          "answerJa": "いいね！新しいスープに挑戦するよ。",
+          "easyEn": "Soup, please!",
+          "easyAnswer": "Good idea!"
+        },
+        {
+          "en": "Maybe pasta!",
+          "ja": "パスタかな！",
+          "answer": "I love pasta. Thanks for the idea!",
+          "answerJa": "パスタ大好き。アイデアありがとう！",
+          "easyEn": "Pasta, please!",
+          "easyAnswer": "I love pasta!"
+        }
+      ],
+      "kind": "dm",
+      "minSeen": 0,
+      "minTalk": 0
+    },
+    {
+      "id": "lily_map_like_dm_483",
+      "kind": "dm",
+      "author": "Lily Pop",
+      "minSeen": 0,
+      "minTalk": 0,
+      "triggerLikePost": "p47-extra-044",
+      "prompt": "You liked my old map post! Do you enjoy traveling?",
+      "translation": "私の古い地図の投稿にいいねしてくれたね！旅行は好き？",
+      "easyPrompt": "Do you like trips?",
+      "choices": [
+        {
+          "en": "Yes, I love trips!",
+          "ja": "うん、旅行大好き！",
+          "answer": "Me too! I always bring a map.",
+          "answerJa": "私も！いつも地図を持っていくよ。",
+          "easyEn": "Yes, I do!",
+          "easyAnswer": "Me too!"
+        },
+        {
+          "en": "I like short trips.",
+          "ja": "短い旅行が好き。",
+          "answer": "A little trip can be wonderful.",
+          "answerJa": "ちょっとした旅も素敵だよね。",
+          "easyEn": "Short trips are nice.",
+          "easyAnswer": "Yes, they are!"
+        }
+      ]
     }
   ]
 }
